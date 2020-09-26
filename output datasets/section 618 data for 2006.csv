@@ -1,0 +1,827 @@
+year,state,disability,total_6to21,aian5,api5,black5,hisp5,white5,total_ethnicity5
+2006,"50 states, D.C. (including BIE schools)",Mental retardation,511041,6530,10758,167357,71956,254440,511041
+2006,"50 states, D.C. (including BIE schools)",Hearing impairments,71589,899,3563,11631,16256,39240,71589
+2006,"50 states, D.C. (including BIE schools)",Speech or language impairments,1144277,15486,36042,176663,200632,715454,1144277
+2006,"50 states, D.C. (including BIE schools)",Visual impairments,25661,350,1085,4409,4630,15187,25661
+2006,"50 states, D.C. (including BIE schools)",Emotional disturbance,457731,7159,5128,131773,50756,262917,457733
+2006,"50 states, D.C. (including BIE schools)",Orthopedic impairments,61329,592,2160,9092,12842,36643,61329
+2006,"50 states, D.C. (including BIE schools)",Other health impairments,595073,7426,8862,103456,58631,416698,595073
+2006,"50 states, D.C. (including BIE schools)",Specific learning disabilities,2654668,46093,45065,544761,563382,1455378,2654679
+2006,"50 states, D.C. (including BIE schools)",Deaf-blindness,1413,27,58,196,263,869,1413
+2006,"50 states, D.C. (including BIE schools)",Multiple disabilities,132846,1807,3593,27778,17576,82092,132846
+2006,"50 states, D.C. (including BIE schools)",Autism,223395,1649,11953,32085,25834,151874,223395
+2006,"50 states, D.C. (including BIE schools)",Traumatic brain injury,23867,386,603,3936,3149,15793,23867
+2006,"50 states, D.C. (including BIE schools)",Developmental delay,83754,3088,2229,18785,8230,51422,83754
+2006,"50 states, D.C. (including BIE schools)",All disabilities,5986644,91492,131099,1231922,1034137,3498007,5986657
+2006,Alabama,Mental retardation,8144,37,23,4424,102,3558,8144
+2006,Alabama,Hearing impairments,948,9,7,395,35,502,948
+2006,Alabama,Speech or language impairments,16144,87,101,5550,273,10133,16144
+2006,Alabama,Visual impairments,454,9,NA,161,NA,276,454
+2006,Alabama,Emotional disturbance,1860,NA,NA,705,16,1129,1860
+2006,Alabama,Orthopedic impairments,620,NA,NA,184,12,417,620
+2006,Alabama,Other health impairments,6129,41,11,1894,64,4119,6129
+2006,Alabama,Specific learning disabilities,40509,282,110,19196,872,20049,40509
+2006,Alabama,Deaf-blindness,NA,0,0,0,0,NA,NA
+2006,Alabama,Multiple disabilities,1386,9,17,564,29,767,1386
+2006,Alabama,Autism,2178,17,20,747,27,1367,2178
+2006,Alabama,Traumatic brain injury,NA,NA,0,90,NA,NA,NA
+2006,Alabama,Developmental delay,2349,11,22,989,50,1277,2349
+2006,Alabama,All disabilities,80987,517,319,34899,1490,43762,80987
+2006,Alaska,Mental retardation,705,272,53,40,32,308,705
+2006,Alaska,Hearing impairments,160,40,17,NA,NA,90,160
+2006,Alaska,Speech or language impairments,2938,1139,162,100,103,1434,2938
+2006,Alaska,Visual impairments,35,8,NA,NA,NA,NA,35
+2006,Alaska,Emotional disturbance,726,218,14,76,22,396,726
+2006,Alaska,Orthopedic impairments,72,19,NA,NA,NA,44,72
+2006,Alaska,Other health impairments,1652,473,58,109,63,949,1652
+2006,Alaska,Specific learning disabilities,7545,2640,281,471,342,3811,7545
+2006,Alaska,Deaf-blindness,10,5,NA,0,0,NA,10
+2006,Alaska,Multiple disabilities,395,153,14,18,7,203,395
+2006,Alaska,Autism,454,62,25,18,26,323,454
+2006,Alaska,Traumatic brain injury,68,19,NA,NA,NA,39,68
+2006,Alaska,Developmental delay,1013,375,48,69,50,471,1013
+2006,Alaska,All disabilities,15773,5423,680,913,662,8095,15773
+2006,American Samoa,Mental retardation,26,NA,NA,0,NA,NA,26
+2006,American Samoa,Hearing impairments,16,0,16,0,0,0,16
+2006,American Samoa,Speech or language impairments,26,NA,NA,0,0,NA,26
+2006,American Samoa,Visual impairments,NA,0,NA,NA,0,0,NA
+2006,American Samoa,Emotional disturbance,0,0,0,0,0,0,0
+2006,American Samoa,Orthopedic impairments,NA,0,NA,0,NA,NA,NA
+2006,American Samoa,Other health impairments,0,NA,0,0,0,0,0
+2006,American Samoa,Specific learning disabilities,957,0,NA,0,0,NA,957
+2006,American Samoa,Deaf-blindness,NA,0,NA,0,0,0,NA
+2006,American Samoa,Multiple disabilities,25,0,25,0,0,0,25
+2006,American Samoa,Autism,NA,0,NA,0,0,0,NA
+2006,American Samoa,Traumatic brain injury,0,0,0,NA,0,0,0
+2006,American Samoa,Developmental delay,0,0,0,0,0,NA,0
+2006,American Samoa,All disabilities,1068,0,1060,0,0,8,1068
+2006,Arizona,Mental retardation,8622,673,136,749,3817,3247,8622
+2006,Arizona,Hearing impairments,1807,151,66,65,788,737,1807
+2006,Arizona,Speech or language impairments,20937,1219,459,987,7839,10433,20937
+2006,Arizona,Visual impairments,585,70,16,29,210,260,585
+2006,Arizona,Emotional disturbance,8137,458,68,847,1677,5087,8137
+2006,Arizona,Orthopedic impairments,641,29,12,35,214,351,641
+2006,Arizona,Other health impairments,5998,231,73,447,1346,3901,5998
+2006,Arizona,Specific learning disabilities,59034,5522,494,3868,25228,23922,59034
+2006,Arizona,Deaf-blindness,74,5,0,5,27,37,74
+2006,Arizona,Multiple disabilities,2324,257,44,140,856,1027,2324
+2006,Arizona,Autism,4001,102,142,235,925,2597,4001
+2006,Arizona,Traumatic brain injury,454,41,6,24,149,234,454
+2006,Arizona,Developmental delay,0,0,0,0,0,0,0
+2006,Arizona,All disabilities,112614,8758,1516,7431,43076,51833,112614
+2006,Arkansas,Mental retardation,8926,49,35,3849,334,4659,8926
+2006,Arkansas,Hearing impairments,575,NA,NA,113,57,387,575
+2006,Arkansas,Speech or language impairments,12090,99,127,2456,650,8758,12090
+2006,Arkansas,Visual impairments,226,NA,NA,48,7,164,226
+2006,Arkansas,Emotional disturbance,786,NA,NA,162,23,590,786
+2006,Arkansas,Orthopedic impairments,190,NA,NA,35,9,142,190
+2006,Arkansas,Other health impairments,8042,51,22,1608,169,6192,8042
+2006,Arkansas,Specific learning disabilities,22568,203,96,5882,1437,14950,22568
+2006,Arkansas,Deaf-blindness,10,0,0,NA,NA,5,10
+2006,Arkansas,Multiple disabilities,1295,7,6,354,53,875,1295
+2006,Arkansas,Autism,1581,13,23,240,45,1260,1581
+2006,Arkansas,Traumatic brain injury,155,NA,NA,NA,NA,112,155
+2006,Arkansas,Developmental delay,0,0,0,0,0,0,0
+2006,Arkansas,All disabilities,56444,442,334,14785,2789,38094,56444
+2006,BIE schools,Mental retardation,370,NA,0,0,0,NA,370
+2006,BIE schools,Hearing impairments,47,47,0,0,0,0,47
+2006,BIE schools,Speech or language impairments,1150,1143,NA,NA,0,NA,1150
+2006,BIE schools,Visual impairments,17,17,0,0,0,0,17
+2006,BIE schools,Emotional disturbance,403,NA,0,NA,0,0,405
+2006,BIE schools,Orthopedic impairments,NA,NA,0,0,0,0,NA
+2006,BIE schools,Other health impairments,360,354,0,NA,0,NA,360
+2006,BIE schools,Specific learning disabilities,3831,3815,NA,NA,0,15,3842
+2006,BIE schools,Deaf-blindness,NA,NA,0,0,0,0,NA
+2006,BIE schools,Multiple disabilities,150,150,0,0,0,0,150
+2006,BIE schools,Autism,50,NA,0,0,0,NA,50
+2006,BIE schools,Traumatic brain injury,25,NA,NA,0,0,0,25
+2006,BIE schools,Developmental delay,270,270,0,0,0,0,270
+2006,BIE schools,All disabilities,6684,6651,NA,NA,0,23,6697
+2006,California,Mental retardation,38421,334,3259,4670,19702,10456,38421
+2006,California,Hearing impairments,9937,67,1051,776,4943,3100,9937
+2006,California,Speech or language impairments,133563,1131,12567,9456,61200,49209,133563
+2006,California,Visual impairments,3858,23,412,366,1601,1456,3858
+2006,California,Emotional disturbance,26984,351,812,6006,6628,13187,26984
+2006,California,Orthopedic impairments,12622,77,1089,1073,5770,4613,12622
+2006,California,Other health impairments,39749,422,1638,4858,11880,20951,39749
+2006,California,Specific learning disabilities,303042,2759,11255,41629,163305,84094,303042
+2006,California,Deaf-blindness,156,NA,15,NA,65,63,156
+2006,California,Multiple disabilities,4591,30,501,517,1939,1604,4591
+2006,California,Autism,31077,186,4645,2736,8802,14708,31077
+2006,California,Traumatic brain injury,1685,NA,136,NA,749,577,1685
+2006,California,Developmental delay,0,0,0,0,0,0,0
+2006,California,All disabilities,605685,5399,37380,72304,286584,204018,605685
+2006,Colorado,Mental retardation,3390,50,58,419,1224,1639,3390
+2006,Colorado,Hearing impairments,1350,20,42,81,434,773,1350
+2006,Colorado,Speech or language impairments,15285,266,393,1081,4472,9073,15285
+2006,Colorado,Visual impairments,308,NA,NA,23,83,184,308
+2006,Colorado,Emotional disturbance,8129,172,76,1010,1606,5265,8129
+2006,Colorado,Orthopedic impairments,9088,132,123,670,1708,6455,9088
+2006,Colorado,Other health impairments,0,0,0,0,0,0,0
+2006,Colorado,Specific learning disabilities,29996,569,350,2401,9878,16798,29996
+2006,Colorado,Deaf-blindness,33,0,NA,NA,10,18,33
+2006,Colorado,Multiple disabilities,3009,31,82,214,786,1896,3009
+2006,Colorado,Autism,1642,12,55,91,207,1277,1642
+2006,Colorado,Traumatic brain injury,390,NA,10,NA,96,251,390
+2006,Colorado,Developmental delay,0,0,0,0,0,0,0
+2006,Colorado,All disabilities,72620,1267,1205,6015,20504,43629,72620
+2006,Connecticut,Mental retardation,2782,10,53,602,613,1504,2782
+2006,Connecticut,Hearing impairments,714,NA,NA,100,151,420,714
+2006,Connecticut,Speech or language impairments,12319,49,318,1888,2370,7694,12319
+2006,Connecticut,Visual impairments,247,NA,NA,48,46,146,247
+2006,Connecticut,Emotional disturbance,5857,47,44,1255,1250,3261,5857
+2006,Connecticut,Orthopedic impairments,374,NA,NA,26,40,300,374
+2006,Connecticut,Other health impairments,11095,57,102,1436,1544,7956,11095
+2006,Connecticut,Specific learning disabilities,22960,106,209,3834,4754,14057,22960
+2006,Connecticut,Deaf-blindness,53,0,NA,NA,5,42,53
+2006,Connecticut,Multiple disabilities,2316,8,61,421,431,1395,2316
+2006,Connecticut,Autism,3361,12,126,443,296,2484,3361
+2006,Connecticut,Traumatic brain injury,114,0,NA,NA,24,72,114
+2006,Connecticut,Developmental delay,102,NA,NA,16,41,42,102
+2006,Connecticut,All disabilities,62294,295,975,10086,11565,39373,62294
+2006,Delaware,Mental retardation,2000,NA,NA,1071,156,751,2000
+2006,Delaware,Hearing impairments,271,0,11,73,35,152,271
+2006,Delaware,Speech or language impairments,1724,NA,NA,381,104,1200,1724
+2006,Delaware,Visual impairments,45,0,NA,13,NA,29,45
+2006,Delaware,Emotional disturbance,876,NA,NA,365,47,452,876
+2006,Delaware,Orthopedic impairments,427,NA,NA,121,35,263,427
+2006,Delaware,Other health impairments,1860,NA,NA,592,96,1158,1860
+2006,Delaware,Specific learning disabilities,9297,26,64,3950,965,4292,9297
+2006,Delaware,Deaf-blindness,45,0,NA,13,NA,24,45
+2006,Delaware,Multiple disabilities,0,0,0,0,0,0,0
+2006,Delaware,Autism,576,NA,NA,148,17,395,576
+2006,Delaware,Traumatic brain injury,32,0,NA,12,NA,16,32
+2006,Delaware,Developmental delay,0,0,0,0,0,0,0
+2006,Delaware,All disabilities,17153,NA,NA,6739,1467,8732,17153
+2006,District of Columbia,Mental retardation,1201,0,0,1155,NA,NA,1201
+2006,District of Columbia,Hearing impairments,53,0,0,42,NA,NA,53
+2006,District of Columbia,Speech or language impairments,872,0,NA,750,61,NA,872
+2006,District of Columbia,Visual impairments,23,0,0,NA,NA,0,23
+2006,District of Columbia,Emotional disturbance,1580,0,NA,1534,28,NA,1580
+2006,District of Columbia,Orthopedic impairments,NA,0,0,NA,NA,0,NA
+2006,District of Columbia,Other health impairments,461,0,NA,400,NA,NA,461
+2006,District of Columbia,Specific learning disabilities,4987,NA,NA,4440,355,173,4987
+2006,District of Columbia,Deaf-blindness,NA,0,0,NA,0,0,NA
+2006,District of Columbia,Multiple disabilities,774,0,5,696,43,30,774
+2006,District of Columbia,Autism,219,0,NA,182,NA,NA,219
+2006,District of Columbia,Traumatic brain injury,NA,0,0,NA,0,0,NA
+2006,District of Columbia,Developmental delay,130,0,NA,120,NA,6,130
+2006,District of Columbia,All disabilities,10359,NA,NA,9394,588,340,10359
+2006,Florida,Mental retardation,35323,65,392,16101,6269,12496,35323
+2006,Florida,Hearing impairments,3653,7,78,884,986,1698,3653
+2006,Florida,Speech or language impairments,79695,239,1406,19426,14412,44212,79695
+2006,Florida,Visual impairments,1137,NA,NA,247,226,636,1137
+2006,Florida,Emotional disturbance,33295,90,61,13551,4275,15318,33295
+2006,Florida,Orthopedic impairments,3899,10,66,827,775,2221,3899
+2006,Florida,Other health impairments,20940,72,146,4109,3910,12703,20940
+2006,Florida,Specific learning disabilities,176939,510,1223,43818,43449,87939,176939
+2006,Florida,Deaf-blindness,62,0,NA,NA,15,34,62
+2006,Florida,Multiple disabilities,0,0,0,0,0,0,0
+2006,Florida,Autism,9101,27,267,1769,2239,4799,9101
+2006,Florida,Traumatic brain injury,601,NA,NA,NA,110,306,601
+2006,Florida,Developmental delay,0,0,0,0,0,0,0
+2006,Florida,All disabilities,364645,1026,3670,100921,76666,182362,364645
+2006,Georgia,Mental retardation,24110,20,246,14650,1309,7885,24110
+2006,Georgia,Hearing impairments,1631,NA,NA,603,207,771,1631
+2006,Georgia,Speech or language impairments,35348,51,735,11488,2863,20211,35348
+2006,Georgia,Visual impairments,647,NA,NA,223,33,370,647
+2006,Georgia,Emotional disturbance,22287,40,93,10920,533,10701,22287
+2006,Georgia,Orthopedic impairments,1016,NA,NA,308,63,620,1016
+2006,Georgia,Other health impairments,26030,46,172,8467,908,16437,26030
+2006,Georgia,Specific learning disabilities,54387,78,535,20916,5323,27535,54387
+2006,Georgia,Deaf-blindness,22,0,NA,5,NA,10,22
+2006,Georgia,Multiple disabilities,0,0,0,0,0,0,0
+2006,Georgia,Autism,6815,5,209,2339,303,3959,6815
+2006,Georgia,Traumatic brain injury,471,NA,NA,195,NA,241,471
+2006,Georgia,Developmental delay,3636,NA,NA,1599,272,1703,3636
+2006,Georgia,All disabilities,176400,250,2146,71713,11848,90443,176400
+2006,Guam,Mental retardation,83,0,80,NA,NA,0,83
+2006,Guam,Hearing impairments,48,0,48,0,0,0,48
+2006,Guam,Speech or language impairments,220,0,215,0,0,5,220
+2006,Guam,Visual impairments,11,0,11,0,0,0,11
+2006,Guam,Emotional disturbance,83,0,NA,0,0,NA,83
+2006,Guam,Orthopedic impairments,31,0,NA,NA,0,0,31
+2006,Guam,Other health impairments,122,0,NA,0,0,NA,122
+2006,Guam,Specific learning disabilities,1503,NA,1482,NA,NA,16,1503
+2006,Guam,Deaf-blindness,NA,0,NA,0,0,0,NA
+2006,Guam,Multiple disabilities,55,0,53,0,NA,NA,55
+2006,Guam,Autism,60,0,NA,0,0,NA,60
+2006,Guam,Traumatic brain injury,NA,0,NA,0,0,0,NA
+2006,Guam,Developmental delay,7,0,NA,0,0,0,7
+2006,Guam,All disabilities,2228,NA,2191,NA,6,27,2228
+2006,Hawaii,Mental retardation,1505,NA,1302,NA,41,136,1505
+2006,Hawaii,Hearing impairments,317,NA,274,NA,NA,NA,317
+2006,Hawaii,Speech or language impairments,775,NA,508,NA,38,194,775
+2006,Hawaii,Visual impairments,67,NA,NA,NA,NA,14,67
+2006,Hawaii,Emotional disturbance,2004,NA,1497,53,71,NA,2004
+2006,Hawaii,Orthopedic impairments,76,0,56,NA,0,NA,76
+2006,Hawaii,Other health impairments,2520,24,1799,91,87,519,2520
+2006,Hawaii,Specific learning disabilities,9061,59,7152,226,353,1271,9061
+2006,Hawaii,Deaf-blindness,NA,0,NA,0,0,0,NA
+2006,Hawaii,Multiple disabilities,348,NA,282,NA,10,47,348
+2006,Hawaii,Autism,859,6,576,17,29,231,859
+2006,Hawaii,Traumatic brain injury,NA,NA,56,0,0,NA,NA
+2006,Hawaii,Developmental delay,1038,9,823,41,34,131,1038
+2006,Hawaii,All disabilities,18640,136,14378,492,669,2965,18640
+2006,Idaho,Mental retardation,1787,38,21,25,299,1404,1787
+2006,Idaho,Hearing impairments,247,NA,5,NA,35,201,247
+2006,Idaho,Speech or language impairments,5054,64,65,58,730,4137,5054
+2006,Idaho,Visual impairments,96,NA,NA,NA,NA,NA,96
+2006,Idaho,Emotional disturbance,1377,32,5,30,78,1232,1377
+2006,Idaho,Orthopedic impairments,102,NA,0,NA,13,85,102
+2006,Idaho,Other health impairments,2307,56,22,42,152,2035,2307
+2006,Idaho,Specific learning disabilities,10447,268,60,136,1714,8269,10447
+2006,Idaho,Deaf-blindness,8,0,0,0,NA,NA,8
+2006,Idaho,Multiple disabilities,490,NA,NA,9,57,415,490
+2006,Idaho,Autism,993,16,16,12,52,897,993
+2006,Idaho,Traumatic brain injury,136,6,NA,NA,17,108,136
+2006,Idaho,Developmental delay,1506,35,15,18,260,1178,1506
+2006,Idaho,All disabilities,24550,528,214,340,3419,20049,24550
+2006,Illinois,Mental retardation,25605,40,478,10635,3859,10593,25605
+2006,Illinois,Hearing impairments,3659,5,131,672,762,2089,3659
+2006,Illinois,Speech or language impairments,53266,108,1323,8022,7942,35871,53266
+2006,Illinois,Visual impairments,1026,NA,NA,208,160,617,1026
+2006,Illinois,Emotional disturbance,28027,51,219,9925,2664,15168,28027
+2006,Illinois,Orthopedic impairments,2062,NA,NA,424,362,1227,2062
+2006,Illinois,Other health impairments,23604,40,230,3130,1546,18658,23604
+2006,Illinois,Specific learning disabilities,140848,220,1498,34283,27355,77492,140848
+2006,Illinois,Deaf-blindness,27,NA,0,5,NA,20,27
+2006,Illinois,Multiple disabilities,1255,NA,NA,198,169,857,1255
+2006,Illinois,Autism,9398,15,428,1623,941,6391,9398
+2006,Illinois,Traumatic brain injury,834,NA,NA,274,NA,412,834
+2006,Illinois,Developmental delay,0,0,0,0,0,0,0
+2006,Illinois,All disabilities,289611,490,4430,69399,45897,169395,289611
+2006,Indiana,Mental retardation,20487,32,72,5427,914,14042,20487
+2006,Indiana,Hearing impairments,2028,5,40,205,99,1679,2028
+2006,Indiana,Speech or language impairments,38289,72,301,3231,1524,33161,38289
+2006,Indiana,Visual impairments,844,NA,NA,104,39,691,844
+2006,Indiana,Emotional disturbance,14761,47,22,2730,265,11697,14761
+2006,Indiana,Orthopedic impairments,1498,0,22,109,58,1309,1498
+2006,Indiana,Other health impairments,9840,27,31,860,158,8764,9840
+2006,Indiana,Specific learning disabilities,62187,127,195,7678,2783,51404,62187
+2006,Indiana,Deaf-blindness,23,0,0,NA,0,NA,23
+2006,Indiana,Multiple disabilities,1781,NA,NA,174,67,1523,1781
+2006,Indiana,Autism,7391,11,70,648,178,6484,7391
+2006,Indiana,Traumatic brain injury,550,NA,NA,NA,23,NA,550
+2006,Indiana,Developmental delay,0,0,0,0,0,0,0
+2006,Indiana,All disabilities,159679,326,777,21234,6108,131234,159679
+2006,Iowa,Mental retardation,10968,67,101,956,621,9223,10968
+2006,Iowa,Hearing impairments,715,5,7,62,40,601,715
+2006,Iowa,Speech or language impairments,6904,43,63,603,391,5804,6904
+2006,Iowa,Visual impairments,NA,NA,NA,14,9,NA,NA
+2006,Iowa,Emotional disturbance,6513,40,59,568,369,5477,6513
+2006,Iowa,Orthopedic impairments,748,5,7,65,42,629,748
+2006,Iowa,Other health impairments,551,NA,NA,48,31,464,551
+2006,Iowa,Specific learning disabilities,36972,227,338,3223,2098,31086,36972
+2006,Iowa,Deaf-blindness,NA,0,0,0,0,NA,NA
+2006,Iowa,Multiple disabilities,371,NA,NA,33,21,312,371
+2006,Iowa,Autism,1102,7,10,96,63,926,1102
+2006,Iowa,Traumatic brain injury,191,NA,NA,17,11,160,191
+2006,Iowa,Developmental delay,0,0,0,0,0,0,0
+2006,Iowa,All disabilities,65195,401,597,5685,3696,54816,65195
+2006,Kansas,Mental retardation,4364,68,43,952,465,2836,4364
+2006,Kansas,Hearing impairments,547,9,14,46,82,396,547
+2006,Kansas,Speech or language impairments,9338,138,170,691,858,7481,9338
+2006,Kansas,Visual impairments,187,NA,NA,29,27,124,187
+2006,Kansas,Emotional disturbance,3365,63,17,565,216,2504,3365
+2006,Kansas,Orthopedic impairments,321,NA,0,NA,33,257,321
+2006,Kansas,Other health impairments,7048,105,42,760,399,5742,7048
+2006,Kansas,Specific learning disabilities,23785,456,245,2897,2999,17188,23785
+2006,Kansas,Deaf-blindness,12,0,NA,NA,NA,7,12
+2006,Kansas,Multiple disabilities,2128,35,23,245,165,1660,2128
+2006,Kansas,Autism,1510,18,47,151,106,1188,1510
+2006,Kansas,Traumatic brain injury,209,NA,NA,24,NA,159,209
+2006,Kansas,Developmental delay,3493,49,48,345,439,2612,3493
+2006,Kansas,All disabilities,56307,958,658,6728,5809,42154,56307
+2006,Kentucky,Mental retardation,17383,14,35,2581,184,14569,17383
+2006,Kentucky,Hearing impairments,588,NA,NA,54,20,504,588
+2006,Kentucky,Speech or language impairments,20121,23,103,1779,357,17859,20121
+2006,Kentucky,Visual impairments,450,NA,0,32,NA,415,450
+2006,Kentucky,Emotional disturbance,5788,13,8,1411,49,4307,5788
+2006,Kentucky,Orthopedic impairments,448,0,9,43,7,389,448
+2006,Kentucky,Other health impairments,14185,21,25,1744,123,12272,14185
+2006,Kentucky,Specific learning disabilities,14408,22,35,1519,316,12516,14408
+2006,Kentucky,Deaf-blindness,12,0,0,NA,0,NA,12
+2006,Kentucky,Multiple disabilities,3865,7,12,388,39,3419,3865
+2006,Kentucky,Autism,2068,NA,28,241,NA,1773,2068
+2006,Kentucky,Traumatic brain injury,235,0,NA,NA,NA,NA,235
+2006,Kentucky,Developmental delay,8796,8,35,1233,154,7366,8796
+2006,Kentucky,All disabilities,88347,114,302,11056,1276,75599,88347
+2006,Louisiana,Mental retardation,8524,48,27,5644,56,2749,8524
+2006,Louisiana,Hearing impairments,1117,14,14,444,33,612,1117
+2006,Louisiana,Speech or language impairments,19227,157,154,7025,357,11534,19227
+2006,Louisiana,Visual impairments,403,NA,5,163,NA,228,403
+2006,Louisiana,Emotional disturbance,2865,NA,NA,1732,26,1088,2865
+2006,Louisiana,Orthopedic impairments,1042,14,10,374,13,631,1042
+2006,Louisiana,Other health impairments,9291,45,25,3309,97,5815,9291
+2006,Louisiana,Specific learning disabilities,27919,276,67,15708,357,11511,27919
+2006,Louisiana,Deaf-blindness,7,0,0,NA,NA,5,7
+2006,Louisiana,Multiple disabilities,936,9,11,383,17,516,936
+2006,Louisiana,Autism,1964,NA,38,790,NA,1112,1964
+2006,Louisiana,Traumatic brain injury,250,NA,NA,NA,NA,124,250
+2006,Louisiana,Developmental delay,5374,63,24,2799,68,2420,5374
+2006,Louisiana,All disabilities,78919,649,380,38491,1054,38345,78919
+2006,Maine,Mental retardation,824,NA,NA,20,NA,787,824
+2006,Maine,Hearing impairments,247,0,NA,7,NA,234,247
+2006,Maine,Speech or language impairments,6871,64,114,130,86,6477,6871
+2006,Maine,Visual impairments,82,NA,NA,NA,NA,74,82
+2006,Maine,Emotional disturbance,3020,47,10,80,33,2850,3020
+2006,Maine,Orthopedic impairments,53,NA,0,NA,NA,49,53
+2006,Maine,Other health impairments,5144,45,35,117,60,4887,5144
+2006,Maine,Specific learning disabilities,10642,101,57,209,95,10180,10642
+2006,Maine,Deaf-blindness,9,0,0,0,0,9,9
+2006,Maine,Multiple disabilities,3064,26,20,67,35,2916,3064
+2006,Maine,Autism,1384,11,17,18,15,1323,1384
+2006,Maine,Traumatic brain injury,79,NA,NA,NA,0,75,79
+2006,Maine,Developmental delay,0,0,0,0,0,0,0
+2006,Maine,All disabilities,31419,305,263,653,337,29861,31419
+2006,Maryland,Mental retardation,5627,14,136,3337,292,1848,5627
+2006,Maryland,Hearing impairments,1094,NA,NA,347,84,599,1094
+2006,Maryland,Speech or language impairments,19446,79,729,6618,1714,10306,19446
+2006,Maryland,Visual impairments,452,NA,NA,203,26,202,452
+2006,Maryland,Emotional disturbance,8806,40,50,4986,245,3485,8806
+2006,Maryland,Orthopedic impairments,397,NA,NA,188,37,159,397
+2006,Maryland,Other health impairments,13284,58,185,5587,548,6906,13284
+2006,Maryland,Specific learning disabilities,34845,131,469,15370,3197,15678,34845
+2006,Maryland,Deaf-blindness,23,0,NA,6,NA,15,23
+2006,Maryland,Multiple disabilities,4758,25,106,1997,216,2414,4758
+2006,Maryland,Autism,5130,12,291,1671,249,2907,5130
+2006,Maryland,Traumatic brain injury,305,NA,NA,133,NA,142,305
+2006,Maryland,Developmental delay,982,6,35,530,100,311,982
+2006,Maryland,All disabilities,95149,372,2107,40973,6725,44972,95149
+2006,Massachusetts,Mental retardation,11757,53,308,2190,3208,5998,11757
+2006,Massachusetts,Hearing impairments,1088,NA,NA,121,188,724,1088
+2006,Massachusetts,Speech or language impairments,22292,87,903,2064,3764,15474,22292
+2006,Massachusetts,Visual impairments,499,0,NA,NA,66,355,499
+2006,Massachusetts,Emotional disturbance,13730,61,195,2094,2474,8906,13730
+2006,Massachusetts,Orthopedic impairments,1277,NA,NA,119,125,987,1277
+2006,Massachusetts,Other health impairments,9269,31,119,545,921,7653,9269
+2006,Massachusetts,Specific learning disabilities,63974,237,1137,7002,10368,45230,63974
+2006,Massachusetts,Deaf-blindness,209,0,NA,NA,47,115,209
+2006,Massachusetts,Multiple disabilities,4857,16,147,439,667,3588,4857
+2006,Massachusetts,Autism,5966,10,257,385,415,4899,5966
+2006,Massachusetts,Traumatic brain injury,5404,23,103,284,403,4591,5404
+2006,Massachusetts,Developmental delay,9824,36,246,853,1568,7121,9824
+2006,Massachusetts,All disabilities,150146,567,3538,16186,24214,105641,150146
+2006,Michigan,Mental retardation,23999,207,288,8998,850,13656,23999
+2006,Michigan,Hearing impairments,2885,19,84,597,154,2031,2885
+2006,Michigan,Speech or language impairments,43886,425,839,7691,1706,33225,43886
+2006,Michigan,Visual impairments,818,NA,NA,166,36,589,818
+2006,Michigan,Emotional disturbance,18022,224,101,4115,423,13159,18022
+2006,Michigan,Orthopedic impairments,3525,22,60,1069,123,2251,3525
+2006,Michigan,Other health impairments,17450,204,155,2055,449,14587,17450
+2006,Michigan,Specific learning disabilities,92486,1069,779,21683,4532,64423,92486
+2006,Michigan,Deaf-blindness,7,0,0,0,0,7,7
+2006,Michigan,Multiple disabilities,3015,27,79,644,127,2138,3015
+2006,Michigan,Autism,9723,81,215,1365,196,7866,9723
+2006,Michigan,Traumatic brain injury,578,NA,NA,120,23,425,578
+2006,Michigan,Developmental delay,1279,NA,NA,298,80,866,1279
+2006,Michigan,All disabilities,217673,2303,2647,48801,8699,155223,217673
+2006,Minnesota,Mental retardation,9098,326,350,1290,477,6655,9098
+2006,Minnesota,Hearing impairments,2029,36,217,180,139,1457,2029
+2006,Minnesota,Speech or language impairments,16603,432,830,1228,888,13225,16603
+2006,Minnesota,Visual impairments,338,NA,NA,NA,20,255,338
+2006,Minnesota,Emotional disturbance,16706,1041,199,3622,703,11141,16706
+2006,Minnesota,Orthopedic impairments,1549,30,73,90,74,1282,1549
+2006,Minnesota,Other health impairments,13441,452,209,1347,526,10907,13441
+2006,Minnesota,Specific learning disabilities,32385,1063,1465,4469,2620,22768,32385
+2006,Minnesota,Deaf-blindness,55,NA,NA,NA,5,43,55
+2006,Minnesota,Multiple disabilities,633,14,27,66,42,484,633
+2006,Minnesota,Autism,8613,117,298,494,264,7440,8613
+2006,Minnesota,Traumatic brain injury,456,18,27,60,21,330,456
+2006,Minnesota,Developmental delay,2029,88,74,224,193,1450,2029
+2006,Minnesota,All disabilities,103935,3625,3796,13105,5972,77437,103935
+2006,Mississippi,Mental retardation,4401,NA,NA,3144,28,1206,4401
+2006,Mississippi,Hearing impairments,562,NA,NA,281,10,267,562
+2006,Mississippi,Speech or language impairments,15197,15,82,5801,135,9164,15197
+2006,Mississippi,Visual impairments,289,NA,NA,152,NA,132,289
+2006,Mississippi,Emotional disturbance,1607,NA,NA,734,18,844,1607
+2006,Mississippi,Orthopedic impairments,488,0,5,227,5,251,488
+2006,Mississippi,Other health impairments,4793,12,11,2139,37,2594,4793
+2006,Mississippi,Specific learning disabilities,27704,61,49,17033,242,10319,27704
+2006,Mississippi,Deaf-blindness,11,0,0,NA,0,NA,11
+2006,Mississippi,Multiple disabilities,606,0,NA,321,NA,277,606
+2006,Mississippi,Autism,880,NA,NA,424,11,434,880
+2006,Mississippi,Traumatic brain injury,173,0,NA,NA,NA,NA,173
+2006,Mississippi,Developmental delay,2449,8,8,1397,25,1011,2449
+2006,Mississippi,All disabilities,59160,112,194,31745,520,26589,59160
+2006,Missouri,Mental retardation,11472,44,88,3723,227,7390,11472
+2006,Missouri,Hearing impairments,1307,NA,NA,232,54,991,1307
+2006,Missouri,Speech or language impairments,33655,95,355,4809,733,27663,33655
+2006,Missouri,Visual impairments,469,NA,NA,85,12,363,469
+2006,Missouri,Emotional disturbance,8170,30,22,2637,113,5368,8170
+2006,Missouri,Orthopedic impairments,571,0,NA,NA,11,474,571
+2006,Missouri,Other health impairments,15515,59,62,2526,192,12676,15515
+2006,Missouri,Specific learning disabilities,48041,182,211,11285,1096,35267,48041
+2006,Missouri,Deaf-blindness,14,0,NA,NA,NA,11,14
+2006,Missouri,Multiple disabilities,1401,9,19,360,25,988,1401
+2006,Missouri,Autism,4381,16,88,657,84,3536,4381
+2006,Missouri,Traumatic brain injury,461,NA,NA,101,NA,344,461
+2006,Missouri,Developmental delay,534,NA,NA,97,15,411,534
+2006,Missouri,All disabilities,125991,443,901,26593,2572,95482,125991
+2006,Montana,Mental retardation,1001,170,9,15,38,769,1001
+2006,Montana,Hearing impairments,160,12,NA,NA,8,134,160
+2006,Montana,Speech or language impairments,3377,486,43,42,83,2723,3377
+2006,Montana,Visual impairments,NA,8,NA,NA,NA,NA,NA
+2006,Montana,Emotional disturbance,948,138,7,22,28,753,948
+2006,Montana,Orthopedic impairments,65,8,0,NA,NA,52,65
+2006,Montana,Other health impairments,1682,152,NA,NA,35,1460,1682
+2006,Montana,Specific learning disabilities,8368,1477,42,96,240,6513,8368
+2006,Montana,Deaf-blindness,NA,0,0,0,0,NA,NA
+2006,Montana,Multiple disabilities,574,63,7,6,16,482,574
+2006,Montana,Autism,314,18,NA,NA,NA,285,314
+2006,Montana,Traumatic brain injury,68,12,0,NA,NA,52,68
+2006,Montana,Developmental delay,0,0,0,0,0,0,0
+2006,Montana,All disabilities,16616,2544,126,219,459,13268,16616
+2006,Nebraska,Mental retardation,4978,135,44,580,575,3644,4978
+2006,Nebraska,Hearing impairments,588,6,15,43,68,456,588
+2006,Nebraska,Speech or language impairments,9875,163,168,631,1091,7822,9875
+2006,Nebraska,Visual impairments,205,NA,NA,8,13,175,205
+2006,Nebraska,Emotional disturbance,2230,100,13,425,102,1590,2230
+2006,Nebraska,Orthopedic impairments,356,NA,NA,25,17,303,356
+2006,Nebraska,Other health impairments,4793,91,32,494,256,3920,4793
+2006,Nebraska,Specific learning disabilities,14291,426,120,1195,1716,10834,14291
+2006,Nebraska,Deaf-blindness,9,0,NA,0,0,NA,9
+2006,Nebraska,Multiple disabilities,354,NA,NA,26,28,293,354
+2006,Nebraska,Autism,1023,11,27,60,55,870,1023
+2006,Nebraska,Traumatic brain injury,208,NA,NA,16,19,NA,208
+2006,Nebraska,Developmental delay,1037,41,11,42,120,823,1037
+2006,Nebraska,All disabilities,39947,988,451,3545,4060,30903,39947
+2006,Nevada,Mental retardation,1936,38,128,350,649,771,1936
+2006,Nevada,Hearing impairments,524,10,44,44,197,229,524
+2006,Nevada,Speech or language impairments,6774,151,381,613,1922,3707,6774
+2006,Nevada,Visual impairments,161,0,8,NA,NA,80,161
+2006,Nevada,Emotional disturbance,2044,40,44,464,245,1251,2044
+2006,Nevada,Orthopedic impairments,322,NA,NA,34,96,174,322
+2006,Nevada,Other health impairments,2815,54,71,370,421,1899,2815
+2006,Nevada,Specific learning disabilities,25203,693,735,4497,8397,10881,25203
+2006,Nevada,Deaf-blindness,10,NA,NA,NA,NA,5,10
+2006,Nevada,Multiple disabilities,931,19,60,140,281,431,931
+2006,Nevada,Autism,1638,20,148,185,310,975,1638
+2006,Nevada,Traumatic brain injury,203,8,7,28,62,98,203
+2006,Nevada,Developmental delay,0,0,0,0,0,0,0
+2006,Nevada,All disabilities,42561,1037,1642,6748,12633,20501,42561
+2006,New Hampshire,Mental retardation,894,NA,NA,32,31,816,894
+2006,New Hampshire,Hearing impairments,253,NA,NA,5,9,233,253
+2006,New Hampshire,Speech or language impairments,4554,19,59,76,116,4284,4554
+2006,New Hampshire,Visual impairments,101,0,NA,NA,5,92,101
+2006,New Hampshire,Emotional disturbance,2513,9,6,33,42,2423,2513
+2006,New Hampshire,Orthopedic impairments,90,NA,NA,0,NA,85,90
+2006,New Hampshire,Other health impairments,4669,15,13,66,96,4479,4669
+2006,New Hampshire,Specific learning disabilities,12996,53,58,192,379,12314,12996
+2006,New Hampshire,Deaf-blindness,NA,0,0,0,0,NA,NA
+2006,New Hampshire,Multiple disabilities,350,NA,NA,5,14,326,350
+2006,New Hampshire,Autism,922,5,14,7,11,885,922
+2006,New Hampshire,Traumatic brain injury,NA,0,NA,NA,NA,NA,NA
+2006,New Hampshire,Developmental delay,1098,NA,NA,16,32,1037,1098
+2006,New Hampshire,All disabilities,28494,111,184,436,739,27024,28494
+2006,New Jersey,Mental retardation,6008,24,204,2281,1624,1875,6008
+2006,New Jersey,Hearing impairments,1652,NA,NA,268,364,896,1652
+2006,New Jersey,Speech or language impairments,46479,81,2384,5874,7404,30736,46479
+2006,New Jersey,Visual impairments,638,NA,NA,104,92,405,638
+2006,New Jersey,Emotional disturbance,11580,15,134,4186,1776,5469,11580
+2006,New Jersey,Orthopedic impairments,561,NA,NA,61,77,388,561
+2006,New Jersey,Other health impairments,25820,33,525,4378,3341,17543,25820
+2006,New Jersey,Specific learning disabilities,100022,176,1757,21258,19298,57533,100022
+2006,New Jersey,Deaf-blindness,38,0,0,5,9,24,38
+2006,New Jersey,Multiple disabilities,28563,46,796,8670,4851,14200,28563
+2006,New Jersey,Autism,7706,11,622,1077,892,5104,7706
+2006,New Jersey,Traumatic brain injury,1260,NA,NA,428,201,584,1260
+2006,New Jersey,Developmental delay,0,0,0,0,0,0,0
+2006,New Jersey,All disabilities,230327,394,6657,48590,39929,134757,230327
+2006,New Mexico,Mental retardation,1734,219,15,64,991,445,1734
+2006,New Mexico,Hearing impairments,551,78,8,13,312,140,551
+2006,New Mexico,Speech or language impairments,8523,899,82,222,4807,2513,8523
+2006,New Mexico,Visual impairments,177,33,NA,NA,90,52,177
+2006,New Mexico,Emotional disturbance,2420,269,16,109,1085,941,2420
+2006,New Mexico,Orthopedic impairments,190,NA,NA,NA,108,65,190
+2006,New Mexico,Other health impairments,3104,249,12,108,1373,1362,3104
+2006,New Mexico,Specific learning disabilities,20253,2648,100,735,11492,5278,20253
+2006,New Mexico,Deaf-blindness,17,NA,0,NA,9,6,17
+2006,New Mexico,Multiple disabilities,950,175,7,20,448,300,950
+2006,New Mexico,Autism,612,38,15,19,202,338,612
+2006,New Mexico,Traumatic brain injury,190,29,NA,NA,98,60,190
+2006,New Mexico,Developmental delay,2896,386,17,82,1695,716,2896
+2006,New Mexico,All disabilities,41617,5032,276,1383,22710,12216,41617
+2006,New York,Mental retardation,13646,77,514,4475,3193,5387,13646
+2006,New York,Hearing impairments,4848,24,340,954,1308,2222,4848
+2006,New York,Speech or language impairments,76055,377,3127,16523,23441,32587,76055
+2006,New York,Visual impairments,1457,13,80,315,341,708,1457
+2006,New York,Emotional disturbance,38595,308,443,15303,8049,14492,38595
+2006,New York,Orthopedic impairments,2402,13,104,507,486,1292,2402
+2006,New York,Other health impairments,47992,183,724,6945,4620,35520,47992
+2006,New York,Specific learning disabilities,170959,1150,3682,40470,38103,87554,170959
+2006,New York,Deaf-blindness,12,0,NA,NA,0,9,12
+2006,New York,Multiple disabilities,20559,92,600,4091,2917,12859,20559
+2006,New York,Autism,13951,72,639,2601,1922,8717,13951
+2006,New York,Traumatic brain injury,1297,9,NA,NA,148,853,1297
+2006,New York,Developmental delay,0,0,0,0,0,0,0
+2006,New York,All disabilities,391773,2318,10289,92438,84528,202200,391773
+2006,North Carolina,Mental retardation,24043,724,172,13603,1317,8227,24043
+2006,North Carolina,Hearing impairments,2125,25,48,666,249,1137,2125
+2006,North Carolina,Speech or language impairments,29566,644,405,7608,1824,19085,29566
+2006,North Carolina,Visual impairments,652,NA,NA,220,36,385,652
+2006,North Carolina,Emotional disturbance,9120,78,14,5015,182,3831,9120
+2006,North Carolina,Orthopedic impairments,965,10,15,222,60,658,965
+2006,North Carolina,Other health impairments,27260,342,105,8499,676,17638,27260
+2006,North Carolina,Specific learning disabilities,62917,1006,556,20308,5746,35301,62917
+2006,North Carolina,Deaf-blindness,38,NA,0,8,NA,28,38
+2006,North Carolina,Multiple disabilities,1883,27,26,614,120,1096,1883
+2006,North Carolina,Autism,6462,29,119,1950,235,4129,6462
+2006,North Carolina,Traumatic brain injury,499,NA,NA,183,NA,278,499
+2006,North Carolina,Developmental delay,6488,85,79,2825,551,2948,6488
+2006,North Carolina,All disabilities,172018,2975,1553,61721,11028,94741,172018
+2006,North Dakota,Mental retardation,971,116,9,30,25,791,971
+2006,North Dakota,Hearing impairments,108,12,0,NA,NA,90,108
+2006,North Dakota,Speech or language impairments,3311,333,31,58,73,2816,3311
+2006,North Dakota,Visual impairments,39,NA,NA,0,0,34,39
+2006,North Dakota,Emotional disturbance,1086,129,7,42,16,892,1086
+2006,North Dakota,Orthopedic impairments,110,6,NA,NA,NA,101,110
+2006,North Dakota,Other health impairments,1361,118,7,29,15,1192,1361
+2006,North Dakota,Specific learning disabilities,4377,533,NA,NA,106,3652,4377
+2006,North Dakota,Deaf-blindness,12,NA,0,0,0,NA,12
+2006,North Dakota,Multiple disabilities,0,0,0,0,0,0,0
+2006,North Dakota,Autism,335,7,NA,14,NA,304,335
+2006,North Dakota,Traumatic brain injury,31,NA,NA,NA,NA,NA,31
+2006,North Dakota,Developmental delay,517,69,NA,NA,19,413,517
+2006,North Dakota,All disabilities,12258,1332,78,263,267,10318,12258
+2006,Northern Marianas,Mental retardation,66,0,66,0,0,0,66
+2006,Northern Marianas,Hearing impairments,21,0,21,0,0,0,21
+2006,Northern Marianas,Speech or language impairments,45,0,45,0,0,0,45
+2006,Northern Marianas,Visual impairments,10,0,NA,0,0,0,10
+2006,Northern Marianas,Emotional disturbance,NA,0,NA,0,0,0,NA
+2006,Northern Marianas,Orthopedic impairments,6,0,NA,0,0,NA,6
+2006,Northern Marianas,Other health impairments,35,0,NA,0,0,0,35
+2006,Northern Marianas,Specific learning disabilities,418,0,NA,0,0,NA,418
+2006,Northern Marianas,Deaf-blindness,0,0,0,0,0,0,0
+2006,Northern Marianas,Multiple disabilities,22,0,22,0,0,0,22
+2006,Northern Marianas,Autism,40,0,NA,0,0,NA,40
+2006,Northern Marianas,Traumatic brain injury,NA,0,NA,0,0,0,NA
+2006,Northern Marianas,Developmental delay,27,0,NA,NA,0,0,27
+2006,Northern Marianas,All disabilities,698,0,692,NA,0,NA,698
+2006,Ohio,Mental retardation,38374,66,99,12381,817,25011,38374
+2006,Ohio,Hearing impairments,2538,NA,NA,440,75,1995,2538
+2006,Ohio,Speech or language impairments,34407,66,332,4634,712,28663,34407
+2006,Ohio,Visual impairments,1058,0,NA,NA,28,846,1058
+2006,Ohio,Emotional disturbance,18766,40,34,6000,370,12322,18766
+2006,Ohio,Orthopedic impairments,2217,NA,NA,528,53,1607,2217
+2006,Ohio,Other health impairments,21770,31,87,2869,346,18437,21770
+2006,Ohio,Specific learning disabilities,102837,223,443,17678,2627,81866,102837
+2006,Ohio,Deaf-blindness,40,0,NA,NA,0,36,40
+2006,Ohio,Multiple disabilities,13597,14,110,2779,298,10396,13597
+2006,Ohio,Autism,9059,13,130,1093,138,7685,9059
+2006,Ohio,Traumatic brain injury,1015,NA,NA,176,19,807,1015
+2006,Ohio,Developmental delay,0,0,0,0,0,0,0
+2006,Ohio,All disabilities,245678,459,1324,48741,5483,189671,245678
+2006,Oklahoma,Mental retardation,6315,1044,53,1404,447,3367,6315
+2006,Oklahoma,Hearing impairments,846,120,23,89,76,538,846
+2006,Oklahoma,Speech or language impairments,11950,2159,167,1051,761,7812,11950
+2006,Oklahoma,Visual impairments,384,63,9,33,16,263,384
+2006,Oklahoma,Emotional disturbance,5026,766,29,768,164,3299,5026
+2006,Oklahoma,Orthopedic impairments,408,64,NA,34,NA,276,408
+2006,Oklahoma,Other health impairments,8072,1288,60,835,259,5630,8072
+2006,Oklahoma,Specific learning disabilities,45371,8524,356,6489,3446,26556,45371
+2006,Oklahoma,Deaf-blindness,23,6,0,NA,NA,15,23
+2006,Oklahoma,Multiple disabilities,1481,241,20,174,90,956,1481
+2006,Oklahoma,Autism,1598,191,31,161,57,1158,1598
+2006,Oklahoma,Traumatic brain injury,269,55,NA,NA,NA,166,269
+2006,Oklahoma,Developmental delay,6492,1109,66,643,414,4260,6492
+2006,Oklahoma,All disabilities,88235,15630,820,11713,5776,54296,88235
+2006,Oregon,Mental retardation,4193,120,117,247,612,3097,4193
+2006,Oregon,Hearing impairments,812,19,42,27,195,529,812
+2006,Oregon,Speech or language impairments,15956,456,635,623,2758,11484,15956
+2006,Oregon,Visual impairments,302,7,12,10,56,217,302
+2006,Oregon,Emotional disturbance,4662,163,54,317,335,3793,4662
+2006,Oregon,Orthopedic impairments,742,16,37,27,100,562,742
+2006,Oregon,Other health impairments,8122,228,134,468,691,6601,8122
+2006,Oregon,Specific learning disabilities,28992,1024,494,1220,4957,21297,28992
+2006,Oregon,Deaf-blindness,12,0,0,NA,NA,10,12
+2006,Oregon,Multiple disabilities,0,0,0,0,0,0,0
+2006,Oregon,Autism,5459,117,214,138,401,4589,5459
+2006,Oregon,Traumatic brain injury,269,11,5,NA,NA,211,269
+2006,Oregon,Developmental delay,0,0,0,0,0,0,0
+2006,Oregon,All disabilities,69521,2161,1744,3087,10139,52390,69521
+2006,Pennsylvania,Mental retardation,23967,38,220,5813,1676,16220,23967
+2006,Pennsylvania,Hearing impairments,2761,6,72,406,222,2055,2761
+2006,Pennsylvania,Speech or language impairments,39479,56,592,4633,1598,32600,39479
+2006,Pennsylvania,Visual impairments,1163,5,25,208,61,864,1163
+2006,Pennsylvania,Emotional disturbance,25819,59,111,6762,1609,17278,25819
+2006,Pennsylvania,Orthopedic impairments,854,NA,NA,168,78,590,854
+2006,Pennsylvania,Other health impairments,14196,24,103,1688,741,11640,14196
+2006,Pennsylvania,Specific learning disabilities,143318,225,1085,25605,10828,105575,143318
+2006,Pennsylvania,Deaf-blindness,73,0,NA,17,NA,42,73
+2006,Pennsylvania,Multiple disabilities,2756,NA,NA,480,218,1997,2756
+2006,Pennsylvania,Autism,9865,16,244,1238,383,7984,9865
+2006,Pennsylvania,Traumatic brain injury,855,0,9,98,35,713,855
+2006,Pennsylvania,Developmental delay,93,0,NA,18,NA,59,93
+2006,Pennsylvania,All disabilities,265199,434,2544,47134,17470,197617,265199
+2006,Puerto Rico,Mental retardation,11731,NA,NA,NA,11722,5,11731
+2006,Puerto Rico,Hearing impairments,868,0,0,0,NA,NA,868
+2006,Puerto Rico,Speech or language impairments,16167,NA,0,NA,16146,13,16167
+2006,Puerto Rico,Visual impairments,658,0,0,0,NA,0,658
+2006,Puerto Rico,Emotional disturbance,992,0,0,0,NA,NA,992
+2006,Puerto Rico,Orthopedic impairments,496,0,0,NA,NA,0,496
+2006,Puerto Rico,Other health impairments,4181,NA,0,NA,4172,NA,4181
+2006,Puerto Rico,Specific learning disabilities,52295,NA,NA,NA,52223,46,52295
+2006,Puerto Rico,Deaf-blindness,46,0,0,0,46,0,46
+2006,Puerto Rico,Multiple disabilities,1196,0,0,0,1196,0,1196
+2006,Puerto Rico,Autism,1070,0,0,0,NA,NA,1070
+2006,Puerto Rico,Traumatic brain injury,57,0,0,0,57,0,57
+2006,Puerto Rico,Developmental delay,58,0,0,0,NA,0,58
+2006,Puerto Rico,All disabilities,89815,NA,NA,28,89698,75,89815
+2006,Rhode Island,Mental retardation,1182,11,27,149,331,664,1182
+2006,Rhode Island,Hearing impairments,208,0,6,15,37,150,208
+2006,Rhode Island,Speech or language impairments,5174,31,101,329,791,3922,5174
+2006,Rhode Island,Visual impairments,NA,0,NA,NA,NA,NA,NA
+2006,Rhode Island,Emotional disturbance,2917,35,17,443,472,1950,2917
+2006,Rhode Island,Orthopedic impairments,83,NA,NA,5,NA,69,83
+2006,Rhode Island,Other health impairments,4432,43,30,207,336,3816,4432
+2006,Rhode Island,Specific learning disabilities,11835,103,175,1171,2555,7831,11835
+2006,Rhode Island,Deaf-blindness,NA,0,0,0,0,NA,NA
+2006,Rhode Island,Multiple disabilities,282,NA,NA,11,38,225,282
+2006,Rhode Island,Autism,1018,NA,NA,49,54,899,1018
+2006,Rhode Island,Traumatic brain injury,67,0,NA,NA,11,54,67
+2006,Rhode Island,Developmental delay,0,0,0,0,0,0,0
+2006,Rhode Island,All disabilities,27261,231,382,2383,4633,19632,27261
+2006,South Carolina,Mental retardation,11110,26,49,7462,162,3411,11110
+2006,South Carolina,Hearing impairments,1029,0,16,462,46,505,1029
+2006,South Carolina,Speech or language impairments,19708,42,151,7383,561,11571,19708
+2006,South Carolina,Visual impairments,390,NA,NA,142,10,232,390
+2006,South Carolina,Emotional disturbance,4703,7,8,2657,55,1976,4703
+2006,South Carolina,Orthopedic impairments,743,NA,NA,252,21,461,743
+2006,South Carolina,Other health impairments,7507,19,24,2584,100,4780,7507
+2006,South Carolina,Specific learning disabilities,45768,123,146,20684,1450,23365,45768
+2006,South Carolina,Deaf-blindness,NA,0,0,NA,0,NA,NA
+2006,South Carolina,Multiple disabilities,374,0,NA,127,NA,230,374
+2006,South Carolina,Autism,1977,NA,NA,837,48,1058,1977
+2006,South Carolina,Traumatic brain injury,158,0,0,NA,NA,NA,158
+2006,South Carolina,Developmental delay,NA,0,0,NA,0,NA,NA
+2006,South Carolina,All disabilities,93489,224,437,42660,2472,47696,93489
+2006,South Dakota,Mental retardation,1114,202,10,34,35,833,1114
+2006,South Dakota,Hearing impairments,139,20,NA,5,NA,110,139
+2006,South Dakota,Speech or language impairments,3506,557,44,49,68,2788,3506
+2006,South Dakota,Visual impairments,38,NA,NA,NA,NA,30,38
+2006,South Dakota,Emotional disturbance,813,153,NA,29,NA,603,813
+2006,South Dakota,Orthopedic impairments,71,NA,0,NA,0,63,71
+2006,South Dakota,Other health impairments,1390,170,NA,52,NA,1139,1390
+2006,South Dakota,Specific learning disabilities,6608,1340,38,126,201,4903,6608
+2006,South Dakota,Deaf-blindness,NA,0,0,0,0,NA,NA
+2006,South Dakota,Multiple disabilities,904,132,16,45,24,687,904
+2006,South Dakota,Autism,477,38,5,5,12,417,477
+2006,South Dakota,Traumatic brain injury,58,15,0,NA,NA,39,58
+2006,South Dakota,Developmental delay,NA,7,0,NA,NA,NA,NA
+2006,South Dakota,All disabilities,15140,2646,122,352,396,11624,15140
+2006,Tennessee,Mental retardation,10098,9,45,5147,177,4720,10098
+2006,Tennessee,Hearing impairments,1344,NA,NA,371,58,892,1344
+2006,Tennessee,Speech or language impairments,25317,40,198,5039,658,19382,25317
+2006,Tennessee,Visual impairments,676,NA,NA,159,NA,481,676
+2006,Tennessee,Emotional disturbance,3829,9,13,1123,58,2626,3829
+2006,Tennessee,Orthopedic impairments,837,NA,NA,115,31,681,837
+2006,Tennessee,Other health impairments,11623,24,24,2232,138,9205,11623
+2006,Tennessee,Specific learning disabilities,45866,97,161,12974,1287,31347,45866
+2006,Tennessee,Deaf-blindness,NA,0,0,NA,0,NA,NA
+2006,Tennessee,Multiple disabilities,1787,NA,NA,424,42,1305,1787
+2006,Tennessee,Autism,2881,NA,NA,553,76,2200,2881
+2006,Tennessee,Traumatic brain injury,NA,0,NA,NA,NA,NA,NA
+2006,Tennessee,Developmental delay,3767,6,32,1043,129,2557,3767
+2006,Tennessee,All disabilities,108296,195,576,29234,2689,75602,108296
+2006,Texas,Mental retardation,27209,86,511,7721,11390,7501,27209
+2006,Texas,Hearing impairments,6262,20,168,864,3052,2158,6262
+2006,Texas,Speech or language impairments,68986,317,1417,8810,29408,29034,68986
+2006,Texas,Visual impairments,2660,8,75,431,1020,1126,2660
+2006,Texas,Emotional disturbance,35277,209,198,7930,10471,16469,35277
+2006,Texas,Orthopedic impairments,4251,16,95,590,1911,1639,4251
+2006,Texas,Other health impairments,55547,293,565,10036,16045,28608,55547
+2006,Texas,Specific learning disabilities,231900,939,1801,45553,111565,72042,231900
+2006,Texas,Deaf-blindness,82,0,NA,NA,29,41,82
+2006,Texas,Multiple disabilities,4703,18,109,829,1814,1933,4703
+2006,Texas,Autism,16801,80,816,2467,4641,8797,16801
+2006,Texas,Traumatic brain injury,1273,8,NA,NA,458,555,1273
+2006,Texas,Developmental delay,0,0,0,0,0,0,0
+2006,Texas,All disabilities,454951,1994,5774,85476,191804,169903,454951
+2006,U.S. and Outlying Areas,Mental retardation,523240,6531,10927,167600,83729,254453,523240
+2006,U.S. and Outlying Areas,Hearing impairments,72559,899,3648,11644,17126,39242,72559
+2006,U.S. and Outlying Areas,Speech or language impairments,1160904,15487,36327,176783,216819,715488,1160904
+2006,U.S. and Outlying Areas,Visual impairments,26352,350,1110,4414,5291,15187,26352
+2006,U.S. and Outlying Areas,Emotional disturbance,458881,7159,5216,131826,51761,262921,458883
+2006,U.S. and Outlying Areas,Orthopedic impairments,61866,592,2197,9096,13337,36644,61866
+2006,U.S. and Outlying Areas,Other health impairments,599494,7428,9018,103522,62815,416711,599494
+2006,U.S. and Outlying Areas,Specific learning disabilities,2710476,46102,47918,545257,615758,1455452,2710487
+2006,U.S. and Outlying Areas,Deaf-blindness,1472,27,71,196,309,869,1472
+2006,U.S. and Outlying Areas,Multiple disabilities,134189,1807,3693,27815,18777,82097,134189
+2006,U.S. and Outlying Areas,Autism,224594,1649,12050,32109,26904,151882,224594
+2006,U.S. and Outlying Areas,Traumatic brain injury,23932,386,608,3939,3206,15793,23932
+2006,U.S. and Outlying Areas,Developmental delay,83931,3088,2262,18848,8310,51423,83931
+2006,U.S. and Outlying Areas,All disabilities,6081890,91505,135045,1233049,1124142,3498162,6081903
+2006,Utah,Mental retardation,3047,56,61,74,428,2428,3047
+2006,Utah,Hearing impairments,531,10,16,9,101,395,531
+2006,Utah,Speech or language impairments,10801,163,257,123,1106,9152,10801
+2006,Utah,Visual impairments,217,NA,8,NA,29,177,217
+2006,Utah,Emotional disturbance,2545,63,38,112,261,2071,2545
+2006,Utah,Orthopedic impairments,182,NA,NA,NA,21,155,182
+2006,Utah,Other health impairments,3341,44,42,66,213,2976,3341
+2006,Utah,Specific learning disabilities,27601,839,479,553,4945,20785,27601
+2006,Utah,Deaf-blindness,44,NA,NA,0,5,35,44
+2006,Utah,Multiple disabilities,1493,39,30,38,169,1217,1493
+2006,Utah,Autism,1959,15,44,23,97,1780,1959
+2006,Utah,Traumatic brain injury,302,7,7,5,38,245,302
+2006,Utah,Developmental delay,1506,35,28,24,239,1180,1506
+2006,Utah,All disabilities,53569,1279,1013,1029,7652,42596,53569
+2006,Vermont,Mental retardation,1061,NA,8,26,NA,1016,1061
+2006,Vermont,Hearing impairments,124,0,NA,NA,NA,120,124
+2006,Vermont,Speech or language impairments,1636,10,14,26,15,1571,1636
+2006,Vermont,Visual impairments,NA,0,NA,0,NA,26,NA
+2006,Vermont,Emotional disturbance,2102,10,NA,39,NA,2034,2102
+2006,Vermont,Orthopedic impairments,66,0,0,NA,0,NA,66
+2006,Vermont,Other health impairments,2076,8,8,34,19,2007,2076
+2006,Vermont,Specific learning disabilities,4097,NA,NA,72,27,3961,4097
+2006,Vermont,Deaf-blindness,NA,0,0,0,0,NA,NA
+2006,Vermont,Multiple disabilities,136,0,NA,NA,NA,128,136
+2006,Vermont,Autism,328,NA,8,NA,NA,312,328
+2006,Vermont,Traumatic brain injury,55,0,0,NA,0,NA,55
+2006,Vermont,Developmental delay,697,NA,NA,17,7,666,697
+2006,Vermont,All disabilities,12408,53,79,226,91,11959,12408
+2006,Virgin Islands,Mental retardation,293,0,0,240,NA,NA,293
+2006,Virgin Islands,Hearing impairments,17,0,0,13,NA,NA,17
+2006,Virgin Islands,Speech or language impairments,169,0,NA,NA,41,NA,169
+2006,Virgin Islands,Visual impairments,NA,0,0,NA,NA,0,NA
+2006,Virgin Islands,Emotional disturbance,NA,0,0,53,NA,NA,NA
+2006,Virgin Islands,Orthopedic impairments,NA,0,0,NA,0,0,NA
+2006,Virgin Islands,Other health impairments,83,0,0,NA,12,NA,83
+2006,Virgin Islands,Specific learning disabilities,635,0,0,478,NA,NA,635
+2006,Virgin Islands,Deaf-blindness,0,0,0,0,0,0,0
+2006,Virgin Islands,Multiple disabilities,45,0,0,37,NA,NA,45
+2006,Virgin Islands,Autism,NA,0,0,24,NA,NA,NA
+2006,Virgin Islands,Traumatic brain injury,NA,0,0,NA,0,0,NA
+2006,Virgin Islands,Developmental delay,85,0,0,NA,NA,NA,85
+2006,Virgin Islands,All disabilities,1437,0,NA,1095,301,NA,1437
+2006,Virginia,Mental retardation,11681,21,335,5581,614,5130,11681
+2006,Virginia,Hearing impairments,1299,NA,NA,331,146,749,1299
+2006,Virginia,Speech or language impairments,23388,70,750,5804,1674,15090,23388
+2006,Virginia,Visual impairments,449,NA,NA,116,34,279,449
+2006,Virginia,Emotional disturbance,11448,46,133,4571,535,6163,11448
+2006,Virginia,Orthopedic impairments,814,NA,NA,181,68,507,814
+2006,Virginia,Other health impairments,26053,87,294,7502,1012,17158,26053
+2006,Virginia,Specific learning disabilities,62966,211,1406,20112,6159,35078,62966
+2006,Virginia,Deaf-blindness,29,0,NA,12,NA,15,29
+2006,Virginia,Multiple disabilities,2748,8,75,863,114,1688,2748
+2006,Virginia,Autism,5813,13,350,1420,307,3723,5813
+2006,Virginia,Traumatic brain injury,357,0,NA,117,NA,212,357
+2006,Virginia,Developmental delay,6781,19,107,2808,340,3507,6781
+2006,Virginia,All disabilities,153826,482,3601,49418,11026,89299,153826
+2006,Washington,Mental retardation,5186,273,269,446,889,3309,5186
+2006,Washington,Hearing impairments,1233,36,112,72,233,780,1233
+2006,Washington,Speech or language impairments,16800,613,1109,797,2284,11997,16800
+2006,Washington,Visual impairments,289,9,24,12,51,193,289
+2006,Washington,Emotional disturbance,4741,231,107,627,302,3474,4741
+2006,Washington,Orthopedic impairments,561,11,27,34,66,423,561
+2006,Washington,Other health impairments,21018,715,647,1593,1561,16502,21018
+2006,Washington,Specific learning disabilities,44852,2013,1966,3861,8181,28831,44852
+2006,Washington,Deaf-blindness,27,0,NA,0,NA,24,27
+2006,Washington,Multiple disabilities,2577,87,139,176,260,1915,2577
+2006,Washington,Autism,4677,70,383,218,245,3761,4677
+2006,Washington,Traumatic brain injury,328,18,NA,25,NA,225,328
+2006,Washington,Developmental delay,7516,347,397,617,1316,4839,7516
+2006,Washington,All disabilities,109805,4423,5193,8478,15438,76273,109805
+2006,West Virginia,Mental retardation,8274,10,10,494,35,7725,8274
+2006,West Virginia,Hearing impairments,446,0,NA,21,NA,418,446
+2006,West Virginia,Speech or language impairments,11416,9,57,453,65,10832,11416
+2006,West Virginia,Visual impairments,237,0,0,NA,NA,225,237
+2006,West Virginia,Emotional disturbance,2021,NA,NA,193,12,1809,2021
+2006,West Virginia,Orthopedic impairments,161,0,0,NA,NA,149,161
+2006,West Virginia,Other health impairments,4608,7,6,249,15,4331,4608
+2006,West Virginia,Specific learning disabilities,14936,26,19,836,116,13939,14936
+2006,West Virginia,Deaf-blindness,22,0,NA,NA,0,17,22
+2006,West Virginia,Multiple disabilities,0,0,0,0,0,0,0
+2006,West Virginia,Autism,782,NA,12,44,NA,720,782
+2006,West Virginia,Traumatic brain injury,138,0,0,19,0,119,138
+2006,West Virginia,Developmental delay,0,0,0,0,0,0,0
+2006,West Virginia,All disabilities,43041,58,112,2333,254,40284,43041
+2006,Wisconsin,Mental retardation,10743,193,285,2266,705,7294,10743
+2006,Wisconsin,Hearing impairments,1481,25,83,126,119,1128,1481
+2006,Wisconsin,Speech or language impairments,21354,377,654,1875,1536,16912,21354
+2006,Wisconsin,Visual impairments,406,NA,NA,26,23,339,406
+2006,Wisconsin,Emotional disturbance,15940,699,93,2859,625,11664,15940
+2006,Wisconsin,Orthopedic impairments,1029,14,32,148,63,772,1029
+2006,Wisconsin,Other health impairments,13684,215,142,3875,852,8600,13684
+2006,Wisconsin,Specific learning disabilities,42850,934,994,5799,3000,32123,42850
+2006,Wisconsin,Deaf-blindness,NA,0,0,NA,NA,5,7
+2006,Wisconsin,Multiple disabilities,0,0,0,0,0,0,0
+2006,Wisconsin,Autism,5042,58,111,374,169,4330,5042
+2006,Wisconsin,Traumatic brain injury,374,NA,NA,72,29,251,374
+2006,Wisconsin,Developmental delay,NA,0,0,NA,NA,16,25
+2006,Wisconsin,All disabilities,112935,2524,2425,17425,7127,83434,112935
+2006,Wyoming,Mental retardation,481,18,NA,NA,64,388,481
+2006,Wyoming,Hearing impairments,151,NA,0,NA,12,130,151
+2006,Wyoming,Speech or language impairments,2896,129,33,44,306,2384,2896
+2006,Wyoming,Visual impairments,NA,NA,0,NA,NA,NA,NA
+2006,Wyoming,Emotional disturbance,905,49,NA,NA,73,751,905
+2006,Wyoming,Orthopedic impairments,95,NA,0,NA,6,86,95
+2006,Wyoming,Other health impairments,1580,59,8,28,111,1374,1580
+2006,Wyoming,Specific learning disabilities,4686,284,16,76,528,3782,4686
+2006,Wyoming,Deaf-blindness,NA,0,0,0,0,NA,NA
+2006,Wyoming,Multiple disabilities,96,7,NA,NA,9,77,96
+2006,Wyoming,Autism,279,NA,NA,6,10,256,279
+2006,Wyoming,Traumatic brain injury,73,7,NA,0,NA,59,73
+2006,Wyoming,Developmental delay,0,0,0,0,0,0,0
+2006,Wyoming,All disabilities,11300,566,NA,NA,1128,9337,11300

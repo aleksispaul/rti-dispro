@@ -183,3 +183,20 @@ dfs2008 <- col2num(dfs2008, 4:18)
 dfs2009 <- col2num(dfs2009, 5:19)
 dfs2010 <- col2num(dfs2010, 4:12)
 
+dfs2007$total_ethnicity5 <- rowSums(dfs2007[,5:9], na.rm=TRUE)
+
+write_csv(dfs2005, 'output datasets/section 618 data for 2005.csv')
+write_csv(dfs2006, 'output datasets/section 618 data for 2006.csv')
+write_csv(dfs2007, 'output datasets/section 618 data for 2007.csv')
+write_csv(dfs2008, 'output datasets/section 618 data for 2008.csv')
+write_csv(dfs2009, 'output datasets/section 618 data for 2009.csv')
+write_csv(dfs2010, 'output datasets/section 618 data for 2010.csv')
+
+df0506 <- bind_rows(dfs2005, dfs2006)
+df0507 <- bind_rows(df0506, dfs2007)  
+df0508 <- bind_rows(df0507, dfs2008)
+df0509 <- bind_rows(df0508, dfs2009)
+df0510 <- bind_rows(df0509, dfs2010)
+
+rm(df0506, df0507, df0508, df0509)
+
