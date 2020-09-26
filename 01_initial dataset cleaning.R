@@ -154,15 +154,32 @@ dfs2010 <- rename(dfs2010,
                   disability = Disability,
                   total_6to21 = 'Age 6 to 21',
                   total_ethnicity7 = 'Age 6 to 21 R/E\r\rtotal',
+                  aian7 = '\r\rAmerican Indian \r\ror Alaska Native \r\rAge 6 to 21',
                   asian7 = 'Asian \r\rAge 6 to 21',
                   black7 = 'Black or \r\rAfrican American\r\rAge 6 to 21',
                   hisp7 = 'Latino or Hispanic\r\rAge 6 to 21\r\r',
                   nhpi7 = 'Native Hawaiian\r\ror Other Pacific Islander\r\rAge 6 to 21',
-                  white7 = 'White\r\rAge 6 to 21')
+                  white7 = 'White\r\rAge 6 to 21',
+                  tworace7 = 'Two or more races\r\rAge 6 to 21')
 
 
 # adjust variable types and preprocess for merge 2005-2010 ------------------------------------
 
-dfs2005 <- dfs2005 %>% mutate_at('total_6to21':'total_ethnicity5', gsub(",",""), as.numeric)
+#' Function that converts a range of columns from character to numeric by 
+#' removing the comma and then converting. NAs are removing the "x" that 618 data has for missing
+#' values.
 
+col2num <- function(x, cols) {
+  x = x
+  x[,cols] = lapply(x[,cols], function(y) {as.numeric(gsub(',','', y))})
+  x
+}
+
+#Apply the above function to datasets from 2005-2010
+dfs2005 <- col2num(dfs2005, 4:10)
+dfs2006 <- col2num(dfs2006, 4:10)
+dfs2007 <- col2num(dfs2007, 4:9)
+dfs2008 <- col2num(dfs2008, 4:18)
+dfs2009 <- col2num(dfs2009, 5:19)
+dfs2010 <- col2num(dfs2010, 4:12)
 
