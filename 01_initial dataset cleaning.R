@@ -12,7 +12,7 @@
 
 ###' TO-DO
 #' 1) Create consistent vector naming convention for merging across datasets. Reduce name length
-#'    for easier typing/analysis.
+#'    for easier analysis.
 #' 2) Determine how to merge 5r/e states with 7r/e states.
 #' 
 #' 3) Merge 5r/e with 7r/e state data.
@@ -20,7 +20,6 @@
 # load packages -----------------------------------------------------------
 
 library(tidyverse)
-library(readxl)
 
 # load original data ------------------------------------------------------
 #' Starting in 2008, the dataset introduces 7 race/ethnicity categories in place of 5. However,
@@ -69,5 +68,101 @@ dfs2010 <- df2010[1:826, ] %>% select('Year':'Disability', 'Age 6 to 21',
 
 #removing large datasets to clean up global environment.
 rm(df2005, df2006, df2007, df2008, df2009, df2010)
+
+
+# simplify variable names for 2005-2010 -------------------------------------------------------
+
+dfs2005 <- rename(dfs2005, 
+                  year = Year, 
+                  state = State, 
+                  disability = Disability,
+                  total_6to21 = 'Age 6 to 21',
+                  aian5 = 'American Indian or Alaska Native Age 6 to 21',
+                  api5 = 'Asian or Pacific Islander Age 6 to 21',
+                  black5 = 'Black (not Hispanic) Age 6 to 21',
+                  hisp5 = 'Hispanic Age 6 to 21',
+                  white5 = 'White (not Hispanic) Age 6 to 21',
+                  total_ethnicity5 = 'Age 6-21 Ethnicity Totals')
+
+dfs2006 <- rename(dfs2006, 
+                  year = Year, 
+                  state = State, 
+                  disability = Disability,
+                  total_6to21 = 'Age 6 to 21',
+                  aian5 = 'American Indian or Alaska Native Age 6 to 21',
+                  api5 = 'Asian or Pacific Islander Age 6 to 21',
+                  black5 = 'Black (not Hispanic) Age 6 to 21',
+                  hisp5 = 'Hispanic Age 6 to 21',
+                  white5 = 'White (not Hispanic) Age 6 to 21',
+                  total_ethnicity5 = 'Age 6-21 Ethnicity Totals')
+
+dfs2007 <- rename(dfs2007, 
+                  year = Year, 
+                  state = State, 
+                  disability = Disability,
+                  total_6to21 = 'Age 6 to 21',
+                  aian5 = 'American Indian or Alaska Native Age 6 to 21',
+                  api5 = 'Asian or Pacific Islander Age 6 to 21',
+                  black5 = 'Black (not Hispanic) Age 6 to 21',
+                  hisp5 = 'Hispanic Age 6 to 21',
+                  white5 = 'White (not Hispanic) Age 6 to 21')
+
+
+dfs2008 <- rename(dfs2008,
+                  year = Year,
+                  state = State,
+                  disability = Disability,
+                  total_6to21 = 'Age 6 to 21',
+                  total_ethnicity5 = 'Age 6-21\r\n(5 r/e categories)\r\n totals',
+                  total_ethnicity7 = 'Age 6-21\r\n(7 r/e \r\ncategories) \r\ntotals',
+                  aian5 = 'American Indian or Alaska Native Age 6 to 21\r\n(5 r/e \r\ncategories)',
+                  aian7 = '\r\n\r\nAmerican Indian \r\nor Alaska Native \r\nAge 6 to 21 \r\n(7 R/E\r\n categories)',
+                  asian7 = 'Asian \r\nAge 6 to 21 \r\n(7 R/E categories)',
+                  api5 = 'Asian or Pacific Islander \r\nAge 6 to 21\r\n(5 r/e categories)',
+                  black5 = 'Black (not Hispanic) \r\nAge 6 to 21\r\n(5 r/e categories)',
+                  black7 = 'Black or \r\nAfrican American\r\nAge 6 to 21 \r\n(7 R/E \r\ncategories)',
+                  hisp5 = 'Hispanic \r\nAge 6 to 21\r\n(5 r/e categories)',
+                  hisp7 = 'Latino or Hispanic \r\nAge 6 to 21\r\n(7 R/E categories)',
+                  nhpi7 = 'Native Hawaiian \r\nor Pacific Islander\r\nAge 6 to 21\r\n(7 R/E \r\ncategories)',
+                  tworace7 = 'Two or more races\r\nAge 6 to 21 \r\n(7 R/E categories)',
+                  white5 = 'White (not Hispanic)\r\n Age 6 to 21\r\n(5 r/e categories)',
+                  white7 = 'White\r\nAge 6 to 21\r\n(7 R/E \r\ncategories)')
+
+dfs2009 <- rename(dfs2009,
+                  year = Year,
+                  state = State,
+                  disability = Disability,
+                  total_6to21 = 'Age 6 to 21',
+                  total_ethnicity5 = 'Age 6-21\r\n(5 r/e categories)\r\n totals',
+                  total_ethnicity7 = 'Age 6 to 21\r\n(7 r/e \r\ncategories) \r\ntotals',
+                  aian5 = 'American Indian or Alaska Native Age 6 to 21\r\n(5 r/e \r\ncategories)',
+                  aian7 = '\r\n\r\nAmerican Indian \r\nor Alaska Native \r\nAge 6 to 21 \r\n(7 r/e\r\n categories)',
+                  asian7 = 'Asian \r\nAge 6 to 21 \r\n(7 r/e categories)',
+                  api5 = 'Asian or Pacific Islander \r\nAge 6 to 21\r\n(5 r/e categories)',
+                  black5 = 'Black (not Hispanic) \r\nAge 6 to 21\r\n(5 r/e categories)',
+                  black7 = 'Black or \r\nAfrican American\r\nAge 6 to 21 \r\n(7 r/e \r\ncategories)',
+                  hisp5 = 'Hispanic \r\nAge 6 to 21\r\n(5 r/e categories)',
+                  hisp7 = 'Latino or Hispanic \r\nAge 6 to 21\r\n(7 r/e categories)',
+                  nhpi7 = 'Native Hawaiian \r\nor Pacific Islander\r\nAge 6 to 21\r\n(7 r/e \r\ncategories)',
+                  tworace7 = 'Two or more races\r\nAge 6 to 21 \r\n(7 r/e categories)',
+                  white5 = 'White (not Hispanic)\r\n Age 6 to 21\r\n(5 r/e categories)',
+                  white7 = 'White\r\nAge 6 to 21\r\n(7 r/e \r\ncategories)')            
+                
+dfs2010 <- rename(dfs2010,
+                  year = Year,
+                  state = State,
+                  disability = Disability,
+                  total_6to21 = 'Age 6 to 21',
+                  total_ethnicity7 = 'Age 6 to 21 R/E\r\rtotal',
+                  asian7 = 'Asian \r\rAge 6 to 21',
+                  black7 = 'Black or \r\rAfrican American\r\rAge 6 to 21',
+                  hisp7 = 'Latino or Hispanic\r\rAge 6 to 21\r\r',
+                  nhpi7 = 'Native Hawaiian\r\ror Other Pacific Islander\r\rAge 6 to 21',
+                  white7 = 'White\r\rAge 6 to 21')
+
+
+# adjust variable types and preprocess for merge 2005-2010 ------------------------------------
+
+dfs2005 <- dfs2005 %>% mutate_at('total_6to21':'total_ethnicity5', gsub(",",""), as.numeric)
 
 
