@@ -11,25 +11,35 @@
 #'    to compare trends across time (pre/post 2008).
 
 ###' TO-DO
-#' 1) Create consistent vector naming convention for merging across datasets. Reduce name length
+#' 1) COMPLETED. Create consistent vector naming convention for merging across datasets. Reduce name length
 #'    for easier analysis.
 #' 2) Determine how to merge 5r/e states with 7r/e states.
 #' 
 #' 3) Merge 5r/e with 7r/e state data.
+#' 
+#' 4) Load 2011+ CSV files and clean/merge with older data.
 
-# load packages -----------------------------------------------------------
+# load packages and functions -----------------------------------------------------------
 
 library(tidyverse)
 
-# load original data ------------------------------------------------------
+
+col2num <- function(x, cols) {
+  x = x
+  x[,cols] = lapply(x[,cols], function(y) {as.numeric(gsub(',','', y))})
+  x
+}
+
+# load original data between 2005 to 2011 ------------------------------------------------------
 #' Starting in 2008, the dataset introduces 7 race/ethnicity categories in place of 5. However,
 #' the original 5 are also maintained. 
-df2005 <- read_csv("federal open access datasets/bchildcount2005.csv", skip = 4)
-df2006 <- read_csv("federal open access datasets/bchildcount2006.csv", skip = 4) 
-df2007 <- read_csv("federal open access datasets/bchildcount2007.csv", skip = 3) 
-df2008 <- read_csv("federal open access datasets/bchildcount2008.csv", skip = 3)
-df2009 <- read_csv("federal open access datasets/bchildcount2009.csv", skip = 3)
-df2010 <- read_csv("federal open access datasets/bchildcount2010.csv", skip = 3)
+df2005 <- read_csv("input federal open access datasets/bchildcount2005.csv", skip = 4)
+df2006 <- read_csv("input federal open access datasets/bchildcount2006.csv", skip = 4) 
+df2007 <- read_csv("input federal open access datasets/bchildcount2007.csv", skip = 3) 
+df2008 <- read_csv("input federal open access datasets/bchildcount2008.csv", skip = 3)
+df2009 <- read_csv("input federal open access datasets/bchildcount2009.csv", skip = 3)
+df2010 <- read_csv("input federal open access datasets/bchildcount2010.csv", skip = 3)
+df2011 <- read_csv("input federal open access datasets/bchildcount2011.csv", skip = 3)
 
 
 # create skinny datasets of original data -----------------------------------------------------
@@ -66,8 +76,12 @@ dfs2009 <- df2009[1:826, ] %>% select('Year':'Disability', 'Age 6 to 21',
 dfs2010 <- df2010[1:826, ] %>% select('Year':'Disability', 'Age 6 to 21',
                                       'Latino or Hispanic\r\rAge 6 to 21\r\r':'Age 6 to 21 R/E\r\rtotal')
 
+dfs2011 <- df2011[1:826, ] %>% select('Year':'Disability' ,'Age 6 to 21',
+                                      'Hispanic/Latino\r\nAge 6 to 21\r\n':'Age 6 to 21\r\n R/E\r\ntotal')
+
+
 #removing large datasets to clean up global environment.
-rm(df2005, df2006, df2007, df2008, df2009, df2010)
+rm(df2005, df2006, df2007, df2008, df2009, df2010, df2011)
 
 
 # simplify variable names for 2005-2010 -------------------------------------------------------
@@ -162,6 +176,20 @@ dfs2010 <- rename(dfs2010,
                   white7 = 'White\r\rAge 6 to 21',
                   tworace7 = 'Two or more races\r\rAge 6 to 21')
 
+dfs2011 <- rename(dfs2011,
+                  year = Year,
+                  state = State,
+                  disability = Disability,
+                  total_6to21 = 'Age 6 to 21',
+                  total_ethnicity7 = 'Age 6 to 21\r\n R/E\r\ntotal',
+                  aian7 = '\r\n\r\nAmerican Indian \r\nor Alaska Native \r\nAge 6 to 21 \r\n',
+                  asian7 = 'Asian \r\nAge 6 to 21 \r\n',
+                  black7 = 'Black or \r\nAfrican American\r\nAge 6 to 21 \r\n',
+                  hisp7 = 'Hispanic/Latino\r\nAge 6 to 21\r\n',
+                  nhpi7 = 'Native Hawaiian \r\nor Other Pacific Islander\r\nAge 6 to 21\r\n',
+                  white7 = 'White\r\nAge 6 to 21\r\n',
+                  tworace7 = 'Two or more races\r\nAge 6 to 21 \r\n')
+
 
 # adjust variable types and preprocess for merge 2005-2010 ------------------------------------
 
@@ -169,11 +197,12 @@ dfs2010 <- rename(dfs2010,
 #' removing the comma and then converting. NAs are removing the "x" that 618 data has for missing
 #' values.
 
-col2num <- function(x, cols) {
-  x = x
-  x[,cols] = lapply(x[,cols], function(y) {as.numeric(gsub(',','', y))})
-  x
-}
+#This function moved to the top of syntax.
+# col2num <- function(x, cols) {
+#   x = x
+#   x[,cols] = lapply(x[,cols], function(y) {as.numeric(gsub(',','', y))})
+#   x
+# }
 
 #Apply the above function to datasets from 2005-2010
 dfs2005 <- col2num(dfs2005, 4:10)
@@ -182,21 +211,108 @@ dfs2007 <- col2num(dfs2007, 4:9)
 dfs2008 <- col2num(dfs2008, 4:18)
 dfs2009 <- col2num(dfs2009, 5:19)
 dfs2010 <- col2num(dfs2010, 4:12)
+dfs2011 <- col2num(dfs2011, 4:12)
 
 dfs2007$total_ethnicity5 <- rowSums(dfs2007[,5:9], na.rm=TRUE)
 
-write_csv(dfs2005, 'output datasets/section 618 data for 2005.csv')
-write_csv(dfs2006, 'output datasets/section 618 data for 2006.csv')
-write_csv(dfs2007, 'output datasets/section 618 data for 2007.csv')
-write_csv(dfs2008, 'output datasets/section 618 data for 2008.csv')
-write_csv(dfs2009, 'output datasets/section 618 data for 2009.csv')
-write_csv(dfs2010, 'output datasets/section 618 data for 2010.csv')
+# write_csv(dfs2005, 'output datasets/section 618 data for 2005.csv')
+# write_csv(dfs2006, 'output datasets/section 618 data for 2006.csv')
+# write_csv(dfs2007, 'output datasets/section 618 data for 2007.csv')
+# write_csv(dfs2008, 'output datasets/section 618 data for 2008.csv')
+# write_csv(dfs2009, 'output datasets/section 618 data for 2009.csv')
+# write_csv(dfs2010, 'output datasets/section 618 data for 2010.csv')
+# write_csv(dfs2011, 'output datasets/section 618 data for 2011.csv')
 
 df0506 <- bind_rows(dfs2005, dfs2006)
 df0507 <- bind_rows(df0506, dfs2007)  
 df0508 <- bind_rows(df0507, dfs2008)
 df0509 <- bind_rows(df0508, dfs2009)
 df0510 <- bind_rows(df0509, dfs2010)
+df0511 <- bind_rows(df0510, dfs2011)
 
-rm(df0506, df0507, df0508, df0509)
+rm(dfs2005, dfs2006, dfs2007, dfs2008, dfs2009, dfs2010, dfs2011,
+   df0506, df0507, df0508, df0509, dfs0510)
+
+
+
+# load original data from 2012+  ------------------------------------------------------------
+
+df2012 <- read_csv("input federal open access datasets/bchildcountandedenvironments2012.csv", 
+                   skip = 4)
+df2013 <- read_csv("input federal open access datasets/bchildcountandedenvironments2013.csv", 
+                   skip = 4)
+df2014 <- read_csv("input federal open access datasets/bchildcountandedenvironments2014.csv", 
+                   skip = 4)
+df2015 <- read_csv("input federal open access datasets/bchildcountandedenvironments2015.csv", 
+                   skip = 4)
+df2016 <- read_csv("input federal open access datasets/bchildcountandedenvironments2016.csv", 
+                   skip = 3)
+df2017 <- read_csv("input federal open access datasets/bchildcountandedenvironments2017-18.csv", 
+                   skip = 4)
+df2018 <- read_csv("input federal open access datasets/bchildcountandedenvironments2018-19.csv", 
+                   skip = 4)
+
+
+# restrict dataframes to columns and rows needed for analysis ---------------------------------
+
+#' The code below will select the Age 6 to 21 totals overall, by ethnicity, and by total disability.
+#' The additional rows for environment code will be removed, preserving only the 6 to 21 counts by
+#' each state.
+
+dfs2012 <- df2012 %>% filter(`SEA Education Environment` == "Total, Age 6-21") %>%
+  select(Year,
+         'State Name',
+         'SEA Disability Category',
+         'Ages 6-21':'LEP No Age 6 to 21',
+         'American Indian or Alaska Native Age 6 to21':'White Age 6 to21')
+
+dfs2013 <- df2013 %>% filter(`SEA Education Environment` == "Total, Age 6-21") %>%
+  select(Year,
+         'State Name',
+         'SEA Disability Category',
+         'Ages 6-21':'LEP No Age 6 to 21',
+         'American Indian or Alaska Native Age 6 to21':'White Age 6 to21')
+
+dfs2014 <- df2014 %>% filter(`SEA Education Environment` == "Total, Age 6-21") %>%
+  select(Year,
+         'State Name',
+         'SEA Disability Category',
+         'Ages 6-21':'LEP No Age 6 to 21',
+         'American Indian or Alaska Native Age 6 to21':'White Age 6 to21')
+
+dfs2015 <- df2015 %>% filter(`SEA Education Environment` == "Total, Age 6-21") %>%
+  select(Year,
+         'State Name',
+         'SEA Disability Category',
+         'Ages 6-21':'LEP No Age 6 to 21',
+         'American Indian or Alaska Native Age 6 to21':'White Age 6 to21')
+
+dfs2016 <- df2016 %>% filter(`SEA Education Environment` == "Total, Age 6-21") %>%
+  select(Year,
+         'State Name',
+         'SEA Disability Category',
+         'Ages 6-21':'LEP No Age 6 to 21',
+         'American Indian or Alaska Native Age 6 to21':'White Age 6 to21')
+
+dfs2017 <- df2016 %>% filter(`SEA Education Environment` == "Total, Age 6-21") %>%
+  select(Year,
+         'State Name',
+         'SEA Disability Category',
+         'Ages 6-21':'LEP No Age 6 to 21',
+         'American Indian or Alaska Native Age 6 to21':'White Age 6 to21')
+
+dfs2018 <- df2016 %>% filter(`SEA Education Environment` == "Total, Age 6-21") %>%
+  select(Year,
+         'State Name',
+         'SEA Disability Category',
+         'Ages 6-21':'LEP No Age 6 to 21',
+         'American Indian or Alaska Native Age 6 to21':'White Age 6 to21')
+
+
+# adjust variable types and preprocess for merge ----------------------------------------------
+
+
+
+
+
 
