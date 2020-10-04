@@ -23,7 +23,7 @@
 
 library(tidyverse)
 
-
+#Function to change columns to numeric for datasets 2005-2011.
 col2num <- function(x, cols) {
   x = x
   x[,cols] = lapply(x[,cols], function(y) {as.numeric(gsub(',','', y))})
@@ -259,60 +259,162 @@ df2018 <- read_csv("input federal open access datasets/bchildcountandedenvironme
 #' The additional rows for environment code will be removed, preserving only the 6 to 21 counts by
 #' each state.
 
-dfs2012 <- df2012 %>% filter(`SEA Education Environment` == "Total, Age 6-21") %>%
-  select(Year,
-         'State Name',
-         'SEA Disability Category',
-         'Ages 6-21':'LEP No Age 6 to 21',
-         'American Indian or Alaska Native Age 6 to21':'White Age 6 to21')
+filter_and_select <- function(x) {
+  x %>% 
+    filter(`SEA Education Environment` == "Total, Age 6-21") %>%
+              # The below code (if activated) will remove developmental delay from counts.
+               # `SEA Disability Category` != 
+               #   "Developmental delay (valid only for children ages 3-9 when defined by state)") %>%
+    select(Year,
+           'State Name',
+           'SEA Disability Category',
+           'Ages 6-21':'LEP No Age 6 to 21',
+           'American Indian or Alaska Native Age 6 to21':'White Age 6 to21')
+}
 
-dfs2013 <- df2013 %>% filter(`SEA Education Environment` == "Total, Age 6-21") %>%
-  select(Year,
-         'State Name',
-         'SEA Disability Category',
-         'Ages 6-21':'LEP No Age 6 to 21',
-         'American Indian or Alaska Native Age 6 to21':'White Age 6 to21')
+dfs2012 <- filter_and_select(df2012)
+dfs2013 <- filter_and_select(df2013)
+dfs2014 <- filter_and_select(df2014)
+dfs2015 <- filter_and_select(df2015)
+dfs2016 <- filter_and_select(df2016)
+dfs2017 <- filter_and_select(df2017)
 
-dfs2014 <- df2014 %>% filter(`SEA Education Environment` == "Total, Age 6-21") %>%
+#In 2018, LEP was switched to EL.
+dfs2018 <- df2018 %>% filter(`SEA Education Environment` == "Total, Age 6-21") %>%
   select(Year,
          'State Name',
          'SEA Disability Category',
-         'Ages 6-21':'LEP No Age 6 to 21',
-         'American Indian or Alaska Native Age 6 to21':'White Age 6 to21')
-
-dfs2015 <- df2015 %>% filter(`SEA Education Environment` == "Total, Age 6-21") %>%
-  select(Year,
-         'State Name',
-         'SEA Disability Category',
-         'Ages 6-21':'LEP No Age 6 to 21',
-         'American Indian or Alaska Native Age 6 to21':'White Age 6 to21')
-
-dfs2016 <- df2016 %>% filter(`SEA Education Environment` == "Total, Age 6-21") %>%
-  select(Year,
-         'State Name',
-         'SEA Disability Category',
-         'Ages 6-21':'LEP No Age 6 to 21',
-         'American Indian or Alaska Native Age 6 to21':'White Age 6 to21')
-
-dfs2017 <- df2016 %>% filter(`SEA Education Environment` == "Total, Age 6-21") %>%
-  select(Year,
-         'State Name',
-         'SEA Disability Category',
-         'Ages 6-21':'LEP No Age 6 to 21',
-         'American Indian or Alaska Native Age 6 to21':'White Age 6 to21')
-
-dfs2018 <- df2016 %>% filter(`SEA Education Environment` == "Total, Age 6-21") %>%
-  select(Year,
-         'State Name',
-         'SEA Disability Category',
-         'Ages 6-21':'LEP No Age 6 to 21',
+         'Ages 6-21':'EL No Age 6 to 21',
          'American Indian or Alaska Native Age 6 to21':'White Age 6 to21')
 
 
 # adjust variable types and preprocess for merge ----------------------------------------------
 
+#' Function to cleanup variable names. 2012-2018 had consistent naming conventions!
+clean_var_names <- function(x) {
+  rename(x,
+         year = Year,
+         state = `State Name`,
+         disability = 'SEA Disability Category',
+         total_6to21 = 'Ages 6-21',
+         el_yes = 'LEP Yes Age 6 to 21',
+         el_no = 'LEP No Age 6 to 21',
+         aian7 = "American Indian or Alaska Native Age 6 to21",
+         asian7 = "Asian Age 6 to21",
+         black7 = "Black or African American Age 6 to21",
+         hisp7 = "Hispanic/Latino Age 6 to21",
+         nhpi7 = "Native Hawaiian or Other Pacific Islander Age 6 to21",
+         white7 = "White Age 6 to21",
+         tworace7 = "Two or more races Age 6 to21"
+         )
+}
+
+
+dfs2012 <- clean_var_names(dfs2012)
+dfs2013 <- clean_var_names(dfs2013)
+dfs2014 <- clean_var_names(dfs2014)
+dfs2015 <- clean_var_names(dfs2015)
+dfs2016 <- clean_var_names(dfs2016)
+dfs2017 <- clean_var_names(dfs2017)
+
+# 2018 data treated separately because of change from LEP to EL in variable.
+dfs2018 <-  rename(dfs2018,
+                   year = Year,
+                   state = `State Name`,
+                   disability = 'SEA Disability Category',
+                   total_6to21 = 'Ages 6-21',
+                   el_yes = 'EL Yes Age 6 to 21',
+                   el_no = 'EL No Age 6 to 21',
+                   aian7 = "American Indian or Alaska Native Age 6 to21",
+                   asian7 = "Asian Age 6 to21",
+                   black7 = "Black or African American Age 6 to21",
+                   hisp7 = "Hispanic/Latino Age 6 to21",
+                   nhpi7 = "Native Hawaiian or Other Pacific Islander Age 6 to21",
+                   white7 = "White Age 6 to21",
+                   tworace7 = "Two or more races Age 6 to21"
+)
+
+#Pull DD category into separate dataset to determine if included or excluded from later analysis.
+
+dd_state_data <- function() {
+  x  <- bind_rows(dfs2012, dfs2013) 
+  x2 <- bind_rows(dfs2014, dfs2015)
+  x3 <- bind_rows(dfs2016, dfs2017)
+  x_combined <- bind_rows(x, x2)
+  x_combined <- bind_rows(x_combined, x3)
+  x_combined <- bind_rows(x_combined, dfs2018) %>%
+  filter(disability %in% c("Developmental delay", 
+           "Developmental delay (valid only for children ages 3-9 when defined by state)")) %>%
+  select(year, state, disability, total_6to21)
+
+}
+
+dd_state <- dd_state_data()
+#write_csv(dd_state, 'output datasets/developmental delay data for 2012-18.csv')
+
+
+# Change character.vars to numeric.vars where appropriate
+
+#Removed gsub argument, as the 2012-2018 datasets did not have commas.
+
+col2num_v2 <- function(x, cols) {
+  x = x
+  x[,cols] = lapply(x[,cols], function(y) {as.numeric(y)})
+  x
+}
+
+#NAs introduced are of 1 of 3 varieties:
+#' "-" for data that were not available
+#' "x" for data that were suppressed
+#' "*" for data that were deemed unreliable
+
+dfs2012 <- col2num_v2(dfs2012, 4:13) 
+dfs2013 <- col2num_v2(dfs2013, 4:13)
+dfs2014 <- col2num_v2(dfs2014, 4:13)
+dfs2015 <- col2num_v2(dfs2015, 4:13)
+dfs2016 <- col2num_v2(dfs2016, 4:13)
+dfs2017 <- col2num_v2(dfs2017, 4:13)
+dfs2018 <- col2num_v2(dfs2018, 4:13)
+
+
+# write_csv(dfs2012, 'output datasets/section 618 data for 2012.csv')
+# write_csv(dfs2013, 'output datasets/section 618 data for 2013.csv')
+# write_csv(dfs2014, 'output datasets/section 618 data for 2014.csv')
+# write_csv(dfs2015, 'output datasets/section 618 data for 2015.csv')
+# write_csv(dfs2016, 'output datasets/section 618 data for 2016.csv')
+# write_csv(dfs2017, 'output datasets/section 618 data for 2017.csv')
+# write_csv(dfs2018, 'output datasets/section 618 data for 2018.csv')
+
+#Merge 2012 through 2018 datasets
+dfs1213 <- bind_rows(dfs2012, dfs2013)
+dfs1214 <- bind_rows(dfs1213, dfs2014)
+dfs1215 <- bind_rows(dfs1214, dfs2015)
+dfs1216 <- bind_rows(dfs1215, dfs2016)
+dfs1217 <- bind_rows(dfs1216, dfs2017)
+dfs1218 <- bind_rows(dfs1217, dfs2018)
 
 
 
+# merge 2005 through 2018 datasets ------------------------------------------------------------
+
+#Switch year variabe to numeric for 2005-2011 for merging with 2012-18.
+df0511$year <- as.numeric(df0511$year)
+
+#merge 2005 through 2018
+df2005_to_2018 <- bind_rows(df0511, dfs1218) 
+
+#Change states to titlecase for consistency and sorting
+df2005_to_2018$state <- str_to_title(df2005_to_2018$state)
+
+#Arrange dataset so it is by state and each successive year.
+df2005_to_2018 <- df2005_to_2018 %>% arrange(state, year)
+
+#Pull aggregate state data to separate dataset
+state_aggregate <- df2005_to_2018[grepl("50 States",df2005_to_2018$state), ]
+
+#Create new dataframe without the aggregate information.
+df05_to_18 <- df2005_to_2018[!grepl("50 States",df2005_to_2018$state), ]
 
 
+# write_csv(state_aggregate, 'output datasets/aggregate national 618 data 2005-2018.csv')
+# write_csv(df05_to_18, 'output datasets/combined 618 data for 2005-2018.csv')

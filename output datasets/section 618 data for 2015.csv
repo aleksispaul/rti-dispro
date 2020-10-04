@@ -1,0 +1,855 @@
+year,state,disability,total_6to21,el_yes,el_no,aian7,asian7,black7,hisp7,nhpi7,tworace7,white7
+2015,Alabama,All Disabilities,76910,2102,74808,555,428,29067,3735,47,1288,41790
+2015,Alabama,Autism,6208,109,6099,32,70,1853,226,3,121,3903
+2015,Alabama,Deaf-blindness,15,0,15,0,0,3,1,0,0,11
+2015,Alabama,Developmental delay,3080,146,2934,13,27,1169,216,3,79,1573
+2015,Alabama,Emotional disturbance,1348,6,1342,5,0,541,30,0,24,748
+2015,Alabama,Hearing impairment,926,50,876,7,19,326,71,1,9,493
+2015,Alabama,Intellectual disability,6357,199,6158,30,32,3204,242,4,68,2777
+2015,Alabama,Multiple disabilities,1230,28,1202,5,16,464,64,0,11,670
+2015,Alabama,Orthopedic impairment,537,16,521,3,13,161,29,0,11,320
+2015,Alabama,Other health impairment,10754,135,10619,75,40,3868,300,3,213,6255
+2015,Alabama,Specific learning disability,32392,1018,31374,286,95,13423,1788,25,465,16310
+2015,Alabama,Speech or language impairment,13316,384,12932,92,106,3800,735,7,275,8301
+2015,Alabama,Traumatic brain injury,254,4,250,3,0,91,12,1,5,142
+2015,Alabama,Visual impairment,493,7,486,4,10,164,21,0,7,287
+2015,Alaska,All Disabilities,16275,2502,13773,4692,561,630,1176,387,1854,6975
+2015,Alaska,Autism,1207,81,1126,139,72,36,84,14,132,730
+2015,Alaska,Deaf-blindness,2,0,2,1,1,0,0,0,0,0
+2015,Alaska,Developmental delay,1114,163,951,361,37,45,81,24,168,398
+2015,Alaska,Emotional disturbance,665,58,607,172,7,29,36,14,86,321
+2015,Alaska,Hearing impairment,165,23,142,43,19,7,15,13,11,57
+2015,Alaska,Intellectual disability,606,118,488,217,29,25,43,23,54,215
+2015,Alaska,Multiple disabilities,467,50,417,153,20,14,25,10,56,189
+2015,Alaska,Orthopedic impairment,63,5,58,10,6,3,1,3,5,35
+2015,Alaska,Other health impairment,2499,169,2330,628,40,116,156,14,316,1229
+2015,Alaska,Specific learning disability,7146,1520,5626,2367,232,301,570,236,746,2694
+2015,Alaska,Speech or language impairment,2257,311,1946,583,93,48,160,36,272,1065
+2015,Alaska,Traumatic brain injury,43,2,41,8,2,3,2,0,5,23
+2015,Alaska,Visual impairment,41,2,39,10,3,3,3,0,3,19
+2015,American Samoa,All Disabilities,616,616,0,0,NA,0,0,NA,0,0
+2015,American Samoa,Autism,6,6,0,0,NA,0,0,NA,0,0
+2015,American Samoa,Deaf-blindness,0,0,0,0,NA,0,0,NA,0,0
+2015,American Samoa,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,American Samoa,Emotional disturbance,0,0,0,0,NA,0,0,NA,0,0
+2015,American Samoa,Hearing impairment,5,5,0,0,NA,0,0,NA,0,0
+2015,American Samoa,Intellectual disability,7,7,0,0,NA,0,0,NA,0,0
+2015,American Samoa,Multiple disabilities,67,67,0,0,NA,0,0,NA,0,0
+2015,American Samoa,Orthopedic impairment,2,2,0,0,NA,0,0,NA,0,0
+2015,American Samoa,Other health impairment,2,2,0,0,NA,0,0,NA,0,0
+2015,American Samoa,Specific learning disability,518,518,0,0,NA,0,0,NA,0,0
+2015,American Samoa,Speech or language impairment,3,3,0,0,NA,0,0,NA,0,0
+2015,American Samoa,Traumatic brain injury,0,0,0,0,NA,0,0,NA,0,0
+2015,American Samoa,Visual impairment,6,6,0,0,NA,0,0,NA,0,0
+2015,Arizona,All Disabilities,117264,7822,109442,7260,1483,7790,52111,297,2980,45343
+2015,Arizona,Autism,10652,244,10408,350,315,630,3453,37,349,5518
+2015,Arizona,Deaf-blindness,94,1,93,4,1,5,41,0,2,41
+2015,Arizona,Developmental delay,5356,898,4458,366,80,352,2653,15,181,1709
+2015,Arizona,Emotional disturbance,7456,128,7328,360,27,893,2156,8,279,3733
+2015,Arizona,Hearing impairment,1309,58,1251,77,38,52,688,5,24,425
+2015,Arizona,Intellectual disability,7116,234,6882,497,141,608,3527,28,126,2189
+2015,Arizona,Multiple disabilities,2213,42,2171,193,51,101,976,6,44,842
+2015,Arizona,Orthopedic impairment,585,32,553,17,16,29,226,0,9,288
+2015,Arizona,Other health impairment,10858,346,10512,427,98,803,3384,17,320,5809
+2015,Arizona,Specific learning disability,53083,4043,49040,4017,373,3582,26852,147,1135,16977
+2015,Arizona,Speech or language impairment,17694,1761,15933,876,325,676,7834,32,494,7457
+2015,Arizona,Traumatic brain injury,335,20,315,33,2,24,134,1,7,134
+2015,Arizona,Visual impairment,513,15,498,43,16,35,187,1,10,221
+2015,Arkansas,All Disabilities,55197,4104,51093,385,429,12973,5692,229,1189,34300
+2015,Arkansas,Autism,4084,267,3817,26,74,580,375,15,103,2911
+2015,Arkansas,Deaf-blindness,4,0,4,0,0,2,0,0,1,1
+2015,Arkansas,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Arkansas,Emotional disturbance,836,26,810,8,4,169,50,2,22,581
+2015,Arkansas,Hearing impairment,424,53,371,2,9,70,78,19,7,239
+2015,Arkansas,Intellectual disability,6009,462,5547,32,30,2118,619,42,104,3064
+2015,Arkansas,Multiple disabilities,1382,69,1313,10,21,290,135,2,26,898
+2015,Arkansas,Orthopedic impairment,191,14,177,2,2,32,18,1,4,132
+2015,Arkansas,Other health impairment,10918,323,10595,69,35,2544,590,12,245,7423
+2015,Arkansas,Specific learning disability,18448,1648,16800,150,75,4406,2244,74,347,11152
+2015,Arkansas,Speech or language impairment,12540,1206,11334,83,169,2678,1545,57,323,7685
+2015,Arkansas,Traumatic brain injury,143,14,129,1,0,30,19,1,3,89
+2015,Arkansas,Visual impairment,218,22,196,2,10,54,19,4,4,125
+2015,Bureau Of Indian Education,All Disabilities,6043,1054,4989,6043,0,0,0,0,0,0
+2015,Bureau Of Indian Education,Autism,195,22,173,195,0,0,0,0,0,0
+2015,Bureau Of Indian Education,Deaf-blindness,1,0,1,1,0,0,0,0,0,0
+2015,Bureau Of Indian Education,Developmental delay,391,28,363,391,0,0,0,0,0,0
+2015,Bureau Of Indian Education,Emotional disturbance,297,54,243,297,0,0,0,0,0,0
+2015,Bureau Of Indian Education,Hearing impairment,42,7,35,42,0,0,0,0,0,0
+2015,Bureau Of Indian Education,Intellectual disability,345,52,293,345,0,0,0,0,0,0
+2015,Bureau Of Indian Education,Multiple disabilities,127,16,111,127,0,0,0,0,0,0
+2015,Bureau Of Indian Education,Orthopedic impairment,24,2,22,24,0,0,0,0,0,0
+2015,Bureau Of Indian Education,Other health impairment,548,113,435,548,0,0,0,0,0,0
+2015,Bureau Of Indian Education,Specific learning disability,3089,611,2478,3089,0,0,0,0,0,0
+2015,Bureau Of Indian Education,Speech or language impairment,940,142,798,940,0,0,0,0,0,0
+2015,Bureau Of Indian Education,Traumatic brain injury,29,5,24,29,0,0,0,0,0,0
+2015,Bureau Of Indian Education,Visual impairment,15,2,13,15,0,0,0,0,0,0
+2015,California,All Disabilities,649108,199714,449394,4989,38266,58953,361449,2669,20031,162751
+2015,California,Autism,79165,17359,61806,430,10823,5887,33570,290,3221,24944
+2015,California,Deaf-blindness,83,12,71,0,10,4,35,0,5,29
+2015,California,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,California,Emotional disturbance,24199,2815,21384,287,739,3664,8954,102,1082,9371
+2015,California,Hearing impairment,10415,3153,7262,32,991,527,6207,67,298,2293
+2015,California,Intellectual disability,39562,14803,24759,259,3148,3706,23592,215,935,7707
+2015,California,Multiple disabilities,5554,1426,4128,25,542,473,2771,37,210,1496
+2015,California,Orthopedic impairment,9754,2911,6843,62,766,623,5136,56,249,2862
+2015,California,Other health impairment,78326,14445,63881,638,2846,9574,34562,287,2926,27493
+2015,California,Specific learning disability,287431,106867,180564,2466,8727,28156,184191,1108,6625,56158
+2015,California,Speech or language impairment,109883,34684,75199,748,9287,5930,60032,480,4327,29079
+2015,California,Traumatic brain injury,1607,423,1184,19,92,168,849,8,54,417
+2015,California,Visual impairment,3129,816,2313,23,295,241,1550,19,99,902
+2015,Colorado,All Disabilities,82327,14325,68002,946,1337,5040,30411,168,3088,41337
+2015,Colorado,Autism,5866,447,5419,41,143,258,1328,20,278,3798
+2015,Colorado,Deaf-blindness,27,3,24,0,1,2,11,0,0,13
+2015,Colorado,Developmental delay,2463,517,1946,34,59,115,1013,4,90,1148
+2015,Colorado,Emotional disturbance,5624,316,5308,69,53,447,1393,14,296,3352
+2015,Colorado,Hearing impairment,1292,250,1042,11,71,61,517,1,50,581
+2015,Colorado,Intellectual disability,2552,520,2032,44,48,235,1064,12,86,1063
+2015,Colorado,Multiple disabilities,3880,646,3234,34,99,263,1400,5,149,1930
+2015,Colorado,Orthopedic impairment,3195,337,2858,23,45,198,860,5,106,1958
+2015,Colorado,Other health impairment,6952,508,6444,69,84,405,1599,12,290,4493
+2015,Colorado,Specific learning disability,38074,8386,29688,507,418,2578,16613,67,1243,16648
+2015,Colorado,Speech or language impairment,11603,2287,9316,104,287,432,4355,26,465,5934
+2015,Colorado,Traumatic brain injury,504,73,431,7,6,30,168,1,22,270
+2015,Colorado,Visual impairment,295,35,260,3,23,16,90,1,13,149
+2015,Connecticut,All Disabilities,66339,6166,60173,222,1420,10968,17919,37,1716,34057
+2015,Connecticut,Autism,7793,304,7489,24,358,991,1423,5,212,4780
+2015,Connecticut,Deaf-blindness,12,0,12,0,0,1,2,0,1,8
+2015,Connecticut,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Connecticut,Emotional disturbance,5395,229,5166,23,57,1050,1474,2,199,2590
+2015,Connecticut,Hearing impairment,497,57,440,1,31,60,158,0,4,243
+2015,Connecticut,Intellectual disability,2388,339,2049,7,66,502,716,2,37,1058
+2015,Connecticut,Multiple disabilities,2825,166,2659,9,109,527,655,4,71,1450
+2015,Connecticut,Orthopedic impairment,48,3,45,0,2,5,11,0,2,28
+2015,Connecticut,Other health impairment,14398,956,13442,59,194,2236,3679,3,410,7817
+2015,Connecticut,Specific learning disability,24241,2864,21377,69,295,4292,7153,16,514,11902
+2015,Connecticut,Speech or language impairment,8489,1230,7259,29,301,1255,2586,5,263,4050
+2015,Connecticut,Traumatic brain injury,112,10,102,0,5,19,20,0,0,68
+2015,Connecticut,Visual impairment,141,8,133,1,2,30,42,0,3,63
+2015,Delaware,All Disabilities,18712,1592,17120,80,259,7055,2823,14,566,7915
+2015,Delaware,Autism,1434,58,1376,7,60,379,135,1,39,813
+2015,Delaware,Deaf-blindness,44,0,44,0,1,9,13,0,1,20
+2015,Delaware,Developmental delay,1066,229,837,4,16,405,231,1,36,373
+2015,Delaware,Emotional disturbance,821,20,801,1,1,373,58,1,31,356
+2015,Delaware,Hearing impairment,199,27,172,1,4,56,50,0,7,81
+2015,Delaware,Intellectual disability,1488,140,1348,5,25,713,199,1,25,520
+2015,Delaware,Multiple disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Delaware,Orthopedic impairment,204,9,195,0,10,56,36,0,2,100
+2015,Delaware,Other health impairment,2482,86,2396,8,18,866,250,3,83,1254
+2015,Delaware,Specific learning disability,9135,867,8268,46,72,3793,1615,4,270,3335
+2015,Delaware,Speech or language impairment,1707,148,1559,8,46,377,215,3,66,992
+2015,Delaware,Traumatic brain injury,66,6,60,0,2,14,10,0,3,37
+2015,Delaware,Visual impairment,66,2,64,0,4,14,11,0,3,34
+2015,District Of Columbia,All Disabilities,10787,1100,9687,15,66,8731,1334,5,93,543
+2015,District Of Columbia,Autism,759,76,683,0,11,562,71,1,15,99
+2015,District Of Columbia,Deaf-blindness,1,0,1,0,0,1,0,0,0,0
+2015,District Of Columbia,Developmental delay,493,98,395,1,3,358,96,0,4,31
+2015,District Of Columbia,Emotional disturbance,885,20,865,0,2,823,39,0,5,16
+2015,District Of Columbia,Hearing impairment,31,5,26,0,1,22,6,0,0,2
+2015,District Of Columbia,Intellectual disability,685,63,622,1,1,604,63,0,7,9
+2015,District Of Columbia,Multiple disabilities,1237,69,1168,5,5,1057,80,1,11,78
+2015,District Of Columbia,Orthopedic impairment,12,0,12,0,1,11,0,0,0,0
+2015,District Of Columbia,Other health impairment,1735,100,1635,1,6,1457,149,1,16,105
+2015,District Of Columbia,Specific learning disability,3929,469,3460,2,28,3138,602,1,24,134
+2015,District Of Columbia,Speech or language impairment,971,195,776,5,7,663,222,1,10,63
+2015,District Of Columbia,Traumatic brain injury,24,2,22,0,1,19,2,0,1,1
+2015,District Of Columbia,Visual impairment,25,3,22,0,0,16,4,0,0,5
+2015,Federated States Of Micronesia,All Disabilities,1914,1914,0,0,0,0,0,1914,0,0
+2015,Federated States Of Micronesia,Autism,11,NA,NA,0,0,0,0,11,0,0
+2015,Federated States Of Micronesia,Deaf-blindness,1,NA,NA,0,0,0,0,1,0,0
+2015,Federated States Of Micronesia,Developmental delay,98,NA,NA,0,0,0,0,98,0,0
+2015,Federated States Of Micronesia,Emotional disturbance,9,NA,NA,0,0,0,0,9,0,0
+2015,Federated States Of Micronesia,Hearing impairment,70,NA,NA,0,0,0,0,70,0,0
+2015,Federated States Of Micronesia,Intellectual disability,26,NA,NA,0,0,0,0,26,0,0
+2015,Federated States Of Micronesia,Multiple disabilities,62,NA,NA,0,0,0,0,62,0,0
+2015,Federated States Of Micronesia,Orthopedic impairment,28,NA,NA,0,0,0,0,28,0,0
+2015,Federated States Of Micronesia,Other health impairment,69,NA,NA,0,0,0,0,69,0,0
+2015,Federated States Of Micronesia,Specific learning disability,1406,NA,NA,0,0,0,0,1406,0,0
+2015,Federated States Of Micronesia,Speech or language impairment,61,NA,NA,0,0,0,0,61,0,0
+2015,Federated States Of Micronesia,Traumatic brain injury,1,NA,NA,0,0,0,0,1,0,0
+2015,Federated States Of Micronesia,Visual impairment,72,NA,NA,0,0,0,0,72,0,0
+2015,Florida,All Disabilities,333117,28620,304497,1180,4186,85759,98005,338,10636,133013
+2015,Florida,Autism,30713,1807,28906,98,830,5274,9748,38,1097,13628
+2015,Florida,Deaf-blindness,75,4,71,1,2,15,22,0,3,32
+2015,Florida,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Florida,Emotional disturbance,16333,504,15829,44,35,6522,3065,14,662,5991
+2015,Florida,Hearing impairment,3862,361,3501,12,109,853,1250,6,102,1530
+2015,Florida,Intellectual disability,25033,1208,23825,97,399,9312,6276,24,650,8275
+2015,Florida,Multiple disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Florida,Orthopedic impairment,2620,170,2450,5,61,531,766,3,86,1168
+2015,Florida,Other health impairment,34885,2611,32274,110,272,7408,9861,22,1143,16069
+2015,Florida,Specific learning disability,138672,12880,125792,551,1065,36803,45499,137,4016,50601
+2015,Florida,Speech or language impairment,79101,8971,70130,250,1376,18593,21067,91,2813,34911
+2015,Florida,Traumatic brain injury,542,23,519,6,9,160,114,0,20,233
+2015,Florida,Visual impairment,1281,81,1200,6,28,288,337,3,44,575
+2015,Georgia,All Disabilities,184113,13075,171038,341,3020,73575,23874,136,5999,77168
+2015,Georgia,Autism,16316,671,15645,37,648,5790,1653,16,572,7600
+2015,Georgia,Deaf-blindness,33,0,33,0,1,11,2,0,3,16
+2015,Georgia,Developmental delay,14271,1532,12739,30,277,6005,2091,15,564,5289
+2015,Georgia,Emotional disturbance,11546,161,11385,25,48,5484,702,11,467,4809
+2015,Georgia,Hearing impairment,1656,128,1528,1,65,612,309,2,40,627
+2015,Georgia,Intellectual disability,16541,734,15807,25,266,8946,1735,12,372,5185
+2015,Georgia,Multiple disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Georgia,Orthopedic impairment,737,65,672,2,34,195,115,0,17,374
+2015,Georgia,Other health impairment,29963,754,29209,47,265,11104,2143,17,1065,15322
+2015,Georgia,Specific learning disability,68913,7036,61877,137,752,27905,12251,41,2011,25816
+2015,Georgia,Speech or language impairment,22959,1922,21037,37,622,7101,2735,21,848,11595
+2015,Georgia,Traumatic brain injury,408,22,386,0,12,158,48,0,13,177
+2015,Georgia,Visual impairment,770,50,720,0,30,264,90,1,27,358
+2015,Guam,All Disabilities,1877,69,1808,NA,265,0,6,1571,18,NA
+2015,Guam,Autism,157,7,150,NA,67,0,0,84,4,NA
+2015,Guam,Deaf-blindness,1,0,1,NA,0,0,0,1,0,NA
+2015,Guam,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Guam,Emotional disturbance,101,2,99,NA,4,0,1,95,0,NA
+2015,Guam,Hearing impairment,37,8,29,NA,8,0,0,29,0,NA
+2015,Guam,Intellectual disability,66,4,62,NA,8,0,1,56,1,NA
+2015,Guam,Multiple disabilities,91,6,85,NA,15,0,0,74,1,NA
+2015,Guam,Orthopedic impairment,18,0,18,NA,4,0,0,13,1,NA
+2015,Guam,Other health impairment,196,6,190,NA,24,0,2,167,2,NA
+2015,Guam,Specific learning disability,1080,29,1051,NA,111,0,2,949,7,NA
+2015,Guam,Speech or language impairment,112,6,106,NA,23,0,0,86,2,NA
+2015,Guam,Traumatic brain injury,2,0,2,NA,1,0,0,1,0,NA
+2015,Guam,Visual impairment,16,1,15,NA,0,0,0,16,0,NA
+2015,Hawaii,All Disabilities,16779,1563,15216,87,3345,409,2096,7028,1620,2194
+2015,Hawaii,Autism,1390,107,1283,4,411,29,164,273,171,338
+2015,Hawaii,Deaf-blindness,6,2,4,0,2,0,0,4,0,0
+2015,Hawaii,Developmental delay,991,133,858,1,190,14,202,332,157,95
+2015,Hawaii,Emotional disturbance,972,56,916,12,124,25,127,432,101,151
+2015,Hawaii,Hearing impairment,264,56,208,2,71,8,21,127,21,14
+2015,Hawaii,Intellectual disability,1205,251,954,5,325,19,121,547,92,96
+2015,Hawaii,Multiple disabilities,586,93,493,1,201,9,44,221,52,58
+2015,Hawaii,Orthopedic impairment,62,13,49,0,15,2,6,24,3,12
+2015,Hawaii,Other health impairment,2846,126,2720,12,437,80,370,1140,291,516
+2015,Hawaii,Specific learning disability,7914,673,7241,49,1480,206,948,3758,661,812
+2015,Hawaii,Speech or language impairment,442,34,408,1,64,15,86,122,60,94
+2015,Hawaii,Traumatic brain injury,51,5,46,0,9,0,6,25,7,4
+2015,Hawaii,Visual impairment,50,14,36,0,16,2,1,23,4,4
+2015,Idaho,All Disabilities,26387,1900,24487,627,277,385,5115,0,733,19250
+2015,Idaho,Autism,2584,57,2527,54,39,34,304,0,80,2073
+2015,Idaho,Deaf-blindness,51,6,45,0,4,3,10,0,3,31
+2015,Idaho,Developmental delay,1816,195,1621,55,24,13,424,0,58,1242
+2015,Idaho,Emotional disturbance,1422,28,1394,29,11,34,164,0,62,1122
+2015,Idaho,Hearing impairment,259,28,231,5,10,6,66,0,5,167
+2015,Idaho,Intellectual disability,2031,242,1789,44,26,48,491,0,56,1366
+2015,Idaho,Multiple disabilities,583,20,563,11,10,12,82,0,16,452
+2015,Idaho,Orthopedic impairment,83,5,78,0,3,2,15,0,1,62
+2015,Idaho,Other health impairment,5235,210,5025,94,37,96,731,0,179,4098
+2015,Idaho,Specific learning disability,6621,702,5919,176,45,90,1764,0,139,4407
+2015,Idaho,Speech or language impairment,5504,392,5112,156,63,42,1011,0,131,4101
+2015,Idaho,Traumatic brain injury,108,12,96,2,2,4,31,0,2,67
+2015,Idaho,Visual impairment,90,3,87,1,3,1,22,0,1,62
+2015,Illinois,All Disabilities,258906,18955,239951,1369,5458,56602,57640,330,8794,128713
+2015,Illinois,Autism,21077,1378,19699,119,1132,3431,3671,46,690,11988
+2015,Illinois,Deaf-blindness,23,0,23,0,0,4,3,0,1,15
+2015,Illinois,Developmental delay,18301,1981,16320,103,504,3517,4462,30,720,8965
+2015,Illinois,Emotional disturbance,19198,412,18786,70,217,5798,2543,15,915,9640
+2015,Illinois,Hearing impairment,3267,217,3050,14,143,506,899,8,104,1593
+2015,Illinois,Intellectual disability,16867,1675,15192,93,417,5742,3606,20,383,6606
+2015,Illinois,Multiple disabilities,2458,87,2371,13,98,397,406,7,78,1459
+2015,Illinois,Orthopedic impairment,1123,66,1057,3,54,166,224,2,37,637
+2015,Illinois,Other health impairment,33997,1011,32986,151,499,5472,4541,38,1346,21950
+2015,Illinois,Specific learning disability,103534,9527,94007,552,1172,26383,29613,98,3109,42607
+2015,Illinois,Speech or language impairment,37399,2504,34895,245,1169,4825,7336,63,1345,22416
+2015,Illinois,Traumatic brain injury,651,43,608,3,15,181,126,0,26,300
+2015,Illinois,Visual impairment,1011,54,957,3,38,180,210,3,40,537
+2015,Indiana,All Disabilities,153319,7575,145744,422,1295,21002,14083,72,7678,108767
+2015,Indiana,Autism,14159,554,13605,30,219,1378,1095,5,651,10781
+2015,Indiana,Deaf-blindness,24,2,22,0,0,3,2,0,1,18
+2015,Indiana,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Indiana,Emotional disturbance,12642,166,12476,46,20,2265,655,8,908,8740
+2015,Indiana,Hearing impairment,2113,155,1958,3,75,193,210,4,80,1548
+2015,Indiana,Intellectual disability,14093,1035,13058,36,136,3124,1405,10,650,8732
+2015,Indiana,Multiple disabilities,2018,144,1874,3,31,251,177,3,84,1469
+2015,Indiana,Orthopedic impairment,1399,82,1317,3,46,132,116,0,60,1042
+2015,Indiana,Other health impairment,20742,522,20220,59,119,2871,1242,6,1149,15296
+2015,Indiana,Specific learning disability,54379,3076,51303,176,260,7999,5728,21,2561,37634
+2015,Indiana,Speech or language impairment,30357,1770,28587,62,362,2616,3318,15,1475,22509
+2015,Indiana,Traumatic brain injury,443,31,412,1,3,67,41,0,22,309
+2015,Indiana,Visual impairment,950,38,912,3,24,103,94,0,37,689
+2015,Iowa,All Disabilities,57596,3473,54123,357,654,5392,6524,111,2419,42139
+2015,Iowa,Autism,644,NA,NA,4,7,61,74,1,27,470
+2015,Iowa,Deaf-blindness,0,NA,NA,0,0,0,0,0,0,0
+2015,Iowa,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Iowa,Emotional disturbance,5610,NA,NA,35,64,526,636,11,236,4102
+2015,Iowa,Hearing impairment,399,NA,NA,3,5,38,46,1,17,289
+2015,Iowa,Intellectual disability,9921,NA,NA,62,113,929,1124,19,417,7257
+2015,Iowa,Multiple disabilities,316,NA,NA,2,4,30,37,1,14,228
+2015,Iowa,Orthopedic impairment,644,NA,NA,4,7,61,74,1,27,470
+2015,Iowa,Other health impairment,78,NA,NA,0,1,8,9,0,3,57
+2015,Iowa,Specific learning disability,34789,NA,NA,215,394,3251,3935,67,1459,25468
+2015,Iowa,Speech or language impairment,4963,NA,NA,31,56,465,562,10,209,3630
+2015,Iowa,Traumatic brain injury,154,NA,NA,1,2,15,18,0,7,111
+2015,Iowa,Visual impairment,78,NA,NA,0,1,8,9,0,3,57
+2015,Kansas,All Disabilities,59375,4811,54564,754,833,5476,10204,75,3243,38790
+2015,Kansas,Autism,3608,92,3516,30,100,313,446,4,210,2505
+2015,Kansas,Deaf-blindness,15,1,14,0,2,0,4,0,0,9
+2015,Kansas,Developmental delay,5902,565,5337,65,78,396,1039,5,322,3997
+2015,Kansas,Emotional disturbance,2290,38,2252,27,12,311,233,2,200,1505
+2015,Kansas,Hearing impairment,532,47,485,4,24,41,95,0,26,342
+2015,Kansas,Intellectual disability,3302,195,3107,43,55,499,607,4,185,1909
+2015,Kansas,Multiple disabilities,2790,68,2722,36,40,249,334,5,163,1963
+2015,Kansas,Orthopedic impairment,219,13,206,3,9,9,37,1,7,153
+2015,Kansas,Other health impairment,7546,223,7323,74,64,644,753,9,462,5540
+2015,Kansas,Specific learning disability,24406,2854,21552,386,250,2589,5285,34,1220,14642
+2015,Kansas,Speech or language impairment,8433,699,7734,76,181,395,1317,9,428,6027
+2015,Kansas,Traumatic brain injury,137,4,133,4,4,15,23,0,10,81
+2015,Kansas,Visual impairment,195,12,183,6,14,15,31,2,10,117
+2015,Kentucky,All Disabilities,82239,2322,79917,115,574,9780,3914,52,2583,65221
+2015,Kentucky,Autism,5578,152,5426,9,65,570,224,3,161,4546
+2015,Kentucky,Deaf-blindness,11,1,10,0,0,2,1,0,0,8
+2015,Kentucky,Developmental delay,6654,233,6421,3,44,779,378,3,235,5212
+2015,Kentucky,Emotional disturbance,4422,36,4386,12,6,946,136,1,196,3125
+2015,Kentucky,Hearing impairment,611,38,573,1,19,58,37,0,15,481
+2015,Kentucky,Intellectual disability,13222,338,12884,14,75,1562,431,5,271,10864
+2015,Kentucky,Multiple disabilities,1953,49,1904,2,20,211,91,3,36,1590
+2015,Kentucky,Orthopedic impairment,374,10,364,0,6,37,5,0,17,309
+2015,Kentucky,Other health impairment,13808,158,13650,18,45,2199,453,5,495,10593
+2015,Kentucky,Specific learning disability,15698,636,15062,27,71,1779,1030,16,501,12274
+2015,Kentucky,Speech or language impairment,19223,651,18572,28,211,1570,1090,16,642,15666
+2015,Kentucky,Traumatic brain injury,223,5,218,1,4,24,11,0,7,176
+2015,Kentucky,Visual impairment,462,15,447,0,8,43,27,0,7,377
+2015,Louisiana,All Disabilities,73791,1079,72712,507,513,36104,2626,40,1252,32749
+2015,Louisiana,Autism,4624,67,4557,22,97,1806,214,2,86,2397
+2015,Louisiana,Deaf-blindness,2,NA,2,NA,NA,NA,NA,NA,NA,2
+2015,Louisiana,Developmental delay,7222,117,7105,41,41,3735,243,2,183,2977
+2015,Louisiana,Emotional disturbance,1763,5,1758,4,2,1033,33,1,28,662
+2015,Louisiana,Hearing impairment,1141,27,1114,12,19,489,72,3,17,529
+2015,Louisiana,Intellectual disability,7236,80,7156,39,44,4591,196,3,64,2299
+2015,Louisiana,Multiple disabilities,985,5,980,10,10,410,31,2,13,509
+2015,Louisiana,Orthopedic impairment,981,10,971,8,13,386,32,1,9,532
+2015,Louisiana,Other health impairment,10411,99,10312,54,27,4436,306,6,167,5415
+2015,Louisiana,Specific learning disability,24362,385,23977,232,76,13437,862,7,350,9398
+2015,Louisiana,Speech or language impairment,14364,271,14093,82,175,5456,611,13,329,7698
+2015,Louisiana,Traumatic brain injury,220,2,218,1,1,121,7,NA,2,88
+2015,Louisiana,Visual impairment,480,11,469,2,8,204,19,NA,4,243
+2015,Maine,All Disabilities,29019,663,28356,367,246,851,650,19,614,26272
+2015,Maine,Autism,2721,21,2700,32,24,63,48,2,62,2490
+2015,Maine,Deaf-blindness,0,0,0,0,0,0,0,0,0,0
+2015,Maine,Developmental delay,31,2,29,0,1,1,0,0,1,28
+2015,Maine,Emotional disturbance,2234,49,2185,52,15,82,47,1,54,1983
+2015,Maine,Hearing impairment,127,6,121,3,2,6,3,0,1,112
+2015,Maine,Intellectual disability,763,33,730,9,3,31,18,0,13,689
+2015,Maine,Multiple disabilities,2991,56,2935,38,32,89,64,3,65,2700
+2015,Maine,Orthopedic impairment,40,2,38,0,0,4,1,0,0,35
+2015,Maine,Other health impairment,6267,117,6150,60,37,191,135,5,126,5713
+2015,Maine,Specific learning disability,9416,252,9164,119,74,278,228,4,177,8536
+2015,Maine,Speech or language impairment,4350,122,4228,53,56,101,106,4,114,3916
+2015,Maine,Traumatic brain injury,40,1,39,0,2,4,0,0,0,34
+2015,Maine,Visual impairment,39,2,37,1,0,1,0,0,1,36
+2015,Maryland,All Disabilities,91967,5874,86093,304,2509,38831,12434,86,3383,34420
+2015,Maryland,Autism,9898,372,9526,34,615,3685,1016,7,393,4148
+2015,Maryland,Deaf-blindness,13,1,12,0,0,3,2,0,1,7
+2015,Maryland,Developmental delay,2763,557,2206,10,156,1057,675,3,112,750
+2015,Maryland,Emotional disturbance,6203,82,6121,21,49,3396,365,8,245,2119
+2015,Maryland,Hearing impairment,826,50,776,1,64,227,134,1,23,376
+2015,Maryland,Intellectual disability,5533,258,5275,8,157,3149,632,7,132,1448
+2015,Maryland,Multiple disabilities,4982,151,4831,15,158,1586,491,5,218,2509
+2015,Maryland,Orthopedic impairment,211,17,194,1,9,82,33,0,5,81
+2015,Maryland,Other health impairment,17688,615,17073,62,273,8189,1693,17,710,6744
+2015,Maryland,Specific learning disability,30639,2661,27978,110,456,13270,5617,21,990,10175
+2015,Maryland,Speech or language impairment,12719,1087,11632,39,538,3976,1727,17,533,5889
+2015,Maryland,Traumatic brain injury,222,9,213,2,10,106,21,0,11,72
+2015,Maryland,Visual impairment,270,14,256,1,24,105,28,0,10,102
+2015,Massachusetts,All Disabilities,151397,13298,138099,441,4390,15570,32688,117,4796,93395
+2015,Massachusetts,Autism,15434,567,14867,23,826,1201,2066,13,480,10825
+2015,Massachusetts,Deaf-blindness,150,16,134,0,7,17,28,0,3,95
+2015,Massachusetts,Developmental delay,11217,1559,9658,27,332,1231,2603,11,467,6546
+2015,Massachusetts,Emotional disturbance,15137,814,14323,53,216,2000,3492,9,634,8733
+2015,Massachusetts,Hearing impairment,1044,121,923,3,69,99,225,1,25,622
+2015,Massachusetts,Intellectual disability,8643,1416,7227,26,248,1474,2844,7,207,3837
+2015,Massachusetts,Multiple disabilities,3593,255,3338,5,108,276,688,3,105,2408
+2015,Massachusetts,Orthopedic impairment,1025,95,930,2,46,107,186,0,23,661
+2015,Massachusetts,Other health impairment,20572,952,19620,52,292,1475,3531,12,616,14594
+2015,Massachusetts,Specific learning disability,41983,3836,38147,131,668,4487,9528,33,1268,25868
+2015,Massachusetts,Speech or language impairment,22949,3222,19727,92,1294,2356,6051,20,671,12465
+2015,Massachusetts,Traumatic brain injury,9093,413,8680,27,253,800,1364,8,281,6360
+2015,Massachusetts,Visual impairment,557,32,525,0,31,47,82,0,16,381
+2015,Michigan,All Disabilities,176743,8917,167826,1609,2321,37117,12713,127,6105,116751
+2015,Michigan,Autism,16414,517,15897,130,453,2674,772,17,452,11916
+2015,Michigan,Deaf-blindness,10,2,8,0,1,1,3,0,0,5
+2015,Michigan,Developmental delay,2003,167,1836,21,37,434,169,1,93,1248
+2015,Michigan,Emotional disturbance,11325,138,11187,128,52,2139,568,4,480,7954
+2015,Michigan,Hearing impairment,2333,219,2114,10,83,421,193,3,68,1555
+2015,Michigan,Intellectual disability,17165,831,16334,152,214,5265,1139,14,464,9917
+2015,Michigan,Multiple disabilities,2584,70,2514,13,57,548,173,2,55,1736
+2015,Michigan,Orthopedic impairment,1470,85,1385,8,37,248,86,1,38,1052
+2015,Michigan,Other health impairment,23734,689,23045,249,187,4450,1302,24,905,16617
+2015,Michigan,Specific learning disability,61962,3559,58403,581,422,14299,5143,35,2114,39368
+2015,Michigan,Speech or language impairment,36559,2566,33993,306,743,6403,3079,25,1386,24617
+2015,Michigan,Traumatic brain injury,494,23,471,6,3,117,44,1,23,300
+2015,Michigan,Visual impairment,690,51,639,5,32,118,42,0,27,466
+2015,Minnesota,All Disabilities,112375,8910,103465,3284,4576,13943,11394,70,5537,73571
+2015,Minnesota,Autism,16084,814,15270,279,770,1402,1007,17,689,11920
+2015,Minnesota,Deaf-blindness,71,5,66,1,6,7,10,0,3,44
+2015,Minnesota,Developmental delay,2745,363,2382,112,122,295,389,4,189,1634
+2015,Minnesota,Emotional disturbance,14736,371,14365,762,167,2794,1073,6,1095,8839
+2015,Minnesota,Hearing impairment,2072,290,1782,27,255,200,234,1,58,1297
+2015,Minnesota,Intellectual disability,7503,584,6919,225,336,1283,643,4,261,4751
+2015,Minnesota,Multiple disabilities,1421,103,1318,29,74,237,116,3,48,914
+2015,Minnesota,Orthopedic impairment,1456,144,1312,22,99,151,114,2,48,1020
+2015,Minnesota,Other health impairment,18679,602,18077,502,307,2154,1418,8,1034,13256
+2015,Minnesota,Specific learning disability,30298,3998,26300,936,1457,4221,4753,17,1314,17600
+2015,Minnesota,Speech or language impairment,16491,1568,14923,362,938,1087,1571,8,770,11755
+2015,Minnesota,Traumatic brain injury,420,25,395,17,17,65,31,0,20,270
+2015,Minnesota,Visual impairment,399,43,356,10,28,47,35,0,8,271
+2015,Mississippi,All Disabilities,58139,829,57310,134,267,28323,1273,15,856,27271
+2015,Mississippi,Autism,3989,59,3930,4,40,1465,114,2,66,2298
+2015,Mississippi,Deaf-blindness,7,1,6,0,0,2,0,0,0,5
+2015,Mississippi,Developmental delay,5089,100,4989,13,24,2881,158,3,128,1882
+2015,Mississippi,Emotional disturbance,3544,16,3528,3,8,1963,41,0,52,1477
+2015,Mississippi,Hearing impairment,705,21,684,3,12,328,31,0,8,323
+2015,Mississippi,Intellectual disability,3486,56,3430,12,12,2387,69,0,29,977
+2015,Mississippi,Multiple disabilities,1198,7,1191,1,8,586,21,0,12,570
+2015,Mississippi,Orthopedic impairment,419,4,415,3,6,182,11,0,0,217
+2015,Mississippi,Other health impairment,10806,115,10691,27,24,5608,161,4,138,4844
+2015,Mississippi,Specific learning disability,14337,267,14070,44,46,7267,373,2,171,6434
+2015,Mississippi,Speech or language impairment,14058,171,13887,23,83,5402,282,4,247,8017
+2015,Mississippi,Traumatic brain injury,157,5,152,0,1,81,4,0,2,69
+2015,Mississippi,Visual impairment,344,7,337,1,3,171,8,0,3,158
+2015,Missouri,All Disabilities,109205,2762,106443,580,1119,20537,5353,128,3307,78181
+2015,Missouri,Autism,10121,196,9925,46,218,1593,441,13,332,7478
+2015,Missouri,Deaf-blindness,22,0,22,1,0,1,2,0,0,18
+2015,Missouri,Developmental delay,865,46,819,4,16,188,57,0,40,560
+2015,Missouri,Emotional disturbance,6439,35,6404,35,21,1643,200,4,280,4256
+2015,Missouri,Hearing impairment,1076,37,1039,6,25,182,73,2,32,756
+2015,Missouri,Intellectual disability,9285,202,9083,47,105,2612,441,9,206,5865
+2015,Missouri,Multiple disabilities,1356,12,1344,3,33,302,66,2,37,913
+2015,Missouri,Orthopedic impairment,439,11,428,4,12,58,18,0,4,343
+2015,Missouri,Other health impairment,22958,244,22714,140,138,4038,740,16,713,17173
+2015,Missouri,Specific learning disability,30040,1043,28997,154,141,6003,1850,51,805,21036
+2015,Missouri,Speech or language impairment,25794,915,24879,136,397,3778,1434,24,841,19184
+2015,Missouri,Traumatic brain injury,366,7,359,3,2,70,9,2,10,270
+2015,Missouri,Visual impairment,444,14,430,1,11,69,22,5,7,329
+2015,Montana,All Disabilities,15795,635,15160,2336,89,192,840,38,520,11780
+2015,Montana,Autism,675,11,664,47,4,5,33,2,23,561
+2015,Montana,Deaf-blindness,7,1,6,3,0,0,0,0,0,4
+2015,Montana,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Montana,Emotional disturbance,761,21,740,95,3,12,43,3,30,575
+2015,Montana,Hearing impairment,72,4,68,10,2,0,5,0,1,54
+2015,Montana,Intellectual disability,576,27,549,105,5,10,25,4,18,409
+2015,Montana,Multiple disabilities,3484,110,3374,524,23,47,171,8,112,2599
+2015,Montana,Orthopedic impairment,42,3,39,2,0,0,3,0,0,37
+2015,Montana,Other health impairment,2053,47,2006,181,5,44,120,3,59,1641
+2015,Montana,Specific learning disability,5159,262,4897,884,20,50,296,13,157,3739
+2015,Montana,Speech or language impairment,2884,146,2738,471,26,20,141,5,117,2104
+2015,Montana,Traumatic brain injury,39,1,38,6,1,3,1,0,1,27
+2015,Montana,Visual impairment,43,2,41,8,0,1,2,0,2,30
+2015,Nebraska,All Disabilities,42238,1689,40549,872,574,3826,7703,46,1726,27491
+2015,Nebraska,Autism,3033,50,2983,35,61,180,369,2,130,2256
+2015,Nebraska,Deaf-blindness,12,0,12,0,0,2,2,0,0,8
+2015,Nebraska,Developmental delay,1548,137,1411,71,22,90,250,4,81,1030
+2015,Nebraska,Emotional disturbance,2313,17,2296,69,9,423,283,3,173,1353
+2015,Nebraska,Hearing impairment,656,33,623,9,24,40,128,2,24,429
+2015,Nebraska,Intellectual disability,2987,53,2934,94,44,331,570,1,106,1841
+2015,Nebraska,Multiple disabilities,409,1,408,13,3,28,67,0,12,286
+2015,Nebraska,Orthopedic impairment,251,16,235,1,11,17,38,0,13,171
+2015,Nebraska,Other health impairment,6140,72,6068,82,36,503,686,7,275,4551
+2015,Nebraska,Specific learning disability,15118,674,14444,341,152,1622,3739,17,573,8674
+2015,Nebraska,Speech or language impairment,9342,624,8718,148,200,571,1515,9,318,6581
+2015,Nebraska,Traumatic brain injury,199,4,195,5,2,12,30,1,10,139
+2015,Nebraska,Visual impairment,230,8,222,4,10,7,26,0,11,172
+2015,Nevada,All Disabilities,46614,11597,35017,749,1147,6572,18294,428,2639,16785
+2015,Nevada,Autism,5293,1059,4234,47,354,490,1675,51,370,2306
+2015,Nevada,Deaf-blindness,5,0,5,0,1,0,2,0,0,2
+2015,Nevada,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Nevada,Emotional disturbance,1826,136,1690,18,15,432,393,14,146,808
+2015,Nevada,Hearing impairment,435,121,314,7,21,40,215,8,21,123
+2015,Nevada,Intellectual disability,1989,686,1303,31,75,343,890,21,99,530
+2015,Nevada,Multiple disabilities,1249,333,916,11,67,177,466,17,66,445
+2015,Nevada,Orthopedic impairment,273,59,214,4,12,36,97,2,12,110
+2015,Nevada,Other health impairment,4778,556,4222,74,55,679,1226,29,324,2391
+2015,Nevada,Specific learning disability,23764,7413,16351,442,323,3777,11025,217,1096,6884
+2015,Nevada,Speech or language impairment,6678,1177,5501,109,215,548,2188,65,483,3070
+2015,Nevada,Traumatic brain injury,182,31,151,4,6,35,64,4,11,58
+2015,Nevada,Visual impairment,142,26,116,2,3,15,53,0,11,58
+2015,New Hampshire,All Disabilities,25471,451,25020,107,305,840,1158,33,5,23023
+2015,New Hampshire,Autism,2381,27,2354,6,51,61,78,6,1,2178
+2015,New Hampshire,Deaf-blindness,7,0,7,0,0,0,0,0,0,7
+2015,New Hampshire,Developmental delay,1860,18,1842,8,24,51,104,4,1,1668
+2015,New Hampshire,Emotional disturbance,2107,17,2090,10,5,92,79,2,1,1918
+2015,New Hampshire,Hearing impairment,181,7,174,2,9,5,15,0,0,150
+2015,New Hampshire,Intellectual disability,774,28,746,3,13,38,46,0,0,674
+2015,New Hampshire,Multiple disabilities,358,4,354,1,9,13,11,1,0,323
+2015,New Hampshire,Orthopedic impairment,54,1,53,1,2,1,4,0,0,46
+2015,New Hampshire,Other health impairment,5120,59,5061,14,39,163,177,3,0,4724
+2015,New Hampshire,Specific learning disability,9437,226,9211,44,79,304,502,6,1,8501
+2015,New Hampshire,Speech or language impairment,3016,60,2956,18,70,101,134,10,1,2682
+2015,New Hampshire,Traumatic brain injury,67,2,65,0,2,4,4,0,0,57
+2015,New Hampshire,Visual impairment,109,2,107,0,2,7,4,1,0,95
+2015,New Jersey,All Disabilities,213727,4660,209067,286,8486,38436,52607,292,2825,110795
+2015,New Jersey,Autism,17431,103,17328,19,1640,2559,3564,42,238,9369
+2015,New Jersey,Deaf-blindness,24,0,24,0,2,4,5,0,0,13
+2015,New Jersey,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,New Jersey,Emotional disturbance,7955,42,7913,12,162,2455,1643,11,130,3542
+2015,New Jersey,Hearing impairment,1477,46,1431,1,137,154,436,2,20,727
+2015,New Jersey,Intellectual disability,5049,268,4781,9,226,1582,1819,5,41,1367
+2015,New Jersey,Multiple disabilities,15834,179,15655,31,602,4069,3611,22,215,7284
+2015,New Jersey,Orthopedic impairment,378,9,369,1,30,41,80,1,3,222
+2015,New Jersey,Other health impairment,43771,478,43293,51,1073,7089,8609,38,611,26300
+2015,New Jersey,Specific learning disability,75723,1666,74057,94,1835,14251,19926,71,857,38689
+2015,New Jersey,Speech or language impairment,45095,1846,43249,67,2728,6044,12641,97,702,22816
+2015,New Jersey,Traumatic brain injury,606,12,594,0,21,145,159,1,5,275
+2015,New Jersey,Visual impairment,384,11,373,1,30,43,114,2,3,191
+2015,New Mexico,All Disabilities,45422,10628,34794,5046,234,1063,28374,38,718,9949
+2015,New Mexico,Autism,2527,333,2194,164,45,72,1172,5,72,997
+2015,New Mexico,Deaf-blindness,12,1,11,0,0,0,8,0,0,4
+2015,New Mexico,Developmental delay,3002,799,2203,464,9,63,1814,4,71,577
+2015,New Mexico,Emotional disturbance,1959,219,1740,173,6,85,1062,1,45,587
+2015,New Mexico,Hearing impairment,493,92,401,58,11,11,289,0,9,115
+2015,New Mexico,Intellectual disability,2049,648,1401,260,20,50,1311,1,25,382
+2015,New Mexico,Multiple disabilities,797,190,607,90,6,13,492,1,4,191
+2015,New Mexico,Orthopedic impairment,229,42,187,11,3,5,142,0,4,64
+2015,New Mexico,Other health impairment,4213,714,3499,316,18,111,2427,0,55,1286
+2015,New Mexico,Specific learning disability,21964,5861,16103,2589,74,503,14701,14,305,3778
+2015,New Mexico,Speech or language impairment,7798,1667,6131,862,40,143,4756,12,122,1863
+2015,New Mexico,Traumatic brain injury,199,41,158,38,1,6,90,0,3,61
+2015,New Mexico,Visual impairment,180,21,159,21,1,1,110,0,3,44
+2015,New York,All Disabilities,432484,42769,389715,2906,16372,94472,130351,692,6818,180873
+2015,New York,Autism,30787,2096,28691,183,1733,5773,6907,94,474,15623
+2015,New York,Deaf-blindness,8,0,8,0,0,1,1,0,1,5
+2015,New York,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,New York,Emotional disturbance,24377,867,23510,187,330,9284,5977,31,518,8050
+2015,New York,Hearing impairment,3894,417,3477,27,377,578,1140,7,48,1717
+2015,New York,Intellectual disability,12557,2883,9674,110,651,3686,3785,41,134,4150
+2015,New York,Multiple disabilities,15091,1188,13903,106,687,2800,3129,35,211,8123
+2015,New York,Orthopedic impairment,1595,82,1513,17,103,337,381,5,23,729
+2015,New York,Other health impairment,71494,2373,69121,368,1535,11121,13113,61,1577,43719
+2015,New York,Specific learning disability,166256,16933,149323,1176,5178,39284,52977,214,2279,65148
+2015,New York,Speech or language impairment,104725,15845,88880,721,5706,21358,42638,202,1514,32586
+2015,New York,Traumatic brain injury,945,51,894,9,36,174,188,2,17,519
+2015,New York,Visual impairment,755,34,721,2,36,76,115,0,22,504
+2015,North Carolina,All Disabilities,179738,14662,165076,2860,2146,57354,25166,162,7091,84959
+2015,North Carolina,Autism,15983,863,15120,100,456,4186,1659,19,671,8892
+2015,North Carolina,Deaf-blindness,27,2,25,1,0,9,5,0,0,12
+2015,North Carolina,Developmental delay,6742,849,5893,80,128,2321,1182,7,247,2777
+2015,North Carolina,Emotional disturbance,5462,96,5366,44,19,2430,343,5,299,2322
+2015,North Carolina,Hearing impairment,1713,228,1485,22,52,481,371,6,64,717
+2015,North Carolina,Intellectual disability,16360,1461,14899,483,175,7441,1959,8,497,5797
+2015,North Carolina,Multiple disabilities,2597,142,2455,36,58,739,354,5,82,1323
+2015,North Carolina,Orthopedic impairment,716,56,660,2,29,135,101,1,22,426
+2015,North Carolina,Other health impairment,34871,1048,33823,351,192,10987,2635,22,1598,19086
+2015,North Carolina,Specific learning disability,73689,8141,65548,1177,663,23450,13585,67,2780,31967
+2015,North Carolina,Speech or language impairment,20504,1704,18800,549,343,4861,2836,17,788,11110
+2015,North Carolina,Traumatic brain injury,513,32,481,9,12,159,55,2,19,257
+2015,North Carolina,Visual impairment,561,40,521,6,19,155,81,3,24,273
+2015,North Dakota,All Disabilities,11981,375,11606,1324,71,513,704,25,263,9081
+2015,North Dakota,Autism,928,10,918,60,10,36,39,2,13,768
+2015,North Dakota,Deaf-blindness,3,0,3,0,0,0,0,0,0,3
+2015,North Dakota,Developmental delay,1039,37,1002,143,8,53,73,1,33,728
+2015,North Dakota,Emotional disturbance,878,9,869,107,0,51,48,4,14,654
+2015,North Dakota,Hearing impairment,114,12,102,13,1,11,5,1,1,82
+2015,North Dakota,Intellectual disability,734,28,706,86,6,41,37,1,9,554
+2015,North Dakota,Multiple disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,North Dakota,Orthopedic impairment,66,1,65,3,2,2,0,0,0,59
+2015,North Dakota,Other health impairment,1845,37,1808,146,7,71,102,3,39,1477
+2015,North Dakota,Specific learning disability,4242,178,4064,499,18,181,279,6,85,3174
+2015,North Dakota,Speech or language impairment,2043,61,1982,262,17,63,117,7,68,1509
+2015,North Dakota,Traumatic brain injury,45,0,45,3,1,1,1,0,0,39
+2015,North Dakota,Visual impairment,44,2,42,2,1,3,3,0,1,34
+2015,Northern Marianas,All Disabilities,793,232,561,0,194,0,0,479,NA,NA
+2015,Northern Marianas,Autism,96,10,86,0,48,0,0,28,NA,NA
+2015,Northern Marianas,Deaf-blindness,2,0,2,0,1,0,0,0,NA,NA
+2015,Northern Marianas,Developmental delay,55,13,42,0,16,0,0,34,NA,NA
+2015,Northern Marianas,Emotional disturbance,9,4,5,0,1,0,0,6,NA,NA
+2015,Northern Marianas,Hearing impairment,25,5,20,0,7,0,0,15,NA,NA
+2015,Northern Marianas,Intellectual disability,57,13,44,0,7,0,0,42,NA,NA
+2015,Northern Marianas,Multiple disabilities,36,8,28,0,20,0,0,14,NA,NA
+2015,Northern Marianas,Orthopedic impairment,5,1,4,0,2,0,0,3,NA,NA
+2015,Northern Marianas,Other health impairment,93,27,66,0,27,0,0,55,NA,NA
+2015,Northern Marianas,Specific learning disability,391,143,248,0,59,0,0,272,NA,NA
+2015,Northern Marianas,Speech or language impairment,18,6,12,0,5,0,0,6,NA,NA
+2015,Northern Marianas,Traumatic brain injury,3,2,1,0,1,0,0,2,NA,NA
+2015,Northern Marianas,Visual impairment,3,0,3,0,0,0,0,2,NA,NA
+2015,Ohio,All Disabilities,231999,5528,226471,350,1862,45359,11386,126,11032,161884
+2015,Ohio,Autism,19968,338,19630,30,369,2665,828,11,846,15219
+2015,Ohio,Deaf-blindness,38,0,38,0,0,9,0,0,4,25
+2015,Ohio,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Ohio,Emotional disturbance,14979,151,14828,21,55,4870,612,4,979,8438
+2015,Ohio,Hearing impairment,1863,56,1807,0,45,312,121,2,72,1311
+2015,Ohio,Intellectual disability,19840,509,19331,31,109,5452,832,10,925,12481
+2015,Ohio,Multiple disabilities,12515,245,12270,14,160,2418,510,9,492,8912
+2015,Ohio,Orthopedic impairment,1324,48,1276,0,38,189,51,0,42,1004
+2015,Ohio,Other health impairment,38211,616,37595,57,216,6771,1689,12,1993,27473
+2015,Ohio,Specific learning disability,95720,2786,92934,157,515,19260,5361,58,4415,65954
+2015,Ohio,Speech or language impairment,25243,719,24524,36,314,2990,1288,20,1174,19421
+2015,Ohio,Traumatic brain injury,1431,43,1388,4,14,314,55,0,60,984
+2015,Ohio,Visual impairment,867,17,850,0,27,109,39,0,30,662
+2015,Oklahoma,All Disabilities,99436,5199,94237,16614,744,11057,12741,191,7183,50906
+2015,Oklahoma,Autism,5202,188,5014,757,99,414,526,8,363,3035
+2015,Oklahoma,Deaf-blindness,20,1,19,5,1,1,3,0,1,9
+2015,Oklahoma,Developmental delay,15280,723,14557,2352,159,1247,1759,29,1397,8337
+2015,Oklahoma,Emotional disturbance,4078,57,4021,635,10,603,295,4,336,2195
+2015,Oklahoma,Hearing impairment,1234,80,1154,154,24,115,207,3,87,644
+2015,Oklahoma,Intellectual disability,5968,355,5613,968,50,1057,814,27,340,2712
+2015,Oklahoma,Multiple disabilities,1557,49,1508,240,15,154,179,3,93,873
+2015,Oklahoma,Orthopedic impairment,352,20,332,48,3,34,42,0,28,197
+2015,Oklahoma,Other health impairment,15787,328,15459,2644,61,1557,1172,19,1208,9126
+2015,Oklahoma,Specific learning disability,39786,2879,36907,7031,186,5200,6438,79,2472,18380
+2015,Oklahoma,Speech or language impairment,9380,491,8889,1639,125,624,1224,18,812,4938
+2015,Oklahoma,Traumatic brain injury,239,9,230,50,3,21,33,1,21,110
+2015,Oklahoma,Visual impairment,553,19,534,91,8,30,49,0,25,350
+2015,Oregon,All Disabilities,74143,8133,66010,1513,1514,2429,17776,397,4200,46314
+2015,Oregon,Autism,8665,538,8127,123,333,167,1300,38,546,6158
+2015,Oregon,Deaf-blindness,5,0,5,0,1,0,0,0,0,4
+2015,Oregon,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Oregon,Emotional disturbance,4704,178,4526,89,38,231,671,18,315,3342
+2015,Oregon,Hearing impairment,844,139,705,13,52,27,269,15,37,431
+2015,Oregon,Intellectual disability,3951,434,3517,93,87,169,965,24,186,2427
+2015,Oregon,Multiple disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Oregon,Orthopedic impairment,649,38,611,10,20,19,134,3,27,436
+2015,Oregon,Other health impairment,12569,641,11928,286,160,531,2002,48,829,8713
+2015,Oregon,Specific learning disability,25931,3323,22608,613,309,806,7830,143,1334,14896
+2015,Oregon,Speech or language impairment,16294,2804,13490,272,499,465,4478,107,895,9578
+2015,Oregon,Traumatic brain injury,240,15,225,9,3,9,51,1,17,150
+2015,Oregon,Visual impairment,291,23,268,5,12,5,76,0,14,179
+2015,Pennsylvania,All Disabilities,270611,9912,260699,520,3977,46628,30228,139,10012,179107
+2015,Pennsylvania,Autism,27411,606,26805,45,796,3494,2371,21,1330,19354
+2015,Pennsylvania,Deaf-blindness,61,3,58,0,0,13,2,0,8,38
+2015,Pennsylvania,Developmental delay,143,14,129,2,6,33,9,0,7,86
+2015,Pennsylvania,Emotional disturbance,23322,340,22982,52,124,5798,2290,11,989,14058
+2015,Pennsylvania,Hearing impairment,2665,124,2541,5,116,374,282,2,149,1737
+2015,Pennsylvania,Intellectual disability,17737,901,16836,36,349,4124,1882,7,745,10594
+2015,Pennsylvania,Multiple disabilities,3011,59,2952,4,71,411,380,2,127,2016
+2015,Pennsylvania,Orthopedic impairment,719,19,700,1,18,116,66,0,41,477
+2015,Pennsylvania,Other health impairment,38473,1070,37403,75,410,5940,4001,16,1358,26673
+2015,Pennsylvania,Specific learning disability,117666,5512,112154,233,1093,21944,15414,43,3716,75223
+2015,Pennsylvania,Speech or language impairment,37661,1217,36444,65,951,4107,3382,36,1469,27651
+2015,Pennsylvania,Traumatic brain injury,622,16,606,1,8,105,62,0,17,429
+2015,Pennsylvania,Visual impairment,1120,31,1089,1,35,169,87,1,56,771
+2015,Puerto Rico,All Disabilities,107073,460,106613,62,NA,17,106859,NA,0,124
+2015,Puerto Rico,Autism,4009,41,3968,1,1,1,3998,1,0,7
+2015,Puerto Rico,Deaf-blindness,18,0,18,0,0,0,18,0,0,0
+2015,Puerto Rico,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Puerto Rico,Emotional disturbance,1423,12,1411,2,1,0,1415,0,0,5
+2015,Puerto Rico,Hearing impairment,532,4,528,0,0,0,529,0,0,3
+2015,Puerto Rico,Intellectual disability,6129,37,6092,1,0,0,6124,1,0,3
+2015,Puerto Rico,Multiple disabilities,988,2,986,2,0,0,984,0,0,2
+2015,Puerto Rico,Orthopedic impairment,267,2,265,0,0,0,266,0,0,1
+2015,Puerto Rico,Other health impairment,19723,99,19624,11,1,2,19676,1,0,32
+2015,Puerto Rico,Specific learning disability,51104,216,50888,33,0,8,51024,0,0,39
+2015,Puerto Rico,Speech or language impairment,22368,47,22321,12,3,6,22315,1,0,31
+2015,Puerto Rico,Traumatic brain injury,31,0,31,0,1,0,30,0,0,0
+2015,Puerto Rico,Visual impairment,481,0,481,0,0,0,480,0,0,1
+2015,Republic Of Palau,All Disabilities,91,91,0,0,0,0,0,91,0,0
+2015,Republic Of Palau,Autism,3,3,0,0,0,0,0,3,0,0
+2015,Republic Of Palau,Deaf-blindness,0,0,0,0,0,0,0,0,0,0
+2015,Republic Of Palau,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Republic Of Palau,Emotional disturbance,1,1,0,0,0,0,0,1,0,0
+2015,Republic Of Palau,Hearing impairment,1,1,0,0,0,0,0,1,0,0
+2015,Republic Of Palau,Intellectual disability,3,3,0,0,0,0,0,3,0,0
+2015,Republic Of Palau,Multiple disabilities,8,8,0,0,0,0,0,8,0,0
+2015,Republic Of Palau,Orthopedic impairment,1,1,0,0,0,0,0,1,0,0
+2015,Republic Of Palau,Other health impairment,2,2,0,0,0,0,0,2,0,0
+2015,Republic Of Palau,Specific learning disability,67,67,0,0,0,0,0,67,0,0
+2015,Republic Of Palau,Speech or language impairment,3,3,0,0,0,0,0,3,0,0
+2015,Republic Of Palau,Traumatic brain injury,0,0,0,0,0,0,0,0,0,0
+2015,Republic Of Palau,Visual impairment,2,2,0,0,0,0,0,2,0,0
+2015,Republic Of The Marshall Islands,All Disabilities,768,768,0,0,0,0,0,768,0,0
+2015,Republic Of The Marshall Islands,Autism,5,5,0,0,0,0,0,5,0,0
+2015,Republic Of The Marshall Islands,Deaf-blindness,2,2,0,0,0,0,0,2,0,0
+2015,Republic Of The Marshall Islands,Developmental delay,29,29,0,0,0,0,0,29,0,0
+2015,Republic Of The Marshall Islands,Emotional disturbance,9,9,0,0,0,0,0,9,0,0
+2015,Republic Of The Marshall Islands,Hearing impairment,62,62,0,0,0,0,0,62,0,0
+2015,Republic Of The Marshall Islands,Intellectual disability,12,12,0,0,0,0,0,12,0,0
+2015,Republic Of The Marshall Islands,Multiple disabilities,5,5,0,0,0,0,0,5,0,0
+2015,Republic Of The Marshall Islands,Orthopedic impairment,12,12,0,0,0,0,0,12,0,0
+2015,Republic Of The Marshall Islands,Other health impairment,3,3,0,0,0,0,0,3,0,0
+2015,Republic Of The Marshall Islands,Specific learning disability,578,578,0,0,0,0,0,578,0,0
+2015,Republic Of The Marshall Islands,Speech or language impairment,31,31,0,0,0,0,0,31,0,0
+2015,Republic Of The Marshall Islands,Traumatic brain injury,3,3,0,0,0,0,0,3,0,0
+2015,Republic Of The Marshall Islands,Visual impairment,17,17,0,0,0,0,0,17,0,0
+2015,Rhode Island,All Disabilities,20493,1809,18684,236,322,1910,5331,25,778,11891
+2015,Rhode Island,Autism,2131,51,2080,13,33,127,295,1,75,1587
+2015,Rhode Island,Deaf-blindness,2,0,2,0,0,1,0,0,0,1
+2015,Rhode Island,Developmental delay,1256,135,1121,17,34,123,307,3,66,706
+2015,Rhode Island,Emotional disturbance,1629,43,1586,20,15,199,350,1,84,960
+2015,Rhode Island,Hearing impairment,143,22,121,0,0,17,50,0,2,74
+2015,Rhode Island,Intellectual disability,770,53,717,4,13,88,218,1,22,424
+2015,Rhode Island,Multiple disabilities,368,11,357,5,13,26,84,0,4,236
+2015,Rhode Island,Orthopedic impairment,54,0,54,3,2,2,10,0,1,36
+2015,Rhode Island,Other health impairment,3537,175,3362,41,31,295,748,5,147,2270
+2015,Rhode Island,Specific learning disability,7653,878,6775,102,105,791,2394,10,274,3977
+2015,Rhode Island,Speech or language impairment,2831,437,2394,31,70,231,852,4,99,1544
+2015,Rhode Island,Traumatic brain injury,64,0,64,0,2,3,12,0,1,46
+2015,Rhode Island,Visual impairment,55,4,51,0,4,7,11,0,3,30
+2015,South Carolina,All Disabilities,92344,4818,87526,336,580,38323,6466,83,3181,43375
+2015,South Carolina,Autism,6460,227,6233,22,107,2206,394,7,225,3499
+2015,South Carolina,Deaf-blindness,12,0,12,0,0,3,1,0,0,8
+2015,South Carolina,Developmental delay,4379,314,4065,13,34,2065,391,3,195,1678
+2015,South Carolina,Emotional disturbance,2418,27,2391,9,7,1155,72,4,111,1060
+2015,South Carolina,Hearing impairment,971,98,873,3,25,365,104,1,26,447
+2015,South Carolina,Intellectual disability,6446,264,6182,16,44,3800,338,6,163,2079
+2015,South Carolina,Multiple disabilities,1186,53,1133,8,12,323,87,2,44,710
+2015,South Carolina,Orthopedic impairment,486,40,446,1,8,151,46,0,6,274
+2015,South Carolina,Other health impairment,12994,315,12679,45,47,5032,566,6,442,6856
+2015,South Carolina,Specific learning disability,41809,2611,39198,160,144,18634,3330,38,1380,18123
+2015,South Carolina,Speech or language impairment,14595,835,13760,57,144,4392,1095,16,567,8324
+2015,South Carolina,Traumatic brain injury,188,11,177,0,1,68,16,0,10,93
+2015,South Carolina,Visual impairment,400,23,377,2,7,129,26,0,12,224
+2015,South Dakota,All Disabilities,16900,620,16280,2807,171,543,959,11,581,11828
+2015,South Dakota,Autism,1031,15,1016,120,10,28,52,0,22,799
+2015,South Dakota,Deaf-blindness,3,0,3,0,0,0,0,0,0,3
+2015,South Dakota,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,South Dakota,Emotional disturbance,1099,16,1083,139,0,46,56,1,55,802
+2015,South Dakota,Hearing impairment,135,6,129,30,5,3,15,1,3,78
+2015,South Dakota,Intellectual disability,1680,127,1553,312,30,102,91,0,61,1084
+2015,South Dakota,Multiple disabilities,494,22,472,82,9,24,23,1,17,338
+2015,South Dakota,Orthopedic impairment,59,0,59,7,0,0,1,0,5,46
+2015,South Dakota,Other health impairment,2511,61,2450,299,19,113,124,0,87,1869
+2015,South Dakota,Specific learning disability,6715,285,6430,1401,46,179,442,6,224,4417
+2015,South Dakota,Speech or language impairment,3067,79,2988,396,52,44,150,2,104,2319
+2015,South Dakota,Traumatic brain injury,58,2,56,17,0,2,4,0,3,32
+2015,South Dakota,Visual impairment,48,7,41,4,0,2,1,0,0,41
+2015,Tennessee,All Disabilities,116481,2865,113616,281,1003,29135,7946,75,2020,76021
+2015,Tennessee,Autism,8314,133,8181,18,130,1541,506,9,124,5986
+2015,Tennessee,Deaf-blindness,16,0,16,0,2,5,0,0,0,9
+2015,Tennessee,Developmental delay,5681,118,5563,17,94,1582,525,5,121,3337
+2015,Tennessee,Emotional disturbance,3237,20,3217,12,12,1133,114,2,62,1902
+2015,Tennessee,Hearing impairment,1216,55,1161,1,31,320,128,1,23,712
+2015,Tennessee,Intellectual disability,7889,185,7704,18,84,2672,441,7,85,4582
+2015,Tennessee,Multiple disabilities,1997,37,1960,4,23,446,150,3,31,1340
+2015,Tennessee,Orthopedic impairment,553,15,538,1,17,74,37,0,10,414
+2015,Tennessee,Other health impairment,15872,127,15745,35,78,3695,585,5,315,11159
+2015,Tennessee,Specific learning disability,44581,1401,43180,108,203,12498,3264,18,715,27775
+2015,Tennessee,Speech or language impairment,26236,740,25496,66,310,4993,2144,25,525,18173
+2015,Tennessee,Traumatic brain injury,326,9,317,1,4,68,21,0,0,232
+2015,Tennessee,Visual impairment,563,25,538,0,15,108,31,0,9,400
+2015,Texas,All Disabilities,419451,68923,350528,1828,7715,68655,210684,485,8376,121708
+2015,Texas,Autism,47570,5005,42565,188,2437,6288,19847,55,1267,17488
+2015,Texas,Deaf-blindness,114,6,108,0,1,7,49,0,3,54
+2015,Texas,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Texas,Emotional disturbance,26558,1906,24652,144,175,5367,9631,14,754,10473
+2015,Texas,Hearing impairment,6089,900,5189,17,244,773,3306,13,82,1654
+2015,Texas,Intellectual disability,42795,5883,36912,171,860,9225,22654,70,613,9202
+2015,Texas,Multiple disabilities,6522,467,6055,30,205,900,3040,9,142,2196
+2015,Texas,Orthopedic impairment,3004,487,2517,18,100,336,1573,5,56,916
+2015,Texas,Other health impairment,58240,7243,50997,253,658,9837,24986,54,1421,21031
+2015,Texas,Specific learning disability,159225,31572,127653,659,1244,28407,90698,188,2492,35537
+2015,Texas,Speech or language impairment,65222,14952,50270,326,1693,6909,33044,71,1447,21732
+2015,Texas,Traumatic brain injury,1106,118,988,8,26,196,479,2,26,369
+2015,Texas,Visual impairment,3006,384,2622,14,72,410,1377,4,73,1056
+2015,"US, Outlying Areas, And Freely Associated States",All Disabilities,6050725,612553,5438172,85690,140382,1107606,1531699,23420,195147,2966782
+2015,"US, Outlying Areas, And Freely Associated States",Autism,550405,41064,508686,4568,29647,77419,114362,1503,19819,303087
+2015,"US, Outlying Areas, And Freely Associated States",Deaf-blindness,1280,79,1200,18,52,159,298,8,49,696
+2015,"US, Outlying Areas, And Freely Associated States",Developmental delay,149306,15134,134074,5108,3119,31966,26810,784,7007,74512
+2015,"US, Outlying Areas, And Freely Associated States",Emotional disturbance,346488,11775,329094,4991,3291,85701,56512,990,15565,179438
+2015,"US, Outlying Areas, And Freely Associated States",Hearing impairment,67426,8595,58362,763,3757,9527,20221,545,1913,30700
+2015,"US, Outlying Areas, And Freely Associated States",Intellectual disability,418540,43614,364979,5623,10274,108962,100794,1516,10967,180404
+2015,"US, Outlying Areas, And Freely Associated States",Multiple disabilities,125232,7319,117535,2040,4041,22030,23845,715,3570,68991
+2015,"US, Outlying Areas, And Freely Associated States",Orthopedic impairment,41232,5267,35293,363,1844,5211,11509,183,1138,20984
+2015,"US, Outlying Areas, And Freely Associated States",Other health impairment,907207,46805,860255,10564,12520,163446,169216,2519,32413,516528
+2015,"US, Outlying Areas, And Freely Associated States",Specific learning disability,2348891,300694,2012002,38331,35077,450375,717413,12021,66859,1028815
+2015,"US, Outlying Areas, And Freely Associated States",Speech or language impairment,1044286,122903,916359,12629,35083,145141,280101,2354,34219,534761
+2015,"US, Outlying Areas, And Freely Associated States",Traumatic brain injury,25488,1717,23616,363,642,3945,4688,83,863,14904
+2015,"US, Outlying Areas, And Freely Associated States",Visual impairment,24944,2200,22594,329,1035,3724,5930,199,765,12962
+2015,Utah,All Disabilities,69925,7496,62429,1255,616,1365,13753,837,1565,50534
+2015,Utah,Autism,5285,222,5063,45,61,59,568,45,137,4370
+2015,Utah,Deaf-blindness,25,2,23,0,3,1,5,0,0,16
+2015,Utah,Developmental delay,2151,343,1808,53,22,40,485,38,53,1460
+2015,Utah,Emotional disturbance,1871,61,1810,29,9,82,243,16,56,1436
+2015,Utah,Hearing impairment,433,45,388,7,15,12,103,8,7,281
+2015,Utah,Intellectual disability,3342,438,2904,69,59,96,693,60,73,2292
+2015,Utah,Multiple disabilities,1471,121,1350,25,21,42,252,15,24,1092
+2015,Utah,Orthopedic impairment,147,17,130,2,5,2,25,2,3,108
+2015,Utah,Other health impairment,6674,234,6440,70,42,182,683,58,176,5463
+2015,Utah,Specific learning disability,33584,4822,28762,754,200,679,8380,440,691,22440
+2015,Utah,Speech or language impairment,14495,1152,13343,186,170,157,2234,145,334,11269
+2015,Utah,Traumatic brain injury,253,29,224,7,2,11,53,5,6,169
+2015,Utah,Visual impairment,194,10,184,8,7,2,29,5,5,138
+2015,Vermont,All Disabilities,12129,187,11942,74,87,333,180,24,191,11240
+2015,Vermont,Autism,999,19,980,3,17,24,21,3,22,909
+2015,Vermont,Deaf-blindness,4,0,4,0,0,1,0,0,0,3
+2015,Vermont,Developmental delay,951,10,941,6,6,17,9,1,15,897
+2015,Vermont,Emotional disturbance,1968,24,1944,11,6,53,23,6,43,1826
+2015,Vermont,Hearing impairment,71,4,67,2,3,2,1,0,2,61
+2015,Vermont,Intellectual disability,675,19,656,5,9,24,3,1,10,623
+2015,Vermont,Multiple disabilities,222,3,219,1,3,10,6,0,5,197
+2015,Vermont,Orthopedic impairment,37,0,37,0,0,0,2,0,2,33
+2015,Vermont,Other health impairment,2217,40,2177,16,10,70,43,6,35,2037
+2015,Vermont,Specific learning disability,3860,44,3816,24,16,98,51,5,36,3630
+2015,Vermont,Speech or language impairment,1073,23,1050,6,16,29,21,2,20,979
+2015,Vermont,Traumatic brain injury,35,0,35,0,0,3,0,0,1,31
+2015,Vermont,Visual impairment,17,1,16,0,1,2,0,0,0,14
+2015,Virgin Islands,All Disabilities,1075,82,993,NA,NA,803,223,NA,NA,30
+2015,Virgin Islands,Autism,81,5,76,NA,NA,60,17,NA,NA,3
+2015,Virgin Islands,Deaf-blindness,0,0,0,NA,NA,0,0,NA,NA,0
+2015,Virgin Islands,Developmental delay,64,5,59,NA,NA,51,9,NA,NA,3
+2015,Virgin Islands,Emotional disturbance,30,0,30,NA,NA,25,4,NA,NA,1
+2015,Virgin Islands,Hearing impairment,4,0,4,NA,NA,4,0,NA,NA,0
+2015,Virgin Islands,Intellectual disability,106,13,93,NA,NA,79,24,NA,NA,3
+2015,Virgin Islands,Multiple disabilities,21,2,19,NA,NA,15,5,NA,NA,1
+2015,Virgin Islands,Orthopedic impairment,2,0,2,NA,NA,2,0,NA,NA,0
+2015,Virgin Islands,Other health impairment,101,4,97,NA,NA,76,22,NA,NA,2
+2015,Virgin Islands,Specific learning disability,592,50,542,NA,NA,425,138,NA,NA,13
+2015,Virgin Islands,Speech or language impairment,69,3,66,NA,NA,64,3,NA,NA,2
+2015,Virgin Islands,Traumatic brain injury,1,0,1,NA,NA,0,1,NA,NA,0
+2015,Virgin Islands,Visual impairment,4,0,4,NA,NA,2,0,NA,NA,2
+2015,Virginia,All Disabilities,148002,17219,130783,452,4885,41945,20991,182,7119,72428
+2015,Virginia,Autism,16610,1666,14944,49,1102,3682,1832,31,915,8999
+2015,Virginia,Deaf-blindness,24,2,22,0,0,6,0,0,2,16
+2015,Virginia,Developmental delay,2334,482,1852,8,151,674,392,3,130,976
+2015,Virginia,Emotional disturbance,9398,498,8900,33,148,3060,961,13,564,4619
+2015,Virginia,Hearing impairment,1299,236,1063,2,138,252,260,2,61,584
+2015,Virginia,Intellectual disability,8894,1036,7858,17,368,3373,1073,8,316,3739
+2015,Virginia,Multiple disabilities,3080,252,2828,6,150,854,343,3,138,1586
+2015,Virginia,Orthopedic impairment,654,94,560,0,64,118,83,2,33,354
+2015,Virginia,Other health impairment,31973,1809,30164,92,534,9445,2990,25,1677,17210
+2015,Virginia,Specific learning disability,54199,8624,45575,187,1346,16367,10166,66,2307,23760
+2015,Virginia,Speech or language impairment,18546,2419,16127,57,829,3863,2760,28,934,10075
+2015,Virginia,Traumatic brain injury,400,32,368,0,15,118,41,1,19,206
+2015,Virginia,Visual impairment,591,69,522,1,40,133,90,0,23,304
+2015,Washington,All Disabilities,120396,15266,105130,2638,4493,7115,29204,955,8986,67005
+2015,Washington,Autism,11401,523,10878,107,918,518,1567,58,865,7368
+2015,Washington,Deaf-blindness,14,1,13,NA,1,NA,4,NA,1,8
+2015,Washington,Developmental delay,8165,1412,6753,204,328,482,2190,65,727,4169
+2015,Washington,Emotional disturbance,4601,190,4411,139,88,443,616,24,474,2817
+2015,Washington,Hearing impairment,1038,147,891,24,71,58,326,21,66,472
+2015,Washington,Intellectual disability,4932,555,4377,165,250,386,1312,48,289,2482
+2015,Washington,Multiple disabilities,2706,114,2592,50,121,131,536,24,164,1680
+2015,Washington,Orthopedic impairment,410,37,373,7,19,28,89,3,19,245
+2015,Washington,Other health impairment,24755,1323,23432,440,596,1468,4066,106,1943,16136
+2015,Washington,Specific learning disability,45370,8405,36965,1182,1265,2996,14485,464,3063,21915
+2015,Washington,Speech or language impairment,16292,2479,13813,300,798,565,3847,131,1323,9328
+2015,Washington,Traumatic brain injury,323,45,278,8,13,25,76,5,27,169
+2015,Washington,Visual impairment,389,35,354,12,25,15,90,6,25,216
+2015,West Virginia,All Disabilities,40293,227,40066,45,112,1835,557,10,949,36784
+2015,West Virginia,Autism,1981,14,1967,3,15,89,40,0,51,1783
+2015,West Virginia,Deaf-blindness,14,0,14,0,0,0,0,0,0,14
+2015,West Virginia,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,West Virginia,Emotional disturbance,1284,2,1282,1,2,118,24,0,44,1095
+2015,West Virginia,Hearing impairment,406,6,400,0,1,15,5,0,2,383
+2015,West Virginia,Intellectual disability,6790,24,6766,8,15,350,65,1,118,6233
+2015,West Virginia,Multiple disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,West Virginia,Orthopedic impairment,103,1,102,0,1,5,2,0,1,94
+2015,West Virginia,Other health impairment,6392,15,6377,14,14,273,66,0,148,5876
+2015,West Virginia,Specific learning disability,13448,100,13348,13,18,725,211,4,316,12161
+2015,West Virginia,Speech or language impairment,9526,63,9463,5,45,237,140,4,259,8836
+2015,West Virginia,Traumatic brain injury,99,0,99,0,0,11,0,1,4,83
+2015,West Virginia,Visual impairment,250,2,248,1,1,12,4,0,6,226
+2015,Wisconsin,All Disabilities,104775,7076,97699,1948,2513,15846,12414,72,3312,68670
+2015,Wisconsin,Autism,10402,479,9923,163,322,742,906,10,292,7967
+2015,Wisconsin,Deaf-blindness,3,1,2,0,0,0,1,0,0,2
+2015,Wisconsin,Developmental delay,449,49,400,11,9,80,87,0,15,247
+2015,Wisconsin,Emotional disturbance,12217,222,11995,342,86,2298,948,7,665,7871
+2015,Wisconsin,Hearing impairment,1528,144,1384,24,105,108,199,3,47,1042
+2015,Wisconsin,Intellectual disability,7917,565,7352,128,262,1740,914,4,164,4705
+2015,Wisconsin,Multiple disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2015,Wisconsin,Orthopedic impairment,770,40,730,13,32,89,72,0,14,550
+2015,Wisconsin,Other health impairment,20859,1011,19848,309,244,5066,2446,12,635,12147
+2015,Wisconsin,Specific learning disability,29077,2614,26463,617,711,3943,4095,16,802,18893
+2015,Wisconsin,Speech or language impairment,20736,1909,18827,332,718,1673,2658,19,650,14686
+2015,Wisconsin,Traumatic brain injury,358,17,341,6,7,66,42,1,16,220
+2015,Wisconsin,Visual impairment,459,25,434,3,17,41,46,0,12,340
+2015,Wyoming,All Disabilities,12241,470,11771,574,64,177,1562,14,544,9308
+2015,Wyoming,Autism,852,13,839,21,7,7,76,1,33,707
+2015,Wyoming,Deaf-blindness,0,0,0,0,0,0,0,0,0,0
+2015,Wyoming,Developmental delay,247,18,229,4,1,4,44,0,15,179
+2015,Wyoming,Emotional disturbance,563,5,558,18,4,6,45,1,37,452
+2015,Wyoming,Hearing impairment,133,4,129,6,0,2,24,0,4,97
+2015,Wyoming,Intellectual disability,496,27,469,26,4,15,65,1,25,360
+2015,Wyoming,Multiple disabilities,277,9,268,14,1,8,38,0,10,206
+2015,Wyoming,Orthopedic impairment,57,3,54,1,1,1,8,0,2,44
+2015,Wyoming,Other health impairment,1984,41,1943,61,3,33,196,1,86,1604
+2015,Wyoming,Specific learning disability,4248,205,4043,230,19,57,625,7,175,3135
+2015,Wyoming,Speech or language impairment,3274,142,3132,189,24,43,433,2,148,2437
+2015,Wyoming,Traumatic brain injury,64,3,61,4,0,0,6,1,6,47
+2015,Wyoming,Visual impairment,46,0,46,0,0,1,2,0,3,40

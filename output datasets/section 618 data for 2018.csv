@@ -1,0 +1,855 @@
+year,state,disability,total_6to21,el_yes,el_no,aian7,asian7,black7,hisp7,nhpi7,tworace7,white7
+2018,Alabama,All Disabilities,85436,3424,82012,731,562,31528,5496,66,1833,45220
+2018,Alabama,Autism,7465,205,7260,40,85,2213,387,9,183,4548
+2018,Alabama,Deaf-blindness,12,0,12,0,1,1,1,0,1,8
+2018,Alabama,Developmental delay,3419,207,3212,16,37,1324,299,5,76,1662
+2018,Alabama,Emotional disturbance,1406,13,1393,11,1,527,40,0,24,803
+2018,Alabama,Hearing impairment,894,60,834,8,18,288,91,1,16,472
+2018,Alabama,Intellectual disability,7014,315,6699,40,52,3548,388,2,96,2888
+2018,Alabama,Multiple disabilities,1251,33,1218,6,16,453,67,0,22,687
+2018,Alabama,Orthopedic impairment,508,26,482,2,10,162,32,1,11,290
+2018,Alabama,Other health impairment,12819,228,12591,96,66,4849,466,7,326,7009
+2018,Alabama,Specific learning disability,35963,1782,34181,359,126,14121,2817,33,693,17814
+2018,Alabama,Speech or language impairment,13916,527,13389,146,133,3786,865,7,367,8612
+2018,Alabama,Traumatic brain injury,272,7,265,2,1,101,15,0,6,147
+2018,Alabama,Visual impairment,497,21,476,5,16,155,28,1,12,280
+2018,Alaska,All Disabilities,17002,2406,14596,4742,610,535,1193,447,2278,7197
+2018,Alaska,Autism,1451,114,1337,184,90,35,107,25,208,802
+2018,Alaska,Deaf-blindness,3,0,3,1,1,0,0,0,0,1
+2018,Alaska,Developmental delay,1251,175,1076,361,49,37,87,49,197,471
+2018,Alaska,Emotional disturbance,745,51,694,175,4,20,41,12,121,372
+2018,Alaska,Hearing impairment,161,23,138,46,11,7,8,12,17,60
+2018,Alaska,Intellectual disability,568,126,442,230,32,19,37,21,59,170
+2018,Alaska,Multiple disabilities,576,66,510,175,29,24,42,18,68,220
+2018,Alaska,Orthopedic impairment,52,3,49,10,3,1,1,1,10,26
+2018,Alaska,Other health impairment,2662,202,2460,650,47,111,180,21,396,1257
+2018,Alaska,Specific learning disability,7026,1361,5665,2297,250,238,523,226,905,2587
+2018,Alaska,Speech or language impairment,2422,273,2149,586,91,38,161,60,285,1201
+2018,Alaska,Traumatic brain injury,36,3,33,10,1,3,3,0,8,11
+2018,Alaska,Visual impairment,49,9,40,17,2,2,3,2,4,19
+2018,American Samoa,All Disabilities,505,505,0,0,NA,0,0,500,NA,NA
+2018,American Samoa,Autism,12,12,0,0,NA,0,0,10,NA,NA
+2018,American Samoa,Deaf-blindness,3,3,0,0,NA,0,0,3,NA,NA
+2018,American Samoa,Developmental delay,0,0,0,0,NA,0,0,0,NA,NA
+2018,American Samoa,Emotional disturbance,0,0,0,0,NA,0,0,0,NA,NA
+2018,American Samoa,Hearing impairment,1,1,0,0,NA,0,0,1,NA,NA
+2018,American Samoa,Intellectual disability,10,10,0,0,NA,0,0,9,NA,NA
+2018,American Samoa,Multiple disabilities,24,24,0,0,NA,0,0,24,NA,NA
+2018,American Samoa,Orthopedic impairment,3,3,0,0,NA,0,0,3,NA,NA
+2018,American Samoa,Other health impairment,0,0,0,0,NA,0,0,0,NA,NA
+2018,American Samoa,Specific learning disability,443,443,0,0,NA,0,0,441,NA,NA
+2018,American Samoa,Speech or language impairment,4,4,0,0,NA,0,0,4,NA,NA
+2018,American Samoa,Traumatic brain injury,0,0,0,0,NA,0,0,0,NA,NA
+2018,American Samoa,Visual impairment,5,5,0,0,NA,0,0,5,NA,NA
+2018,Arizona,All Disabilities,128066,10593,117473,7719,1602,8534,58095,366,4155,47595
+2018,Arizona,Autism,13443,446,12997,449,410,772,4837,46,522,6407
+2018,Arizona,Deaf-blindness,127,4,123,6,3,5,57,0,2,54
+2018,Arizona,Developmental delay,6928,1132,5796,525,106,457,3402,23,259,2156
+2018,Arizona,Emotional disturbance,7742,200,7542,383,43,913,2370,12,364,3657
+2018,Arizona,Hearing impairment,1256,95,1161,70,35,55,654,3,34,405
+2018,Arizona,Intellectual disability,7480,401,7079,548,116,701,3769,26,173,2147
+2018,Arizona,Multiple disabilities,2141,62,2079,158,46,104,972,7,61,793
+2018,Arizona,Orthopedic impairment,530,37,493,24,18,22,206,1,16,243
+2018,Arizona,Other health impairment,13041,507,12534,436,108,982,4349,36,518,6612
+2018,Arizona,Specific learning disability,56487,5607,50880,4171,387,3703,29064,168,1547,17447
+2018,Arizona,Speech or language impairment,18095,2063,16032,877,316,772,8091,41,641,7357
+2018,Arizona,Traumatic brain injury,298,13,285,33,2,19,119,2,9,114
+2018,Arizona,Visual impairment,498,26,472,39,12,29,205,1,9,203
+2018,Arkansas,All Disabilities,61366,5739,55627,411,472,14129,7130,351,1659,37214
+2018,Arkansas,Autism,4982,453,4529,35,85,765,551,33,166,3347
+2018,Arkansas,Deaf-blindness,4,0,4,0,0,1,0,0,1,2
+2018,Arkansas,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Arkansas,Emotional disturbance,1070,32,1038,6,5,210,76,2,55,716
+2018,Arkansas,Hearing impairment,427,64,363,2,8,85,81,16,7,228
+2018,Arkansas,Intellectual disability,7381,719,6662,45,33,2554,853,85,167,3644
+2018,Arkansas,Multiple disabilities,1358,105,1253,8,23,258,152,8,35,874
+2018,Arkansas,Orthopedic impairment,177,9,168,1,6,27,10,0,5,128
+2018,Arkansas,Other health impairment,12368,527,11841,83,49,2835,833,18,357,8193
+2018,Arkansas,Specific learning disability,19612,2231,17381,131,84,4617,2728,102,488,11462
+2018,Arkansas,Speech or language impairment,13574,1561,12013,95,166,2686,1806,82,362,8377
+2018,Arkansas,Traumatic brain injury,177,18,159,4,1,34,23,1,8,106
+2018,Arkansas,Visual impairment,236,20,216,1,12,57,17,4,8,137
+2018,Bureau of Indian Education,All Disabilities,6514,823,5691,6514,0,0,0,0,0,0
+2018,Bureau of Indian Education,Autism,288,24,264,288,0,0,0,0,0,0
+2018,Bureau of Indian Education,Deaf-blindness,0,0,0,0,0,0,0,0,0,0
+2018,Bureau of Indian Education,Developmental delay,451,36,415,451,0,0,0,0,0,0
+2018,Bureau of Indian Education,Emotional disturbance,295,38,257,295,0,0,0,0,0,0
+2018,Bureau of Indian Education,Hearing impairment,47,4,43,47,0,0,0,0,0,0
+2018,Bureau of Indian Education,Intellectual disability,326,49,277,326,0,0,0,0,0,0
+2018,Bureau of Indian Education,Multiple disabilities,143,10,133,143,0,0,0,0,0,0
+2018,Bureau of Indian Education,Orthopedic impairment,21,1,20,21,0,0,0,0,0,0
+2018,Bureau of Indian Education,Other health impairment,655,105,550,655,0,0,0,0,0,0
+2018,Bureau of Indian Education,Specific learning disability,3338,473,2865,3338,0,0,0,0,0,0
+2018,Bureau of Indian Education,Speech or language impairment,909,75,834,909,0,0,0,0,0,0
+2018,Bureau of Indian Education,Traumatic brain injury,28,4,24,28,0,0,0,0,0,0
+2018,Bureau of Indian Education,Visual impairment,13,4,9,13,0,0,0,0,0,0
+2018,California,All Disabilities,701812,194026,507786,5041,42717,57327,401596,2547,29273,163311
+2018,California,Autism,97318,20116,77202,505,13569,6896,44527,341,4945,26535
+2018,California,Deaf-blindness,83,16,67,0,10,3,42,0,3,25
+2018,California,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,California,Emotional disturbance,25118,3044,22074,273,810,3192,10442,77,1446,8878
+2018,California,Hearing impairment,10453,2803,7650,37,1064,479,6364,57,382,2070
+2018,California,Intellectual disability,40021,14053,25968,253,3112,3419,24593,182,1244,7218
+2018,California,Multiple disabilities,6192,1496,4696,28,625,461,3161,37,307,1573
+2018,California,Orthopedic impairment,8278,2324,5954,48,709,481,4524,38,266,2212
+2018,California,Other health impairment,98615,17496,81119,787,3563,10948,46940,307,4870,31200
+2018,California,Specific learning disability,299652,100934,198718,2370,9179,25599,197268,1087,9761,54388
+2018,California,Speech or language impairment,111679,30759,80920,696,9714,5488,61457,400,5870,28054
+2018,California,Traumatic brain injury,1465,339,1126,21,76,157,789,5,55,362
+2018,California,Visual impairment,2938,646,2292,23,286,204,1489,16,124,796
+2018,Colorado,All Disabilities,90715,15751,74964,975,1510,5142,34458,165,3883,44582
+2018,Colorado,Autism,7627,723,6904,54,220,328,1920,20,410,4675
+2018,Colorado,Deaf-blindness,26,3,23,0,3,1,8,0,1,13
+2018,Colorado,Developmental delay,4365,902,3463,52,90,251,1800,7,195,1970
+2018,Colorado,Emotional disturbance,5596,314,5282,67,37,391,1485,5,325,3286
+2018,Colorado,Hearing impairment,1192,234,958,10,73,57,478,5,37,532
+2018,Colorado,Intellectual disability,2505,564,1941,25,59,243,1092,11,85,990
+2018,Colorado,Multiple disabilities,4227,720,3507,44,126,269,1553,8,184,2043
+2018,Colorado,Orthopedic impairment,342,57,285,1,16,13,106,0,17,189
+2018,Colorado,Other health impairment,11534,997,10537,111,142,648,3038,15,569,7011
+2018,Colorado,Specific learning disability,41137,9089,32048,498,438,2456,18635,68,1481,17561
+2018,Colorado,Speech or language impairment,11406,2023,9383,107,281,438,4068,26,544,5942
+2018,Colorado,Traumatic brain injury,479,91,388,5,5,29,190,0,20,230
+2018,Colorado,Visual impairment,279,34,245,1,20,18,85,0,15,140
+2018,Connecticut,All Disabilities,72551,7830,64721,196,1579,11682,22030,59,2388,34617
+2018,Connecticut,Autism,8971,494,8477,18,449,1201,2026,7,319,4951
+2018,Connecticut,Deaf-blindness,8,0,8,0,0,0,1,0,1,6
+2018,Connecticut,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Connecticut,Emotional disturbance,5691,215,5476,16,60,1089,1645,7,250,2624
+2018,Connecticut,Hearing impairment,462,67,395,3,31,54,152,0,4,218
+2018,Connecticut,Intellectual disability,2570,423,2147,6,73,591,853,2,66,979
+2018,Connecticut,Multiple disabilities,2798,181,2617,7,115,480,708,2,71,1415
+2018,Connecticut,Orthopedic impairment,40,3,37,0,2,8,6,0,2,22
+2018,Connecticut,Other health impairment,15956,1226,14730,63,196,2408,4504,7,615,8163
+2018,Connecticut,Specific learning disability,28019,3882,24137,63,327,4756,9483,26,770,12594
+2018,Connecticut,Speech or language impairment,7814,1318,6496,20,319,1062,2583,8,286,3536
+2018,Connecticut,Traumatic brain injury,100,8,92,0,3,16,27,0,0,54
+2018,Connecticut,Visual impairment,122,13,109,0,4,17,42,0,4,55
+2018,Delaware,All Disabilities,21581,2209,19372,78,296,8068,3563,20,826,8730
+2018,Delaware,Autism,1947,88,1859,6,81,564,234,1,65,996
+2018,Delaware,Deaf-blindness,44,0,44,0,2,10,12,0,0,20
+2018,Delaware,Developmental delay,1278,236,1042,1,21,442,247,1,66,500
+2018,Delaware,Emotional disturbance,1152,30,1122,6,3,509,111,3,55,465
+2018,Delaware,Hearing impairment,210,38,172,2,10,48,59,0,10,81
+2018,Delaware,Intellectual disability,1559,115,1444,4,22,748,245,2,33,505
+2018,Delaware,Multiple disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Delaware,Orthopedic impairment,181,12,169,1,8,50,30,0,2,90
+2018,Delaware,Other health impairment,3004,114,2890,16,22,1099,300,0,126,1441
+2018,Delaware,Specific learning disability,10178,1365,8813,35,74,4175,2031,8,383,3472
+2018,Delaware,Speech or language impairment,1891,202,1689,7,50,383,270,5,82,1094
+2018,Delaware,Traumatic brain injury,72,7,65,0,1,25,13,0,2,31
+2018,Delaware,Visual impairment,65,2,63,0,2,15,11,0,2,35
+2018,District of Columbia,All Disabilities,12218,1508,10710,NA,68,9567,1746,NA,167,634
+2018,District of Columbia,Autism,1048,119,929,NA,16,769,123,NA,28,110
+2018,District of Columbia,Deaf-blindness,1,0,1,NA,0,1,0,NA,0,0
+2018,District of Columbia,Developmental delay,527,99,428,NA,5,393,93,NA,9,26
+2018,District of Columbia,Emotional disturbance,827,26,801,NA,0,762,49,NA,2,13
+2018,District of Columbia,Hearing impairment,30,7,23,NA,1,22,6,NA,0,1
+2018,District of Columbia,Intellectual disability,725,89,636,NA,1,618,86,NA,9,10
+2018,District of Columbia,Multiple disabilities,1477,108,1369,NA,7,1229,123,NA,17,93
+2018,District of Columbia,Orthopedic impairment,18,0,18,NA,1,14,0,NA,1,1
+2018,District of Columbia,Other health impairment,2151,148,2003,NA,13,1760,202,NA,35,135
+2018,District of Columbia,Specific learning disability,4380,704,3676,NA,15,3308,842,NA,41,159
+2018,District of Columbia,Speech or language impairment,987,204,783,NA,9,656,217,NA,23,81
+2018,District of Columbia,Traumatic brain injury,27,2,25,NA,0,21,2,NA,2,2
+2018,District of Columbia,Visual impairment,20,2,18,NA,0,14,3,NA,0,3
+2018,Federated States of Micronesia,All Disabilities,1689,1689,0,0,0,0,0,1689,0,0
+2018,Federated States of Micronesia,Autism,17,NA,NA,0,0,0,0,17,0,0
+2018,Federated States of Micronesia,Deaf-blindness,1,NA,NA,0,0,0,0,1,0,0
+2018,Federated States of Micronesia,Developmental delay,96,NA,NA,0,0,0,0,96,0,0
+2018,Federated States of Micronesia,Emotional disturbance,4,NA,NA,0,0,0,0,4,0,0
+2018,Federated States of Micronesia,Hearing impairment,54,NA,NA,0,0,0,0,54,0,0
+2018,Federated States of Micronesia,Intellectual disability,26,NA,NA,0,0,0,0,26,0,0
+2018,Federated States of Micronesia,Multiple disabilities,43,NA,NA,0,0,0,0,43,0,0
+2018,Federated States of Micronesia,Orthopedic impairment,34,NA,NA,0,0,0,0,34,0,0
+2018,Federated States of Micronesia,Other health impairment,61,NA,NA,0,0,0,0,61,0,0
+2018,Federated States of Micronesia,Specific learning disability,1219,NA,NA,0,0,0,0,1219,0,0
+2018,Federated States of Micronesia,Speech or language impairment,59,NA,NA,0,0,0,0,59,0,0
+2018,Federated States of Micronesia,Traumatic brain injury,1,NA,NA,0,0,0,0,1,0,0
+2018,Federated States of Micronesia,Visual impairment,74,NA,NA,0,0,0,0,74,0,0
+2018,Florida,All Disabilities,363720,31061,332659,1148,4759,92295,114815,419,12880,137404
+2018,Florida,Autism,39856,2354,37502,92,1124,7204,13785,52,1520,16079
+2018,Florida,Deaf-blindness,83,5,78,0,5,17,28,0,2,31
+2018,Florida,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Florida,Emotional disturbance,14604,406,14198,50,41,5626,2927,11,687,5262
+2018,Florida,Hearing impairment,3893,364,3529,11,128,818,1381,3,116,1436
+2018,Florida,Intellectual disability,24879,1017,23862,88,433,8929,6734,27,754,7914
+2018,Florida,Multiple disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Florida,Orthopedic impairment,2322,161,2161,4,73,449,751,4,82,959
+2018,Florida,Other health impairment,44157,3421,40736,120,323,9615,13482,35,1596,18986
+2018,Florida,Specific learning disability,151821,14165,137656,512,1180,40873,52346,157,4816,51937
+2018,Florida,Speech or language impairment,80357,9049,71308,261,1411,18355,22894,128,3244,34064
+2018,Florida,Traumatic brain injury,493,19,474,4,9,138,117,0,22,203
+2018,Florida,Visual impairment,1255,100,1155,6,32,271,370,2,41,533
+2018,Georgia,All Disabilities,200450,16528,183922,399,3731,79929,29818,154,7307,79112
+2018,Georgia,Autism,20643,1221,19422,39,896,7802,2418,18,820,8650
+2018,Georgia,Deaf-blindness,29,0,29,0,1,9,4,0,1,14
+2018,Georgia,Developmental delay,15242,1759,13483,22,407,6092,2390,14,617,5700
+2018,Georgia,Emotional disturbance,10286,183,10103,28,57,5036,718,12,468,3967
+2018,Georgia,Hearing impairment,1653,144,1509,0,66,606,357,1,51,572
+2018,Georgia,Intellectual disability,16631,1024,15607,31,281,8865,2002,12,438,5002
+2018,Georgia,Multiple disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Georgia,Orthopedic impairment,688,61,627,1,40,203,124,0,16,304
+2018,Georgia,Other health impairment,33847,1076,32771,69,335,12930,2851,19,1395,16248
+2018,Georgia,Specific learning disability,76925,9149,67776,172,866,31088,15799,56,2450,26494
+2018,Georgia,Speech or language impairment,23378,1845,21533,35,733,6876,3020,21,1016,11677
+2018,Georgia,Traumatic brain injury,403,29,374,0,13,172,44,0,11,163
+2018,Georgia,Visual impairment,725,37,688,2,36,250,91,1,24,321
+2018,Guam,All Disabilities,1780,126,1654,NA,262,NA,4,1490,12,NA
+2018,Guam,Autism,186,10,176,NA,70,NA,0,109,4,NA
+2018,Guam,Deaf-blindness,0,0,0,NA,0,NA,0,0,0,NA
+2018,Guam,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Guam,Emotional disturbance,83,7,76,NA,4,NA,1,78,0,NA
+2018,Guam,Hearing impairment,31,9,22,NA,4,NA,0,27,0,NA
+2018,Guam,Intellectual disability,59,11,48,NA,11,NA,1,46,1,NA
+2018,Guam,Multiple disabilities,78,9,69,NA,17,NA,0,61,0,NA
+2018,Guam,Orthopedic impairment,8,1,7,NA,2,NA,0,6,0,NA
+2018,Guam,Other health impairment,202,10,192,NA,31,NA,0,169,1,NA
+2018,Guam,Specific learning disability,1037,60,977,NA,104,NA,2,920,3,NA
+2018,Guam,Speech or language impairment,76,4,72,NA,19,NA,0,54,3,NA
+2018,Guam,Traumatic brain injury,4,0,4,NA,0,NA,0,4,0,NA
+2018,Guam,Visual impairment,16,5,11,NA,0,NA,0,16,0,NA
+2018,Hawaii,All Disabilities,17037,1769,15268,58,2997,323,2944,6355,2248,2112
+2018,Hawaii,Autism,1638,170,1468,5,455,35,255,291,268,329
+2018,Hawaii,Deaf-blindness,3,0,3,0,1,0,0,2,0,0
+2018,Hawaii,Developmental delay,1092,163,929,2,194,15,250,344,171,116
+2018,Hawaii,Emotional disturbance,947,40,907,2,105,17,178,370,144,131
+2018,Hawaii,Hearing impairment,226,57,169,1,58,6,15,112,24,10
+2018,Hawaii,Intellectual disability,1281,264,1017,2,299,17,180,567,131,85
+2018,Hawaii,Multiple disabilities,628,101,527,1,207,8,68,212,76,56
+2018,Hawaii,Orthopedic impairment,58,12,46,0,13,0,4,22,7,12
+2018,Hawaii,Other health impairment,2996,171,2825,8,436,68,541,1078,403,462
+2018,Hawaii,Specific learning disability,7530,738,6792,36,1147,138,1326,3200,910,773
+2018,Hawaii,Speech or language impairment,544,34,510,1,64,18,114,117,101,129
+2018,Hawaii,Traumatic brain injury,60,10,50,0,8,1,11,25,8,7
+2018,Hawaii,Visual impairment,34,9,25,0,10,0,2,15,5,2
+2018,Idaho,All Disabilities,30444,2853,27591,656,234,426,6435,82,968,21643
+2018,Idaho,Autism,3234,122,3112,52,35,37,451,8,123,2528
+2018,Idaho,Deaf-blindness,5,0,5,0,0,0,2,0,0,3
+2018,Idaho,Developmental delay,1990,271,1719,56,18,24,500,5,78,1309
+2018,Idaho,Emotional disturbance,1372,38,1334,28,8,30,198,3,61,1044
+2018,Idaho,Hearing impairment,301,52,249,3,14,10,82,0,6,186
+2018,Idaho,Intellectual disability,2224,342,1882,60,23,53,630,11,57,1390
+2018,Idaho,Multiple disabilities,651,33,618,5,12,17,105,0,17,495
+2018,Idaho,Orthopedic impairment,83,5,78,4,1,1,16,0,0,61
+2018,Idaho,Other health impairment,7019,379,6640,122,36,112,1094,17,259,5379
+2018,Idaho,Specific learning disability,7210,976,6234,146,33,98,2065,23,187,4658
+2018,Idaho,Speech or language impairment,6173,619,5554,175,53,37,1248,13,176,4471
+2018,Idaho,Traumatic brain injury,114,11,103,3,0,3,31,0,3,74
+2018,Idaho,Visual impairment,68,5,63,2,1,4,13,2,1,45
+2018,Illinois,All Disabilities,259914,44590,215324,685,6100,53359,68557,231,10269,120713
+2018,Illinois,Autism,24466,4062,20404,50,1475,3946,5541,38,979,12437
+2018,Illinois,Deaf-blindness,26,6,20,0,3,3,5,0,1,14
+2018,Illinois,Developmental delay,21152,5413,15739,76,693,3917,6141,15,967,9343
+2018,Illinois,Emotional disturbance,18237,998,17239,48,211,4948,3220,14,976,8820
+2018,Illinois,Hearing impairment,2983,561,2422,6,168,405,948,5,101,1350
+2018,Illinois,Intellectual disability,15141,2891,12250,41,408,4764,3787,15,429,5697
+2018,Illinois,Multiple disabilities,2625,323,2302,6,117,415,529,6,92,1460
+2018,Illinois,Orthopedic impairment,883,110,773,2,52,115,211,4,25,474
+2018,Illinois,Other health impairment,37581,3063,34518,94,621,6209,6532,32,1828,22265
+2018,Illinois,Specific learning disability,100599,21256,79343,284,1180,24041,33311,71,3275,38437
+2018,Illinois,Speech or language impairment,34676,5707,28969,75,1099,4274,8003,29,1547,19649
+2018,Illinois,Traumatic brain injury,588,74,514,1,13,163,129,0,24,258
+2018,Illinois,Visual impairment,957,126,831,2,60,159,200,2,25,509
+2018,Indiana,All Disabilities,159597,9240,150357,372,1595,21925,16587,78,8412,110628
+2018,Indiana,Autism,15565,851,14714,39,294,1624,1490,3,782,11333
+2018,Indiana,Deaf-blindness,30,2,28,0,0,3,5,0,0,22
+2018,Indiana,Developmental delay,892,81,811,1,18,126,102,0,52,593
+2018,Indiana,Emotional disturbance,12838,183,12655,33,17,2173,779,1,947,8888
+2018,Indiana,Hearing impairment,2200,156,2044,6,76,207,251,2,96,1562
+2018,Indiana,Intellectual disability,13336,1207,12129,27,153,2967,1568,14,658,7949
+2018,Indiana,Multiple disabilities,1944,179,1765,2,33,243,214,4,89,1359
+2018,Indiana,Orthopedic impairment,1342,90,1252,2,57,120,127,1,56,979
+2018,Indiana,Other health impairment,25600,743,24857,62,160,3609,1840,6,1529,18394
+2018,Indiana,Specific learning disability,54407,3574,50833,144,322,7969,6626,24,2652,36670
+2018,Indiana,Speech or language impairment,30087,2101,27986,52,429,2713,3451,23,1490,21929
+2018,Indiana,Traumatic brain injury,447,30,417,0,6,72,41,0,18,310
+2018,Indiana,Visual impairment,909,43,866,4,30,99,93,0,43,640
+2018,Iowa,All Disabilities,60561,4607,55954,403,774,6197,7294,138,3028,42727
+2018,Iowa,Autism,682,NA,NA,5,9,70,82,2,34,480
+2018,Iowa,Deaf-blindness,0,NA,NA,0,0,0,0,0,0,0
+2018,Iowa,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Iowa,Emotional disturbance,5896,NA,NA,39,75,604,711,13,295,4159
+2018,Iowa,Hearing impairment,423,NA,NA,3,5,44,52,1,21,297
+2018,Iowa,Intellectual disability,10436,NA,NA,69,133,1068,1257,24,522,7363
+2018,Iowa,Multiple disabilities,334,NA,NA,2,4,35,41,1,17,234
+2018,Iowa,Orthopedic impairment,682,NA,NA,5,9,70,82,2,34,480
+2018,Iowa,Other health impairment,78,NA,NA,1,1,9,10,0,4,53
+2018,Iowa,Specific learning disability,36571,NA,NA,242,468,3737,4400,83,1828,25813
+2018,Iowa,Speech or language impairment,5216,NA,NA,35,67,534,629,12,261,3678
+2018,Iowa,Traumatic brain injury,165,NA,NA,1,2,17,20,0,8,117
+2018,Iowa,Visual impairment,78,NA,NA,1,1,9,10,0,4,53
+2018,Kansas,All Disabilities,63406,5417,57989,690,896,5674,11205,89,3816,41036
+2018,Kansas,Autism,4268,140,4128,40,126,305,622,8,244,2923
+2018,Kansas,Deaf-blindness,18,0,18,0,2,0,4,0,0,12
+2018,Kansas,Developmental delay,7308,815,6493,77,130,559,1324,14,473,4731
+2018,Kansas,Emotional disturbance,2436,33,2403,33,16,322,218,2,220,1625
+2018,Kansas,Hearing impairment,497,52,445,2,22,34,98,0,26,315
+2018,Kansas,Intellectual disability,3302,216,3086,37,63,447,632,6,198,1919
+2018,Kansas,Multiple disabilities,3303,79,3224,27,39,316,389,4,245,2283
+2018,Kansas,Orthopedic impairment,188,6,182,2,6,7,25,0,12,136
+2018,Kansas,Other health impairment,7830,259,7571,67,75,669,882,7,503,5627
+2018,Kansas,Specific learning disability,25296,3153,22143,329,241,2589,5618,36,1431,15052
+2018,Kansas,Speech or language impairment,8642,649,7993,72,158,399,1336,10,446,6221
+2018,Kansas,Traumatic brain injury,132,7,125,0,6,12,26,0,6,82
+2018,Kansas,Visual impairment,186,8,178,4,12,15,31,2,12,110
+2018,Kentucky,All Disabilities,87926,3205,84721,113,716,9996,5017,68,3482,68534
+2018,Kentucky,Autism,6928,243,6685,6,88,696,362,6,250,5520
+2018,Kentucky,Deaf-blindness,11,2,9,0,1,1,2,0,0,7
+2018,Kentucky,Developmental delay,7192,272,6920,7,60,776,464,6,332,5547
+2018,Kentucky,Emotional disturbance,4524,41,4483,5,8,949,132,2,290,3138
+2018,Kentucky,Hearing impairment,586,42,544,0,26,55,46,0,12,447
+2018,Kentucky,Intellectual disability,13535,512,13023,16,90,1547,603,7,364,10908
+2018,Kentucky,Multiple disabilities,1887,72,1815,1,27,187,101,6,59,1506
+2018,Kentucky,Orthopedic impairment,360,16,344,0,4,37,18,0,22,279
+2018,Kentucky,Other health impairment,15250,260,14990,22,69,2415,622,11,701,11410
+2018,Kentucky,Specific learning disability,17629,947,16682,29,109,1897,1404,13,677,13500
+2018,Kentucky,Speech or language impairment,19318,776,18542,25,220,1359,1221,17,756,15720
+2018,Kentucky,Traumatic brain injury,205,5,200,1,2,24,12,0,8,158
+2018,Kentucky,Visual impairment,501,17,484,1,12,53,30,0,11,394
+2018,Louisiana,All Disabilities,76345,0,76345,468,571,37789,3629,36,1816,32036
+2018,Louisiana,Autism,5577,0,5577,30,123,2198,334,6,133,2753
+2018,Louisiana,Deaf-blindness,7,0,7,0,0,2,0,0,0,5
+2018,Louisiana,Developmental delay,7571,0,7571,32,65,3811,351,4,235,3073
+2018,Louisiana,Emotional disturbance,1715,0,1715,5,3,990,55,1,49,612
+2018,Louisiana,Hearing impairment,1039,0,1039,8,17,467,87,0,23,437
+2018,Louisiana,Intellectual disability,7676,0,7676,38,43,4975,292,7,94,2227
+2018,Louisiana,Multiple disabilities,937,0,937,6,12,392,40,1,14,472
+2018,Louisiana,Orthopedic impairment,876,0,876,6,12,343,44,1,9,461
+2018,Louisiana,Other health impairment,11359,0,11359,56,44,5055,441,4,274,5485
+2018,Louisiana,Specific learning disability,26594,0,26594,213,87,14505,1264,7,620,9898
+2018,Louisiana,Speech or language impairment,12302,0,12302,69,155,4723,688,4,349,6314
+2018,Louisiana,Traumatic brain injury,215,0,215,3,0,115,8,0,5,84
+2018,Louisiana,Visual impairment,477,0,477,2,10,213,25,1,11,215
+2018,Maine,All Disabilities,30740,943,29797,410,242,1063,833,28,865,27299
+2018,Maine,Autism,3101,53,3048,38,34,94,74,3,88,2770
+2018,Maine,Deaf-blindness,15,1,14,0,1,0,1,0,0,13
+2018,Maine,Developmental delay,28,0,28,0,0,1,0,0,1,26
+2018,Maine,Emotional disturbance,2328,64,2264,47,5,105,74,0,90,2007
+2018,Maine,Hearing impairment,127,12,115,2,3,7,4,0,3,108
+2018,Maine,Intellectual disability,844,52,792,12,5,49,28,1,14,735
+2018,Maine,Multiple disabilities,3317,92,3225,45,33,133,89,8,99,2910
+2018,Maine,Orthopedic impairment,42,2,40,0,1,2,1,0,0,38
+2018,Maine,Other health impairment,6765,162,6603,75,37,220,173,5,190,6065
+2018,Maine,Specific learning disability,9744,369,9375,136,69,337,286,8,249,8659
+2018,Maine,Speech or language impairment,4342,131,4211,54,51,111,101,3,127,3895
+2018,Maine,Traumatic brain injury,49,2,47,0,3,2,0,0,1,43
+2018,Maine,Visual impairment,38,3,35,1,0,2,2,0,3,30
+2018,Maryland,All Disabilities,95918,9647,86271,256,2911,39727,15253,95,4011,33665
+2018,Maryland,Autism,11481,721,10760,22,782,4522,1353,11,546,4245
+2018,Maryland,Deaf-blindness,9,1,8,0,0,2,1,0,1,5
+2018,Maryland,Developmental delay,3502,723,2779,7,234,1352,837,4,131,937
+2018,Maryland,Emotional disturbance,6107,156,5951,17,68,3215,483,3,302,2019
+2018,Maryland,Hearing impairment,734,68,666,2,70,181,158,1,22,300
+2018,Maryland,Intellectual disability,6172,522,5650,9,198,3552,831,10,145,1427
+2018,Maryland,Multiple disabilities,6513,379,6134,19,205,2084,794,2,281,3128
+2018,Maryland,Orthopedic impairment,145,16,129,0,10,45,27,0,3,60
+2018,Maryland,Other health impairment,18788,1107,17681,50,300,8660,2087,13,910,6768
+2018,Maryland,Specific learning disability,30365,4677,25688,94,535,12399,6948,27,1067,9295
+2018,Maryland,Speech or language impairment,11619,1245,10374,35,482,3500,1673,23,587,5319
+2018,Maryland,Traumatic brain injury,216,13,203,0,13,108,26,0,10,59
+2018,Maryland,Visual impairment,267,19,248,1,14,107,35,1,6,103
+2018,Massachusetts,All Disabilities,158250,17505,140694,437,5056,16494,37814,121,5936,92392
+2018,Massachusetts,Autism,18994,1105,17888,32,1183,1689,3205,18,697,12169
+2018,Massachusetts,Deaf-blindness,151,24,127,0,11,14,25,0,8,93
+2018,Massachusetts,Developmental delay,12639,2268,10370,38,472,1479,3209,4,523,6913
+2018,Massachusetts,Emotional disturbance,16935,1052,15850,51,284,1994,4199,7,813,9554
+2018,Massachusetts,Hearing impairment,1042,149,893,4,72,102,253,0,27,584
+2018,Massachusetts,Intellectual disability,7723,1408,6315,17,229,1246,2591,14,214,3412
+2018,Massachusetts,Multiple disabilities,2699,196,2503,2,103,206,577,3,97,1711
+2018,Massachusetts,Orthopedic impairment,871,101,770,0,29,84,180,1,22,555
+2018,Massachusetts,Other health impairment,23872,1565,22300,67,361,1860,4873,10,922,15772
+2018,Massachusetts,Specific learning disability,41987,5314,36668,138,768,4605,10836,40,1482,24113
+2018,Massachusetts,Speech or language impairment,21140,3527,17612,60,1206,2261,5964,20,764,10864
+2018,Massachusetts,Traumatic brain injury,9668,755,8911,27,311,908,1808,4,347,6261
+2018,Massachusetts,Visual impairment,529,41,487,1,27,45,91,0,19,345
+2018,Michigan,All Disabilities,177721,10430,167291,1476,2608,36543,14130,131,7867,114966
+2018,Michigan,Autism,18509,826,17683,109,604,3195,1086,20,712,12783
+2018,Michigan,Deaf-blindness,28,2,26,0,4,3,2,0,0,19
+2018,Michigan,Developmental delay,2296,161,2135,30,62,545,191,0,112,1356
+2018,Michigan,Emotional disturbance,11458,190,11268,114,52,2080,690,6,638,7878
+2018,Michigan,Hearing impairment,2211,224,1987,10,84,395,189,4,75,1454
+2018,Michigan,Intellectual disability,16452,980,15472,143,245,5011,1238,16,580,9219
+2018,Michigan,Multiple disabilities,2404,85,2319,11,58,501,159,5,69,1601
+2018,Michigan,Orthopedic impairment,1200,99,1101,5,38,208,83,1,30,835
+2018,Michigan,Other health impairment,26399,892,25507,277,214,4913,1595,16,1270,18114
+2018,Michigan,Specific learning disability,58441,3962,54479,459,439,12885,5375,40,2535,36708
+2018,Michigan,Speech or language impairment,37194,2934,34260,310,770,6567,3448,23,1798,24278
+2018,Michigan,Traumatic brain injury,435,21,414,4,3,115,27,0,23,263
+2018,Michigan,Visual impairment,694,54,640,4,35,125,47,0,25,458
+2018,Minnesota,All Disabilities,123101,11222,111879,3508,5143,15113,13776,86,7566,77909
+2018,Minnesota,Autism,18545,1335,17210,302,1033,1879,1438,16,1084,12793
+2018,Minnesota,Deaf-blindness,105,9,96,1,5,14,12,0,4,69
+2018,Minnesota,Developmental delay,3444,485,2959,134,182,431,466,5,258,1968
+2018,Minnesota,Emotional disturbance,16510,454,16056,755,152,2795,1372,4,1495,9937
+2018,Minnesota,Hearing impairment,2075,266,1809,26,271,185,247,4,76,1266
+2018,Minnesota,Intellectual disability,7330,793,6537,205,334,1382,766,8,338,4297
+2018,Minnesota,Multiple disabilities,1480,136,1344,36,91,257,124,3,58,911
+2018,Minnesota,Orthopedic impairment,1468,169,1299,22,98,181,120,0,73,974
+2018,Minnesota,Other health impairment,19953,806,19147,490,355,2282,1779,13,1368,13666
+2018,Minnesota,Specific learning disability,33821,5103,28718,1116,1611,4484,5778,19,1848,18965
+2018,Minnesota,Speech or language impairment,17513,1559,15954,396,962,1100,1598,13,918,12526
+2018,Minnesota,Traumatic brain injury,436,40,396,16,16,67,34,0,34,269
+2018,Minnesota,Visual impairment,421,67,354,9,33,56,42,1,12,268
+2018,Mississippi,All Disabilities,61172,1386,59786,131,331,29612,1747,31,1493,27827
+2018,Mississippi,Autism,5020,113,4907,8,53,1951,146,5,158,2699
+2018,Mississippi,Deaf-blindness,9,1,8,0,0,2,1,0,1,5
+2018,Mississippi,Developmental delay,4243,124,4119,15,50,2311,127,1,148,1591
+2018,Mississippi,Emotional disturbance,3326,13,3313,6,5,1751,43,1,100,1420
+2018,Mississippi,Hearing impairment,661,29,632,1,15,303,37,0,11,294
+2018,Mississippi,Intellectual disability,3948,69,3879,9,18,2676,87,3,63,1092
+2018,Mississippi,Multiple disabilities,1343,21,1322,3,9,651,48,0,25,607
+2018,Mississippi,Orthopedic impairment,328,13,315,2,9,131,13,0,1,172
+2018,Mississippi,Other health impairment,12206,146,12060,17,24,6404,221,6,240,5294
+2018,Mississippi,Specific learning disability,17153,599,16554,44,61,8814,706,5,377,7146
+2018,Mississippi,Speech or language impairment,12489,243,12246,25,83,4413,303,10,361,7294
+2018,Mississippi,Traumatic brain injury,154,8,146,0,1,70,7,0,5,71
+2018,Mississippi,Visual impairment,292,7,285,1,3,135,8,0,3,142
+2018,Missouri,All Disabilities,114033,3461,110572,550,1203,20441,6559,168,4795,80317
+2018,Missouri,Autism,12240,335,11905,55,292,1917,681,13,549,8733
+2018,Missouri,Deaf-blindness,27,0,27,1,1,2,2,1,1,19
+2018,Missouri,Developmental delay,1022,66,956,1,21,158,69,0,54,719
+2018,Missouri,Emotional disturbance,7072,53,7019,34,31,1723,306,7,407,4564
+2018,Missouri,Hearing impairment,1022,48,974,4,26,162,96,4,28,702
+2018,Missouri,Intellectual disability,9125,298,8827,31,126,2580,515,11,269,5593
+2018,Missouri,Multiple disabilities,1353,30,1323,4,33,292,73,2,50,899
+2018,Missouri,Orthopedic impairment,387,17,370,2,11,39,20,1,9,305
+2018,Missouri,Other health impairment,25700,362,25338,133,161,4423,1030,16,1101,18836
+2018,Missouri,Specific learning disability,30833,1266,29567,165,151,5778,2242,64,1250,21183
+2018,Missouri,Speech or language impairment,24425,960,23465,112,338,3228,1487,42,1041,18177
+2018,Missouri,Traumatic brain injury,391,8,383,4,1,78,18,1,23,266
+2018,Missouri,Visual impairment,436,18,418,4,11,61,20,6,13,321
+2018,Montana,All Disabilities,17658,661,16997,2524,75,199,986,36,770,13068
+2018,Montana,Autism,908,17,891,81,9,11,50,4,46,707
+2018,Montana,Deaf-blindness,6,0,6,2,0,0,0,0,0,4
+2018,Montana,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Montana,Emotional disturbance,881,11,870,92,1,19,56,2,48,663
+2018,Montana,Hearing impairment,68,1,67,6,1,0,3,0,1,57
+2018,Montana,Intellectual disability,573,24,549,115,5,8,23,1,21,400
+2018,Montana,Multiple disabilities,3899,139,3760,562,27,39,211,9,191,2860
+2018,Montana,Orthopedic impairment,42,2,40,5,1,0,0,1,3,32
+2018,Montana,Other health impairment,2283,46,2237,174,7,43,130,3,84,1842
+2018,Montana,Specific learning disability,5846,304,5542,974,9,55,378,11,229,4190
+2018,Montana,Speech or language impairment,3048,114,2934,504,15,22,131,5,142,2229
+2018,Montana,Traumatic brain injury,50,2,48,6,0,1,3,0,1,39
+2018,Montana,Visual impairment,54,1,53,3,0,1,1,0,4,45
+2018,Nebraska,All Disabilities,45454,2206,43248,901,736,3918,8839,45,2199,28816
+2018,Nebraska,Autism,3948,87,3861,41,97,262,596,6,222,2724
+2018,Nebraska,Deaf-blindness,10,0,10,0,0,1,2,0,0,7
+2018,Nebraska,Developmental delay,2189,236,1953,56,44,171,444,4,110,1360
+2018,Nebraska,Emotional disturbance,2846,34,2812,86,7,441,361,0,255,1696
+2018,Nebraska,Hearing impairment,697,40,657,9,23,41,158,0,26,440
+2018,Nebraska,Intellectual disability,2824,77,2747,104,61,268,572,3,106,1710
+2018,Nebraska,Multiple disabilities,401,2,399,7,6,32,73,0,13,270
+2018,Nebraska,Orthopedic impairment,206,11,195,2,8,16,28,0,10,142
+2018,Nebraska,Other health impairment,6766,97,6669,91,42,574,834,8,365,4852
+2018,Nebraska,Specific learning disability,16051,936,15115,350,229,1628,4155,15,694,8980
+2018,Nebraska,Speech or language impairment,9136,676,8460,153,208,464,1558,9,381,6363
+2018,Nebraska,Traumatic brain injury,186,4,182,2,4,11,39,0,5,125
+2018,Nebraska,Visual impairment,194,6,188,0,7,9,19,0,12,147
+2018,Nevada,All Disabilities,51677,12649,39028,687,1305,7623,21262,518,3225,17057
+2018,Nevada,Autism,6789,1425,5364,54,435,748,2394,66,558,2534
+2018,Nevada,Deaf-blindness,10,1,9,0,1,2,4,0,0,3
+2018,Nevada,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Nevada,Emotional disturbance,1959,164,1795,27,21,493,477,10,181,750
+2018,Nevada,Hearing impairment,438,129,309,5,24,44,217,7,23,118
+2018,Nevada,Intellectual disability,2078,706,1372,31,75,377,953,23,94,525
+2018,Nevada,Multiple disabilities,1167,314,853,10,67,168,457,18,63,384
+2018,Nevada,Orthopedic impairment,291,62,229,2,14,36,116,6,14,103
+2018,Nevada,Other health impairment,5683,645,5038,74,73,895,1506,48,451,2636
+2018,Nevada,Specific learning disability,25620,8075,17545,385,360,4134,12458,268,1266,6749
+2018,Nevada,Speech or language impairment,7364,1083,6281,97,230,682,2573,69,555,3158
+2018,Nevada,Traumatic brain injury,165,28,137,1,4,30,59,3,11,57
+2018,Nevada,Visual impairment,113,17,96,1,1,14,48,0,9,40
+2018,New Hampshire,All Disabilities,26243,352,25891,86,372,583,1856,19,690,22637
+2018,New Hampshire,Autism,2787,36,2751,8,83,49,147,2,68,2430
+2018,New Hampshire,Deaf-blindness,9,0,9,0,0,0,0,0,0,9
+2018,New Hampshire,Developmental delay,2407,29,2378,5,34,55,198,4,83,2028
+2018,New Hampshire,Emotional disturbance,2095,11,2084,8,7,53,139,2,59,1827
+2018,New Hampshire,Hearing impairment,146,7,139,2,8,3,16,0,4,113
+2018,New Hampshire,Intellectual disability,836,30,806,6,20,31,57,0,19,703
+2018,New Hampshire,Multiple disabilities,358,5,353,1,8,15,13,2,5,314
+2018,New Hampshire,Orthopedic impairment,51,1,50,0,4,0,5,0,4,38
+2018,New Hampshire,Other health impairment,5286,37,5249,20,46,111,318,1,137,4653
+2018,New Hampshire,Specific learning disability,9255,163,9092,26,90,206,762,4,219,7948
+2018,New Hampshire,Speech or language impairment,2843,29,2814,10,63,56,185,4,89,2436
+2018,New Hampshire,Traumatic brain injury,72,2,70,0,4,1,9,0,1,57
+2018,New Hampshire,Visual impairment,98,2,96,0,5,3,7,0,2,81
+2018,New Jersey,All Disabilities,220362,6736,213626,283,9557,37722,60566,290,4270,107674
+2018,New Jersey,Autism,20635,209,20426,37,2135,3139,5069,40,428,9787
+2018,New Jersey,Deaf-blindness,24,1,23,0,2,7,9,0,0,6
+2018,New Jersey,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,New Jersey,Emotional disturbance,7485,57,7428,16,185,2240,1628,8,206,3202
+2018,New Jersey,Hearing impairment,1389,51,1338,0,125,148,446,2,15,653
+2018,New Jersey,Intellectual disability,5234,372,4862,4,262,1681,1995,4,61,1227
+2018,New Jersey,Multiple disabilities,14083,232,13851,24,580,3281,3646,17,261,6274
+2018,New Jersey,Orthopedic impairment,318,8,310,0,27,41,66,0,3,181
+2018,New Jersey,Other health impairment,48543,753,47790,60,1259,7835,10739,36,968,27646
+2018,New Jersey,Specific learning disability,74278,2332,71946,85,1917,12982,21954,100,1267,35973
+2018,New Jersey,Speech or language impairment,47541,2697,44844,57,3029,6223,14767,82,1044,22339
+2018,New Jersey,Traumatic brain injury,462,12,450,0,14,103,135,1,6,203
+2018,New Jersey,Visual impairment,370,12,358,0,22,42,112,0,11,183
+2018,New Mexico,All Disabilities,47389,11284,36105,5049,213,1032,30163,45,963,9924
+2018,New Mexico,Autism,3085,445,2640,224,50,77,1556,8,97,1073
+2018,New Mexico,Deaf-blindness,5,2,3,0,0,0,5,0,0,0
+2018,New Mexico,Developmental delay,2557,636,1921,388,13,60,1521,2,70,503
+2018,New Mexico,Emotional disturbance,1853,236,1617,148,8,63,981,2,69,582
+2018,New Mexico,Hearing impairment,484,92,392,53,10,11,293,0,8,109
+2018,New Mexico,Intellectual disability,2241,505,1736,293,5,60,1420,3,50,410
+2018,New Mexico,Multiple disabilities,711,144,567,74,3,11,431,1,11,180
+2018,New Mexico,Orthopedic impairment,209,44,165,8,4,3,128,0,4,62
+2018,New Mexico,Other health impairment,4761,810,3951,359,21,118,2817,7,92,1347
+2018,New Mexico,Specific learning disability,24738,6825,17913,2822,59,503,16845,13,426,4070
+2018,New Mexico,Speech or language impairment,6386,1471,4915,615,37,119,3973,9,127,1506
+2018,New Mexico,Traumatic brain injury,190,52,138,41,0,5,95,0,6,43
+2018,New Mexico,Visual impairment,169,22,147,24,3,2,98,0,3,39
+2018,New York,All Disabilities,457354,49416,407938,3378,18992,95148,145578,815,12310,181133
+2018,New York,Autism,40525,3259,37266,295,2667,7849,10613,139,914,18048
+2018,New York,Deaf-blindness,14,0,14,0,1,2,4,0,2,5
+2018,New York,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,New York,Emotional disturbance,22553,810,21743,177,385,8154,5912,30,669,7226
+2018,New York,Hearing impairment,3909,450,3459,41,391,534,1258,5,83,1597
+2018,New York,Intellectual disability,12905,2960,9945,123,699,3618,4009,40,223,4193
+2018,New York,Multiple disabilities,14213,1424,12789,118,764,2485,3214,36,291,7305
+2018,New York,Orthopedic impairment,1547,111,1436,12,111,270,408,7,35,704
+2018,New York,Other health impairment,79199,3172,76027,364,1768,12281,16432,67,2694,45593
+2018,New York,Specific learning disability,166558,18842,147716,1393,5333,37935,56391,260,4607,60639
+2018,New York,Speech or language impairment,113856,18247,95609,839,6736,21670,46807,227,2746,34831
+2018,New York,Traumatic brain injury,846,58,788,10,36,157,192,1,17,433
+2018,New York,Visual impairment,1229,83,1146,6,101,193,338,3,29,559
+2018,North Carolina,All Disabilities,181547,18331,163216,2664,2498,56640,29314,190,8482,81759
+2018,North Carolina,Autism,19229,1452,17777,115,638,5326,2436,25,927,9762
+2018,North Carolina,Deaf-blindness,28,4,24,0,2,7,6,0,1,12
+2018,North Carolina,Developmental delay,6991,986,6005,74,152,2236,1314,6,368,2841
+2018,North Carolina,Emotional disturbance,5275,123,5152,32,19,2326,392,4,382,2120
+2018,North Carolina,Hearing impairment,1550,283,1267,16,56,416,385,5,68,604
+2018,North Carolina,Intellectual disability,16269,1874,14395,453,215,7188,2353,14,613,5433
+2018,North Carolina,Multiple disabilities,2710,192,2518,26,60,737,415,7,105,1360
+2018,North Carolina,Orthopedic impairment,609,55,554,3,26,115,92,2,21,350
+2018,North Carolina,Other health impairment,35047,1409,33638,322,224,11034,3270,17,1898,18282
+2018,North Carolina,Specific learning disability,72095,9974,62121,1018,705,22432,15457,77,3078,29328
+2018,North Carolina,Speech or language impairment,20478,1871,18607,589,356,4472,3024,28,957,11052
+2018,North Carolina,Traumatic brain injury,695,63,632,8,21,208,91,1,33,333
+2018,North Carolina,Visual impairment,571,45,526,8,24,143,79,4,31,282
+2018,North Dakota,All Disabilities,13559,449,13110,1502,107,732,930,22,553,9713
+2018,North Dakota,Autism,1304,20,1284,87,24,44,62,4,40,1043
+2018,North Dakota,Deaf-blindness,2,0,2,0,0,0,0,0,0,2
+2018,North Dakota,Developmental delay,1306,60,1246,183,9,100,101,2,72,839
+2018,North Dakota,Emotional disturbance,1183,20,1163,134,2,80,72,2,60,833
+2018,North Dakota,Hearing impairment,117,7,110,15,1,9,8,0,7,77
+2018,North Dakota,Intellectual disability,764,34,730,98,9,55,47,2,19,534
+2018,North Dakota,Multiple disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,North Dakota,Orthopedic impairment,55,3,52,6,2,1,0,0,0,46
+2018,North Dakota,Other health impairment,2195,30,2165,189,8,95,145,5,95,1658
+2018,North Dakota,Specific learning disability,4550,213,4337,538,32,266,373,3,164,3174
+2018,North Dakota,Speech or language impairment,1990,60,1930,240,18,79,121,4,91,1437
+2018,North Dakota,Traumatic brain injury,50,0,50,9,1,1,1,0,2,36
+2018,North Dakota,Visual impairment,43,2,41,3,1,2,0,0,3,34
+2018,Northern Marianas,All Disabilities,856,172,684,0,208,0,0,528,NA,NA
+2018,Northern Marianas,Autism,108,12,96,0,51,0,0,38,NA,NA
+2018,Northern Marianas,Deaf-blindness,1,1,0,0,0,0,0,0,NA,NA
+2018,Northern Marianas,Developmental delay,77,13,64,0,19,0,0,48,NA,NA
+2018,Northern Marianas,Emotional disturbance,18,2,16,0,5,0,0,11,NA,NA
+2018,Northern Marianas,Hearing impairment,20,4,16,0,10,0,0,10,NA,NA
+2018,Northern Marianas,Intellectual disability,62,19,43,0,12,0,0,42,NA,NA
+2018,Northern Marianas,Multiple disabilities,47,9,38,0,20,0,0,19,NA,NA
+2018,Northern Marianas,Orthopedic impairment,6,0,6,0,0,0,0,6,NA,NA
+2018,Northern Marianas,Other health impairment,93,11,82,0,18,0,0,61,NA,NA
+2018,Northern Marianas,Specific learning disability,400,97,303,0,65,0,0,283,NA,NA
+2018,Northern Marianas,Speech or language impairment,19,4,15,0,7,0,0,7,NA,NA
+2018,Northern Marianas,Traumatic brain injury,2,0,2,0,1,0,0,1,NA,NA
+2018,Northern Marianas,Visual impairment,3,0,3,0,0,0,0,2,NA,NA
+2018,Ohio,All Disabilities,244671,7431,237240,348,2349,49708,14264,184,13077,164741
+2018,Ohio,Autism,23754,591,23163,32,536,3466,1206,19,1146,17349
+2018,Ohio,Deaf-blindness,65,0,65,0,1,6,3,0,2,53
+2018,Ohio,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Ohio,Emotional disturbance,15377,156,15221,21,59,5043,684,10,1109,8451
+2018,Ohio,Hearing impairment,1858,97,1761,1,62,313,149,2,84,1247
+2018,Ohio,Intellectual disability,19324,673,18651,30,156,5516,939,10,983,11690
+2018,Ohio,Multiple disabilities,12113,363,11750,11,195,2413,566,9,559,8360
+2018,Ohio,Orthopedic impairment,1234,60,1174,1,52,147,62,1,44,927
+2018,Ohio,Other health impairment,45366,865,44501,70,302,8939,2271,27,2690,31067
+2018,Ohio,Specific learning disability,98008,3853,94155,149,626,20659,6941,79,5020,64534
+2018,Ohio,Speech or language impairment,25254,696,24558,30,311,2781,1326,26,1318,19462
+2018,Ohio,Traumatic brain injury,1459,52,1407,3,21,293,84,1,79,978
+2018,Ohio,Visual impairment,859,25,834,0,28,132,33,0,43,623
+2018,Oklahoma,All Disabilities,104980,8738,96242,17221,882,11125,14821,230,8554,52147
+2018,Oklahoma,Autism,6744,420,6324,921,140,512,779,12,551,3829
+2018,Oklahoma,Deaf-blindness,20,1,19,4,1,2,3,0,1,9
+2018,Oklahoma,Developmental delay,16229,1216,15013,2609,205,1190,1871,43,1560,8751
+2018,Oklahoma,Emotional disturbance,4142,74,4068,675,6,556,296,7,344,2258
+2018,Oklahoma,Hearing impairment,1380,143,1237,193,29,113,231,1,117,696
+2018,Oklahoma,Intellectual disability,6470,684,5786,1039,56,1076,987,25,454,2833
+2018,Oklahoma,Multiple disabilities,1574,110,1464,247,24,159,201,7,103,833
+2018,Oklahoma,Orthopedic impairment,339,26,313,43,8,18,54,0,25,191
+2018,Oklahoma,Other health impairment,18251,666,17585,3020,81,1800,1609,18,1568,10155
+2018,Oklahoma,Specific learning disability,38775,4565,34210,6559,166,4987,7295,94,2791,16883
+2018,Oklahoma,Speech or language impairment,10198,787,9411,1766,156,662,1399,20,976,5219
+2018,Oklahoma,Traumatic brain injury,239,20,219,37,2,14,33,2,25,126
+2018,Oklahoma,Visual impairment,619,26,593,108,8,36,63,1,39,364
+2018,Oregon,All Disabilities,77432,8994,68410,1399,1582,2362,19378,427,4881,47403
+2018,Oregon,Autism,9752,727,9020,114,428,231,1685,46,659,6584
+2018,Oregon,Deaf-blindness,11,0,11,0,0,0,1,0,0,10
+2018,Oregon,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Oregon,Emotional disturbance,5286,242,5036,92,47,234,879,15,433,3578
+2018,Oregon,Hearing impairment,848,149,698,10,43,24,268,15,45,442
+2018,Oregon,Intellectual disability,4167,567,3600,87,112,176,1115,40,209,2428
+2018,Oregon,Multiple disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Oregon,Orthopedic impairment,602,44,558,8,25,11,125,4,30,399
+2018,Oregon,Other health impairment,14655,872,13778,260,155,502,2624,55,1083,9971
+2018,Oregon,Specific learning disability,25191,3445,21741,577,281,753,7866,134,1384,14191
+2018,Oregon,Speech or language impairment,16357,2897,13457,232,472,413,4691,116,1000,9430
+2018,Oregon,Traumatic brain injury,294,25,268,13,8,12,55,1,25,179
+2018,Oregon,Visual impairment,269,26,243,6,11,6,66,0,11,169
+2018,Pennsylvania,All Disabilities,290896,10660,280236,560,4691,49953,38322,170,13442,183758
+2018,Pennsylvania,Autism,32332,842,31490,74,1153,4538,3747,31,1692,21097
+2018,Pennsylvania,Deaf-blindness,55,1,54,0,0,9,0,0,4,42
+2018,Pennsylvania,Developmental delay,76,7,69,0,1,27,10,0,4,34
+2018,Pennsylvania,Emotional disturbance,25166,323,24843,55,168,6175,2713,19,1475,14561
+2018,Pennsylvania,Hearing impairment,2526,112,2414,5,130,287,310,0,117,1677
+2018,Pennsylvania,Intellectual disability,18476,977,17499,44,389,4250,2382,6,919,10486
+2018,Pennsylvania,Multiple disabilities,3029,83,2946,4,105,428,406,2,144,1940
+2018,Pennsylvania,Orthopedic impairment,648,23,625,0,26,88,71,0,32,431
+2018,Pennsylvania,Other health impairment,48004,1405,46599,99,535,7688,5983,25,2205,31469
+2018,Pennsylvania,Specific learning disability,120625,5327,115298,211,1151,21948,18554,65,4993,73703
+2018,Pennsylvania,Speech or language impairment,38309,1499,36810,66,987,4281,3968,20,1777,27210
+2018,Pennsylvania,Traumatic brain injury,630,23,607,1,8,98,79,1,28,415
+2018,Pennsylvania,Visual impairment,1020,38,982,1,38,136,99,1,52,693
+2018,Puerto Rico,All Disabilities,91338,299,91039,33,NA,NA,91175,NA,0,104
+2018,Puerto Rico,Autism,4987,49,4938,0,NA,NA,4972,NA,0,11
+2018,Puerto Rico,Deaf-blindness,13,0,13,0,NA,NA,13,NA,0,0
+2018,Puerto Rico,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Puerto Rico,Emotional disturbance,1196,6,1190,2,NA,NA,1192,NA,0,1
+2018,Puerto Rico,Hearing impairment,454,5,449,0,NA,NA,453,NA,0,1
+2018,Puerto Rico,Intellectual disability,4990,26,4964,1,NA,NA,4984,NA,0,4
+2018,Puerto Rico,Multiple disabilities,814,5,809,0,NA,NA,814,NA,0,0
+2018,Puerto Rico,Orthopedic impairment,218,0,218,0,NA,NA,218,NA,0,0
+2018,Puerto Rico,Other health impairment,22847,74,22773,9,NA,NA,22792,NA,0,38
+2018,Puerto Rico,Specific learning disability,40174,120,40054,20,NA,NA,40127,NA,0,23
+2018,Puerto Rico,Speech or language impairment,15282,14,15268,1,NA,NA,15248,NA,0,26
+2018,Puerto Rico,Traumatic brain injury,27,0,27,0,NA,NA,26,NA,0,0
+2018,Puerto Rico,Visual impairment,336,0,336,0,NA,NA,336,NA,0,0
+2018,Republic of Palau,All Disabilities,80,76,4,0,0,0,0,80,0,0
+2018,Republic of Palau,Autism,7,6,1,0,0,0,0,7,0,0
+2018,Republic of Palau,Deaf-blindness,0,0,0,0,0,0,0,0,0,0
+2018,Republic of Palau,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Republic of Palau,Emotional disturbance,1,1,0,0,0,0,0,1,0,0
+2018,Republic of Palau,Hearing impairment,2,2,0,0,0,0,0,2,0,0
+2018,Republic of Palau,Intellectual disability,4,3,1,0,0,0,0,4,0,0
+2018,Republic of Palau,Multiple disabilities,9,9,0,0,0,0,0,9,0,0
+2018,Republic of Palau,Orthopedic impairment,0,0,0,0,0,0,0,0,0,0
+2018,Republic of Palau,Other health impairment,4,4,0,0,0,0,0,4,0,0
+2018,Republic of Palau,Specific learning disability,42,41,1,0,0,0,0,42,0,0
+2018,Republic of Palau,Speech or language impairment,9,8,1,0,0,0,0,9,0,0
+2018,Republic of Palau,Traumatic brain injury,0,0,0,0,0,0,0,0,0,0
+2018,Republic of Palau,Visual impairment,2,2,0,0,0,0,0,2,0,0
+2018,Republic of the Marshall Islands,All Disabilities,594,594,0,0,0,0,0,594,0,0
+2018,Republic of the Marshall Islands,Autism,7,7,0,0,0,0,0,7,0,0
+2018,Republic of the Marshall Islands,Deaf-blindness,1,1,0,0,0,0,0,1,0,0
+2018,Republic of the Marshall Islands,Developmental delay,28,28,0,0,0,0,0,28,0,0
+2018,Republic of the Marshall Islands,Emotional disturbance,2,2,0,0,0,0,0,2,0,0
+2018,Republic of the Marshall Islands,Hearing impairment,53,53,0,0,0,0,0,53,0,0
+2018,Republic of the Marshall Islands,Intellectual disability,0,0,0,0,0,0,0,0,0,0
+2018,Republic of the Marshall Islands,Multiple disabilities,12,12,0,0,0,0,0,12,0,0
+2018,Republic of the Marshall Islands,Orthopedic impairment,6,6,0,0,0,0,0,6,0,0
+2018,Republic of the Marshall Islands,Other health impairment,1,1,0,0,0,0,0,1,0,0
+2018,Republic of the Marshall Islands,Specific learning disability,439,439,0,0,0,0,0,439,0,0
+2018,Republic of the Marshall Islands,Speech or language impairment,29,29,0,0,0,0,0,29,0,0
+2018,Republic of the Marshall Islands,Traumatic brain injury,0,0,0,0,0,0,0,0,0,0
+2018,Republic of the Marshall Islands,Visual impairment,16,16,0,0,0,0,0,16,0,0
+2018,Rhode Island,All Disabilities,20935,2241,18694,261,373,2016,5743,36,962,11544
+2018,Rhode Island,Autism,2379,84,2295,19,72,164,373,2,93,1656
+2018,Rhode Island,Deaf-blindness,4,1,3,0,0,1,2,0,0,1
+2018,Rhode Island,Developmental delay,1400,202,1198,26,29,149,380,4,70,742
+2018,Rhode Island,Emotional disturbance,1615,48,1567,25,8,210,333,2,130,907
+2018,Rhode Island,Hearing impairment,135,21,114,2,2,17,43,0,2,69
+2018,Rhode Island,Intellectual disability,872,128,744,12,22,102,247,1,26,462
+2018,Rhode Island,Multiple disabilities,375,19,356,2,13,26,85,1,12,236
+2018,Rhode Island,Orthopedic impairment,42,4,38,0,2,5,6,0,2,27
+2018,Rhode Island,Other health impairment,3861,258,3603,42,42,320,982,5,186,2284
+2018,Rhode Island,Specific learning disability,7582,1061,6521,112,104,827,2541,8,334,3656
+2018,Rhode Island,Speech or language impairment,2578,404,2174,20,73,187,731,12,104,1451
+2018,Rhode Island,Traumatic brain injury,45,5,40,1,3,2,10,0,1,28
+2018,Rhode Island,Visual impairment,47,6,41,0,3,6,10,1,2,25
+2018,South Carolina,All Disabilities,96729,6408,90321,380,713,38902,8470,96,4162,44006
+2018,South Carolina,Autism,8335,395,7940,26,149,2815,640,9,362,4334
+2018,South Carolina,Deaf-blindness,17,0,17,0,0,5,2,0,0,10
+2018,South Carolina,Developmental delay,4982,434,4548,16,46,2210,527,4,268,1911
+2018,South Carolina,Emotional disturbance,2112,31,2081,3,7,1025,95,2,128,852
+2018,South Carolina,Hearing impairment,899,100,799,1,32,328,114,1,22,401
+2018,South Carolina,Intellectual disability,6199,330,5869,18,52,3533,406,5,201,1984
+2018,South Carolina,Multiple disabilities,1363,84,1279,6,10,395,115,0,53,784
+2018,South Carolina,Orthopedic impairment,391,44,347,1,15,127,40,1,11,196
+2018,South Carolina,Other health impairment,15297,505,14792,57,66,5980,857,13,693,7631
+2018,South Carolina,Specific learning disability,41983,3481,38502,179,166,18186,4322,47,1694,17389
+2018,South Carolina,Speech or language impairment,14585,968,13617,71,158,4103,1314,14,702,8223
+2018,South Carolina,Traumatic brain injury,186,15,171,1,1,69,15,0,11,89
+2018,South Carolina,Visual impairment,380,21,359,1,11,126,23,0,17,202
+2018,South Dakota,All Disabilities,18789,817,17972,2867,195,635,1311,9,969,12803
+2018,South Dakota,Autism,1392,29,1363,154,18,38,85,0,57,1040
+2018,South Dakota,Deaf-blindness,2,0,2,0,0,0,0,0,0,2
+2018,South Dakota,Developmental delay,1,NA,1,NA,NA,NA,NA,NA,NA,1
+2018,South Dakota,Emotional disturbance,1213,19,1194,154,2,49,72,0,89,847
+2018,South Dakota,Hearing impairment,131,7,124,29,1,3,14,1,6,77
+2018,South Dakota,Intellectual disability,1827,154,1673,340,39,122,136,1,100,1089
+2018,South Dakota,Multiple disabilities,531,21,510,74,8,32,30,2,20,365
+2018,South Dakota,Orthopedic impairment,64,4,60,7,1,1,4,0,4,47
+2018,South Dakota,Other health impairment,2919,79,2840,299,17,123,185,0,155,2140
+2018,South Dakota,Specific learning disability,7081,395,6686,1364,64,205,580,2,367,4499
+2018,South Dakota,Speech or language impairment,3533,106,3427,428,44,58,200,3,168,2632
+2018,South Dakota,Traumatic brain injury,49,1,48,17,0,1,2,0,2,27
+2018,South Dakota,Visual impairment,46,2,44,1,1,3,3,0,1,37
+2018,Tennessee,All Disabilities,115637,4154,111483,238,1167,27559,9777,85,3303,73508
+2018,Tennessee,Autism,10988,311,10677,21,228,2190,876,12,289,7372
+2018,Tennessee,Deaf-blindness,16,0,16,0,1,7,0,0,0,8
+2018,Tennessee,Developmental delay,6810,290,6520,12,104,1984,671,5,244,3790
+2018,Tennessee,Emotional disturbance,3381,42,3339,9,10,1119,167,2,126,1948
+2018,Tennessee,Hearing impairment,1079,76,1003,4,38,265,127,3,35,607
+2018,Tennessee,Intellectual disability,8656,355,8301,13,107,3031,676,6,153,4670
+2018,Tennessee,Multiple disabilities,1967,40,1927,5,24,431,165,2,44,1296
+2018,Tennessee,Orthopedic impairment,480,19,461,0,16,75,36,1,13,339
+2018,Tennessee,Other health impairment,18734,288,18446,35,94,4483,981,10,629,12502
+2018,Tennessee,Specific learning disability,37630,1722,35908,87,185,9488,3691,21,960,23198
+2018,Tennessee,Speech or language impairment,25047,979,24068,48,337,4303,2326,23,790,17220
+2018,Tennessee,Traumatic brain injury,319,11,308,1,4,88,25,0,8,193
+2018,Tennessee,Visual impairment,530,21,509,3,19,95,36,0,12,365
+2018,Texas,All Disabilities,478435,88956,389479,1980,10175,75564,244931,602,11406,133777
+2018,Texas,Autism,62319,7834,54485,271,3554,8437,27902,87,1800,20268
+2018,Texas,Deaf-blindness,157,9,148,0,6,16,62,0,3,70
+2018,Texas,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Texas,Emotional disturbance,31519,2689,28830,139,266,6512,11680,26,1116,11780
+2018,Texas,Hearing impairment,6058,1112,4946,28,263,731,3390,12,98,1536
+2018,Texas,Intellectual disability,53158,8254,44904,205,1034,11492,28785,83,935,10624
+2018,Texas,Multiple disabilities,7643,662,6981,26,240,1019,3676,7,178,2497
+2018,Texas,Orthopedic impairment,2779,477,2302,15,114,335,1450,2,56,807
+2018,Texas,Other health impairment,71344,10353,60991,288,890,12219,31966,78,1992,23911
+2018,Texas,Specific learning disability,163330,39659,123671,624,1424,26450,95780,197,3089,35766
+2018,Texas,Speech or language impairment,76061,17376,58685,361,2259,7741,38413,100,2043,25144
+2018,Texas,Traumatic brain injury,1091,126,965,4,27,200,470,2,28,360
+2018,Texas,Visual impairment,2976,405,2571,19,98,412,1357,8,68,1014
+2018,Utah,All Disabilities,75791,9009,66781,1279,703,1497,15683,910,2138,53581
+2018,Utah,Autism,6445,399,6046,51,77,93,885,65,222,5052
+2018,Utah,Deaf-blindness,25,2,23,0,0,0,11,0,2,12
+2018,Utah,Developmental delay,2156,314,1842,51,30,21,510,36,74,1434
+2018,Utah,Emotional disturbance,1918,82,1835,24,7,90,281,20,83,1412
+2018,Utah,Hearing impairment,435,56,379,9,12,8,109,9,10,278
+2018,Utah,Intellectual disability,3285,479,2806,61,64,97,751,47,89,2176
+2018,Utah,Multiple disabilities,1448,137,1311,22,37,37,270,29,34,1019
+2018,Utah,Orthopedic impairment,167,16,151,0,3,3,27,1,3,130
+2018,Utah,Other health impairment,8195,337,7858,64,51,214,986,54,278,6548
+2018,Utah,Specific learning disability,35105,5758,29347,761,218,739,9176,490,887,22834
+2018,Utah,Speech or language impairment,16147,1392,14755,220,189,182,2596,152,445,12363
+2018,Utah,Traumatic brain injury,248,22,226,8,3,9,49,3,5,171
+2018,Utah,Visual impairment,217,15,202,8,12,4,32,4,6,151
+2018,Vermont,All Disabilities,12861,251,12610,54,139,410,192,21,281,11764
+2018,Vermont,Autism,1057,25,1032,7,27,33,29,3,20,938
+2018,Vermont,Deaf-blindness,3,0,3,0,0,1,0,0,0,2
+2018,Vermont,Developmental delay,1020,20,1000,4,18,23,17,1,25,932
+2018,Vermont,Emotional disturbance,2233,39,2194,10,10,85,29,4,64,2031
+2018,Vermont,Hearing impairment,59,5,54,1,4,4,0,0,0,50
+2018,Vermont,Intellectual disability,627,13,614,2,4,25,5,1,15,575
+2018,Vermont,Multiple disabilities,215,6,209,2,5,9,4,0,10,185
+2018,Vermont,Orthopedic impairment,38,1,37,1,1,1,0,0,1,34
+2018,Vermont,Other health impairment,2543,41,2502,9,20,80,41,2,48,2343
+2018,Vermont,Specific learning disability,4007,64,3943,14,32,115,56,8,65,3717
+2018,Vermont,Speech or language impairment,1012,34,978,4,17,27,11,2,32,919
+2018,Vermont,Traumatic brain injury,30,0,30,0,0,3,0,0,1,26
+2018,Vermont,Visual impairment,17,3,14,0,1,4,0,0,0,12
+2018,Virgin Islands,All Disabilities,974,69,905,0,NA,732,208,NA,NA,19
+2018,Virgin Islands,Autism,85,4,81,0,NA,62,18,NA,NA,3
+2018,Virgin Islands,Deaf-blindness,0,0,0,0,NA,0,0,NA,NA,0
+2018,Virgin Islands,Developmental delay,47,3,44,0,NA,37,9,NA,NA,1
+2018,Virgin Islands,Emotional disturbance,26,1,25,0,NA,24,2,NA,NA,0
+2018,Virgin Islands,Hearing impairment,2,0,2,0,NA,2,0,NA,NA,0
+2018,Virgin Islands,Intellectual disability,89,14,75,0,NA,61,27,NA,NA,1
+2018,Virgin Islands,Multiple disabilities,10,0,10,0,NA,8,2,NA,NA,0
+2018,Virgin Islands,Orthopedic impairment,1,0,1,0,NA,1,0,NA,NA,0
+2018,Virgin Islands,Other health impairment,104,3,101,0,NA,82,21,NA,NA,0
+2018,Virgin Islands,Specific learning disability,536,36,500,0,NA,398,115,NA,NA,11
+2018,Virgin Islands,Speech or language impairment,67,8,59,0,NA,53,13,NA,NA,1
+2018,Virgin Islands,Traumatic brain injury,4,0,4,0,NA,3,1,NA,NA,0
+2018,Virgin Islands,Visual impairment,3,0,3,0,NA,1,0,NA,NA,2
+2018,Virginia,All Disabilities,156643,21420,135223,464,5546,42564,24702,214,8522,74631
+2018,Virginia,Autism,20607,2547,18060,56,1490,4685,2584,45,1281,10466
+2018,Virginia,Deaf-blindness,16,1,15,0,0,3,1,0,3,9
+2018,Virginia,Developmental delay,2825,636,2189,8,192,662,515,1,169,1278
+2018,Virginia,Emotional disturbance,9782,607,9175,39,165,3064,1133,7,689,4685
+2018,Virginia,Hearing impairment,1184,266,918,0,111,213,274,1,55,530
+2018,Virginia,Intellectual disability,8923,1324,7599,20,417,3292,1237,14,345,3598
+2018,Virginia,Multiple disabilities,3002,292,2710,4,157,784,379,7,153,1518
+2018,Virginia,Orthopedic impairment,530,87,443,1,53,89,73,3,24,287
+2018,Virginia,Other health impairment,35161,2594,32567,94,653,10297,3892,32,2036,18157
+2018,Virginia,Specific learning disability,55558,10318,45240,200,1417,15845,11527,76,2664,23829
+2018,Virginia,Speech or language impairment,18080,2633,15447,39,834,3385,2952,26,1057,9787
+2018,Virginia,Traumatic brain injury,403,39,364,0,10,123,50,2,22,196
+2018,Virginia,Visual impairment,572,76,496,3,47,122,85,0,24,291
+2018,Washington,All Disabilities,130488,20717,109765,2548,4972,7438,33629,1161,10966,69774
+2018,Washington,Autism,14363,1224,13136,131,1164,677,2364,84,1246,8694
+2018,Washington,Deaf-blindness,22,2,20,2,3,1,5,1,0,10
+2018,Washington,Developmental delay,8431,1591,6840,165,376,486,2238,73,789,4304
+2018,Washington,Emotional disturbance,5324,321,5002,122,126,466,880,28,583,3118
+2018,Washington,Hearing impairment,1005,201,804,22,85,52,333,20,77,416
+2018,Washington,Intellectual disability,5011,997,4014,150,247,377,1465,54,322,2396
+2018,Washington,Multiple disabilities,2946,331,2615,44,154,165,641,34,207,1701
+2018,Washington,Orthopedic impairment,371,53,318,4,22,24,79,5,27,210
+2018,Washington,Other health impairment,27249,2230,25017,403,646,1593,5057,138,2465,16945
+2018,Washington,Specific learning disability,47606,11120,36486,1208,1284,3031,16250,547,3622,21664
+2018,Washington,Speech or language impairment,17431,2526,14905,278,819,534,4105,166,1588,9941
+2018,Washington,Traumatic brain injury,310,54,256,6,15,15,91,5,16,162
+2018,Washington,Visual impairment,419,67,352,13,29,17,121,6,24,209
+2018,West Virginia,All Disabilities,41938,272,41666,41,95,1918,694,10,1338,37842
+2018,West Virginia,Autism,2565,23,2542,3,21,118,58,0,81,2284
+2018,West Virginia,Deaf-blindness,21,0,21,0,0,0,0,0,0,21
+2018,West Virginia,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,West Virginia,Emotional disturbance,1133,5,1128,1,3,97,21,0,62,949
+2018,West Virginia,Hearing impairment,420,2,418,0,1,16,6,0,7,390
+2018,West Virginia,Intellectual disability,6559,30,6529,8,14,347,69,1,193,5927
+2018,West Virginia,Multiple disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,West Virginia,Orthopedic impairment,99,1,98,0,2,4,0,0,2,91
+2018,West Virginia,Other health impairment,7038,17,7021,11,8,305,94,0,233,6387
+2018,West Virginia,Specific learning disability,14977,121,14856,14,13,799,298,7,474,13372
+2018,West Virginia,Speech or language impairment,8752,70,8682,4,33,214,143,2,273,8083
+2018,West Virginia,Traumatic brain injury,97,0,97,0,0,4,0,0,6,87
+2018,West Virginia,Visual impairment,277,3,274,0,0,14,5,0,7,251
+2018,Wisconsin,All Disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Wisconsin,Autism,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Wisconsin,Deaf-blindness,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Wisconsin,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Wisconsin,Emotional disturbance,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Wisconsin,Hearing impairment,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Wisconsin,Intellectual disability,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Wisconsin,Multiple disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Wisconsin,Orthopedic impairment,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Wisconsin,Other health impairment,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Wisconsin,Specific learning disability,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Wisconsin,Speech or language impairment,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Wisconsin,Traumatic brain injury,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Wisconsin,Visual impairment,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2018,Wyoming,All Disabilities,12348,545,11803,593,77,146,1677,23,582,9250
+2018,Wyoming,Autism,906,31,875,27,9,8,87,4,41,730
+2018,Wyoming,Deaf-blindness,0,0,0,0,0,0,0,0,0,0
+2018,Wyoming,Developmental delay,244,18,226,9,1,4,43,0,12,175
+2018,Wyoming,Emotional disturbance,579,6,573,27,5,11,67,1,39,429
+2018,Wyoming,Hearing impairment,122,5,117,7,1,1,20,0,3,90
+2018,Wyoming,Intellectual disability,513,34,479,33,8,6,80,2,22,362
+2018,Wyoming,Multiple disabilities,331,11,320,13,1,8,44,0,10,255
+2018,Wyoming,Orthopedic impairment,58,1,57,4,2,1,7,0,3,41
+2018,Wyoming,Other health impairment,2056,53,2003,41,5,26,227,1,78,1678
+2018,Wyoming,Specific learning disability,4282,235,4047,265,16,46,672,8,209,3066
+2018,Wyoming,Speech or language impairment,3151,142,3009,161,26,34,420,7,159,2344
+2018,Wyoming,Traumatic brain injury,65,4,61,5,0,1,5,0,5,49
+2018,Wyoming,Visual impairment,41,5,36,1,3,0,5,0,1,31
+2018,"US, Outlying Areas, and Freely Associated States",All Disabilities,6315228,714400,5600742,85534,157284,1129554,1716195,23384,251413,2951864
+2018,"US, Outlying Areas, and Freely Associated States",Autism,663844,58965,604171,5354,38940,98281,159248,1901,28698,331413
+2018,"US, Outlying Areas, and Freely Associated States",Deaf-blindness,1425,106,1318,17,73,164,348,9,47,767
+2018,"US, Outlying Areas, and Freely Associated States",Developmental delay,167704,22107,145500,5510,4187,33916,32718,859,8882,81631
+2018,"US, Outlying Areas, and Freely Associated States",Emotional disturbance,344473,14036,324494,4645,3635,80600,63105,875,19025,172545
+2018,"US, Outlying Areas, and Freely Associated States",Hearing impairment,64359,9105,54776,773,3839,8665,20819,462,2138,27662
+2018,"US, Outlying Areas, and Freely Associated States",Intellectual disability,423215,50113,362640,5603,10677,109358,111378,1597,13381,171221
+2018,"US, Outlying Areas, and Freely Associated States",Multiple disabilities,126697,9186,117134,2028,4495,21697,25987,696,4528,67266
+2018,"US, Outlying Areas, and Freely Associated States",Orthopedic impairment,33516,4517,28283,289,1777,4225,9856,167,1102,16100
+2018,"US, Outlying Areas, and Freely Associated States",Other health impairment,1025953,63627,962173,11084,14826,182731,217624,2649,45444,551581
+2018,"US, Outlying Areas, and Freely Associated States",Specific learning disability,2377739,342700,1997239,37469,36198,443831,774287,11474,84294,990176
+2018,"US, Outlying Areas, and Freely Associated States",Speech or language impairment,1036790,129212,902299,12068,36796,138525,289691,2427,42013,515266
+2018,"US, Outlying Areas, and Freely Associated States",Traumatic brain injury,25344,2142,23033,341,685,3922,5159,67,1010,14157
+2018,"US, Outlying Areas, and Freely Associated States",Visual impairment,24169,2288,21728,353,1154,3638,5969,200,848,12006
