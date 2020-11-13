@@ -91,35 +91,35 @@ dfs2005 <- rename(dfs2005,
                   state = State, 
                   disability = Disability,
                   total_6to21 = 'Age 6 to 21',
-                  aian5 = 'American Indian or Alaska Native Age 6 to 21',
-                  api5 = 'Asian or Pacific Islander Age 6 to 21',
-                  black5 = 'Black (not Hispanic) Age 6 to 21',
-                  hisp5 = 'Hispanic Age 6 to 21',
-                  white5 = 'White (not Hispanic) Age 6 to 21',
-                  total_ethnicity5 = 'Age 6-21 Ethnicity Totals')
+                  aian = 'American Indian or Alaska Native Age 6 to 21',
+                  api = 'Asian or Pacific Islander Age 6 to 21',
+                  black = 'Black (not Hispanic) Age 6 to 21',
+                  hisp = 'Hispanic Age 6 to 21',
+                  white = 'White (not Hispanic) Age 6 to 21',
+                  total_ethnicity = 'Age 6-21 Ethnicity Totals')
 
 dfs2006 <- rename(dfs2006, 
                   year = Year, 
                   state = State, 
                   disability = Disability,
                   total_6to21 = 'Age 6 to 21',
-                  aian5 = 'American Indian or Alaska Native Age 6 to 21',
-                  api5 = 'Asian or Pacific Islander Age 6 to 21',
-                  black5 = 'Black (not Hispanic) Age 6 to 21',
-                  hisp5 = 'Hispanic Age 6 to 21',
-                  white5 = 'White (not Hispanic) Age 6 to 21',
-                  total_ethnicity5 = 'Age 6-21 Ethnicity Totals')
+                  aian = 'American Indian or Alaska Native Age 6 to 21',
+                  api = 'Asian or Pacific Islander Age 6 to 21',
+                  black = 'Black (not Hispanic) Age 6 to 21',
+                  hisp = 'Hispanic Age 6 to 21',
+                  white = 'White (not Hispanic) Age 6 to 21',
+                  total_ethnicity = 'Age 6-21 Ethnicity Totals')
 
 dfs2007 <- rename(dfs2007, 
                   year = Year, 
                   state = State, 
                   disability = Disability,
                   total_6to21 = 'Age 6 to 21',
-                  aian5 = 'American Indian or Alaska Native Age 6 to 21',
-                  api5 = 'Asian or Pacific Islander Age 6 to 21',
-                  black5 = 'Black (not Hispanic) Age 6 to 21',
-                  hisp5 = 'Hispanic Age 6 to 21',
-                  white5 = 'White (not Hispanic) Age 6 to 21')
+                  aian = 'American Indian or Alaska Native Age 6 to 21',
+                  api = 'Asian or Pacific Islander Age 6 to 21',
+                  black = 'Black (not Hispanic) Age 6 to 21',
+                  hisp = 'Hispanic Age 6 to 21',
+                  white = 'White (not Hispanic) Age 6 to 21')
 
 
 dfs2008 <- rename(dfs2008,
@@ -167,28 +167,28 @@ dfs2010 <- rename(dfs2010,
                   state = State,
                   disability = Disability,
                   total_6to21 = 'Age 6 to 21',
-                  total_ethnicity7 = 'Age 6 to 21 R/E\r\rtotal',
-                  aian7 = '\r\rAmerican Indian \r\ror Alaska Native \r\rAge 6 to 21',
+                  total_ethnicity = 'Age 6 to 21 R/E\r\rtotal',
+                  aian = '\r\rAmerican Indian \r\ror Alaska Native \r\rAge 6 to 21',
                   asian7 = 'Asian \r\rAge 6 to 21',
-                  black7 = 'Black or \r\rAfrican American\r\rAge 6 to 21',
-                  hisp7 = 'Latino or Hispanic\r\rAge 6 to 21\r\r',
+                  black = 'Black or \r\rAfrican American\r\rAge 6 to 21',
+                  hisp = 'Latino or Hispanic\r\rAge 6 to 21\r\r',
                   nhpi7 = 'Native Hawaiian\r\ror Other Pacific Islander\r\rAge 6 to 21',
-                  white7 = 'White\r\rAge 6 to 21',
-                  tworace7 = 'Two or more races\r\rAge 6 to 21')
+                  white = 'White\r\rAge 6 to 21',
+                  tworace = 'Two or more races\r\rAge 6 to 21')
 
 dfs2011 <- rename(dfs2011,
                   year = Year,
                   state = State,
                   disability = Disability,
                   total_6to21 = 'Age 6 to 21',
-                  total_ethnicity7 = 'Age 6 to 21\r\n R/E\r\ntotal',
-                  aian7 = '\r\n\r\nAmerican Indian \r\nor Alaska Native \r\nAge 6 to 21 \r\n',
+                  total_ethnicity = 'Age 6 to 21\r\n R/E\r\ntotal',
+                  aian = '\r\n\r\nAmerican Indian \r\nor Alaska Native \r\nAge 6 to 21 \r\n',
                   asian7 = 'Asian \r\nAge 6 to 21 \r\n',
-                  black7 = 'Black or \r\nAfrican American\r\nAge 6 to 21 \r\n',
-                  hisp7 = 'Hispanic/Latino\r\nAge 6 to 21\r\n',
+                  black = 'Black or \r\nAfrican American\r\nAge 6 to 21 \r\n',
+                  hisp = 'Hispanic/Latino\r\nAge 6 to 21\r\n',
                   nhpi7 = 'Native Hawaiian \r\nor Other Pacific Islander\r\nAge 6 to 21\r\n',
-                  white7 = 'White\r\nAge 6 to 21\r\n',
-                  tworace7 = 'Two or more races\r\nAge 6 to 21 \r\n')
+                  white = 'White\r\nAge 6 to 21\r\n',
+                  tworace = 'Two or more races\r\nAge 6 to 21 \r\n')
 
 
 # adjust variable types and preprocess for merge 2005-2010 ------------------------------------
@@ -213,25 +213,77 @@ dfs2009 <- col2num(dfs2009, 5:19)
 dfs2010 <- col2num(dfs2010, 4:12)
 dfs2011 <- col2num(dfs2011, 4:12)
 
-dfs2007$total_ethnicity5 <- rowSums(dfs2007[,5:9], na.rm=TRUE)
+dfs2007$total_ethnicity <- rowSums(dfs2007[,5:9], na.rm=TRUE)
 
-# write_csv(dfs2005, 'output datasets/section 618 data for 2005.csv')
-# write_csv(dfs2006, 'output datasets/section 618 data for 2006.csv')
-# write_csv(dfs2007, 'output datasets/section 618 data for 2007.csv')
-# write_csv(dfs2008, 'output datasets/section 618 data for 2008.csv')
-# write_csv(dfs2009, 'output datasets/section 618 data for 2009.csv')
-# write_csv(dfs2010, 'output datasets/section 618 data for 2010.csv')
-# write_csv(dfs2011, 'output datasets/section 618 data for 2011.csv')
+
+
+# merge 5r/e with 7r/e categories -------------------------------------------------------------
+sum_re_cat <- function(x1, x2){
+  rowSums(cbind(x1, x2), na.rm=T) + ifelse(is.na(x1) & is.na(x2), NA, 0)
+}
+  
+
+dfs2008 <- dfs2008 %>% mutate(
+  aian = sum_re_cat(aian5, aian7),
+  api = rowSums(cbind(api5, asian7, nhpi7), na.rm=T) + 
+    ifelse(is.na(api5) & is.na(asian7) & is.na(nhpi7), NA, 0),
+  black = sum_re_cat(black5, black7),
+  hisp = sum_re_cat(hisp5, hisp7),
+  white = sum_re_cat(white5, white7),
+  tworace = tworace7,
+  total_ethnicity = sum_re_cat(total_ethnicity5, total_ethnicity7)
+)
+
+dfs2009 <- dfs2009 %>% mutate(
+  aian = sum_re_cat(aian5, aian7),
+  api = rowSums(cbind(api5, asian7, nhpi7), na.rm=T) + 
+    ifelse(is.na(api5) & is.na(asian7) & is.na(nhpi7), NA, 0),
+  black = sum_re_cat(black5, black7),
+  hisp = sum_re_cat(hisp5, hisp7),
+  white = sum_re_cat(white5, white7),
+  tworace = tworace7,
+  total_ethnicity = sum_re_cat(total_ethnicity5, total_ethnicity7)
+)
+
+dfs2010 <- dfs2010 %>% mutate(
+  api = sum_re_cat(asian7, nhpi7)
+)
+
+dfs2011 <- dfs2011 %>% mutate(
+  api = sum_re_cat(asian7, nhpi7)
+)
+
+write_csv(dfs2005, 'output datasets/section 618 data for 2005.csv')
+write_csv(dfs2006, 'output datasets/section 618 data for 2006.csv')
+write_csv(dfs2007, 'output datasets/section 618 data for 2007.csv')
+write_csv(dfs2008, 'output datasets/section 618 data for 2008.csv')
+write_csv(dfs2009, 'output datasets/section 618 data for 2009.csv')
+write_csv(dfs2010, 'output datasets/section 618 data for 2010.csv')
+write_csv(dfs2011, 'output datasets/section 618 data for 2011.csv')
+
+# Remove extraneous 5re and 7re categories prior to merge for 2008-2011
+df08 <- select(dfs2008, year, state, disability, total_6to21, aian, api, black, hisp, white,
+               tworace, total_ethnicity)
+
+df09 <- select(dfs2009, year, state, disability, total_6to21, aian, api, black, hisp, white,
+               tworace, total_ethnicity)
+
+df10 <- select(dfs2010, year, state, disability, total_6to21, aian, api, black, hisp, white,
+               tworace, total_ethnicity)
+
+df11 <- select(dfs2011, year, state, disability, total_6to21, aian, api, black, hisp, white,
+               tworace, total_ethnicity)
+
 
 df0506 <- bind_rows(dfs2005, dfs2006)
 df0507 <- bind_rows(df0506, dfs2007)  
-df0508 <- bind_rows(df0507, dfs2008)
-df0509 <- bind_rows(df0508, dfs2009)
-df0510 <- bind_rows(df0509, dfs2010)
-df0511 <- bind_rows(df0510, dfs2011)
+df0508 <- bind_rows(df0507, df08)
+df0509 <- bind_rows(df0508, df09)
+df0510 <- bind_rows(df0509, df10)
+df0511 <- bind_rows(df0510, df11)
 
 rm(dfs2005, dfs2006, dfs2007, dfs2008, dfs2009, dfs2010, dfs2011,
-   df0506, df0507, df0508, df0509, dfs0510)
+   df0506, df0507, df0508, df0509, df0510, df08, df09, df10, df11)
 
 
 
@@ -279,6 +331,9 @@ dfs2015 <- filter_and_select(df2015)
 dfs2016 <- filter_and_select(df2016)
 dfs2017 <- filter_and_select(df2017)
 
+
+
+
 #In 2018, LEP was switched to EL.
 dfs2018 <- df2018 %>% filter(`SEA Education Environment` == "Total, Age 6-21") %>%
   select(Year,
@@ -286,72 +341,6 @@ dfs2018 <- df2018 %>% filter(`SEA Education Environment` == "Total, Age 6-21") %
          'SEA Disability Category',
          'Ages 6-21':'EL No Age 6 to 21',
          'American Indian or Alaska Native Age 6 to21':'White Age 6 to21')
-
-
-# adjust variable types and preprocess for merge ----------------------------------------------
-
-#' Function to cleanup variable names. 2012-2018 had consistent naming conventions!
-clean_var_names <- function(x) {
-  rename(x,
-         year = Year,
-         state = `State Name`,
-         disability = 'SEA Disability Category',
-         total_6to21 = 'Ages 6-21',
-         el_yes = 'LEP Yes Age 6 to 21',
-         el_no = 'LEP No Age 6 to 21',
-         aian7 = "American Indian or Alaska Native Age 6 to21",
-         asian7 = "Asian Age 6 to21",
-         black7 = "Black or African American Age 6 to21",
-         hisp7 = "Hispanic/Latino Age 6 to21",
-         nhpi7 = "Native Hawaiian or Other Pacific Islander Age 6 to21",
-         white7 = "White Age 6 to21",
-         tworace7 = "Two or more races Age 6 to21"
-         )
-}
-
-
-dfs2012 <- clean_var_names(dfs2012)
-dfs2013 <- clean_var_names(dfs2013)
-dfs2014 <- clean_var_names(dfs2014)
-dfs2015 <- clean_var_names(dfs2015)
-dfs2016 <- clean_var_names(dfs2016)
-dfs2017 <- clean_var_names(dfs2017)
-
-# 2018 data treated separately because of change from LEP to EL in variable.
-dfs2018 <-  rename(dfs2018,
-                   year = Year,
-                   state = `State Name`,
-                   disability = 'SEA Disability Category',
-                   total_6to21 = 'Ages 6-21',
-                   el_yes = 'EL Yes Age 6 to 21',
-                   el_no = 'EL No Age 6 to 21',
-                   aian7 = "American Indian or Alaska Native Age 6 to21",
-                   asian7 = "Asian Age 6 to21",
-                   black7 = "Black or African American Age 6 to21",
-                   hisp7 = "Hispanic/Latino Age 6 to21",
-                   nhpi7 = "Native Hawaiian or Other Pacific Islander Age 6 to21",
-                   white7 = "White Age 6 to21",
-                   tworace7 = "Two or more races Age 6 to21"
-)
-
-#Pull DD category into separate dataset to determine if included or excluded from later analysis.
-
-dd_state_data <- function() {
-  x  <- bind_rows(dfs2012, dfs2013) 
-  x2 <- bind_rows(dfs2014, dfs2015)
-  x3 <- bind_rows(dfs2016, dfs2017)
-  x_combined <- bind_rows(x, x2)
-  x_combined <- bind_rows(x_combined, x3)
-  x_combined <- bind_rows(x_combined, dfs2018) %>%
-  filter(disability %in% c("Developmental delay", 
-           "Developmental delay (valid only for children ages 3-9 when defined by state)")) %>%
-  select(year, state, disability, total_6to21)
-
-}
-
-dd_state <- dd_state_data()
-#write_csv(dd_state, 'output datasets/developmental delay data for 2012-18.csv')
-
 
 # Change character.vars to numeric.vars where appropriate
 
@@ -377,13 +366,90 @@ dfs2017 <- col2num_v2(dfs2017, 4:13)
 dfs2018 <- col2num_v2(dfs2018, 4:13)
 
 
-# write_csv(dfs2012, 'output datasets/section 618 data for 2012.csv')
-# write_csv(dfs2013, 'output datasets/section 618 data for 2013.csv')
-# write_csv(dfs2014, 'output datasets/section 618 data for 2014.csv')
-# write_csv(dfs2015, 'output datasets/section 618 data for 2015.csv')
-# write_csv(dfs2016, 'output datasets/section 618 data for 2016.csv')
-# write_csv(dfs2017, 'output datasets/section 618 data for 2017.csv')
-# write_csv(dfs2018, 'output datasets/section 618 data for 2018.csv')
+# adjust variable types and preprocess for merge ----------------------------------------------
+
+#' Function to cleanup variable names. 2012-2018 had consistent naming conventions!
+clean_var_names <- function(x) {
+  rename(x,
+         year = Year,
+         state = `State Name`,
+         disability = 'SEA Disability Category',
+         total_6to21 = 'Ages 6-21',
+         el_yes = 'LEP Yes Age 6 to 21',
+         el_no = 'LEP No Age 6 to 21',
+         aian = "American Indian or Alaska Native Age 6 to21",
+         asian7 = "Asian Age 6 to21",
+         black = "Black or African American Age 6 to21",
+         hisp = "Hispanic/Latino Age 6 to21",
+         nhpi7 = "Native Hawaiian or Other Pacific Islander Age 6 to21",
+         white = "White Age 6 to21",
+         tworace = "Two or more races Age 6 to21"
+         ) %>% 
+    mutate(api = rowSums(cbind(asian7, nhpi7), na.rm=T) + 
+             ifelse(is.na(asian7) & is.na(nhpi7), NA, 0),
+           total_ethnicity = rowSums(cbind(aian, api, black, hisp, white, tworace), na.rm=T)) %>%
+    select(-asian7, -nhpi7)
+}
+
+
+dfs2012 <- clean_var_names(dfs2012)
+dfs2013 <- clean_var_names(dfs2013)
+dfs2014 <- clean_var_names(dfs2014)
+dfs2015 <- clean_var_names(dfs2015)
+dfs2016 <- clean_var_names(dfs2016)
+dfs2017 <- clean_var_names(dfs2017)
+
+
+
+# 2018 data treated separately because of change from LEP to EL in variable.
+dfs2018 <-  rename(dfs2018,
+                   year = Year,
+                   state = `State Name`,
+                   disability = 'SEA Disability Category',
+                   total_6to21 = 'Ages 6-21',
+                   el_yes = 'EL Yes Age 6 to 21',
+                   el_no = 'EL No Age 6 to 21',
+                   aian = "American Indian or Alaska Native Age 6 to21",
+                   asian7 = "Asian Age 6 to21",
+                   black = "Black or African American Age 6 to21",
+                   hisp = "Hispanic/Latino Age 6 to21",
+                   nhpi7 = "Native Hawaiian or Other Pacific Islander Age 6 to21",
+                   white = "White Age 6 to21",
+                   tworace = "Two or more races Age 6 to21") %>% 
+  mutate(api = rowSums(cbind(asian7, nhpi7), na.rm=T) + 
+      ifelse(is.na(asian7) & is.na(nhpi7), NA, 0),
+      total_ethnicity = rowSums(cbind(aian, api, black, hisp, white, tworace), na.rm=T)) %>% 
+  select(-asian7, -nhpi7)
+
+#Pull DD category into separate dataset to determine if included or excluded from later analysis.
+
+dd_state_data <- function() {
+  x  <- bind_rows(dfs2012, dfs2013) 
+  x2 <- bind_rows(dfs2014, dfs2015)
+  x3 <- bind_rows(dfs2016, dfs2017)
+  x_combined <- bind_rows(x, x2)
+  x_combined <- bind_rows(x_combined, x3)
+  x_combined <- bind_rows(x_combined, dfs2018) %>%
+  filter(disability %in% c("Developmental delay", 
+           "Developmental delay (valid only for children ages 3-9 when defined by state)")) %>%
+  select(year, state, disability, total_6to21)
+
+}
+
+dd_state <- dd_state_data()
+#write_csv(dd_state, 'output datasets/developmental delay data for 2012-18.csv')
+
+
+
+
+
+write_csv(dfs2012, 'output datasets/section 618 data for 2012.csv')
+write_csv(dfs2013, 'output datasets/section 618 data for 2013.csv')
+write_csv(dfs2014, 'output datasets/section 618 data for 2014.csv')
+write_csv(dfs2015, 'output datasets/section 618 data for 2015.csv')
+write_csv(dfs2016, 'output datasets/section 618 data for 2016.csv')
+write_csv(dfs2017, 'output datasets/section 618 data for 2017.csv')
+write_csv(dfs2018, 'output datasets/section 618 data for 2018.csv')
 
 #Merge 2012 through 2018 datasets
 dfs1213 <- bind_rows(dfs2012, dfs2013)
@@ -416,5 +482,7 @@ state_aggregate <- df2005_to_2018[grepl("50 States",df2005_to_2018$state), ]
 df05_to_18 <- df2005_to_2018[!grepl("50 States",df2005_to_2018$state), ]
 
 
-# write_csv(state_aggregate, 'output datasets/aggregate national 618 data 2005-2018.csv')
-# write_csv(df05_to_18, 'output datasets/combined 618 data for 2005-2018.csv')
+write_csv(state_aggregate, 'output datasets/aggregate national 618 data 2005-2018.csv')
+write_csv(df05_to_18, 'output datasets/combined 618 data for 2005-2018.csv')
+
+
