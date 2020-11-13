@@ -1,99 +1,99 @@
-year,state,disability,total_6to21,aian5,api5,black5,hisp5,white5,total_ethnicity5,hisp7,aian7,asian7,black7,nhpi7,white7,tworace7,total_ethnicity7,Ethnicity,el_yes,el_no
-2007,"50 States, D.c.  (Including Bie Schools)",Mental retardation,487175,6422,10725,155103,72754,240316,485320,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2007,"50 States, D.c.  (Including Bie Schools)",Hearing impairments,71128,855,3742,11516,16569,38269,70951,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2007,"50 States, D.c.  (Including Bie Schools)",Speech or language impairments,1135638,15589,37321,174807,207146,697406,1132269,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2007,"50 States, D.c.  (Including Bie Schools)",Visual impairments,25801,338,1068,4404,4774,15138,25722,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2007,"50 States, D.c.  (Including Bie Schools)",Emotional disturbance,438349,7038,5038,126338,50414,247675,436503,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2007,"50 States, D.c.  (Including Bie Schools)",Orthopedic impairments,59941,610,2219,8575,13088,35328,59820,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2007,"50 States, D.c.  (Including Bie Schools)",Other health impairments,624688,7954,9521,110906,65008,428554,621943,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2007,"50 States, D.c.  (Including Bie Schools)",Specific learning disabilities,2559722,44815,44527,528205,564879,1370651,2553077,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2007,"50 States, D.c.  (Including Bie Schools)",Deaf-blindness,1310,25,55,169,251,804,1304,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2007,"50 States, D.c.  (Including Bie Schools)",Multiple disabilities,131263,1647,3686,27340,17721,80456,130850,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2007,"50 States, D.c.  (Including Bie Schools)",Autism,256575,1905,14080,36246,31651,171805,255687,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2007,"50 States, D.c.  (Including Bie Schools)",Traumatic brain injury,23812,373,579,3877,3191,15725,23745,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2007,"50 States, D.c.  (Including Bie Schools)",Developmental delay,88557,3213,2435,20186,9123,53115,88072,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2007,"50 States, D.c.  (Including Bie Schools)",All disabilities,5903959,90784,134996,1207672,1056569,3395242,5885263,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2005,"50 States, D.c. (Including Bie Schools)",Mental retardation,533426,6709,10887,179564,70170,266096,533426,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2005,"50 States, D.c. (Including Bie Schools)",Hearing impairments,71484,930,3519,11669,15651,39715,71484,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2005,"50 States, D.c. (Including Bie Schools)",Speech or language impairments,1143195,15240,35071,177168,193188,722528,1143195,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2005,"50 States, D.c. (Including Bie Schools)",Visual impairments,25369,357,1015,4481,4326,15190,25369,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2005,"50 States, D.c. (Including Bie Schools)",Emotional disturbance,471306,7172,5393,135730,50686,272325,471306,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2005,"50 States, D.c. (Including Bie Schools)",Orthopedic impairments,62618,591,2168,9482,12609,37768,62618,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2005,"50 States, D.c. (Including Bie Schools)",Other health impairments,557121,6669,8301,95238,52567,394346,557121,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2005,"50 States, D.c. (Including Bie Schools)",Specific learning disabilities,2727802,47695,46530,552541,557994,1523042,2727802,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2005,"50 States, D.c. (Including Bie Schools)",Deaf-blindness,1539,25,69,200,298,947,1539,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2005,"50 States, D.c. (Including Bie Schools)",Multiple disabilities,132595,1753,3485,27874,17155,82328,132595,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2005,"50 States, D.c. (Including Bie Schools)",Autism,192643,1377,10108,28425,21280,131453,192643,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2005,"50 States, D.c. (Including Bie Schools)",Traumatic brain injury,23449,338,580,3994,2998,15539,23449,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2005,"50 States, D.c. (Including Bie Schools)",Developmental delay,78915,2922,2037,17501,7335,49120,78915,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2005,"50 States, D.c. (Including Bie Schools)",All disabilities,6021462,91778,129163,1243867,1006257,3550397,6021462,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2006,"50 States, D.c. (Including Bie Schools)",Mental retardation,511041,6530,10758,167357,71956,254440,511041,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2006,"50 States, D.c. (Including Bie Schools)",Hearing impairments,71589,899,3563,11631,16256,39240,71589,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2006,"50 States, D.c. (Including Bie Schools)",Speech or language impairments,1144277,15486,36042,176663,200632,715454,1144277,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2006,"50 States, D.c. (Including Bie Schools)",Visual impairments,25661,350,1085,4409,4630,15187,25661,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2006,"50 States, D.c. (Including Bie Schools)",Emotional disturbance,457731,7159,5128,131773,50756,262917,457733,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2006,"50 States, D.c. (Including Bie Schools)",Orthopedic impairments,61329,592,2160,9092,12842,36643,61329,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2006,"50 States, D.c. (Including Bie Schools)",Other health impairments,595073,7426,8862,103456,58631,416698,595073,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2006,"50 States, D.c. (Including Bie Schools)",Specific learning disabilities,2654668,46093,45065,544761,563382,1455378,2654679,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2006,"50 States, D.c. (Including Bie Schools)",Deaf-blindness,1413,27,58,196,263,869,1413,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2006,"50 States, D.c. (Including Bie Schools)",Multiple disabilities,132846,1807,3593,27778,17576,82092,132846,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2006,"50 States, D.c. (Including Bie Schools)",Autism,223395,1649,11953,32085,25834,151874,223395,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2006,"50 States, D.c. (Including Bie Schools)",Traumatic brain injury,23867,386,603,3936,3149,15793,23867,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2006,"50 States, D.c. (Including Bie Schools)",Developmental delay,83754,3088,2229,18785,8230,51422,83754,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2006,"50 States, D.c. (Including Bie Schools)",All disabilities,5986644,91492,131099,1231922,1034137,3498007,5986657,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2008,"50 States, D.c., And P.r. (Including Bie Schools)",Mental retardation,475713,5726,10175,139772,78054,221942,455669,5333,632,510,4259,39,7199,232,18204,NA,NA,NA
-2008,"50 States, D.c., And P.r. (Including Bie Schools)",Hearing impairments,70682,808,3587,10771,17035,35636,67837,547,84,173,307,15,1521,23,2670,NA,NA,NA
-2008,"50 States, D.c., And P.r. (Including Bie Schools)",Speech or language impairments,1121496,13327,33693,161993,215702,624018,1048733,12046,2179,3477,7517,163,43304,841,69527,NA,NA,NA
-2008,"50 States, D.c., And P.r. (Including Bie Schools)",Visual impairments,25790,312,996,4179,5198,14129,24814,141,28,47,100,1,571,9,897,NA,NA,NA
-2008,"50 States, D.c., And P.r. (Including Bie Schools)",Emotional disturbance,417872,6343,4595,113972,46373,220605,391888,4247,636,305,5123,53,13314,461,24139,NA,NA,NA
-2008,"50 States, D.c., And P.r. (Including Bie Schools)",Orthopedic impairments,62332,579,2139,7999,13473,32821,57011,1262,36,72,1875,6,1898,42,5191,NA,NA,NA
-2008,"50 States, D.c., And P.r. (Including Bie Schools)",Other health impairments,648112,7398,9414,110304,70916,405252,603284,5196,911,828,5161,80,29225,477,41878,NA,NA,NA
-2008,"50 States, D.c., And P.r. (Including Bie Schools)",Specific learning disabilities,2522735,37196,41231,486125,589596,1206574,2360722,27944,6248,2905,23601,283,92421,1817,155219,NA,NA,NA
-2008,"50 States, D.c., And P.r. (Including Bie Schools)",Deaf-blindness,1735,28,44,140,258,666,1136,144,6,20,166,1,249,4,590,NA,NA,NA
-2008,"50 States, D.c., And P.r. (Including Bie Schools)",Multiple disabilities,123924,1346,2753,17840,13285,61236,96460,4625,351,764,6691,38,14382,177,27028,NA,NA,NA
-2008,"50 States, D.c., And P.r. (Including Bie Schools)",Autism,292638,2186,15044,38729,37357,180659,273975,1836,154,1122,1726,55,12550,226,17669,NA,NA,NA
-2008,"50 States, D.c., And P.r. (Including Bie Schools)",Traumatic brain injury,24857,318,438,3185,2674,10000,16615,942,61,176,1185,10,5688,108,8170,NA,NA,NA
-2008,"50 States, D.c., And P.r. (Including Bie Schools)",Developmental delay,96853,3059,2332,21131,8471,49680,84673,1870,594,325,929,37,7546,349,11650,NA,NA,NA
-2008,"50 States, D.c., And P.r. (Including Bie Schools)",All disabilities,5884739,78628,126444,1116136,1098392,3063225,5482825,66133,11920,10724,58640,781,229868,4766,382832,NA,NA,NA
-2009,"50 States, D.c., And P.r. (Including Bie Schools)",Mental retardation,460964,4825,6548,111339,55598,174129,352439,30164,1418,3985,23577,301,45931,1496,106872,-,NA,NA
-2009,"50 States, D.c., And P.r. (Including Bie Schools)",Hearing impairments,70548,610,2441,9005,11387,29172,52615,6835,238,1328,1876,109,7124,258,17768,-,NA,NA
-2009,"50 States, D.c., And P.r. (Including Bie Schools)",Speech or language impairments,1107029,10439,21014,136412,149552,508991,826408,86665,4587,15782,28828,908,136359,4879,278008,-,NA,NA
-2009,"50 States, D.c., And P.r. (Including Bie Schools)",Visual impairments,25813,235,620,3405,3637,11497,19394,1994,77,432,783,34,2932,107,6359,-,NA,NA
-2009,"50 States, D.c., And P.r. (Including Bie Schools)",Emotional disturbance,405293,5324,3463,94285,36934,177756,317762,14903,1444,1222,20488,182,45887,1998,86124,-,NA,NA
-2009,"50 States, D.c., And P.r. (Including Bie Schools)",Orthopedic impairments,57930,448,1020,6333,7110,25661,40572,6743,132,1103,1551,82,7379,256,17246,-,NA,NA
-2009,"50 States, D.c., And P.r. (Including Bie Schools)",Other health impairments,678640,6812,7632,98143,58360,352772,523719,27451,2080,3024,24101,323,92707,2621,152307,-,NA,NA
-2009,"50 States, D.c., And P.r. (Including Bie Schools)",Specific learning disabilities,2483391,30420,29526,410193,414157,978252,1862548,222270,12305,13101,92230,1736,264077,8469,614188,-,NA,NA
-2009,"50 States, D.c., And P.r. (Including Bie Schools)",Deaf-blindness,1359,23,29,102,197,583,934,112,18,20,41,1,221,7,420,-,NA,NA
-2009,"50 States, D.c., And P.r. (Including Bie Schools)",Multiple disabilities,124380,1080,2338,17205,11408,55654,87685,7334,556,1196,7650,87,19016,347,36186,-,NA,NA
-2009,"50 States, D.c., And P.r. (Including Bie Schools)",Autism,333022,2073,9518,35684,28220,168661,244156,19812,619,8474,9777,251,47271,1717,87921,-,NA,NA
-2009,"50 States, D.c., And P.r. (Including Bie Schools)",Traumatic brain injury,24395,225,309,2734,1794,8324,13386,1811,124,305,1134,18,7359,196,10947,-,NA,NA
-2009,"50 States, D.c., And P.r. (Including Bie Schools)",Developmental delay,104432,2776,2389,18114,6907,44043,74229,5207,1099,630,5048,50,16982,872,29888,-,NA,NA
-2009,"50 States, D.c., And P.r. (Including Bie Schools)",All disabilities,5877196,65290,86847,942954,785261,2535495,4415847,431301,24697,50602,217084,4082,693245,23223,1444234,-,NA,NA
-2010,"50 States, D.c., And P.r. (Including Bie Schools)",Mental retardation,445432,NA,NA,NA,NA,NA,NA,88010,6097,9396,125429,1168,207689,7643,445432,NA,NA,NA
-2010,"50 States, D.c., And P.r. (Including Bie Schools)",Hearing impairments,69839,NA,NA,NA,NA,NA,NA,18754,863,3494,10468,348,34681,1231,69839,NA,NA,NA
-2010,"50 States, D.c., And P.r. (Including Bie Schools)",Speech or language impairments,1093293,NA,NA,NA,NA,NA,NA,250126,14619,34811,156365,2127,612219,23026,1093293,NA,NA,NA
-2010,"50 States, D.c., And P.r. (Including Bie Schools)",Visual impairments,25686,NA,NA,NA,NA,NA,NA,5733,336,984,4038,80,14042,473,25686,NA,NA,NA
-2010,"50 States, D.c., And P.r. (Including Bie Schools)",Emotional disturbance,388023,NA,NA,NA,NA,NA,NA,53345,6230,3392,105878,1077,208081,10020,388023,NA,NA,NA
-2010,"50 States, D.c., And P.r. (Including Bie Schools)",Orthopedic impairments,55787,NA,NA,NA,NA,NA,NA,13978,533,1956,6976,154,31102,1088,55787,NA,NA,NA
-2010,"50 States, D.c., And P.r. (Including Bie Schools)",Other health impairments,705764,NA,NA,NA,NA,NA,NA,98463,8988,8993,125681,2232,445695,15712,705764,NA,NA,NA
-2010,"50 States, D.c., And P.r. (Including Bie Schools)",Specific learning disabilities,2417208,NA,NA,NA,NA,NA,NA,644271,41951,34597,477003,8051,1167387,43948,2417208,NA,NA,NA
-2010,"50 States, D.c., And P.r. (Including Bie Schools)",Deaf-blindness,1282,NA,NA,NA,NA,NA,NA,298,21,54,134,8,743,24,1282,NA,NA,NA
-2010,"50 States, D.c., And P.r. (Including Bie Schools)",Multiple disabilities,123576,NA,NA,NA,NA,NA,NA,19702,1640,3262,24230,374,72492,1876,123576,NA,NA,NA
-2010,"50 States, D.c., And P.r. (Including Bie Schools)",Autism,370344,NA,NA,NA,NA,NA,NA,58152,2975,18957,49660,1000,231193,8407,370344,NA,NA,NA
-2010,"50 States, D.c., And P.r. (Including Bie Schools)",Traumatic brain injury,24664,NA,NA,NA,NA,NA,NA,3893,366,568,3860,71,15381,525,24664,NA,NA,NA
-2010,"50 States, D.c., And P.r. (Including Bie Schools)",Developmental delay,109293,NA,NA,NA,NA,NA,NA,14661,3888,2308,23030,732,61430,3244,109293,NA,NA,NA
-2010,"50 States, D.c., And P.r. (Including Bie Schools)",All disabilities,5830191,NA,NA,NA,NA,NA,NA,1269386,88507,122772,1112752,17422,3102135,117217,5830191,NA,NA,NA
-2011,"50 States, D.c., And P.r. (Including Bie Schools)",Intellectual disabilities,430819,NA,NA,NA,NA,NA,NA,89107,5577,9531,118656,1211,198459,8278,430819,NA,NA,NA
-2011,"50 States, D.c., And P.r. (Including Bie Schools)",Hearing impairments,69220,NA,NA,NA,NA,NA,NA,19055,753,3647,10298,359,33723,1385,69220,NA,NA,NA
-2011,"50 States, D.c., And P.r. (Including Bie Schools)",Speech or language impairments,1071200,NA,NA,NA,NA,NA,NA,258071,12890,34421,151978,2086,586036,25718,1071200,NA,NA,NA
-2011,"50 States, D.c., And P.r. (Including Bie Schools)",Visual impairments,25673,NA,NA,NA,NA,NA,NA,5854,315,998,4059,85,13832,530,25673,NA,NA,NA
-2011,"50 States, D.c., And P.r. (Including Bie Schools)",Emotional disturbance,371425,NA,NA,NA,NA,NA,NA,52674,5356,3180,99817,971,198032,11395,371425,NA,NA,NA
-2011,"50 States, D.c., And P.r. (Including Bie Schools)",Orthopedic impairments,54382,NA,NA,NA,NA,NA,NA,13842,491,1979,6633,156,30008,1273,54382,NA,NA,NA
-2011,"50 States, D.c., And P.r. (Including Bie Schools)",Other health impairments,733960,NA,NA,NA,NA,NA,NA,109380,8606,9522,131652,1972,453725,19103,733960,NA,NA,NA
-2011,"50 States, D.c., And P.r. (Including Bie Schools)",Specific learning disabilities,2354790,NA,NA,NA,NA,NA,NA,650353,36952,34027,463474,8045,1112960,48979,2354790,NA,NA,NA
-2011,"50 States, D.c., And P.r. (Including Bie Schools)",Deaf-blindness,1374,NA,NA,NA,NA,NA,NA,344,22,59,132,15,777,25,1374,NA,NA,NA
-2011,"50 States, D.c., And P.r. (Including Bie Schools)",Multiple disabilities,124957,NA,NA,NA,NA,NA,NA,20629,1870,3368,23621,415,72530,2524,124957,NA,NA,NA
-2011,"50 States, D.c., And P.r. (Including Bie Schools)",Autism,406957,NA,NA,NA,NA,NA,NA,67821,3113,21007,54560,963,248917,10576,406957,NA,NA,NA
-2011,"50 States, D.c., And P.r. (Including Bie Schools)",Traumatic brain injury,24878,NA,NA,NA,NA,NA,NA,4041,318,589,3877,74,15363,616,24878,NA,NA,NA
-2011,"50 States, D.c., And P.r. (Including Bie Schools)",Developmental delay,115568,NA,NA,NA,NA,NA,NA,17040,3730,2399,24917,705,62854,3923,115568,NA,NA,NA
-2011,"50 States, D.c., And P.r. (Including Bie Schools)",All disabilities,5785203,NA,NA,NA,NA,NA,NA,1308211,79993,124727,1093674,17057,3027216,134325,5785203,NA,NA,NA
+year,state,disability,total_6to21,aian,api,black,hisp,white,total_ethnicity,tworace,el_yes,el_no
+2007,"50 States, D.c.  (Including Bie Schools)",Mental retardation,487175,6422,10725,155103,72754,240316,485320,NA,NA,NA
+2007,"50 States, D.c.  (Including Bie Schools)",Hearing impairments,71128,855,3742,11516,16569,38269,70951,NA,NA,NA
+2007,"50 States, D.c.  (Including Bie Schools)",Speech or language impairments,1135638,15589,37321,174807,207146,697406,1132269,NA,NA,NA
+2007,"50 States, D.c.  (Including Bie Schools)",Visual impairments,25801,338,1068,4404,4774,15138,25722,NA,NA,NA
+2007,"50 States, D.c.  (Including Bie Schools)",Emotional disturbance,438349,7038,5038,126338,50414,247675,436503,NA,NA,NA
+2007,"50 States, D.c.  (Including Bie Schools)",Orthopedic impairments,59941,610,2219,8575,13088,35328,59820,NA,NA,NA
+2007,"50 States, D.c.  (Including Bie Schools)",Other health impairments,624688,7954,9521,110906,65008,428554,621943,NA,NA,NA
+2007,"50 States, D.c.  (Including Bie Schools)",Specific learning disabilities,2559722,44815,44527,528205,564879,1370651,2553077,NA,NA,NA
+2007,"50 States, D.c.  (Including Bie Schools)",Deaf-blindness,1310,25,55,169,251,804,1304,NA,NA,NA
+2007,"50 States, D.c.  (Including Bie Schools)",Multiple disabilities,131263,1647,3686,27340,17721,80456,130850,NA,NA,NA
+2007,"50 States, D.c.  (Including Bie Schools)",Autism,256575,1905,14080,36246,31651,171805,255687,NA,NA,NA
+2007,"50 States, D.c.  (Including Bie Schools)",Traumatic brain injury,23812,373,579,3877,3191,15725,23745,NA,NA,NA
+2007,"50 States, D.c.  (Including Bie Schools)",Developmental delay,88557,3213,2435,20186,9123,53115,88072,NA,NA,NA
+2007,"50 States, D.c.  (Including Bie Schools)",All disabilities,5903959,90784,134996,1207672,1056569,3395242,5885263,NA,NA,NA
+2005,"50 States, D.c. (Including Bie Schools)",Mental retardation,533426,6709,10887,179564,70170,266096,533426,NA,NA,NA
+2005,"50 States, D.c. (Including Bie Schools)",Hearing impairments,71484,930,3519,11669,15651,39715,71484,NA,NA,NA
+2005,"50 States, D.c. (Including Bie Schools)",Speech or language impairments,1143195,15240,35071,177168,193188,722528,1143195,NA,NA,NA
+2005,"50 States, D.c. (Including Bie Schools)",Visual impairments,25369,357,1015,4481,4326,15190,25369,NA,NA,NA
+2005,"50 States, D.c. (Including Bie Schools)",Emotional disturbance,471306,7172,5393,135730,50686,272325,471306,NA,NA,NA
+2005,"50 States, D.c. (Including Bie Schools)",Orthopedic impairments,62618,591,2168,9482,12609,37768,62618,NA,NA,NA
+2005,"50 States, D.c. (Including Bie Schools)",Other health impairments,557121,6669,8301,95238,52567,394346,557121,NA,NA,NA
+2005,"50 States, D.c. (Including Bie Schools)",Specific learning disabilities,2727802,47695,46530,552541,557994,1523042,2727802,NA,NA,NA
+2005,"50 States, D.c. (Including Bie Schools)",Deaf-blindness,1539,25,69,200,298,947,1539,NA,NA,NA
+2005,"50 States, D.c. (Including Bie Schools)",Multiple disabilities,132595,1753,3485,27874,17155,82328,132595,NA,NA,NA
+2005,"50 States, D.c. (Including Bie Schools)",Autism,192643,1377,10108,28425,21280,131453,192643,NA,NA,NA
+2005,"50 States, D.c. (Including Bie Schools)",Traumatic brain injury,23449,338,580,3994,2998,15539,23449,NA,NA,NA
+2005,"50 States, D.c. (Including Bie Schools)",Developmental delay,78915,2922,2037,17501,7335,49120,78915,NA,NA,NA
+2005,"50 States, D.c. (Including Bie Schools)",All disabilities,6021462,91778,129163,1243867,1006257,3550397,6021462,NA,NA,NA
+2006,"50 States, D.c. (Including Bie Schools)",Mental retardation,511041,6530,10758,167357,71956,254440,511041,NA,NA,NA
+2006,"50 States, D.c. (Including Bie Schools)",Hearing impairments,71589,899,3563,11631,16256,39240,71589,NA,NA,NA
+2006,"50 States, D.c. (Including Bie Schools)",Speech or language impairments,1144277,15486,36042,176663,200632,715454,1144277,NA,NA,NA
+2006,"50 States, D.c. (Including Bie Schools)",Visual impairments,25661,350,1085,4409,4630,15187,25661,NA,NA,NA
+2006,"50 States, D.c. (Including Bie Schools)",Emotional disturbance,457731,7159,5128,131773,50756,262917,457733,NA,NA,NA
+2006,"50 States, D.c. (Including Bie Schools)",Orthopedic impairments,61329,592,2160,9092,12842,36643,61329,NA,NA,NA
+2006,"50 States, D.c. (Including Bie Schools)",Other health impairments,595073,7426,8862,103456,58631,416698,595073,NA,NA,NA
+2006,"50 States, D.c. (Including Bie Schools)",Specific learning disabilities,2654668,46093,45065,544761,563382,1455378,2654679,NA,NA,NA
+2006,"50 States, D.c. (Including Bie Schools)",Deaf-blindness,1413,27,58,196,263,869,1413,NA,NA,NA
+2006,"50 States, D.c. (Including Bie Schools)",Multiple disabilities,132846,1807,3593,27778,17576,82092,132846,NA,NA,NA
+2006,"50 States, D.c. (Including Bie Schools)",Autism,223395,1649,11953,32085,25834,151874,223395,NA,NA,NA
+2006,"50 States, D.c. (Including Bie Schools)",Traumatic brain injury,23867,386,603,3936,3149,15793,23867,NA,NA,NA
+2006,"50 States, D.c. (Including Bie Schools)",Developmental delay,83754,3088,2229,18785,8230,51422,83754,NA,NA,NA
+2006,"50 States, D.c. (Including Bie Schools)",All disabilities,5986644,91492,131099,1231922,1034137,3498007,5986657,NA,NA,NA
+2008,"50 States, D.c., And P.r. (Including Bie Schools)",Mental retardation,475713,6358,10724,144031,83387,229141,473873,232,NA,NA
+2008,"50 States, D.c., And P.r. (Including Bie Schools)",Hearing impairments,70682,892,3775,11078,17582,37157,70507,23,NA,NA
+2008,"50 States, D.c., And P.r. (Including Bie Schools)",Speech or language impairments,1121496,15506,37333,169510,227748,667322,1118260,841,NA,NA
+2008,"50 States, D.c., And P.r. (Including Bie Schools)",Visual impairments,25790,340,1044,4279,5339,14700,25711,9,NA,NA
+2008,"50 States, D.c., And P.r. (Including Bie Schools)",Emotional disturbance,417872,6979,4953,119095,50620,233919,416027,461,NA,NA
+2008,"50 States, D.c., And P.r. (Including Bie Schools)",Orthopedic impairments,62332,615,2217,9874,14735,34719,62202,42,NA,NA
+2008,"50 States, D.c., And P.r. (Including Bie Schools)",Other health impairments,648112,8309,10322,115465,76112,434477,645162,477,NA,NA
+2008,"50 States, D.c., And P.r. (Including Bie Schools)",Specific learning disabilities,2522735,43444,44419,509726,617540,1298995,2515941,1817,NA,NA
+2008,"50 States, D.c., And P.r. (Including Bie Schools)",Deaf-blindness,1735,34,65,306,402,915,1726,4,NA,NA
+2008,"50 States, D.c., And P.r. (Including Bie Schools)",Multiple disabilities,123924,1697,3555,24531,17910,75618,123488,177,NA,NA
+2008,"50 States, D.c., And P.r. (Including Bie Schools)",Autism,292638,2340,16221,40455,39193,193209,291644,226,NA,NA
+2008,"50 States, D.c., And P.r. (Including Bie Schools)",Traumatic brain injury,24857,379,624,4370,3616,15688,24785,108,NA,NA
+2008,"50 States, D.c., And P.r. (Including Bie Schools)",Developmental delay,96853,3653,2694,22060,10341,57226,96323,349,NA,NA
+2008,"50 States, D.c., And P.r. (Including Bie Schools)",All disabilities,5884739,90548,137949,1174776,1164525,3293093,5865657,4766,NA,NA
+2009,"50 States, D.c., And P.r. (Including Bie Schools)",Mental retardation,460964,6243,10834,134916,85762,220060,459311,1496,NA,NA
+2009,"50 States, D.c., And P.r. (Including Bie Schools)",Hearing impairments,70548,848,3878,10881,18222,36296,70383,258,NA,NA
+2009,"50 States, D.c., And P.r. (Including Bie Schools)",Speech or language impairments,1107029,15026,37704,165240,236217,645350,1104416,4879,NA,NA
+2009,"50 States, D.c., And P.r. (Including Bie Schools)",Visual impairments,25813,312,1086,4188,5631,14429,25753,107,NA,NA
+2009,"50 States, D.c., And P.r. (Including Bie Schools)",Emotional disturbance,405293,6768,4867,114773,51837,223643,403886,1998,NA,NA
+2009,"50 States, D.c., And P.r. (Including Bie Schools)",Orthopedic impairments,57930,580,2205,7884,13853,33040,57818,256,NA,NA
+2009,"50 States, D.c., And P.r. (Including Bie Schools)",Other health impairments,678640,8892,10979,122244,85811,445479,676026,2621,NA,NA
+2009,"50 States, D.c., And P.r. (Including Bie Schools)",Specific learning disabilities,2483391,42725,44363,502423,636427,1242329,2476736,8469,NA,NA
+2009,"50 States, D.c., And P.r. (Including Bie Schools)",Deaf-blindness,1359,41,50,143,309,804,1354,7,NA,NA
+2009,"50 States, D.c., And P.r. (Including Bie Schools)",Multiple disabilities,124380,1636,3621,24855,18742,74670,123871,347,NA,NA
+2009,"50 States, D.c., And P.r. (Including Bie Schools)",Autism,333022,2692,18243,45461,48032,215932,332077,1717,NA,NA
+2009,"50 States, D.c., And P.r. (Including Bie Schools)",Traumatic brain injury,24395,349,632,3868,3605,15683,24333,196,NA,NA
+2009,"50 States, D.c., And P.r. (Including Bie Schools)",Developmental delay,104432,3875,3069,23162,12114,61025,104117,872,NA,NA
+2009,"50 States, D.c., And P.r. (Including Bie Schools)",All disabilities,5877196,89987,141531,1160038,1216562,3228740,5860081,23223,NA,NA
+2010,"50 States, D.c., And P.r. (Including Bie Schools)",Mental retardation,445432,6097,10564,125429,88010,207689,445432,7643,NA,NA
+2010,"50 States, D.c., And P.r. (Including Bie Schools)",Hearing impairments,69839,863,3842,10468,18754,34681,69839,1231,NA,NA
+2010,"50 States, D.c., And P.r. (Including Bie Schools)",Speech or language impairments,1093293,14619,36938,156365,250126,612219,1093293,23026,NA,NA
+2010,"50 States, D.c., And P.r. (Including Bie Schools)",Visual impairments,25686,336,1064,4038,5733,14042,25686,473,NA,NA
+2010,"50 States, D.c., And P.r. (Including Bie Schools)",Emotional disturbance,388023,6230,4469,105878,53345,208081,388023,10020,NA,NA
+2010,"50 States, D.c., And P.r. (Including Bie Schools)",Orthopedic impairments,55787,533,2110,6976,13978,31102,55787,1088,NA,NA
+2010,"50 States, D.c., And P.r. (Including Bie Schools)",Other health impairments,705764,8988,11225,125681,98463,445695,705764,15712,NA,NA
+2010,"50 States, D.c., And P.r. (Including Bie Schools)",Specific learning disabilities,2417208,41951,42648,477003,644271,1167387,2417208,43948,NA,NA
+2010,"50 States, D.c., And P.r. (Including Bie Schools)",Deaf-blindness,1282,21,62,134,298,743,1282,24,NA,NA
+2010,"50 States, D.c., And P.r. (Including Bie Schools)",Multiple disabilities,123576,1640,3636,24230,19702,72492,123576,1876,NA,NA
+2010,"50 States, D.c., And P.r. (Including Bie Schools)",Autism,370344,2975,19957,49660,58152,231193,370344,8407,NA,NA
+2010,"50 States, D.c., And P.r. (Including Bie Schools)",Traumatic brain injury,24664,366,639,3860,3893,15381,24664,525,NA,NA
+2010,"50 States, D.c., And P.r. (Including Bie Schools)",Developmental delay,109293,3888,3040,23030,14661,61430,109293,3244,NA,NA
+2010,"50 States, D.c., And P.r. (Including Bie Schools)",All disabilities,5830191,88507,140194,1112752,1269386,3102135,5830191,117217,NA,NA
+2011,"50 States, D.c., And P.r. (Including Bie Schools)",Intellectual disabilities,430819,5577,10742,118656,89107,198459,430819,8278,NA,NA
+2011,"50 States, D.c., And P.r. (Including Bie Schools)",Hearing impairments,69220,753,4006,10298,19055,33723,69220,1385,NA,NA
+2011,"50 States, D.c., And P.r. (Including Bie Schools)",Speech or language impairments,1071200,12890,36507,151978,258071,586036,1071200,25718,NA,NA
+2011,"50 States, D.c., And P.r. (Including Bie Schools)",Visual impairments,25673,315,1083,4059,5854,13832,25673,530,NA,NA
+2011,"50 States, D.c., And P.r. (Including Bie Schools)",Emotional disturbance,371425,5356,4151,99817,52674,198032,371425,11395,NA,NA
+2011,"50 States, D.c., And P.r. (Including Bie Schools)",Orthopedic impairments,54382,491,2135,6633,13842,30008,54382,1273,NA,NA
+2011,"50 States, D.c., And P.r. (Including Bie Schools)",Other health impairments,733960,8606,11494,131652,109380,453725,733960,19103,NA,NA
+2011,"50 States, D.c., And P.r. (Including Bie Schools)",Specific learning disabilities,2354790,36952,42072,463474,650353,1112960,2354790,48979,NA,NA
+2011,"50 States, D.c., And P.r. (Including Bie Schools)",Deaf-blindness,1374,22,74,132,344,777,1374,25,NA,NA
+2011,"50 States, D.c., And P.r. (Including Bie Schools)",Multiple disabilities,124957,1870,3783,23621,20629,72530,124957,2524,NA,NA
+2011,"50 States, D.c., And P.r. (Including Bie Schools)",Autism,406957,3113,21970,54560,67821,248917,406957,10576,NA,NA
+2011,"50 States, D.c., And P.r. (Including Bie Schools)",Traumatic brain injury,24878,318,663,3877,4041,15363,24878,616,NA,NA
+2011,"50 States, D.c., And P.r. (Including Bie Schools)",Developmental delay,115568,3730,3104,24917,17040,62854,115568,3923,NA,NA
+2011,"50 States, D.c., And P.r. (Including Bie Schools)",All disabilities,5785203,79993,141784,1093674,1308211,3027216,5785203,134325,NA,NA
