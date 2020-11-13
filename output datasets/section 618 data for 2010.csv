@@ -1,827 +1,827 @@
-year,state,disability,total_6to21,hisp7,aian7,asian7,black7,nhpi7,white7,tworace7,total_ethnicity7
-2010,"50 states, D.C., and P.R. (including BIE schools)",Mental retardation,445432,88010,6097,9396,125429,1168,207689,7643,445432
-2010,"50 states, D.C., and P.R. (including BIE schools)",Hearing impairments,69839,18754,863,3494,10468,348,34681,1231,69839
-2010,"50 states, D.C., and P.R. (including BIE schools)",Speech or language impairments,1093293,250126,14619,34811,156365,2127,612219,23026,1093293
-2010,"50 states, D.C., and P.R. (including BIE schools)",Visual impairments,25686,5733,336,984,4038,80,14042,473,25686
-2010,"50 states, D.C., and P.R. (including BIE schools)",Emotional disturbance,388023,53345,6230,3392,105878,1077,208081,10020,388023
-2010,"50 states, D.C., and P.R. (including BIE schools)",Orthopedic impairments,55787,13978,533,1956,6976,154,31102,1088,55787
-2010,"50 states, D.C., and P.R. (including BIE schools)",Other health impairments,705764,98463,8988,8993,125681,2232,445695,15712,705764
-2010,"50 states, D.C., and P.R. (including BIE schools)",Specific learning disabilities,2417208,644271,41951,34597,477003,8051,1167387,43948,2417208
-2010,"50 states, D.C., and P.R. (including BIE schools)",Deaf-blindness,1282,298,21,54,134,8,743,24,1282
-2010,"50 states, D.C., and P.R. (including BIE schools)",Multiple disabilities,123576,19702,1640,3262,24230,374,72492,1876,123576
-2010,"50 states, D.C., and P.R. (including BIE schools)",Autism,370344,58152,2975,18957,49660,1000,231193,8407,370344
-2010,"50 states, D.C., and P.R. (including BIE schools)",Traumatic brain injury,24664,3893,366,568,3860,71,15381,525,24664
-2010,"50 states, D.C., and P.R. (including BIE schools)",Developmental delay,109293,14661,3888,2308,23030,732,61430,3244,109293
-2010,"50 states, D.C., and P.R. (including BIE schools)",All disabilities,5830191,1269386,88507,122772,1112752,17422,3102135,117217,5830191
-2010,U.S. and Outlying Areas,Mental retardation,445796,88050,6097,9419,125593,1288,207692,7657,445796
-2010,U.S. and Outlying Areas,Hearing impairments,69934,18755,863,3509,10480,412,34682,1233,69934
-2010,U.S. and Outlying Areas,Speech or language impairments,1093695,250140,14620,34876,156462,2333,612229,23035,1093695
-2010,U.S. and Outlying Areas,Visual impairments,25724,5735,336,986,4047,103,14043,474,25724
-2010,U.S. and Outlying Areas,Emotional disturbance,388211,53362,6230,3399,105915,1197,208085,10023,388211
-2010,U.S. and Outlying Areas,Orthopedic impairments,55824,13978,533,1965,6978,177,31103,1090,55824
-2010,U.S. and Outlying Areas,Other health impairments,706102,98483,8988,9021,125758,2418,445704,15730,706102
-2010,U.S. and Outlying Areas,Specific learning disabilities,2419971,644430,41953,34758,477459,9926,1167407,44038,2419971
-2010,U.S. and Outlying Areas,Deaf-blindness,1286,298,21,54,134,11,743,25,1286
-2010,U.S. and Outlying Areas,Multiple disabilities,123751,19705,1640,3281,24259,483,72499,1884,123751
-2010,U.S. and Outlying Areas,Autism,370581,58161,2975,19023,49707,1087,231197,8431,370581
-2010,U.S. and Outlying Areas,Traumatic brain injury,24672,3894,366,569,3861,76,15381,525,24672
-2010,U.S. and Outlying Areas,Developmental delay,109378,14668,3888,2321,23061,750,61432,3258,109378
-2010,U.S. and Outlying Areas,All disabilities,5834925,1269659,88510,123181,1113714,20261,3102197,117403,5834925
-2010,Alabama,Mental retardation,6121,118,34,27,3061,0,2873,NA,NA
-2010,Alabama,Hearing impairments,918,49,8,13,351,0,497,0,918
-2010,Alabama,Speech or language impairments,13229,392,77,97,4027,0,8590,46,13229
-2010,Alabama,Visual impairments,455,NA,6,NA,149,0,281,NA,455
-2010,Alabama,Emotional disturbance,1425,13,6,NA,542,0,854,7,NA
-2010,Alabama,Orthopedic impairments,599,16,NA,5,200,0,372,NA,599
-2010,Alabama,Other health impairments,7757,120,56,32,2570,0,4957,22,7757
-2010,Alabama,Specific learning disabilities,35987,1143,225,99,16718,NA,17729,70,NA
-2010,Alabama,Deaf-blindness,9,0,0,0,NA,0,NA,0,9
-2010,Alabama,Multiple disabilities,1310,43,5,10,516,NA,734,NA,1310
-2010,Alabama,Autism,3985,80,23,47,1177,NA,2648,NA,3985
-2010,Alabama,Traumatic brain injury,244,NA,NA,NA,NA,0,NA,NA,244
-2010,Alabama,Developmental delay,2755,142,16,19,1079,0,1486,13,2755
-2010,Alabama,All disabilities,74794,2129,462,359,30486,5,41169,184,74794
-2010,Alaska,Mental retardation,618,39,203,26,39,15,251,45,618
-2010,Alaska,Hearing impairments,150,9,47,17,NA,6,66,NA,150
-2010,Alaska,Speech or language impairments,2557,146,742,98,78,44,1248,201,2557
-2010,Alaska,Visual impairments,40,NA,NA,NA,NA,0,24,NA,40
-2010,Alaska,Emotional disturbance,723,37,171,10,52,6,370,77,723
-2010,Alaska,Orthopedic impairments,68,NA,13,NA,NA,NA,41,NA,68
-2010,Alaska,Other health impairments,2122,114,518,36,114,22,1153,165,2122
-2010,Alaska,Specific learning disabilities,7445,513,2346,228,376,NA,3240,578,NA
-2010,Alaska,Deaf-blindness,8,0,NA,0,0,NA,5,0,NA
-2010,Alaska,Multiple disabilities,394,18,150,14,13,6,164,29,394
-2010,Alaska,Autism,737,54,82,35,NA,NA,491,49,737
-2010,Alaska,Traumatic brain injury,43,NA,10,0,6,0,22,NA,43
-2010,Alaska,Developmental delay,1039,69,291,45,39,12,475,108,1039
-2010,Alaska,All disabilities,15944,1004,4584,515,743,282,7550,1266,15944
-2010,American Samoa,Mental retardation,17,NA,0,0,0,17,NA,0,17
-2010,American Samoa,Hearing impairments,12,NA,0,0,0,NA,NA,NA,NA
-2010,American Samoa,Speech or language impairments,52,0,NA,0,0,NA,0,0,52
-2010,American Samoa,Visual impairments,6,NA,0,0,0,NA,NA,NA,NA
-2010,American Samoa,Emotional disturbance,0,NA,NA,0,0,0,0,0,0
-2010,American Samoa,Orthopedic impairments,0,0,0,0,NA,0,NA,0,0
-2010,American Samoa,Other health impairments,NA,0,0,0,0,NA,0,0,NA
-2010,American Samoa,Specific learning disabilities,654,0,NA,NA,0,NA,0,0,NA
-2010,American Samoa,Deaf-blindness,NA,0,0,0,0,NA,0,NA,NA
-2010,American Samoa,Multiple disabilities,47,NA,0,NA,0,NA,0,0,47
-2010,American Samoa,Autism,NA,NA,0,0,0,NA,0,0,NA
-2010,American Samoa,Traumatic brain injury,NA,NA,0,NA,NA,NA,0,0,NA
-2010,American Samoa,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010,American Samoa,All disabilities,793,0,NA,NA,0,NA,0,0,793
-2010,Arizona,Mental retardation,7617,3477,566,144,666,12,2695,57,7617
-2010,Arizona,Hearing impairments,1557,717,95,56,84,NA,598,NA,1557
-2010,Arizona,Speech or language impairments,20115,8231,1077,407,973,50,9149,228,20115
-2010,Arizona,Visual impairments,549,178,53,17,NA,NA,270,NA,549
-2010,Arizona,Emotional disturbance,7928,2019,446,47,906,11,4412,87,7928
-2010,Arizona,Orthopedic impairments,713,250,28,16,32,NA,379,NA,713
-2010,Arizona,Other health impairments,8433,2177,329,80,654,9,5075,109,8433
-2010,Arizona,Specific learning disabilities,53977,25394,4588,470,3715,53,19345,412,53977
-2010,Arizona,Deaf-blindness,79,30,5,NA,NA,0,37,0,79
-2010,Arizona,Multiple disabilities,1970,782,171,44,123,0,832,18,1970
-2010,Arizona,Autism,7095,1888,199,222,438,14,4252,82,7095
-2010,Arizona,Traumatic brain injury,323,120,33,NA,23,NA,139,5,323
-2010,Arizona,Developmental delay,704,288,57,12,57,NA,281,NA,704
-2010,Arizona,All disabilities,111060,45551,7647,1521,7696,155,47464,1026,111060
-2010,Arkansas,Mental retardation,5872,391,33,23,2290,22,3068,45,5872
-2010,Arkansas,Hearing impairments,526,68,NA,8,103,9,330,NA,526
-2010,Arkansas,Speech or language impairments,12651,1204,97,136,2572,36,8387,219,12651
-2010,Arkansas,Visual impairments,208,12,NA,5,56,0,132,NA,208
-2010,Arkansas,Emotional disturbance,757,30,9,NA,147,0,552,17,NA
-2010,Arkansas,Orthopedic impairments,198,11,NA,NA,NA,NA,144,NA,198
-2010,Arkansas,Other health impairments,8418,281,63,25,1824,9,6097,119,8418
-2010,Arkansas,Specific learning disabilities,19096,1642,157,66,4992,61,11970,208,19096
-2010,Arkansas,Deaf-blindness,NA,NA,0,0,NA,0,7,0,NA
-2010,Arkansas,Multiple disabilities,1361,104,NA,14,341,NA,886,10,1361
-2010,Arkansas,Autism,2602,142,NA,49,355,NA,2000,35,2602
-2010,Arkansas,Traumatic brain injury,NA,NA,NA,0,37,0,101,NA,NA
-2010,Arkansas,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010,Arkansas,All disabilities,51847,3894,392,332,12751,143,33674,661,51847
-2010,BIE schools,Mental retardation,359,0,NA,0,0,0,NA,0,359
-2010,BIE schools,Hearing impairments,40,0,NA,0,0,0,0,0,NA
-2010,BIE schools,Speech or language impairments,1204,NA,1185,0,0,0,15,NA,1204
-2010,BIE schools,Visual impairments,13,0,NA,0,0,0,0,0,NA
-2010,BIE schools,Emotional disturbance,414,0,408,0,0,0,NA,0,NA
-2010,BIE schools,Orthopedic impairments,16,0,15,0,0,0,NA,0,NA
-2010,BIE schools,Other health impairments,446,0,438,0,NA,0,5,NA,446
-2010,BIE schools,Specific learning disabilities,3310,NA,3275,0,0,0,26,NA,3310
-2010,BIE schools,Deaf-blindness,0,0,0,0,0,0,0,0,0
-2010,BIE schools,Multiple disabilities,151,0,148,0,0,0,NA,0,NA
-2010,BIE schools,Autism,110,NA,103,0,0,0,NA,0,NA
-2010,BIE schools,Traumatic brain injury,31,0,31,0,0,0,0,0,31
-2010,BIE schools,Developmental delay,311,0,308,0,0,0,NA,NA,NA
-2010,BIE schools,All disabilities,6405,11,6322,0,NA,0,NA,NA,6405
-2010,California,Mental retardation,38011,20778,270,2992,4180,191,8652,948,38011
-2010,California,Hearing impairments,10523,5694,55,1027,674,81,2759,233,10523
-2010,California,Speech or language impairments,118707,59575,951,10304,7437,640,36144,3656,118707
-2010,California,Visual impairments,3561,1576,25,334,335,24,1181,86,3561
-2010,California,Emotional disturbance,26318,7785,314,730,5146,113,11429,801,26318
-2010,California,Orthopedic impairments,12145,5922,73,963,890,75,3951,271,12145
-2010,California,Other health impairments,53439,19100,502,1916,6890,203,23191,1637,53439
-2010,California,Specific learning disabilities,278186,162784,2552,8531,32500,1217,63740,6862,278186
-2010,California,Deaf-blindness,114,49,0,13,NA,0,43,NA,114
-2010,California,Multiple disabilities,4267,1907,25,405,453,25,1345,107,4267
-2010,California,Autism,52840,18244,315,7381,4113,207,20852,1728,52840
-2010,California,Traumatic brain injury,1659,826,17,117,NA,10,470,NA,1659
-2010,California,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010,California,All disabilities,599770,304240,5099,34713,62791,2786,173757,16384,599770
-2010,Colorado,Mental retardation,2949,1147,NA,56,335,NA,1292,70,2949
-2010,Colorado,Hearing impairments,1351,541,13,51,59,0,656,31,1351
-2010,Colorado,Speech or language impairments,13774,4991,179,314,691,33,7198,368,13774
-2010,Colorado,Visual impairments,322,NA,0,14,22,0,190,NA,322
-2010,Colorado,Emotional disturbance,6815,1532,105,54,716,10,4162,236,6815
-2010,Colorado,Orthopedic impairments,9449,2104,92,112,553,9,6331,248,9449
-2010,Colorado,Other health impairments,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010,Colorado,Specific learning disabilities,31142,11958,480,347,2310,40,15327,680,31142
-2010,Colorado,Deaf-blindness,25,NA,0,0,NA,0,15,0,25
-2010,Colorado,Multiple disabilities,3199,990,NA,81,205,NA,1825,67,3199
-2010,Colorado,Autism,3420,587,34,91,172,8,2442,86,3420
-2010,Colorado,Traumatic brain injury,467,139,NA,5,NA,0,275,NA,467
-2010,Colorado,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010,Colorado,All disabilities,72913,24085,986,1125,5086,107,39713,1811,72913
-2010,Connecticut,Mental retardation,2427,580,NA,54,483,NA,1274,NA,2427
-2010,Connecticut,Hearing impairments,609,154,NA,40,92,0,315,NA,609
-2010,Connecticut,Speech or language impairments,10617,2492,48,317,1718,5,5895,142,10617
-2010,Connecticut,Visual impairments,170,30,NA,NA,31,0,104,0,170
-2010,Connecticut,Emotional disturbance,5317,1264,NA,40,1230,NA,2690,60,5317
-2010,Connecticut,Orthopedic impairments,79,17,0,NA,NA,0,55,0,79
-2010,Connecticut,Other health impairments,11603,2159,63,139,1678,6,7419,139,11603
-2010,Connecticut,Specific learning disabilities,21121,5025,102,218,3529,11,11998,238,21121
-2010,Connecticut,Deaf-blindness,26,NA,0,0,NA,0,18,0,26
-2010,Connecticut,Multiple disabilities,2604,527,NA,86,421,NA,1522,30,2604
-2010,Connecticut,Autism,5539,690,16,219,664,0,3884,66,5539
-2010,Connecticut,Traumatic brain injury,122,NA,0,NA,24,0,71,0,122
-2010,Connecticut,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010,Connecticut,All disabilities,60234,12965,292,1121,9880,29,35245,702,60234
-2010,Delaware,Mental retardation,1612,169,8,26,809,0,583,17,1612
-2010,Delaware,Hearing impairments,217,36,NA,7,63,0,106,NA,217
-2010,Delaware,Speech or language impairments,1414,119,12,27,344,0,885,27,1414
-2010,Delaware,Visual impairments,56,7,0,0,18,0,31,0,56
-2010,Delaware,Emotional disturbance,709,42,NA,NA,324,0,328,12,NA
-2010,Delaware,Orthopedic impairments,295,40,NA,NA,84,0,161,0,295
-2010,Delaware,Other health impairments,2097,146,9,18,691,0,1203,30,2097
-2010,Delaware,Specific learning disabilities,8755,1103,43,86,3814,0,3607,102,8755
-2010,Delaware,Deaf-blindness,49,10,NA,NA,14,0,23,0,49
-2010,Delaware,Multiple disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010,Delaware,Autism,841,47,NA,34,203,0,544,NA,841
-2010,Delaware,Traumatic brain injury,50,9,0,NA,16,0,24,0,NA
-2010,Delaware,Developmental delay,390,57,NA,6,150,NA,172,NA,390
-2010,Delaware,All disabilities,16485,1785,NA,216,6530,NA,7667,205,16485
-2010,District of Columbia,Mental retardation,933,55,0,NA,869,0,NA,5,933
-2010,District of Columbia,Hearing impairments,42,NA,0,0,32,0,NA,0,NA
-2010,District of Columbia,Speech or language impairments,737,117,0,11,559,0,44,6,737
-2010,District of Columbia,Visual impairments,18,NA,0,0,13,0,NA,0,NA
-2010,District of Columbia,Emotional disturbance,1560,41,NA,NA,1491,NA,NA,NA,1560
-2010,District of Columbia,Orthopedic impairments,16,NA,0,0,15,0,0,0,NA
-2010,District of Columbia,Other health impairments,927,57,NA,5,803,0,56,NA,927
-2010,District of Columbia,Specific learning disabilities,4658,434,NA,17,4027,NA,161,11,4658
-2010,District of Columbia,Deaf-blindness,0,0,0,0,0,0,0,0,0
-2010,District of Columbia,Multiple disabilities,1395,66,0,NA,1261,NA,NA,5,1395
-2010,District of Columbia,Autism,423,32,0,NA,319,NA,63,NA,NA
-2010,District of Columbia,Traumatic brain injury,27,NA,0,NA,23,0,0,0,NA
-2010,District of Columbia,Developmental delay,254,40,0,NA,202,0,10,NA,254
-2010,District of Columbia,All disabilities,10990,857,8,45,9614,7,421,38,10990
-2010,Florida,Mental retardation,28120,5793,116,373,11412,20,9820,586,28120
-2010,Florida,Hearing impairments,3338,952,NA,83,760,NA,1439,86,3338
-2010,Florida,Speech or language impairments,81219,18359,383,1566,18665,74,39526,2646,81219
-2010,Florida,Visual impairments,1100,277,NA,25,239,NA,530,24,1100
-2010,Florida,Emotional disturbance,23667,3809,69,55,9578,18,9476,662,23667
-2010,Florida,Orthopedic impairments,3254,799,NA,59,666,NA,1644,65,3254
-2010,Florida,Other health impairments,24788,5889,106,183,4998,20,12937,655,24788
-2010,Florida,Specific learning disabilities,149703,44689,710,1035,36837,116,62652,3664,149703
-2010,Florida,Deaf-blindness,46,14,0,NA,9,0,20,NA,46
-2010,Florida,Multiple disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010,Florida,Autism,16963,4617,61,465,2850,24,8445,501,16963
-2010,Florida,Traumatic brain injury,583,118,NA,NA,156,0,281,NA,583
-2010,Florida,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010,Florida,All disabilities,332781,85316,1489,3854,86170,275,146770,8907,332781
-2010,Georgia,Mental retardation,17927,1384,34,235,10039,16,5901,318,17927
-2010,Georgia,Hearing impairments,1672,254,NA,59,620,NA,687,48,1672
-2010,Georgia,Speech or language impairments,24751,2627,54,554,7976,14,12693,833,24751
-2010,Georgia,Visual impairments,700,58,NA,18,264,NA,334,24,700
-2010,Georgia,Emotional disturbance,15931,696,47,73,7595,13,6993,514,15931
-2010,Georgia,Orthopedic impairments,886,95,NA,22,266,NA,482,16,886
-2010,Georgia,Other health impairments,25435,1356,70,190,8683,11,14307,818,25435
-2010,Georgia,Specific learning disabilities,53276,7283,154,596,21105,30,22882,1226,53276
-2010,Georgia,Deaf-blindness,26,NA,0,NA,8,0,15,0,NA
-2010,Georgia,Multiple disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010,Georgia,Autism,10548,734,20,378,3548,5,5531,332,10548
-2010,Georgia,Traumatic brain injury,459,NA,0,NA,179,0,215,15,NA
-2010,Georgia,Developmental delay,10022,1289,25,183,3949,7,4241,328,10022
-2010,Georgia,All disabilities,161633,15821,412,2316,64232,99,74281,4472,161633
-2010,Guam,Mental retardation,72,0,0,NA,0,56,0,NA,NA
-2010,Guam,Hearing impairments,51,0,0,NA,0,39,NA,0,51
-2010,Guam,Speech or language impairments,188,NA,NA,NA,NA,133,0,NA,188
-2010,Guam,Visual impairments,14,0,0,NA,0,13,0,0,NA
-2010,Guam,Emotional disturbance,126,0,NA,NA,NA,114,NA,NA,126
-2010,Guam,Orthopedic impairments,28,0,0,NA,0,NA,NA,NA,NA
-2010,Guam,Other health impairments,161,0,0,NA,NA,141,NA,NA,NA
-2010,Guam,Specific learning disabilities,1015,NA,NA,108,NA,884,10,8,NA
-2010,Guam,Deaf-blindness,NA,0,0,0,0,NA,0,0,NA
-2010,Guam,Multiple disabilities,65,0,0,9,0,52,NA,NA,NA
-2010,Guam,Autism,116,0,0,44,0,63,NA,NA,116
-2010,Guam,Traumatic brain injury,NA,0,0,0,0,NA,0,0,NA
-2010,Guam,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010,Guam,All disabilities,1838,NA,NA,264,6,1517,22,24,1838
-2010,Hawaii,Mental retardation,1182,60,7,332,33,540,116,94,1182
-2010,Hawaii,Hearing impairments,309,11,NA,91,NA,146,NA,25,309
-2010,Hawaii,Speech or language impairments,544,36,NA,121,NA,179,127,50,544
-2010,Hawaii,Visual impairments,NA,NA,0,NA,NA,NA,NA,6,NA
-2010,Hawaii,Emotional disturbance,1236,53,9,195,35,622,216,106,1236
-2010,Hawaii,Orthopedic impairments,79,NA,0,20,NA,31,16,9,79
-2010,Hawaii,Other health impairments,2648,110,22,474,85,1180,568,209,2648
-2010,Hawaii,Specific learning disabilities,8483,453,71,1843,255,4159,1003,699,8483
-2010,Hawaii,Deaf-blindness,NA,0,0,NA,0,NA,0,0,NA
-2010,Hawaii,Multiple disabilities,471,16,0,169,13,171,64,38,471
-2010,Hawaii,Autism,1064,51,9,380,29,237,257,101,1064
-2010,Hawaii,Traumatic brain injury,69,NA,0,19,NA,28,13,5,NA
-2010,Hawaii,Developmental delay,1167,72,NA,296,NA,524,134,101,1167
-2010,Hawaii,All disabilities,17318,870,136,3957,516,7846,2550,1443,17318
-2010,Idaho,Mental retardation,1804,314,29,13,28,9,1383,28,1804
-2010,Idaho,Hearing impairments,258,52,NA,11,7,NA,176,6,258
-2010,Idaho,Speech or language impairments,5329,685,111,72,64,13,4278,106,5329
-2010,Idaho,Visual impairments,NA,17,NA,5,0,0,NA,NA,NA
-2010,Idaho,Emotional disturbance,1397,118,39,6,43,NA,1155,32,NA
-2010,Idaho,Orthopedic impairments,113,22,0,NA,NA,0,87,NA,113
-2010,Idaho,Other health impairments,3142,278,62,12,57,8,2663,62,3142
-2010,Idaho,Specific learning disabilities,7690,1404,211,29,113,18,5808,107,7690
-2010,Idaho,Deaf-blindness,NA,0,0,0,0,0,NA,0,NA
-2010,Idaho,Multiple disabilities,495,53,10,NA,10,0,410,NA,495
-2010,Idaho,Autism,1885,148,25,28,16,7,1634,27,1885
-2010,Idaho,Traumatic brain injury,122,24,5,NA,NA,NA,88,NA,122
-2010,Idaho,Developmental delay,1453,251,41,NA,12,NA,1105,31,1453
-2010,Idaho,All disabilities,23792,3366,539,193,353,63,18866,412,23792
-2010,Illinois,Mental retardation,20455,3778,65,457,7581,24,8209,341,20455
-2010,Illinois,Hearing impairments,3558,882,13,135,550,9,1882,87,3558
-2010,Illinois,Speech or language impairments,46777,8797,198,1317,6420,62,28632,1351,46777
-2010,Illinois,Visual impairments,1073,202,NA,42,NA,NA,599,28,1073
-2010,Illinois,Emotional disturbance,22063,2621,74,204,7287,11,11153,713,22063
-2010,Illinois,Orthopedic impairments,1615,338,NA,44,293,NA,903,33,1615
-2010,Illinois,Other health impairments,26315,2682,113,305,3658,23,18767,767,26315
-2010,Illinois,Specific learning disabilities,116793,28281,528,1227,28773,107,55158,2719,116793
-2010,Illinois,Deaf-blindness,31,NA,0,NA,NA,NA,21,NA,NA
-2010,Illinois,Multiple disabilities,1890,303,NA,63,310,NA,1163,43,1890
-2010,Illinois,Autism,14834,2056,58,683,2337,31,9253,416,14834
-2010,Illinois,Traumatic brain injury,676,NA,NA,NA,201,NA,316,NA,NA
-2010,Illinois,Developmental delay,10262,2112,31,303,1855,13,5558,390,10262
-2010,Illinois,All disabilities,266342,52184,1095,4793,59463,288,141614,6905,266342
-2010,Indiana,Mental retardation,17037,1166,76,98,4129,6,10784,778,17037
-2010,Indiana,Hearing impairments,2039,151,NA,53,203,NA,1532,87,2039
-2010,Indiana,Speech or language impairments,32009,2307,124,346,2902,13,24809,1508,32009
-2010,Indiana,Visual impairments,887,58,NA,NA,114,0,672,30,887
-2010,Indiana,Emotional disturbance,13407,362,73,17,2492,6,9602,855,13407
-2010,Indiana,Orthopedic impairments,1396,96,NA,NA,120,0,1089,60,1396
-2010,Indiana,Other health impairments,13490,466,62,NA,1570,NA,10684,644,13490
-2010,Indiana,Specific learning disabilities,53917,3782,277,172,7377,21,39903,2385,53917
-2010,Indiana,Deaf-blindness,25,NA,0,0,NA,0,21,0,NA
-2010,Indiana,Multiple disabilities,1886,106,7,13,219,0,1467,74,1886
-2010,Indiana,Autism,10773,483,39,139,943,5,8671,493,10773
-2010,Indiana,Traumatic brain injury,482,NA,NA,NA,NA,0,348,19,NA
-2010,Indiana,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010,Indiana,All disabilities,147348,9011,678,938,20150,56,109582,6933,147348
-2010,Iowa,Mental retardation,10528,951,78,95,940,10,8187,267,10528
-2010,Iowa,Hearing impairments,428,39,NA,NA,39,0,332,11,428
-2010,Iowa,Speech or language impairments,5266,476,39,48,470,5,4095,133,5266
-2010,Iowa,Visual impairments,77,8,NA,NA,8,0,57,NA,77
-2010,Iowa,Emotional disturbance,5959,538,44,54,532,6,4634,151,5959
-2010,Iowa,Orthopedic impairments,682,62,NA,6,62,NA,529,17,682
-2010,Iowa,Other health impairments,77,8,NA,NA,8,0,57,NA,77
-2010,Iowa,Specific learning disabilities,36923,3327,271,332,3291,36,28732,934,36923
-2010,Iowa,Deaf-blindness,0,0,0,0,0,0,0,0,0
-2010,Iowa,Multiple disabilities,336,31,NA,NA,31,0,259,9,336
-2010,Iowa,Autism,682,62,NA,6,62,NA,529,17,682
-2010,Iowa,Traumatic brain injury,165,15,NA,NA,15,0,128,NA,165
-2010,Iowa,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010,Iowa,All disabilities,61123,5517,451,552,5458,59,47539,1547,61123
-2010,Kansas,Mental retardation,3630,529,57,NA,659,NA,2210,121,3630
-2010,Kansas,Hearing impairments,539,98,NA,19,41,0,364,NA,539
-2010,Kansas,Speech or language impairments,8902,1124,117,170,460,16,6692,323,8902
-2010,Kansas,Visual impairments,169,NA,NA,5,20,NA,109,8,169
-2010,Kansas,Emotional disturbance,2777,227,48,NA,430,NA,1917,141,2777
-2010,Kansas,Orthopedic impairments,271,29,NA,5,NA,NA,212,7,271
-2010,Kansas,Other health impairments,6976,553,98,33,672,6,5317,297,6976
-2010,Kansas,Specific learning disabilities,23235,4140,444,249,2574,29,14985,814,23235
-2010,Kansas,Deaf-blindness,18,NA,0,NA,NA,0,13,NA,NA
-2010,Kansas,Multiple disabilities,2315,213,41,31,232,0,1708,90,2315
-2010,Kansas,Autism,2332,216,NA,69,201,NA,1746,81,2332
-2010,Kansas,Traumatic brain injury,188,27,NA,5,19,NA,123,9,NA
-2010,Kansas,Developmental delay,4917,723,69,60,442,5,3431,187,4917
-2010,Kansas,All disabilities,56269,7902,904,709,5763,72,38827,2092,56269
-2010,Kentucky,Mental retardation,15437,287,NA,52,2061,NA,12849,168,15437
-2010,Kentucky,Hearing impairments,626,29,NA,NA,59,0,515,11,626
-2010,Kentucky,Speech or language impairments,19960,654,35,189,1734,12,17012,324,19960
-2010,Kentucky,Visual impairments,479,8,0,NA,38,0,426,NA,479
-2010,Kentucky,Emotional disturbance,5080,82,NA,7,1184,NA,3657,142,5080
-2010,Kentucky,Orthopedic impairments,457,11,0,NA,43,0,392,NA,457
-2010,Kentucky,Other health impairments,14634,241,NA,39,2157,NA,11876,294,14634
-2010,Kentucky,Specific learning disabilities,14025,568,37,NA,1724,NA,11445,215,14025
-2010,Kentucky,Deaf-blindness,16,NA,0,0,NA,0,14,0,16
-2010,Kentucky,Multiple disabilities,2849,50,NA,16,286,NA,2451,40,2849
-2010,Kentucky,Autism,3502,70,6,46,358,0,2972,50,3502
-2010,Kentucky,Traumatic brain injury,225,NA,0,NA,NA,0,189,NA,225
-2010,Kentucky,Developmental delay,7117,234,NA,44,964,NA,5711,152,7117
-2010,Kentucky,All disabilities,84407,2241,141,447,10636,27,69509,1406,84407
-2010,Louisiana,Mental retardation,7625,120,54,31,4939,NA,2465,NA,7625
-2010,Louisiana,Hearing impairments,1184,54,13,NA,500,0,604,NA,1184
-2010,Louisiana,Speech or language impairments,17634,496,159,172,6978,5,9718,106,17634
-2010,Louisiana,Visual impairments,450,NA,NA,5,195,0,237,NA,450
-2010,Louisiana,Emotional disturbance,1999,29,12,NA,1189,0,753,11,NA
-2010,Louisiana,Orthopedic impairments,1091,27,12,7,427,NA,612,NA,1091
-2010,Louisiana,Other health impairments,9332,157,46,35,3640,5,5390,59,9332
-2010,Louisiana,Specific learning disabilities,23503,473,224,NA,13241,NA,9371,105,23503
-2010,Louisiana,Deaf-blindness,NA,0,0,0,NA,0,NA,0,NA
-2010,Louisiana,Multiple disabilities,948,19,9,NA,424,NA,485,NA,948
-2010,Louisiana,Autism,3095,65,NA,50,1207,NA,1744,21,3095
-2010,Louisiana,Traumatic brain injury,NA,NA,NA,NA,NA,0,NA,0,NA
-2010,Louisiana,Developmental delay,5434,109,42,40,2699,0,2510,34,5434
-2010,Louisiana,All disabilities,72516,1561,582,448,35564,18,33980,363,72516
-2010,Maine,Mental retardation,710,NA,9,NA,27,0,657,NA,710
-2010,Maine,Hearing impairments,198,7,NA,NA,9,0,177,0,198
-2010,Maine,Speech or language impairments,4805,100,63,69,118,NA,4397,NA,4805
-2010,Maine,Visual impairments,64,NA,0,NA,NA,0,61,0,NA
-2010,Maine,Emotional disturbance,2512,53,45,14,80,0,2304,16,2512
-2010,Maine,Orthopedic impairments,49,NA,0,0,NA,0,NA,NA,49
-2010,Maine,Other health impairments,5621,101,56,NA,166,NA,5214,44,5621
-2010,Maine,Specific learning disabilities,9324,160,134,59,233,NA,8677,NA,9324
-2010,Maine,Deaf-blindness,NA,0,0,NA,0,0,NA,0,NA
-2010,Maine,Multiple disabilities,2801,48,34,NA,83,NA,2589,23,2801
-2010,Maine,Autism,2241,33,20,NA,43,NA,2106,20,2241
-2010,Maine,Traumatic brain injury,60,0,0,0,NA,0,54,NA,NA
-2010,Maine,Developmental delay,NA,NA,NA,NA,NA,0,42,0,NA
-2010,Maine,All disabilities,28437,515,367,227,767,14,26323,224,28437
-2010,Maryland,Mental retardation,5233,425,NA,145,2902,NA,1660,87,5233
-2010,Maryland,Hearing impairments,1017,100,NA,73,301,NA,519,20,1017
-2010,Maryland,Speech or language impairments,15059,1794,50,634,4981,12,7104,484,15059
-2010,Maryland,Visual impairments,303,32,0,22,NA,0,125,NA,303
-2010,Maryland,Emotional disturbance,7591,303,39,52,4437,NA,2602,153,NA
-2010,Maryland,Orthopedic impairments,315,39,NA,11,140,0,116,NA,315
-2010,Maryland,Other health impairments,15609,1118,67,233,6855,12,6896,428,15609
-2010,Maryland,Specific learning disabilities,32560,4343,140,480,14992,24,11862,719,32560
-2010,Maryland,Deaf-blindness,17,NA,0,0,NA,0,12,NA,NA
-2010,Maryland,Multiple disabilities,3124,227,NA,88,1203,NA,1501,91,3124
-2010,Maryland,Autism,8053,540,NA,460,2637,NA,4135,252,8053
-2010,Maryland,Traumatic brain injury,252,NA,NA,7,122,0,98,NA,NA
-2010,Maryland,Developmental delay,1482,246,7,68,710,0,400,51,1482
-2010,Maryland,All disabilities,90615,9189,360,2273,39399,61,37030,2303,90615
-2010,Massachusetts,Mental retardation,10343,3313,46,265,1708,20,4819,172,10343
-2010,Massachusetts,Hearing impairments,1058,198,NA,68,105,NA,665,14,1058
-2010,Massachusetts,Speech or language impairments,24931,5144,71,1133,2306,14,15703,560,24931
-2010,Massachusetts,Visual impairments,528,72,NA,31,57,0,357,NA,528
-2010,Massachusetts,Emotional disturbance,13863,2874,52,180,1907,21,8397,432,13863
-2010,Massachusetts,Orthopedic impairments,1257,188,NA,30,108,NA,892,35,1257
-2010,Massachusetts,Other health impairments,13838,1824,43,151,903,11,10602,304,13838
-2010,Massachusetts,Specific learning disabilities,52211,10302,179,887,5780,52,33915,1096,52211
-2010,Massachusetts,Deaf-blindness,161,39,NA,7,23,0,90,NA,161
-2010,Massachusetts,Multiple disabilities,4572,661,14,112,343,16,3331,95,4572
-2010,Massachusetts,Autism,9932,890,15,424,638,23,7720,222,9932
-2010,Massachusetts,Traumatic brain injury,7249,713,17,161,481,9,5720,148,7249
-2010,Massachusetts,Developmental delay,10921,2132,28,308,1035,12,7071,335,10921
-2010,Massachusetts,All disabilities,150864,28350,473,3757,15394,184,99282,3424,150864
-2010,Michigan,Mental retardation,19946,965,175,236,6594,21,11708,247,19946
-2010,Michigan,Hearing impairments,2672,203,NA,80,496,NA,1845,32,2672
-2010,Michigan,Speech or language impairments,40500,2280,366,871,6494,41,29771,677,40500
-2010,Michigan,Visual impairments,765,NA,NA,21,NA,0,546,NA,765
-2010,Michigan,Emotional disturbance,13836,489,149,77,3139,9,9714,259,13836
-2010,Michigan,Orthopedic impairments,2179,99,NA,40,369,NA,1629,23,2179
-2010,Michigan,Other health impairments,19352,757,207,175,3108,14,14766,325,19352
-2010,Michigan,Specific learning disabilities,77657,5026,885,566,18930,70,51034,1146,77657
-2010,Michigan,Deaf-blindness,10,NA,0,NA,NA,0,6,0,NA
-2010,Michigan,Multiple disabilities,2861,163,NA,55,627,NA,1971,28,2861
-2010,Michigan,Autism,13636,447,106,311,1938,9,10661,164,13636
-2010,Michigan,Traumatic brain injury,590,41,NA,NA,147,NA,375,NA,NA
-2010,Michigan,Developmental delay,1770,135,NA,46,397,NA,1137,35,1770
-2010,Michigan,All disabilities,195774,10646,1962,2487,42382,173,135163,2961,195774
-2010,Minnesota,Mental retardation,8442,575,308,339,1326,9,5761,124,8442
-2010,Minnesota,Hearing impairments,2030,205,NA,230,184,NA,1358,27,2030
-2010,Minnesota,Speech or language impairments,16255,1219,407,958,1207,9,12167,288,16255
-2010,Minnesota,Visual impairments,332,22,NA,22,NA,0,243,NA,332
-2010,Minnesota,Emotional disturbance,15564,864,870,176,3326,16,9815,497,15564
-2010,Minnesota,Orthopedic impairments,1523,90,30,74,118,NA,1191,NA,1523
-2010,Minnesota,Other health impairments,15996,813,488,239,1768,10,12351,327,15996
-2010,Minnesota,Specific learning disabilities,30532,3735,1053,1444,4488,18,19286,508,30532
-2010,Minnesota,Deaf-blindness,60,7,NA,NA,NA,0,40,NA,60
-2010,Minnesota,Multiple disabilities,1146,87,28,55,143,NA,822,NA,1146
-2010,Minnesota,Autism,13091,521,188,525,888,8,10755,206,13091
-2010,Minnesota,Traumatic brain injury,404,24,15,18,53,0,284,10,404
-2010,Minnesota,Developmental delay,2399,297,88,NA,291,NA,1555,95,2399
-2010,Minnesota,All disabilities,107774,8459,3514,4155,13828,77,75628,2113,107774
-2010,Mississippi,Mental retardation,3806,40,NA,16,2644,0,1097,6,NA
-2010,Mississippi,Hearing impairments,652,18,NA,8,314,0,309,NA,652
-2010,Mississippi,Speech or language impairments,16084,271,24,90,5975,6,9642,76,16084
-2010,Mississippi,Visual impairments,304,5,NA,NA,165,0,131,NA,304
-2010,Mississippi,Emotional disturbance,2631,31,7,5,1424,0,1149,15,2631
-2010,Mississippi,Orthopedic impairments,465,9,NA,NA,202,0,249,0,465
-2010,Mississippi,Other health impairments,6578,80,19,NA,3523,NA,2925,17,6578
-2010,Mississippi,Specific learning disabilities,16932,295,37,NA,9515,NA,7010,43,16932
-2010,Mississippi,Deaf-blindness,12,NA,0,0,NA,0,9,0,NA
-2010,Mississippi,Multiple disabilities,852,14,NA,7,431,0,395,NA,852
-2010,Mississippi,Autism,2180,40,NA,29,828,0,1274,NA,2180
-2010,Mississippi,Traumatic brain injury,153,NA,0,NA,NA,0,79,NA,153
-2010,Mississippi,Developmental delay,3198,67,NA,18,1754,NA,1332,19,3198
-2010,Mississippi,All disabilities,53847,873,111,222,26847,10,25601,183,53847
-2010,Missouri,Mental retardation,10212,339,49,94,3072,9,6555,94,10212
-2010,Missouri,Hearing impairments,1152,44,NA,34,183,NA,873,14,1152
-2010,Missouri,Speech or language impairments,29588,1101,139,438,4326,17,23186,381,29588
-2010,Missouri,Visual impairments,453,21,NA,6,NA,NA,342,14,453
-2010,Missouri,Emotional disturbance,6703,137,41,27,1933,0,4468,97,6703
-2010,Missouri,Orthopedic impairments,525,21,NA,12,80,NA,405,5,525
-2010,Missouri,Other health impairments,18613,415,114,99,3070,6,14680,229,18613
-2010,Missouri,Specific learning disabilities,34552,1298,222,201,7614,23,24812,382,34552
-2010,Missouri,Deaf-blindness,24,0,NA,NA,NA,0,19,0,NA
-2010,Missouri,Multiple disabilities,1464,44,6,26,343,0,1026,19,1464
-2010,Missouri,Autism,6894,198,NA,150,1014,NA,5403,91,6894
-2010,Missouri,Traumatic brain injury,444,13,NA,NA,92,NA,325,8,NA
-2010,Missouri,Developmental delay,649,35,NA,7,142,NA,452,8,649
-2010,Missouri,All disabilities,111273,3666,620,1097,21939,63,82546,1342,111273
-2010,Montana,Mental retardation,960,31,183,NA,11,NA,715,9,960
-2010,Montana,Hearing impairments,134,5,13,NA,NA,0,111,NA,134
-2010,Montana,Speech or language impairments,3301,92,507,38,28,14,2606,16,3301
-2010,Montana,Visual impairments,57,NA,10,NA,0,0,44,NA,57
-2010,Montana,Emotional disturbance,937,40,130,NA,NA,NA,728,14,NA
-2010,Montana,Orthopedic impairments,59,NA,7,0,0,0,51,0,NA
-2010,Montana,Other health impairments,1742,65,168,6,29,5,1452,17,1742
-2010,Montana,Specific learning disabilities,6751,242,1168,30,77,17,5176,41,6751
-2010,Montana,Deaf-blindness,NA,0,0,0,NA,0,NA,0,NA
-2010,Montana,Multiple disabilities,553,18,62,NA,5,NA,459,NA,553
-2010,Montana,Autism,552,14,39,NA,10,NA,474,8,552
-2010,Montana,Traumatic brain injury,NA,NA,8,NA,NA,0,NA,0,NA
-2010,Montana,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010,Montana,All disabilities,15105,511,2295,96,184,47,11861,111,15105
-2010,Nebraska,Mental retardation,3884,611,91,NA,429,NA,2626,95,3884
-2010,Nebraska,Hearing impairments,580,91,NA,12,39,NA,412,17,580
-2010,Nebraska,Speech or language impairments,9509,1363,145,157,596,7,7017,224,9509
-2010,Nebraska,Visual impairments,195,17,NA,9,5,0,157,NA,195
-2010,Nebraska,Emotional disturbance,1930,155,78,NA,330,NA,1246,104,1930
-2010,Nebraska,Orthopedic impairments,262,27,6,7,13,0,202,7,262
-2010,Nebraska,Other health impairments,5377,478,102,39,467,8,4076,207,5377
-2010,Nebraska,Specific learning disabilities,13783,2586,377,119,1284,11,8935,471,13783
-2010,Nebraska,Deaf-blindness,11,0,0,0,0,0,11,0,11
-2010,Nebraska,Multiple disabilities,396,49,13,6,31,0,287,10,396
-2010,Nebraska,Autism,1867,179,NA,45,97,NA,1472,50,1867
-2010,Nebraska,Traumatic brain injury,204,25,NA,NA,12,0,155,NA,204
-2010,Nebraska,Developmental delay,1251,193,45,NA,31,NA,923,42,1251
-2010,Nebraska,All disabilities,39249,5774,897,454,3334,37,27519,1234,39249
-2010,Nevada,Mental retardation,1936,760,43,101,323,9,661,39,1936
-2010,Nevada,Hearing impairments,477,187,10,40,41,8,178,13,477
-2010,Nevada,Speech or language impairments,6324,1930,145,249,552,40,3186,222,6324
-2010,Nevada,Visual impairments,146,52,NA,9,17,0,61,NA,146
-2010,Nevada,Emotional disturbance,1950,307,37,18,424,NA,1092,66,NA
-2010,Nevada,Orthopedic impairments,295,95,NA,9,30,NA,154,NA,295
-2010,Nevada,Other health impairments,3421,685,66,49,497,14,2010,100,3421
-2010,Nevada,Specific learning disabilities,22423,8846,549,462,3789,135,8145,497,22423
-2010,Nevada,Deaf-blindness,7,0,NA,0,0,0,5,NA,NA
-2010,Nevada,Multiple disabilities,999,316,5,64,150,11,423,30,999
-2010,Nevada,Autism,3036,738,31,218,306,13,1630,100,3036
-2010,Nevada,Traumatic brain injury,187,75,5,6,31,NA,65,NA,187
-2010,Nevada,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010,Nevada,All disabilities,41201,13991,897,1225,6160,239,17610,1079,41201
-2010,New Hampshire,Mental retardation,820,36,NA,9,31,NA,739,0,NA
-2010,New Hampshire,Hearing impairments,215,14,0,NA,NA,0,194,NA,215
-2010,New Hampshire,Speech or language impairments,3981,126,11,65,81,NA,3692,NA,3981
-2010,New Hampshire,Visual impairments,91,NA,0,NA,NA,0,86,0,91
-2010,New Hampshire,Emotional disturbance,2288,59,NA,6,61,0,2157,NA,2288
-2010,New Hampshire,Orthopedic impairments,88,NA,0,NA,0,NA,84,0,88
-2010,New Hampshire,Other health impairments,4852,133,6,22,115,NA,4570,NA,4852
-2010,New Hampshire,Specific learning disabilities,11266,425,39,63,264,NA,10465,5,NA
-2010,New Hampshire,Deaf-blindness,5,0,0,0,0,0,NA,0,NA
-2010,New Hampshire,Multiple disabilities,370,13,0,NA,NA,0,346,0,370
-2010,New Hampshire,Autism,1513,28,NA,20,19,NA,1436,NA,1513
-2010,New Hampshire,Traumatic brain injury,54,NA,0,0,NA,0,NA,0,NA
-2010,New Hampshire,Developmental delay,1242,42,0,16,44,NA,1138,NA,1242
-2010,New Hampshire,All disabilities,26785,881,67,212,628,NA,24962,NA,26785
-2010,New Jersey,Mental retardation,5347,1632,21,224,1811,NA,1634,NA,5347
-2010,New Jersey,Hearing impairments,1491,365,5,104,206,6,797,8,1491
-2010,New Jersey,Speech or language impairments,45778,9088,66,2810,5993,102,27434,285,45778
-2010,New Jersey,Visual impairments,383,76,NA,NA,NA,0,228,NA,NA
-2010,New Jersey,Emotional disturbance,9054,1543,16,148,3044,16,4234,53,9054
-2010,New Jersey,Orthopedic impairments,486,NA,NA,29,55,NA,330,NA,486
-2010,New Jersey,Other health impairments,34208,5227,41,793,5568,37,22372,170,34208
-2010,New Jersey,Specific learning disabilities,84769,18489,107,1856,16970,60,46906,381,84769
-2010,New Jersey,Deaf-blindness,12,NA,0,NA,NA,0,6,0,NA
-2010,New Jersey,Multiple disabilities,20299,3882,29,628,5849,23,9775,113,20299
-2010,New Jersey,Autism,12257,1753,18,1081,1699,26,7613,67,12257
-2010,New Jersey,Traumatic brain injury,845,169,NA,39,252,0,376,NA,845
-2010,New Jersey,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010,New Jersey,All disabilities,214929,42294,307,7742,41495,276,121705,1110,214929
-2010,New Mexico,Mental retardation,1859,1120,235,20,62,NA,404,NA,1859
-2010,New Mexico,Hearing impairments,527,306,65,8,18,0,125,5,527
-2010,New Mexico,Speech or language impairments,10012,6017,1024,83,198,6,2575,109,10012
-2010,New Mexico,Visual impairments,191,NA,26,NA,NA,0,NA,NA,191
-2010,New Mexico,Emotional disturbance,2140,1088,222,NA,86,0,704,32,NA
-2010,New Mexico,Orthopedic impairments,260,152,16,NA,6,0,77,NA,260
-2010,New Mexico,Other health impairments,3313,1701,245,NA,84,NA,1228,40,3313
-2010,New Mexico,Specific learning disabilities,17939,11152,2268,NA,485,NA,3796,171,17939
-2010,New Mexico,Deaf-blindness,5,NA,0,0,0,0,NA,0,NA
-2010,New Mexico,Multiple disabilities,865,472,127,10,10,NA,239,NA,865
-2010,New Mexico,Autism,1408,604,72,21,36,0,640,35,1408
-2010,New Mexico,Traumatic brain injury,190,108,27,NA,NA,0,49,NA,190
-2010,New Mexico,Developmental delay,2695,1422,511,21,56,0,662,23,2695
-2010,New Mexico,All disabilities,41404,24252,4838,256,1049,11,10549,449,41404
-2010,New York,Mental retardation,11960,3236,97,550,3738,8,4286,45,11960
-2010,New York,Hearing impairments,4223,1191,19,373,722,7,1896,15,4223
-2010,New York,Speech or language impairments,84018,29983,536,4078,18012,58,30958,393,84018
-2010,New York,Visual impairments,1268,268,NA,67,235,NA,NA,NA,1268
-2010,New York,Emotional disturbance,31971,7500,236,437,12738,19,10835,206,31971
-2010,New York,Orthopedic impairments,1903,401,20,111,409,NA,959,NA,1903
-2010,New York,Other health impairments,56921,7588,290,1018,8816,28,38800,381,56921
-2010,New York,Specific learning disabilities,157090,42599,1104,4393,37621,79,70711,583,157090
-2010,New York,Deaf-blindness,9,NA,0,0,0,0,NA,0,9
-2010,New York,Multiple disabilities,18010,3070,97,630,3631,20,10497,65,18010
-2010,New York,Autism,21095,3493,133,997,3816,47,12497,112,21095
-2010,New York,Traumatic brain injury,1151,NA,NA,49,222,NA,694,5,1151
-2010,New York,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010,New York,All disabilities,389619,99506,2546,12703,89960,272,182820,1812,389619
-2010,North Carolina,Mental retardation,19026,1487,631,166,9506,15,6842,379,19026
-2010,North Carolina,Hearing impairments,1964,306,NA,42,580,NA,945,56,1964
-2010,North Carolina,Speech or language impairments,23083,2164,592,337,5598,16,13674,702,23083
-2010,North Carolina,Visual impairments,618,65,NA,NA,194,0,325,18,618
-2010,North Carolina,Emotional disturbance,6688,231,73,13,3400,NA,2702,266,NA
-2010,North Carolina,Orthopedic impairments,879,76,11,14,187,0,571,20,879
-2010,North Carolina,Other health impairments,30541,1370,402,138,9515,15,18010,1091,30541
-2010,North Carolina,Specific learning disabilities,64680,8260,1271,513,21240,39,31484,1873,64680
-2010,North Carolina,Deaf-blindness,34,5,0,0,NA,0,23,NA,NA
-2010,North Carolina,Multiple disabilities,2188,205,32,NA,660,NA,1214,43,2188
-2010,North Carolina,Autism,10717,701,62,236,2811,7,6553,347,10717
-2010,North Carolina,Traumatic brain injury,421,37,0,NA,NA,0,211,NA,421
-2010,North Carolina,Developmental delay,5835,786,70,85,2061,7,2629,197,5835
-2010,North Carolina,All disabilities,166674,15693,3181,1590,55909,108,85183,5010,166674
-2010,North Dakota,Mental retardation,757,19,92,7,27,NA,605,NA,757
-2010,North Dakota,Hearing impairments,101,5,12,NA,NA,0,81,NA,101
-2010,North Dakota,Speech or language impairments,2518,83,325,23,65,12,1980,30,2518
-2010,North Dakota,Visual impairments,50,NA,NA,0,0,0,43,0,50
-2010,North Dakota,Emotional disturbance,836,22,109,NA,39,0,656,NA,836
-2010,North Dakota,Orthopedic impairments,86,NA,NA,0,0,0,82,0,86
-2010,North Dakota,Other health impairments,1609,43,118,NA,38,NA,1388,14,1609
-2010,North Dakota,Specific learning disabilities,4142,150,459,15,92,NA,3388,32,NA
-2010,North Dakota,Deaf-blindness,5,0,0,0,0,0,5,0,5
-2010,North Dakota,Multiple disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010,North Dakota,Autism,590,13,27,NA,14,0,528,NA,NA
-2010,North Dakota,Traumatic brain injury,55,NA,8,NA,NA,0,42,NA,NA
-2010,North Dakota,Developmental delay,707,22,137,NA,22,NA,510,7,707
-2010,North Dakota,All disabilities,11456,362,1295,62,299,28,9308,102,11456
-2010,Northern Marianas,Mental retardation,68,NA,0,NA,0,47,0,NA,NA
-2010,Northern Marianas,Hearing impairments,19,0,0,NA,0,NA,0,NA,19
-2010,Northern Marianas,Speech or language impairments,43,0,0,NA,0,NA,0,NA,43
-2010,Northern Marianas,Visual impairments,6,0,0,NA,0,NA,0,NA,NA
-2010,Northern Marianas,Emotional disturbance,9,0,0,NA,0,6,NA,NA,9
-2010,Northern Marianas,Orthopedic impairments,NA,0,0,NA,0,NA,0,NA,NA
-2010,Northern Marianas,Other health impairments,NA,0,0,NA,0,NA,NA,NA,NA
-2010,Northern Marianas,Specific learning disabilities,NA,0,0,NA,0,336,NA,82,NA
-2010,Northern Marianas,Deaf-blindness,NA,0,0,0,0,0,0,NA,NA
-2010,Northern Marianas,Multiple disabilities,27,0,0,NA,0,NA,NA,NA,NA
-2010,Northern Marianas,Autism,63,0,0,22,0,NA,0,NA,63
-2010,Northern Marianas,Traumatic brain injury,NA,0,0,0,0,NA,0,0,NA
-2010,Northern Marianas,Developmental delay,46,NA,0,NA,0,18,NA,14,46
-2010,Northern Marianas,All disabilities,840,0,0,140,0,530,8,162,840
-2010,Ohio,Mental retardation,26416,722,NA,100,7629,NA,16914,996,26416
-2010,Ohio,Hearing impairments,2255,99,NA,34,348,NA,1685,82,2255
-2010,Ohio,Speech or language impairments,29346,904,46,321,3608,7,23233,1227,29346
-2010,Ohio,Visual impairments,969,NA,0,27,NA,0,767,NA,969
-2010,Ohio,Emotional disturbance,16483,374,32,36,5174,7,9943,917,16483
-2010,Ohio,Orthopedic impairments,1684,48,NA,NA,253,0,1292,63,1684
-2010,Ohio,Other health impairments,29947,820,NA,153,4645,NA,22940,1330,29947
-2010,Ohio,Specific learning disabilities,100061,3415,180,425,18649,19,73438,3935,100061
-2010,Ohio,Deaf-blindness,42,NA,NA,0,NA,0,32,NA,42
-2010,Ohio,Multiple disabilities,13398,381,17,108,2607,5,9830,450,13398
-2010,Ohio,Autism,15068,354,NA,219,1749,NA,12177,542,15068
-2010,Ohio,Traumatic brain injury,1331,33,NA,NA,251,NA,992,42,1331
-2010,Ohio,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010,Ohio,All disabilities,237000,7182,417,1459,45033,50,173243,9616,237000
-2010,Oklahoma,Mental retardation,5387,529,901,55,997,0,2716,189,5387
-2010,Oklahoma,Hearing impairments,965,107,133,21,101,0,574,29,965
-2010,Oklahoma,Speech or language impairments,9807,856,1852,145,816,9,5894,235,9807
-2010,Oklahoma,Visual impairments,442,NA,66,NA,26,0,298,15,442
-2010,Oklahoma,Emotional disturbance,4489,193,714,16,719,5,2707,135,4489
-2010,Oklahoma,Orthopedic impairments,429,49,NA,NA,46,0,265,NA,429
-2010,Oklahoma,Other health impairments,11347,571,1883,NA,1140,NA,7338,340,11347
-2010,Oklahoma,Specific learning disabilities,40633,4439,7654,229,5509,28,21770,1004,40633
-2010,Oklahoma,Deaf-blindness,17,NA,NA,0,0,0,13,NA,NA
-2010,Oklahoma,Multiple disabilities,1514,117,254,NA,154,NA,934,40,1514
-2010,Oklahoma,Autism,2898,170,389,NA,246,NA,1955,72,2898
-2010,Oklahoma,Traumatic brain injury,271,27,60,NA,32,0,141,9,NA
-2010,Oklahoma,Developmental delay,10753,904,1729,119,933,14,6596,458,10753
-2010,Oklahoma,All disabilities,88952,7989,15691,750,10719,62,51201,2540,88952
-2010,Oregon,Mental retardation,3926,743,106,81,180,13,2682,121,3926
-2010,Oregon,Hearing impairments,827,206,18,52,40,12,482,17,827
-2010,Oregon,Speech or language impairments,16354,3582,377,580,515,93,10654,553,16354
-2010,Oregon,Visual impairments,312,65,NA,8,13,NA,207,8,312
-2010,Oregon,Emotional disturbance,4638,468,152,41,324,15,3418,220,4638
-2010,Oregon,Orthopedic impairments,718,123,NA,28,21,NA,511,17,718
-2010,Oregon,Other health impairments,9954,1216,230,130,503,35,7452,388,9954
-2010,Oregon,Specific learning disabilities,27293,6561,733,334,1025,NA,17739,801,NA
-2010,Oregon,Deaf-blindness,8,NA,0,NA,0,0,NA,0,NA
-2010,Oregon,Multiple disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010,Oregon,Autism,7357,812,126,275,164,22,5664,294,7357
-2010,Oregon,Traumatic brain injury,271,NA,7,NA,10,NA,NA,8,271
-2010,Oregon,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010,Oregon,All disabilities,71658,13828,1770,1535,2795,299,49004,2427,71658
-2010,Pennsylvania,Mental retardation,20334,1652,29,274,5117,5,13185,72,20334
-2010,Pennsylvania,Hearing impairments,2635,217,6,80,382,0,1942,8,2635
-2010,Pennsylvania,Speech or language impairments,39652,2043,78,790,4609,9,31923,200,39652
-2010,Pennsylvania,Visual impairments,1047,64,5,25,164,0,779,10,1047
-2010,Pennsylvania,Emotional disturbance,23778,1743,NA,110,6427,NA,15257,176,23778
-2010,Pennsylvania,Orthopedic impairments,786,75,0,14,178,NA,517,NA,786
-2010,Pennsylvania,Other health impairments,24081,1668,NA,221,3479,NA,18536,134,24081
-2010,Pennsylvania,Specific learning disabilities,130105,12376,207,1179,25516,16,90267,544,130105
-2010,Pennsylvania,Deaf-blindness,63,NA,0,NA,11,NA,45,0,63
-2010,Pennsylvania,Multiple disabilities,2821,243,12,61,465,NA,2032,NA,2821
-2010,Pennsylvania,Autism,17973,876,37,459,2297,9,14212,83,17973
-2010,Pennsylvania,Traumatic brain injury,671,34,NA,NA,100,0,529,0,671
-2010,Pennsylvania,Developmental delay,62,NA,0,NA,18,0,37,0,62
-2010,Pennsylvania,All disabilities,264008,20998,479,3225,48763,47,189261,1235,264008
-2010,Puerto Rico,Mental retardation,9365,9341,10,NA,NA,NA,NA,NA,9365
-2010,Puerto Rico,Hearing impairments,787,785,NA,0,NA,NA,0,NA,787
-2010,Puerto Rico,Speech or language impairments,24884,24845,17,NA,NA,NA,9,NA,24884
-2010,Puerto Rico,Visual impairments,644,641,0,0,NA,NA,NA,NA,644
-2010,Puerto Rico,Emotional disturbance,1462,1459,0,NA,NA,NA,0,NA,1462
-2010,Puerto Rico,Orthopedic impairments,443,NA,NA,0,0,NA,0,NA,443
-2010,Puerto Rico,Other health impairments,9250,9230,NA,9,NA,NA,8,NA,9250
-2010,Puerto Rico,Specific learning disabilities,62498,62369,34,40,21,NA,34,NA,62498
-2010,Puerto Rico,Deaf-blindness,44,NA,0,0,0,NA,0,NA,NA
-2010,Puerto Rico,Multiple disabilities,1204,1202,0,NA,NA,NA,0,NA,1204
-2010,Puerto Rico,Autism,1976,1968,NA,NA,NA,NA,NA,NA,1976
-2010,Puerto Rico,Traumatic brain injury,51,NA,0,0,0,NA,0,NA,NA
-2010,Puerto Rico,Developmental delay,0,NA,0,0,0,NA,0,NA,NA
-2010,Puerto Rico,All disabilities,112608,112377,68,65,NA,0,NA,0,112608
-2010,Rhode Island,Mental retardation,885,243,NA,18,103,NA,484,27,885
-2010,Rhode Island,Hearing impairments,148,40,NA,5,10,0,90,NA,148
-2010,Rhode Island,Speech or language impairments,3216,693,NA,71,247,NA,2095,84,3216
-2010,Rhode Island,Visual impairments,64,11,NA,5,NA,0,NA,NA,64
-2010,Rhode Island,Emotional disturbance,2239,435,46,16,352,5,1330,55,2239
-2010,Rhode Island,Orthopedic impairments,75,NA,NA,NA,7,0,56,0,75
-2010,Rhode Island,Other health impairments,3576,486,33,NA,256,NA,2703,73,3576
-2010,Rhode Island,Specific learning disabilities,9111,2397,106,124,999,5,5273,207,9111
-2010,Rhode Island,Deaf-blindness,5,NA,0,0,NA,0,NA,0,NA
-2010,Rhode Island,Multiple disabilities,325,59,6,8,13,0,234,5,325
-2010,Rhode Island,Autism,1606,154,NA,33,88,NA,1287,31,1606
-2010,Rhode Island,Traumatic brain injury,64,14,NA,NA,NA,NA,42,0,NA
-2010,Rhode Island,Developmental delay,1073,281,NA,17,93,NA,633,35,1073
-2010,Rhode Island,All disabilities,22387,4821,254,325,2176,20,14272,519,22387
-2010,South Carolina,Mental retardation,7922,228,NA,55,4991,NA,2539,86,7922
-2010,South Carolina,Hearing impairments,1041,65,NA,24,431,0,500,NA,1041
-2010,South Carolina,Speech or language impairments,16109,791,39,147,5424,16,9282,410,16109
-2010,South Carolina,Visual impairments,390,19,0,NA,125,0,231,NA,390
-2010,South Carolina,Emotional disturbance,3260,62,12,NA,1738,NA,1347,95,NA
-2010,South Carolina,Orthopedic impairments,624,26,NA,NA,205,0,374,9,624
-2010,South Carolina,Other health impairments,9872,223,NA,31,3403,NA,5984,207,9872
-2010,South Carolina,Specific learning disabilities,42419,2186,168,133,19016,14,20117,785,42419
-2010,South Carolina,Deaf-blindness,NA,0,0,0,0,0,NA,0,NA
-2010,South Carolina,Multiple disabilities,600,37,NA,NA,168,NA,377,10,600
-2010,South Carolina,Autism,3317,134,NA,50,1200,NA,1862,64,3317
-2010,South Carolina,Traumatic brain injury,NA,7,NA,0,75,0,NA,NA,NA
-2010,South Carolina,Developmental delay,3473,203,NA,26,1736,NA,1406,95,3473
-2010,South Carolina,All disabilities,89206,3981,284,492,38512,39,44111,1787,89206
-2010,South Dakota,Mental retardation,1371,61,257,16,63,NA,958,NA,1371
-2010,South Dakota,Hearing impairments,121,12,22,NA,NA,0,80,NA,121
-2010,South Dakota,Speech or language impairments,3420,118,506,NA,54,NA,2657,43,3420
-2010,South Dakota,Visual impairments,NA,NA,7,0,NA,0,29,0,NA
-2010,South Dakota,Emotional disturbance,1099,31,175,NA,49,NA,830,10,NA
-2010,South Dakota,Orthopedic impairments,68,NA,6,0,NA,0,56,NA,68
-2010,South Dakota,Other health impairments,1755,54,240,NA,75,NA,1348,24,1755
-2010,South Dakota,Specific learning disabilities,6170,280,1275,NA,149,NA,4367,60,6170
-2010,South Dakota,Deaf-blindness,NA,NA,0,0,0,0,0,0,NA
-2010,South Dakota,Multiple disabilities,545,21,95,8,21,NA,396,NA,545
-2010,South Dakota,Autism,639,21,61,NA,11,0,534,NA,639
-2010,South Dakota,Traumatic brain injury,59,NA,19,NA,0,0,36,NA,59
-2010,South Dakota,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010,South Dakota,All disabilities,15288,606,2663,127,430,11,11291,160,15288
-2010,Tennessee,Mental retardation,7511,282,12,54,2952,7,4184,20,7511
-2010,Tennessee,Hearing impairments,1323,98,NA,28,377,NA,815,NA,1323
-2010,Tennessee,Speech or language impairments,25851,1216,64,287,5253,11,18866,154,25851
-2010,Tennessee,Visual impairments,669,30,0,NA,141,0,485,NA,669
-2010,Tennessee,Emotional disturbance,3378,61,NA,14,1162,0,2120,13,NA
-2010,Tennessee,Orthopedic impairments,710,29,NA,9,102,0,566,NA,710
-2010,Tennessee,Other health impairments,12593,246,NA,53,2653,NA,9524,81,12593
-2010,Tennessee,Specific learning disabilities,43426,1968,99,175,13051,NA,27945,180,NA
-2010,Tennessee,Deaf-blindness,9,0,0,0,NA,0,5,0,NA
-2010,Tennessee,Multiple disabilities,1999,76,NA,18,476,NA,1415,8,1999
-2010,Tennessee,Autism,5342,191,NA,84,950,NA,4077,25,5342
-2010,Tennessee,Traumatic brain injury,275,9,NA,NA,NA,0,199,NA,275
-2010,Tennessee,Developmental delay,4081,235,NA,58,1215,NA,2537,25,4081
-2010,Tennessee,All disabilities,107167,4441,246,793,28396,37,72738,516,107167
-2010,Texas,Mental retardation,31155,14974,134,588,7386,49,7699,325,31155
-2010,Texas,Hearing impairments,6257,3289,28,187,796,12,1870,75,6257
-2010,Texas,Speech or language impairments,61662,29119,284,1362,6905,67,22841,1084,61662
-2010,Texas,Visual impairments,3044,1287,22,74,452,5,1156,48,3044
-2010,Texas,Emotional disturbance,27391,9130,166,154,5721,19,11647,554,27391
-2010,Texas,Orthopedic impairments,3625,1786,NA,90,455,NA,1218,55,3625
-2010,Texas,Other health impairments,51974,18984,269,505,8894,56,22295,971,51974
-2010,Texas,Specific learning disabilities,179420,95546,1041,1176,34114,155,45288,2100,179420
-2010,Texas,Deaf-blindness,115,48,NA,NA,11,NA,50,NA,115
-2010,Texas,Multiple disabilities,5125,2188,20,109,806,10,1929,63,5125
-2010,Texas,Autism,29478,10514,147,1376,3763,37,13030,611,29478
-2010,Texas,Traumatic brain injury,1279,525,NA,NA,228,NA,485,NA,1279
-2010,Texas,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010,Texas,All disabilities,400525,187390,2140,5635,69531,417,129508,5904,400525
-2010,Utah,Mental retardation,3212,560,71,42,93,45,2377,24,3212
-2010,Utah,Hearing impairments,538,114,9,16,8,NA,380,NA,538
-2010,Utah,Speech or language impairments,13011,1725,188,191,169,153,10472,113,13011
-2010,Utah,Visual impairments,197,30,NA,7,NA,NA,151,NA,197
-2010,Utah,Emotional disturbance,2290,274,35,21,111,19,1807,23,2290
-2010,Utah,Orthopedic impairments,166,NA,NA,NA,NA,NA,138,NA,NA
-2010,Utah,Other health impairments,4689,396,34,34,140,41,3996,48,4689
-2010,Utah,Specific learning disabilities,29740,6323,802,201,625,373,21191,225,29740
-2010,Utah,Deaf-blindness,28,NA,0,NA,NA,0,25,0,NA
-2010,Utah,Multiple disabilities,1615,244,31,26,38,NA,1257,NA,1615
-2010,Utah,Autism,3649,272,31,57,44,26,3194,25,3649
-2010,Utah,Traumatic brain injury,279,41,7,NA,NA,NA,216,NA,NA
-2010,Utah,Developmental delay,1874,370,47,21,26,24,1374,12,1874
-2010,Utah,All disabilities,61288,10369,1257,622,1266,713,46578,483,61288
-2010,Vermont,Mental retardation,823,NA,NA,5,28,NA,783,0,NA
-2010,Vermont,Hearing impairments,101,NA,0,0,NA,0,94,NA,NA
-2010,Vermont,Speech or language impairments,1399,NA,NA,13,34,0,1331,NA,1399
-2010,Vermont,Visual impairments,25,NA,0,0,NA,0,23,0,25
-2010,Vermont,Emotional disturbance,1871,15,9,NA,41,NA,1798,6,1871
-2010,Vermont,Orthopedic impairments,49,NA,0,0,NA,0,47,0,NA
-2010,Vermont,Other health impairments,2009,19,NA,7,44,NA,1928,7,2009
-2010,Vermont,Specific learning disabilities,4048,NA,NA,12,57,NA,3930,9,NA
-2010,Vermont,Deaf-blindness,7,0,0,NA,NA,0,NA,0,7
-2010,Vermont,Multiple disabilities,171,5,0,NA,5,0,158,0,NA
-2010,Vermont,Autism,782,NA,NA,9,15,0,741,NA,782
-2010,Vermont,Traumatic brain injury,45,0,0,0,NA,0,NA,0,45
-2010,Vermont,Developmental delay,844,7,NA,7,11,0,812,NA,844
-2010,Vermont,All disabilities,12174,114,22,59,242,8,11693,36,12174
-2010,Virgin Islands,Mental retardation,207,NA,0,0,164,0,NA,0,207
-2010,Virgin Islands,Hearing impairments,13,NA,0,0,12,0,0,0,NA
-2010,Virgin Islands,Speech or language impairments,119,NA,0,0,NA,0,10,0,119
-2010,Virgin Islands,Visual impairments,12,NA,0,0,9,0,NA,0,NA
-2010,Virgin Islands,Emotional disturbance,53,NA,0,0,NA,0,NA,0,53
-2010,Virgin Islands,Orthopedic impairments,NA,0,0,0,NA,0,0,0,NA
-2010,Virgin Islands,Other health impairments,101,20,0,0,NA,0,NA,0,NA
-2010,Virgin Islands,Specific learning disabilities,NA,NA,0,NA,NA,NA,NA,0,NA
-2010,Virgin Islands,Deaf-blindness,0,0,0,0,0,0,0,0,0
-2010,Virgin Islands,Multiple disabilities,36,NA,0,0,29,0,NA,0,36
-2010,Virgin Islands,Autism,NA,NA,0,0,47,0,NA,0,NA
-2010,Virgin Islands,Traumatic brain injury,NA,NA,0,NA,NA,0,0,0,NA
-2010,Virgin Islands,Developmental delay,39,NA,0,NA,31,0,NA,0,39
-2010,Virgin Islands,All disabilities,1263,NA,0,NA,956,NA,32,0,1263
-2010,Virginia,Mental retardation,10197,939,30,355,4290,7,4358,218,10197
-2010,Virginia,Hearing impairments,1251,196,NA,82,291,NA,632,40,1251
-2010,Virginia,Speech or language impairments,21940,2487,82,859,5031,21,12572,888,21940
-2010,Virginia,Visual impairments,546,52,NA,33,127,0,321,NA,546
-2010,Virginia,Emotional disturbance,9563,749,37,119,3527,6,4770,355,9563
-2010,Virginia,Orthopedic impairments,786,87,NA,56,138,NA,478,24,786
-2010,Virginia,Other health impairments,28366,1860,133,387,8356,29,16547,1054,28366
-2010,Virginia,Specific learning disabilities,56913,8195,254,1378,18056,66,27177,1787,56913
-2010,Virginia,Deaf-blindness,25,NA,0,NA,NA,0,13,NA,25
-2010,Virginia,Multiple disabilities,3136,235,7,92,919,6,1781,96,3136
-2010,Virginia,Autism,10722,938,43,681,2348,16,6256,440,10722
-2010,Virginia,Traumatic brain injury,374,NA,NA,NA,NA,NA,190,18,374
-2010,Virginia,Developmental delay,1438,159,NA,87,441,NA,669,73,1438
-2010,Virginia,All disabilities,145257,15942,607,4143,43638,156,75764,5007,145257
-2010,Washington,Mental retardation,4600,1020,208,184,408,38,2590,152,4600
-2010,Washington,Hearing impairments,1164,290,44,83,72,21,620,34,1164
-2010,Washington,Speech or language impairments,17146,3320,459,893,789,157,10746,782,17146
-2010,Washington,Visual impairments,337,89,NA,NA,NA,NA,193,10,337
-2010,Washington,Emotional disturbance,4693,537,178,84,603,62,2999,230,4693
-2010,Washington,Orthopedic impairments,491,76,11,27,28,6,331,12,491
-2010,Washington,Other health impairments,22356,2705,647,548,1632,364,15459,1001,22356
-2010,Washington,Specific learning disabilities,44772,11278,1699,1409,3555,NA,24499,1712,NA
-2010,Washington,Deaf-blindness,24,NA,NA,0,NA,0,20,0,NA
-2010,Washington,Multiple disabilities,2619,380,78,110,178,29,1767,77,2619
-2010,Washington,Autism,7795,791,115,557,406,169,5438,319,7795
-2010,Washington,Traumatic brain injury,331,NA,19,NA,27,NA,183,16,331
-2010,Washington,Developmental delay,7375,1696,249,289,520,87,4164,370,7375
-2010,Washington,All disabilities,113703,22256,3718,4211,8235,1559,69009,4715,113703
-2010,West Virginia,Mental retardation,7076,54,NA,14,406,NA,6564,27,7076
-2010,West Virginia,Hearing impairments,404,NA,0,NA,25,0,373,0,404
-2010,West Virginia,Speech or language impairments,11401,122,NA,60,399,NA,10720,89,11401
-2010,West Virginia,Visual impairments,252,NA,NA,0,11,0,236,NA,252
-2010,West Virginia,Emotional disturbance,1581,13,NA,NA,141,0,1402,17,1581
-2010,West Virginia,Orthopedic impairments,133,NA,0,NA,7,0,122,0,133
-2010,West Virginia,Other health impairments,4973,32,12,9,272,0,4614,34,4973
-2010,West Virginia,Specific learning disabilities,12145,122,21,23,703,NA,11220,55,NA
-2010,West Virginia,Deaf-blindness,9,0,0,0,0,0,NA,0,NA
-2010,West Virginia,Multiple disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010,West Virginia,Autism,1313,12,NA,10,61,0,1220,NA,1313
-2010,West Virginia,Traumatic brain injury,113,NA,0,0,18,0,NA,0,NA
-2010,West Virginia,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010,West Virginia,All disabilities,39400,364,NA,124,2043,NA,36573,234,39400
-2010,Wisconsin,Mental retardation,9208,859,161,248,2010,NA,5838,NA,9208
-2010,Wisconsin,Hearing impairments,1489,166,20,101,131,0,1046,25,1489
-2010,Wisconsin,Speech or language impairments,21714,2264,404,725,1853,12,16115,341,21714
-2010,Wisconsin,Visual impairments,418,33,NA,15,26,0,338,NA,418
-2010,Wisconsin,Emotional disturbance,13079,730,544,NA,2460,NA,8905,362,13079
-2010,Wisconsin,Orthopedic impairments,868,76,13,32,105,0,633,9,868
-2010,Wisconsin,Other health impairments,17539,1492,273,177,4877,7,10453,260,17539
-2010,Wisconsin,Specific learning disabilities,36333,3853,780,864,5245,18,25106,467,36333
-2010,Wisconsin,Deaf-blindness,NA,NA,0,0,0,0,NA,0,NA
-2010,Wisconsin,Multiple disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA
-2010,Wisconsin,Autism,7542,438,112,201,503,5,6197,86,7542
-2010,Wisconsin,Traumatic brain injury,393,39,NA,NA,78,0,246,13,393
-2010,Wisconsin,Developmental delay,NA,NA,NA,NA,6,0,NA,0,NA
-2010,Wisconsin,All disabilities,108643,9960,2318,2446,17294,50,74918,1657,108643
-2010,Wyoming,Mental retardation,539,65,26,NA,NA,0,431,10,539
-2010,Wyoming,Hearing impairments,158,22,NA,NA,NA,0,126,5,158
-2010,Wyoming,Speech or language impairments,3239,439,119,21,33,5,2580,42,3239
-2010,Wyoming,Visual impairments,NA,5,NA,0,NA,0,43,0,NA
-2010,Wyoming,Emotional disturbance,753,77,30,NA,22,NA,617,5,753
-2010,Wyoming,Orthopedic impairments,79,12,NA,NA,0,0,63,NA,79
-2010,Wyoming,Other health impairments,1813,169,62,NA,36,NA,1508,30,1813
-2010,Wyoming,Specific learning disabilities,4285,620,201,NA,68,NA,3342,41,4285
-2010,Wyoming,Deaf-blindness,NA,0,NA,0,0,0,0,0,NA
-2010,Wyoming,Multiple disabilities,163,17,9,NA,5,0,130,NA,163
-2010,Wyoming,Autism,555,37,12,NA,5,NA,487,8,555
-2010,Wyoming,Traumatic brain injury,69,5,6,NA,0,0,56,NA,69
-2010,Wyoming,Developmental delay,243,28,10,0,NA,0,199,NA,243
-2010,Wyoming,All disabilities,11950,1496,484,49,181,12,9582,146,11950
+year,state,disability,total_6to21,hisp,aian,asian7,black,nhpi7,white,tworace,total_ethnicity,api
+2010,"50 states, D.C., and P.R. (including BIE schools)",Mental retardation,445432,88010,6097,9396,125429,1168,207689,7643,445432,10564
+2010,"50 states, D.C., and P.R. (including BIE schools)",Hearing impairments,69839,18754,863,3494,10468,348,34681,1231,69839,3842
+2010,"50 states, D.C., and P.R. (including BIE schools)",Speech or language impairments,1093293,250126,14619,34811,156365,2127,612219,23026,1093293,36938
+2010,"50 states, D.C., and P.R. (including BIE schools)",Visual impairments,25686,5733,336,984,4038,80,14042,473,25686,1064
+2010,"50 states, D.C., and P.R. (including BIE schools)",Emotional disturbance,388023,53345,6230,3392,105878,1077,208081,10020,388023,4469
+2010,"50 states, D.C., and P.R. (including BIE schools)",Orthopedic impairments,55787,13978,533,1956,6976,154,31102,1088,55787,2110
+2010,"50 states, D.C., and P.R. (including BIE schools)",Other health impairments,705764,98463,8988,8993,125681,2232,445695,15712,705764,11225
+2010,"50 states, D.C., and P.R. (including BIE schools)",Specific learning disabilities,2417208,644271,41951,34597,477003,8051,1167387,43948,2417208,42648
+2010,"50 states, D.C., and P.R. (including BIE schools)",Deaf-blindness,1282,298,21,54,134,8,743,24,1282,62
+2010,"50 states, D.C., and P.R. (including BIE schools)",Multiple disabilities,123576,19702,1640,3262,24230,374,72492,1876,123576,3636
+2010,"50 states, D.C., and P.R. (including BIE schools)",Autism,370344,58152,2975,18957,49660,1000,231193,8407,370344,19957
+2010,"50 states, D.C., and P.R. (including BIE schools)",Traumatic brain injury,24664,3893,366,568,3860,71,15381,525,24664,639
+2010,"50 states, D.C., and P.R. (including BIE schools)",Developmental delay,109293,14661,3888,2308,23030,732,61430,3244,109293,3040
+2010,"50 states, D.C., and P.R. (including BIE schools)",All disabilities,5830191,1269386,88507,122772,1112752,17422,3102135,117217,5830191,140194
+2010,U.S. and Outlying Areas,Mental retardation,445796,88050,6097,9419,125593,1288,207692,7657,445796,10707
+2010,U.S. and Outlying Areas,Hearing impairments,69934,18755,863,3509,10480,412,34682,1233,69934,3921
+2010,U.S. and Outlying Areas,Speech or language impairments,1093695,250140,14620,34876,156462,2333,612229,23035,1093695,37209
+2010,U.S. and Outlying Areas,Visual impairments,25724,5735,336,986,4047,103,14043,474,25724,1089
+2010,U.S. and Outlying Areas,Emotional disturbance,388211,53362,6230,3399,105915,1197,208085,10023,388211,4596
+2010,U.S. and Outlying Areas,Orthopedic impairments,55824,13978,533,1965,6978,177,31103,1090,55824,2142
+2010,U.S. and Outlying Areas,Other health impairments,706102,98483,8988,9021,125758,2418,445704,15730,706102,11439
+2010,U.S. and Outlying Areas,Specific learning disabilities,2419971,644430,41953,34758,477459,9926,1167407,44038,2419971,44684
+2010,U.S. and Outlying Areas,Deaf-blindness,1286,298,21,54,134,11,743,25,1286,65
+2010,U.S. and Outlying Areas,Multiple disabilities,123751,19705,1640,3281,24259,483,72499,1884,123751,3764
+2010,U.S. and Outlying Areas,Autism,370581,58161,2975,19023,49707,1087,231197,8431,370581,20110
+2010,U.S. and Outlying Areas,Traumatic brain injury,24672,3894,366,569,3861,76,15381,525,24672,645
+2010,U.S. and Outlying Areas,Developmental delay,109378,14668,3888,2321,23061,750,61432,3258,109378,3071
+2010,U.S. and Outlying Areas,All disabilities,5834925,1269659,88510,123181,1113714,20261,3102197,117403,5834925,143442
+2010,Alabama,Mental retardation,6121,118,34,27,3061,0,2873,NA,NA,27
+2010,Alabama,Hearing impairments,918,49,8,13,351,0,497,0,918,13
+2010,Alabama,Speech or language impairments,13229,392,77,97,4027,0,8590,46,13229,97
+2010,Alabama,Visual impairments,455,NA,6,NA,149,0,281,NA,455,0
+2010,Alabama,Emotional disturbance,1425,13,6,NA,542,0,854,7,NA,0
+2010,Alabama,Orthopedic impairments,599,16,NA,5,200,0,372,NA,599,5
+2010,Alabama,Other health impairments,7757,120,56,32,2570,0,4957,22,7757,32
+2010,Alabama,Specific learning disabilities,35987,1143,225,99,16718,NA,17729,70,NA,99
+2010,Alabama,Deaf-blindness,9,0,0,0,NA,0,NA,0,9,0
+2010,Alabama,Multiple disabilities,1310,43,5,10,516,NA,734,NA,1310,10
+2010,Alabama,Autism,3985,80,23,47,1177,NA,2648,NA,3985,47
+2010,Alabama,Traumatic brain injury,244,NA,NA,NA,NA,0,NA,NA,244,0
+2010,Alabama,Developmental delay,2755,142,16,19,1079,0,1486,13,2755,19
+2010,Alabama,All disabilities,74794,2129,462,359,30486,5,41169,184,74794,364
+2010,Alaska,Mental retardation,618,39,203,26,39,15,251,45,618,41
+2010,Alaska,Hearing impairments,150,9,47,17,NA,6,66,NA,150,23
+2010,Alaska,Speech or language impairments,2557,146,742,98,78,44,1248,201,2557,142
+2010,Alaska,Visual impairments,40,NA,NA,NA,NA,0,24,NA,40,0
+2010,Alaska,Emotional disturbance,723,37,171,10,52,6,370,77,723,16
+2010,Alaska,Orthopedic impairments,68,NA,13,NA,NA,NA,41,NA,68,NA
+2010,Alaska,Other health impairments,2122,114,518,36,114,22,1153,165,2122,58
+2010,Alaska,Specific learning disabilities,7445,513,2346,228,376,NA,3240,578,NA,228
+2010,Alaska,Deaf-blindness,8,0,NA,0,0,NA,5,0,NA,0
+2010,Alaska,Multiple disabilities,394,18,150,14,13,6,164,29,394,20
+2010,Alaska,Autism,737,54,82,35,NA,NA,491,49,737,35
+2010,Alaska,Traumatic brain injury,43,NA,10,0,6,0,22,NA,43,0
+2010,Alaska,Developmental delay,1039,69,291,45,39,12,475,108,1039,57
+2010,Alaska,All disabilities,15944,1004,4584,515,743,282,7550,1266,15944,797
+2010,American Samoa,Mental retardation,17,NA,0,0,0,17,NA,0,17,17
+2010,American Samoa,Hearing impairments,12,NA,0,0,0,NA,NA,NA,NA,0
+2010,American Samoa,Speech or language impairments,52,0,NA,0,0,NA,0,0,52,0
+2010,American Samoa,Visual impairments,6,NA,0,0,0,NA,NA,NA,NA,0
+2010,American Samoa,Emotional disturbance,0,NA,NA,0,0,0,0,0,0,0
+2010,American Samoa,Orthopedic impairments,0,0,0,0,NA,0,NA,0,0,0
+2010,American Samoa,Other health impairments,NA,0,0,0,0,NA,0,0,NA,0
+2010,American Samoa,Specific learning disabilities,654,0,NA,NA,0,NA,0,0,NA,NA
+2010,American Samoa,Deaf-blindness,NA,0,0,0,0,NA,0,NA,NA,0
+2010,American Samoa,Multiple disabilities,47,NA,0,NA,0,NA,0,0,47,NA
+2010,American Samoa,Autism,NA,NA,0,0,0,NA,0,0,NA,0
+2010,American Samoa,Traumatic brain injury,NA,NA,0,NA,NA,NA,0,0,NA,NA
+2010,American Samoa,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2010,American Samoa,All disabilities,793,0,NA,NA,0,NA,0,0,793,NA
+2010,Arizona,Mental retardation,7617,3477,566,144,666,12,2695,57,7617,156
+2010,Arizona,Hearing impairments,1557,717,95,56,84,NA,598,NA,1557,56
+2010,Arizona,Speech or language impairments,20115,8231,1077,407,973,50,9149,228,20115,457
+2010,Arizona,Visual impairments,549,178,53,17,NA,NA,270,NA,549,17
+2010,Arizona,Emotional disturbance,7928,2019,446,47,906,11,4412,87,7928,58
+2010,Arizona,Orthopedic impairments,713,250,28,16,32,NA,379,NA,713,16
+2010,Arizona,Other health impairments,8433,2177,329,80,654,9,5075,109,8433,89
+2010,Arizona,Specific learning disabilities,53977,25394,4588,470,3715,53,19345,412,53977,523
+2010,Arizona,Deaf-blindness,79,30,5,NA,NA,0,37,0,79,0
+2010,Arizona,Multiple disabilities,1970,782,171,44,123,0,832,18,1970,44
+2010,Arizona,Autism,7095,1888,199,222,438,14,4252,82,7095,236
+2010,Arizona,Traumatic brain injury,323,120,33,NA,23,NA,139,5,323,NA
+2010,Arizona,Developmental delay,704,288,57,12,57,NA,281,NA,704,12
+2010,Arizona,All disabilities,111060,45551,7647,1521,7696,155,47464,1026,111060,1676
+2010,Arkansas,Mental retardation,5872,391,33,23,2290,22,3068,45,5872,45
+2010,Arkansas,Hearing impairments,526,68,NA,8,103,9,330,NA,526,17
+2010,Arkansas,Speech or language impairments,12651,1204,97,136,2572,36,8387,219,12651,172
+2010,Arkansas,Visual impairments,208,12,NA,5,56,0,132,NA,208,5
+2010,Arkansas,Emotional disturbance,757,30,9,NA,147,0,552,17,NA,0
+2010,Arkansas,Orthopedic impairments,198,11,NA,NA,NA,NA,144,NA,198,NA
+2010,Arkansas,Other health impairments,8418,281,63,25,1824,9,6097,119,8418,34
+2010,Arkansas,Specific learning disabilities,19096,1642,157,66,4992,61,11970,208,19096,127
+2010,Arkansas,Deaf-blindness,NA,NA,0,0,NA,0,7,0,NA,0
+2010,Arkansas,Multiple disabilities,1361,104,NA,14,341,NA,886,10,1361,14
+2010,Arkansas,Autism,2602,142,NA,49,355,NA,2000,35,2602,49
+2010,Arkansas,Traumatic brain injury,NA,NA,NA,0,37,0,101,NA,NA,0
+2010,Arkansas,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Arkansas,All disabilities,51847,3894,392,332,12751,143,33674,661,51847,475
+2010,BIE schools,Mental retardation,359,0,NA,0,0,0,NA,0,359,0
+2010,BIE schools,Hearing impairments,40,0,NA,0,0,0,0,0,NA,0
+2010,BIE schools,Speech or language impairments,1204,NA,1185,0,0,0,15,NA,1204,0
+2010,BIE schools,Visual impairments,13,0,NA,0,0,0,0,0,NA,0
+2010,BIE schools,Emotional disturbance,414,0,408,0,0,0,NA,0,NA,0
+2010,BIE schools,Orthopedic impairments,16,0,15,0,0,0,NA,0,NA,0
+2010,BIE schools,Other health impairments,446,0,438,0,NA,0,5,NA,446,0
+2010,BIE schools,Specific learning disabilities,3310,NA,3275,0,0,0,26,NA,3310,0
+2010,BIE schools,Deaf-blindness,0,0,0,0,0,0,0,0,0,0
+2010,BIE schools,Multiple disabilities,151,0,148,0,0,0,NA,0,NA,0
+2010,BIE schools,Autism,110,NA,103,0,0,0,NA,0,NA,0
+2010,BIE schools,Traumatic brain injury,31,0,31,0,0,0,0,0,31,0
+2010,BIE schools,Developmental delay,311,0,308,0,0,0,NA,NA,NA,0
+2010,BIE schools,All disabilities,6405,11,6322,0,NA,0,NA,NA,6405,0
+2010,California,Mental retardation,38011,20778,270,2992,4180,191,8652,948,38011,3183
+2010,California,Hearing impairments,10523,5694,55,1027,674,81,2759,233,10523,1108
+2010,California,Speech or language impairments,118707,59575,951,10304,7437,640,36144,3656,118707,10944
+2010,California,Visual impairments,3561,1576,25,334,335,24,1181,86,3561,358
+2010,California,Emotional disturbance,26318,7785,314,730,5146,113,11429,801,26318,843
+2010,California,Orthopedic impairments,12145,5922,73,963,890,75,3951,271,12145,1038
+2010,California,Other health impairments,53439,19100,502,1916,6890,203,23191,1637,53439,2119
+2010,California,Specific learning disabilities,278186,162784,2552,8531,32500,1217,63740,6862,278186,9748
+2010,California,Deaf-blindness,114,49,0,13,NA,0,43,NA,114,13
+2010,California,Multiple disabilities,4267,1907,25,405,453,25,1345,107,4267,430
+2010,California,Autism,52840,18244,315,7381,4113,207,20852,1728,52840,7588
+2010,California,Traumatic brain injury,1659,826,17,117,NA,10,470,NA,1659,127
+2010,California,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2010,California,All disabilities,599770,304240,5099,34713,62791,2786,173757,16384,599770,37499
+2010,Colorado,Mental retardation,2949,1147,NA,56,335,NA,1292,70,2949,56
+2010,Colorado,Hearing impairments,1351,541,13,51,59,0,656,31,1351,51
+2010,Colorado,Speech or language impairments,13774,4991,179,314,691,33,7198,368,13774,347
+2010,Colorado,Visual impairments,322,NA,0,14,22,0,190,NA,322,14
+2010,Colorado,Emotional disturbance,6815,1532,105,54,716,10,4162,236,6815,64
+2010,Colorado,Orthopedic impairments,9449,2104,92,112,553,9,6331,248,9449,121
+2010,Colorado,Other health impairments,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Colorado,Specific learning disabilities,31142,11958,480,347,2310,40,15327,680,31142,387
+2010,Colorado,Deaf-blindness,25,NA,0,0,NA,0,15,0,25,0
+2010,Colorado,Multiple disabilities,3199,990,NA,81,205,NA,1825,67,3199,81
+2010,Colorado,Autism,3420,587,34,91,172,8,2442,86,3420,99
+2010,Colorado,Traumatic brain injury,467,139,NA,5,NA,0,275,NA,467,5
+2010,Colorado,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Colorado,All disabilities,72913,24085,986,1125,5086,107,39713,1811,72913,1232
+2010,Connecticut,Mental retardation,2427,580,NA,54,483,NA,1274,NA,2427,54
+2010,Connecticut,Hearing impairments,609,154,NA,40,92,0,315,NA,609,40
+2010,Connecticut,Speech or language impairments,10617,2492,48,317,1718,5,5895,142,10617,322
+2010,Connecticut,Visual impairments,170,30,NA,NA,31,0,104,0,170,0
+2010,Connecticut,Emotional disturbance,5317,1264,NA,40,1230,NA,2690,60,5317,40
+2010,Connecticut,Orthopedic impairments,79,17,0,NA,NA,0,55,0,79,0
+2010,Connecticut,Other health impairments,11603,2159,63,139,1678,6,7419,139,11603,145
+2010,Connecticut,Specific learning disabilities,21121,5025,102,218,3529,11,11998,238,21121,229
+2010,Connecticut,Deaf-blindness,26,NA,0,0,NA,0,18,0,26,0
+2010,Connecticut,Multiple disabilities,2604,527,NA,86,421,NA,1522,30,2604,86
+2010,Connecticut,Autism,5539,690,16,219,664,0,3884,66,5539,219
+2010,Connecticut,Traumatic brain injury,122,NA,0,NA,24,0,71,0,122,0
+2010,Connecticut,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Connecticut,All disabilities,60234,12965,292,1121,9880,29,35245,702,60234,1150
+2010,Delaware,Mental retardation,1612,169,8,26,809,0,583,17,1612,26
+2010,Delaware,Hearing impairments,217,36,NA,7,63,0,106,NA,217,7
+2010,Delaware,Speech or language impairments,1414,119,12,27,344,0,885,27,1414,27
+2010,Delaware,Visual impairments,56,7,0,0,18,0,31,0,56,0
+2010,Delaware,Emotional disturbance,709,42,NA,NA,324,0,328,12,NA,0
+2010,Delaware,Orthopedic impairments,295,40,NA,NA,84,0,161,0,295,0
+2010,Delaware,Other health impairments,2097,146,9,18,691,0,1203,30,2097,18
+2010,Delaware,Specific learning disabilities,8755,1103,43,86,3814,0,3607,102,8755,86
+2010,Delaware,Deaf-blindness,49,10,NA,NA,14,0,23,0,49,0
+2010,Delaware,Multiple disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Delaware,Autism,841,47,NA,34,203,0,544,NA,841,34
+2010,Delaware,Traumatic brain injury,50,9,0,NA,16,0,24,0,NA,0
+2010,Delaware,Developmental delay,390,57,NA,6,150,NA,172,NA,390,6
+2010,Delaware,All disabilities,16485,1785,NA,216,6530,NA,7667,205,16485,216
+2010,District of Columbia,Mental retardation,933,55,0,NA,869,0,NA,5,933,0
+2010,District of Columbia,Hearing impairments,42,NA,0,0,32,0,NA,0,NA,0
+2010,District of Columbia,Speech or language impairments,737,117,0,11,559,0,44,6,737,11
+2010,District of Columbia,Visual impairments,18,NA,0,0,13,0,NA,0,NA,0
+2010,District of Columbia,Emotional disturbance,1560,41,NA,NA,1491,NA,NA,NA,1560,NA
+2010,District of Columbia,Orthopedic impairments,16,NA,0,0,15,0,0,0,NA,0
+2010,District of Columbia,Other health impairments,927,57,NA,5,803,0,56,NA,927,5
+2010,District of Columbia,Specific learning disabilities,4658,434,NA,17,4027,NA,161,11,4658,17
+2010,District of Columbia,Deaf-blindness,0,0,0,0,0,0,0,0,0,0
+2010,District of Columbia,Multiple disabilities,1395,66,0,NA,1261,NA,NA,5,1395,NA
+2010,District of Columbia,Autism,423,32,0,NA,319,NA,63,NA,NA,NA
+2010,District of Columbia,Traumatic brain injury,27,NA,0,NA,23,0,0,0,NA,0
+2010,District of Columbia,Developmental delay,254,40,0,NA,202,0,10,NA,254,0
+2010,District of Columbia,All disabilities,10990,857,8,45,9614,7,421,38,10990,52
+2010,Florida,Mental retardation,28120,5793,116,373,11412,20,9820,586,28120,393
+2010,Florida,Hearing impairments,3338,952,NA,83,760,NA,1439,86,3338,83
+2010,Florida,Speech or language impairments,81219,18359,383,1566,18665,74,39526,2646,81219,1640
+2010,Florida,Visual impairments,1100,277,NA,25,239,NA,530,24,1100,25
+2010,Florida,Emotional disturbance,23667,3809,69,55,9578,18,9476,662,23667,73
+2010,Florida,Orthopedic impairments,3254,799,NA,59,666,NA,1644,65,3254,59
+2010,Florida,Other health impairments,24788,5889,106,183,4998,20,12937,655,24788,203
+2010,Florida,Specific learning disabilities,149703,44689,710,1035,36837,116,62652,3664,149703,1151
+2010,Florida,Deaf-blindness,46,14,0,NA,9,0,20,NA,46,0
+2010,Florida,Multiple disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Florida,Autism,16963,4617,61,465,2850,24,8445,501,16963,489
+2010,Florida,Traumatic brain injury,583,118,NA,NA,156,0,281,NA,583,0
+2010,Florida,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Florida,All disabilities,332781,85316,1489,3854,86170,275,146770,8907,332781,4129
+2010,Georgia,Mental retardation,17927,1384,34,235,10039,16,5901,318,17927,251
+2010,Georgia,Hearing impairments,1672,254,NA,59,620,NA,687,48,1672,59
+2010,Georgia,Speech or language impairments,24751,2627,54,554,7976,14,12693,833,24751,568
+2010,Georgia,Visual impairments,700,58,NA,18,264,NA,334,24,700,18
+2010,Georgia,Emotional disturbance,15931,696,47,73,7595,13,6993,514,15931,86
+2010,Georgia,Orthopedic impairments,886,95,NA,22,266,NA,482,16,886,22
+2010,Georgia,Other health impairments,25435,1356,70,190,8683,11,14307,818,25435,201
+2010,Georgia,Specific learning disabilities,53276,7283,154,596,21105,30,22882,1226,53276,626
+2010,Georgia,Deaf-blindness,26,NA,0,NA,8,0,15,0,NA,0
+2010,Georgia,Multiple disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Georgia,Autism,10548,734,20,378,3548,5,5531,332,10548,383
+2010,Georgia,Traumatic brain injury,459,NA,0,NA,179,0,215,15,NA,0
+2010,Georgia,Developmental delay,10022,1289,25,183,3949,7,4241,328,10022,190
+2010,Georgia,All disabilities,161633,15821,412,2316,64232,99,74281,4472,161633,2415
+2010,Guam,Mental retardation,72,0,0,NA,0,56,0,NA,NA,56
+2010,Guam,Hearing impairments,51,0,0,NA,0,39,NA,0,51,39
+2010,Guam,Speech or language impairments,188,NA,NA,NA,NA,133,0,NA,188,133
+2010,Guam,Visual impairments,14,0,0,NA,0,13,0,0,NA,13
+2010,Guam,Emotional disturbance,126,0,NA,NA,NA,114,NA,NA,126,114
+2010,Guam,Orthopedic impairments,28,0,0,NA,0,NA,NA,NA,NA,NA
+2010,Guam,Other health impairments,161,0,0,NA,NA,141,NA,NA,NA,141
+2010,Guam,Specific learning disabilities,1015,NA,NA,108,NA,884,10,8,NA,992
+2010,Guam,Deaf-blindness,NA,0,0,0,0,NA,0,0,NA,0
+2010,Guam,Multiple disabilities,65,0,0,9,0,52,NA,NA,NA,61
+2010,Guam,Autism,116,0,0,44,0,63,NA,NA,116,107
+2010,Guam,Traumatic brain injury,NA,0,0,0,0,NA,0,0,NA,0
+2010,Guam,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Guam,All disabilities,1838,NA,NA,264,6,1517,22,24,1838,1781
+2010,Hawaii,Mental retardation,1182,60,7,332,33,540,116,94,1182,872
+2010,Hawaii,Hearing impairments,309,11,NA,91,NA,146,NA,25,309,237
+2010,Hawaii,Speech or language impairments,544,36,NA,121,NA,179,127,50,544,300
+2010,Hawaii,Visual impairments,NA,NA,0,NA,NA,NA,NA,6,NA,NA
+2010,Hawaii,Emotional disturbance,1236,53,9,195,35,622,216,106,1236,817
+2010,Hawaii,Orthopedic impairments,79,NA,0,20,NA,31,16,9,79,51
+2010,Hawaii,Other health impairments,2648,110,22,474,85,1180,568,209,2648,1654
+2010,Hawaii,Specific learning disabilities,8483,453,71,1843,255,4159,1003,699,8483,6002
+2010,Hawaii,Deaf-blindness,NA,0,0,NA,0,NA,0,0,NA,NA
+2010,Hawaii,Multiple disabilities,471,16,0,169,13,171,64,38,471,340
+2010,Hawaii,Autism,1064,51,9,380,29,237,257,101,1064,617
+2010,Hawaii,Traumatic brain injury,69,NA,0,19,NA,28,13,5,NA,47
+2010,Hawaii,Developmental delay,1167,72,NA,296,NA,524,134,101,1167,820
+2010,Hawaii,All disabilities,17318,870,136,3957,516,7846,2550,1443,17318,11803
+2010,Idaho,Mental retardation,1804,314,29,13,28,9,1383,28,1804,22
+2010,Idaho,Hearing impairments,258,52,NA,11,7,NA,176,6,258,11
+2010,Idaho,Speech or language impairments,5329,685,111,72,64,13,4278,106,5329,85
+2010,Idaho,Visual impairments,NA,17,NA,5,0,0,NA,NA,NA,5
+2010,Idaho,Emotional disturbance,1397,118,39,6,43,NA,1155,32,NA,6
+2010,Idaho,Orthopedic impairments,113,22,0,NA,NA,0,87,NA,113,0
+2010,Idaho,Other health impairments,3142,278,62,12,57,8,2663,62,3142,20
+2010,Idaho,Specific learning disabilities,7690,1404,211,29,113,18,5808,107,7690,47
+2010,Idaho,Deaf-blindness,NA,0,0,0,0,0,NA,0,NA,0
+2010,Idaho,Multiple disabilities,495,53,10,NA,10,0,410,NA,495,0
+2010,Idaho,Autism,1885,148,25,28,16,7,1634,27,1885,35
+2010,Idaho,Traumatic brain injury,122,24,5,NA,NA,NA,88,NA,122,NA
+2010,Idaho,Developmental delay,1453,251,41,NA,12,NA,1105,31,1453,NA
+2010,Idaho,All disabilities,23792,3366,539,193,353,63,18866,412,23792,256
+2010,Illinois,Mental retardation,20455,3778,65,457,7581,24,8209,341,20455,481
+2010,Illinois,Hearing impairments,3558,882,13,135,550,9,1882,87,3558,144
+2010,Illinois,Speech or language impairments,46777,8797,198,1317,6420,62,28632,1351,46777,1379
+2010,Illinois,Visual impairments,1073,202,NA,42,NA,NA,599,28,1073,42
+2010,Illinois,Emotional disturbance,22063,2621,74,204,7287,11,11153,713,22063,215
+2010,Illinois,Orthopedic impairments,1615,338,NA,44,293,NA,903,33,1615,44
+2010,Illinois,Other health impairments,26315,2682,113,305,3658,23,18767,767,26315,328
+2010,Illinois,Specific learning disabilities,116793,28281,528,1227,28773,107,55158,2719,116793,1334
+2010,Illinois,Deaf-blindness,31,NA,0,NA,NA,NA,21,NA,NA,NA
+2010,Illinois,Multiple disabilities,1890,303,NA,63,310,NA,1163,43,1890,63
+2010,Illinois,Autism,14834,2056,58,683,2337,31,9253,416,14834,714
+2010,Illinois,Traumatic brain injury,676,NA,NA,NA,201,NA,316,NA,NA,NA
+2010,Illinois,Developmental delay,10262,2112,31,303,1855,13,5558,390,10262,316
+2010,Illinois,All disabilities,266342,52184,1095,4793,59463,288,141614,6905,266342,5081
+2010,Indiana,Mental retardation,17037,1166,76,98,4129,6,10784,778,17037,104
+2010,Indiana,Hearing impairments,2039,151,NA,53,203,NA,1532,87,2039,53
+2010,Indiana,Speech or language impairments,32009,2307,124,346,2902,13,24809,1508,32009,359
+2010,Indiana,Visual impairments,887,58,NA,NA,114,0,672,30,887,0
+2010,Indiana,Emotional disturbance,13407,362,73,17,2492,6,9602,855,13407,23
+2010,Indiana,Orthopedic impairments,1396,96,NA,NA,120,0,1089,60,1396,0
+2010,Indiana,Other health impairments,13490,466,62,NA,1570,NA,10684,644,13490,NA
+2010,Indiana,Specific learning disabilities,53917,3782,277,172,7377,21,39903,2385,53917,193
+2010,Indiana,Deaf-blindness,25,NA,0,0,NA,0,21,0,NA,0
+2010,Indiana,Multiple disabilities,1886,106,7,13,219,0,1467,74,1886,13
+2010,Indiana,Autism,10773,483,39,139,943,5,8671,493,10773,144
+2010,Indiana,Traumatic brain injury,482,NA,NA,NA,NA,0,348,19,NA,0
+2010,Indiana,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Indiana,All disabilities,147348,9011,678,938,20150,56,109582,6933,147348,994
+2010,Iowa,Mental retardation,10528,951,78,95,940,10,8187,267,10528,105
+2010,Iowa,Hearing impairments,428,39,NA,NA,39,0,332,11,428,0
+2010,Iowa,Speech or language impairments,5266,476,39,48,470,5,4095,133,5266,53
+2010,Iowa,Visual impairments,77,8,NA,NA,8,0,57,NA,77,0
+2010,Iowa,Emotional disturbance,5959,538,44,54,532,6,4634,151,5959,60
+2010,Iowa,Orthopedic impairments,682,62,NA,6,62,NA,529,17,682,6
+2010,Iowa,Other health impairments,77,8,NA,NA,8,0,57,NA,77,0
+2010,Iowa,Specific learning disabilities,36923,3327,271,332,3291,36,28732,934,36923,368
+2010,Iowa,Deaf-blindness,0,0,0,0,0,0,0,0,0,0
+2010,Iowa,Multiple disabilities,336,31,NA,NA,31,0,259,9,336,0
+2010,Iowa,Autism,682,62,NA,6,62,NA,529,17,682,6
+2010,Iowa,Traumatic brain injury,165,15,NA,NA,15,0,128,NA,165,0
+2010,Iowa,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Iowa,All disabilities,61123,5517,451,552,5458,59,47539,1547,61123,611
+2010,Kansas,Mental retardation,3630,529,57,NA,659,NA,2210,121,3630,NA
+2010,Kansas,Hearing impairments,539,98,NA,19,41,0,364,NA,539,19
+2010,Kansas,Speech or language impairments,8902,1124,117,170,460,16,6692,323,8902,186
+2010,Kansas,Visual impairments,169,NA,NA,5,20,NA,109,8,169,5
+2010,Kansas,Emotional disturbance,2777,227,48,NA,430,NA,1917,141,2777,NA
+2010,Kansas,Orthopedic impairments,271,29,NA,5,NA,NA,212,7,271,5
+2010,Kansas,Other health impairments,6976,553,98,33,672,6,5317,297,6976,39
+2010,Kansas,Specific learning disabilities,23235,4140,444,249,2574,29,14985,814,23235,278
+2010,Kansas,Deaf-blindness,18,NA,0,NA,NA,0,13,NA,NA,0
+2010,Kansas,Multiple disabilities,2315,213,41,31,232,0,1708,90,2315,31
+2010,Kansas,Autism,2332,216,NA,69,201,NA,1746,81,2332,69
+2010,Kansas,Traumatic brain injury,188,27,NA,5,19,NA,123,9,NA,5
+2010,Kansas,Developmental delay,4917,723,69,60,442,5,3431,187,4917,65
+2010,Kansas,All disabilities,56269,7902,904,709,5763,72,38827,2092,56269,781
+2010,Kentucky,Mental retardation,15437,287,NA,52,2061,NA,12849,168,15437,52
+2010,Kentucky,Hearing impairments,626,29,NA,NA,59,0,515,11,626,0
+2010,Kentucky,Speech or language impairments,19960,654,35,189,1734,12,17012,324,19960,201
+2010,Kentucky,Visual impairments,479,8,0,NA,38,0,426,NA,479,0
+2010,Kentucky,Emotional disturbance,5080,82,NA,7,1184,NA,3657,142,5080,7
+2010,Kentucky,Orthopedic impairments,457,11,0,NA,43,0,392,NA,457,0
+2010,Kentucky,Other health impairments,14634,241,NA,39,2157,NA,11876,294,14634,39
+2010,Kentucky,Specific learning disabilities,14025,568,37,NA,1724,NA,11445,215,14025,NA
+2010,Kentucky,Deaf-blindness,16,NA,0,0,NA,0,14,0,16,0
+2010,Kentucky,Multiple disabilities,2849,50,NA,16,286,NA,2451,40,2849,16
+2010,Kentucky,Autism,3502,70,6,46,358,0,2972,50,3502,46
+2010,Kentucky,Traumatic brain injury,225,NA,0,NA,NA,0,189,NA,225,0
+2010,Kentucky,Developmental delay,7117,234,NA,44,964,NA,5711,152,7117,44
+2010,Kentucky,All disabilities,84407,2241,141,447,10636,27,69509,1406,84407,474
+2010,Louisiana,Mental retardation,7625,120,54,31,4939,NA,2465,NA,7625,31
+2010,Louisiana,Hearing impairments,1184,54,13,NA,500,0,604,NA,1184,0
+2010,Louisiana,Speech or language impairments,17634,496,159,172,6978,5,9718,106,17634,177
+2010,Louisiana,Visual impairments,450,NA,NA,5,195,0,237,NA,450,5
+2010,Louisiana,Emotional disturbance,1999,29,12,NA,1189,0,753,11,NA,0
+2010,Louisiana,Orthopedic impairments,1091,27,12,7,427,NA,612,NA,1091,7
+2010,Louisiana,Other health impairments,9332,157,46,35,3640,5,5390,59,9332,40
+2010,Louisiana,Specific learning disabilities,23503,473,224,NA,13241,NA,9371,105,23503,NA
+2010,Louisiana,Deaf-blindness,NA,0,0,0,NA,0,NA,0,NA,0
+2010,Louisiana,Multiple disabilities,948,19,9,NA,424,NA,485,NA,948,NA
+2010,Louisiana,Autism,3095,65,NA,50,1207,NA,1744,21,3095,50
+2010,Louisiana,Traumatic brain injury,NA,NA,NA,NA,NA,0,NA,0,NA,0
+2010,Louisiana,Developmental delay,5434,109,42,40,2699,0,2510,34,5434,40
+2010,Louisiana,All disabilities,72516,1561,582,448,35564,18,33980,363,72516,466
+2010,Maine,Mental retardation,710,NA,9,NA,27,0,657,NA,710,0
+2010,Maine,Hearing impairments,198,7,NA,NA,9,0,177,0,198,0
+2010,Maine,Speech or language impairments,4805,100,63,69,118,NA,4397,NA,4805,69
+2010,Maine,Visual impairments,64,NA,0,NA,NA,0,61,0,NA,0
+2010,Maine,Emotional disturbance,2512,53,45,14,80,0,2304,16,2512,14
+2010,Maine,Orthopedic impairments,49,NA,0,0,NA,0,NA,NA,49,0
+2010,Maine,Other health impairments,5621,101,56,NA,166,NA,5214,44,5621,NA
+2010,Maine,Specific learning disabilities,9324,160,134,59,233,NA,8677,NA,9324,59
+2010,Maine,Deaf-blindness,NA,0,0,NA,0,0,NA,0,NA,0
+2010,Maine,Multiple disabilities,2801,48,34,NA,83,NA,2589,23,2801,NA
+2010,Maine,Autism,2241,33,20,NA,43,NA,2106,20,2241,NA
+2010,Maine,Traumatic brain injury,60,0,0,0,NA,0,54,NA,NA,0
+2010,Maine,Developmental delay,NA,NA,NA,NA,NA,0,42,0,NA,0
+2010,Maine,All disabilities,28437,515,367,227,767,14,26323,224,28437,241
+2010,Maryland,Mental retardation,5233,425,NA,145,2902,NA,1660,87,5233,145
+2010,Maryland,Hearing impairments,1017,100,NA,73,301,NA,519,20,1017,73
+2010,Maryland,Speech or language impairments,15059,1794,50,634,4981,12,7104,484,15059,646
+2010,Maryland,Visual impairments,303,32,0,22,NA,0,125,NA,303,22
+2010,Maryland,Emotional disturbance,7591,303,39,52,4437,NA,2602,153,NA,52
+2010,Maryland,Orthopedic impairments,315,39,NA,11,140,0,116,NA,315,11
+2010,Maryland,Other health impairments,15609,1118,67,233,6855,12,6896,428,15609,245
+2010,Maryland,Specific learning disabilities,32560,4343,140,480,14992,24,11862,719,32560,504
+2010,Maryland,Deaf-blindness,17,NA,0,0,NA,0,12,NA,NA,0
+2010,Maryland,Multiple disabilities,3124,227,NA,88,1203,NA,1501,91,3124,88
+2010,Maryland,Autism,8053,540,NA,460,2637,NA,4135,252,8053,460
+2010,Maryland,Traumatic brain injury,252,NA,NA,7,122,0,98,NA,NA,7
+2010,Maryland,Developmental delay,1482,246,7,68,710,0,400,51,1482,68
+2010,Maryland,All disabilities,90615,9189,360,2273,39399,61,37030,2303,90615,2334
+2010,Massachusetts,Mental retardation,10343,3313,46,265,1708,20,4819,172,10343,285
+2010,Massachusetts,Hearing impairments,1058,198,NA,68,105,NA,665,14,1058,68
+2010,Massachusetts,Speech or language impairments,24931,5144,71,1133,2306,14,15703,560,24931,1147
+2010,Massachusetts,Visual impairments,528,72,NA,31,57,0,357,NA,528,31
+2010,Massachusetts,Emotional disturbance,13863,2874,52,180,1907,21,8397,432,13863,201
+2010,Massachusetts,Orthopedic impairments,1257,188,NA,30,108,NA,892,35,1257,30
+2010,Massachusetts,Other health impairments,13838,1824,43,151,903,11,10602,304,13838,162
+2010,Massachusetts,Specific learning disabilities,52211,10302,179,887,5780,52,33915,1096,52211,939
+2010,Massachusetts,Deaf-blindness,161,39,NA,7,23,0,90,NA,161,7
+2010,Massachusetts,Multiple disabilities,4572,661,14,112,343,16,3331,95,4572,128
+2010,Massachusetts,Autism,9932,890,15,424,638,23,7720,222,9932,447
+2010,Massachusetts,Traumatic brain injury,7249,713,17,161,481,9,5720,148,7249,170
+2010,Massachusetts,Developmental delay,10921,2132,28,308,1035,12,7071,335,10921,320
+2010,Massachusetts,All disabilities,150864,28350,473,3757,15394,184,99282,3424,150864,3941
+2010,Michigan,Mental retardation,19946,965,175,236,6594,21,11708,247,19946,257
+2010,Michigan,Hearing impairments,2672,203,NA,80,496,NA,1845,32,2672,80
+2010,Michigan,Speech or language impairments,40500,2280,366,871,6494,41,29771,677,40500,912
+2010,Michigan,Visual impairments,765,NA,NA,21,NA,0,546,NA,765,21
+2010,Michigan,Emotional disturbance,13836,489,149,77,3139,9,9714,259,13836,86
+2010,Michigan,Orthopedic impairments,2179,99,NA,40,369,NA,1629,23,2179,40
+2010,Michigan,Other health impairments,19352,757,207,175,3108,14,14766,325,19352,189
+2010,Michigan,Specific learning disabilities,77657,5026,885,566,18930,70,51034,1146,77657,636
+2010,Michigan,Deaf-blindness,10,NA,0,NA,NA,0,6,0,NA,0
+2010,Michigan,Multiple disabilities,2861,163,NA,55,627,NA,1971,28,2861,55
+2010,Michigan,Autism,13636,447,106,311,1938,9,10661,164,13636,320
+2010,Michigan,Traumatic brain injury,590,41,NA,NA,147,NA,375,NA,NA,NA
+2010,Michigan,Developmental delay,1770,135,NA,46,397,NA,1137,35,1770,46
+2010,Michigan,All disabilities,195774,10646,1962,2487,42382,173,135163,2961,195774,2660
+2010,Minnesota,Mental retardation,8442,575,308,339,1326,9,5761,124,8442,348
+2010,Minnesota,Hearing impairments,2030,205,NA,230,184,NA,1358,27,2030,230
+2010,Minnesota,Speech or language impairments,16255,1219,407,958,1207,9,12167,288,16255,967
+2010,Minnesota,Visual impairments,332,22,NA,22,NA,0,243,NA,332,22
+2010,Minnesota,Emotional disturbance,15564,864,870,176,3326,16,9815,497,15564,192
+2010,Minnesota,Orthopedic impairments,1523,90,30,74,118,NA,1191,NA,1523,74
+2010,Minnesota,Other health impairments,15996,813,488,239,1768,10,12351,327,15996,249
+2010,Minnesota,Specific learning disabilities,30532,3735,1053,1444,4488,18,19286,508,30532,1462
+2010,Minnesota,Deaf-blindness,60,7,NA,NA,NA,0,40,NA,60,0
+2010,Minnesota,Multiple disabilities,1146,87,28,55,143,NA,822,NA,1146,55
+2010,Minnesota,Autism,13091,521,188,525,888,8,10755,206,13091,533
+2010,Minnesota,Traumatic brain injury,404,24,15,18,53,0,284,10,404,18
+2010,Minnesota,Developmental delay,2399,297,88,NA,291,NA,1555,95,2399,NA
+2010,Minnesota,All disabilities,107774,8459,3514,4155,13828,77,75628,2113,107774,4232
+2010,Mississippi,Mental retardation,3806,40,NA,16,2644,0,1097,6,NA,16
+2010,Mississippi,Hearing impairments,652,18,NA,8,314,0,309,NA,652,8
+2010,Mississippi,Speech or language impairments,16084,271,24,90,5975,6,9642,76,16084,96
+2010,Mississippi,Visual impairments,304,5,NA,NA,165,0,131,NA,304,0
+2010,Mississippi,Emotional disturbance,2631,31,7,5,1424,0,1149,15,2631,5
+2010,Mississippi,Orthopedic impairments,465,9,NA,NA,202,0,249,0,465,0
+2010,Mississippi,Other health impairments,6578,80,19,NA,3523,NA,2925,17,6578,NA
+2010,Mississippi,Specific learning disabilities,16932,295,37,NA,9515,NA,7010,43,16932,NA
+2010,Mississippi,Deaf-blindness,12,NA,0,0,NA,0,9,0,NA,0
+2010,Mississippi,Multiple disabilities,852,14,NA,7,431,0,395,NA,852,7
+2010,Mississippi,Autism,2180,40,NA,29,828,0,1274,NA,2180,29
+2010,Mississippi,Traumatic brain injury,153,NA,0,NA,NA,0,79,NA,153,0
+2010,Mississippi,Developmental delay,3198,67,NA,18,1754,NA,1332,19,3198,18
+2010,Mississippi,All disabilities,53847,873,111,222,26847,10,25601,183,53847,232
+2010,Missouri,Mental retardation,10212,339,49,94,3072,9,6555,94,10212,103
+2010,Missouri,Hearing impairments,1152,44,NA,34,183,NA,873,14,1152,34
+2010,Missouri,Speech or language impairments,29588,1101,139,438,4326,17,23186,381,29588,455
+2010,Missouri,Visual impairments,453,21,NA,6,NA,NA,342,14,453,6
+2010,Missouri,Emotional disturbance,6703,137,41,27,1933,0,4468,97,6703,27
+2010,Missouri,Orthopedic impairments,525,21,NA,12,80,NA,405,5,525,12
+2010,Missouri,Other health impairments,18613,415,114,99,3070,6,14680,229,18613,105
+2010,Missouri,Specific learning disabilities,34552,1298,222,201,7614,23,24812,382,34552,224
+2010,Missouri,Deaf-blindness,24,0,NA,NA,NA,0,19,0,NA,0
+2010,Missouri,Multiple disabilities,1464,44,6,26,343,0,1026,19,1464,26
+2010,Missouri,Autism,6894,198,NA,150,1014,NA,5403,91,6894,150
+2010,Missouri,Traumatic brain injury,444,13,NA,NA,92,NA,325,8,NA,NA
+2010,Missouri,Developmental delay,649,35,NA,7,142,NA,452,8,649,7
+2010,Missouri,All disabilities,111273,3666,620,1097,21939,63,82546,1342,111273,1160
+2010,Montana,Mental retardation,960,31,183,NA,11,NA,715,9,960,NA
+2010,Montana,Hearing impairments,134,5,13,NA,NA,0,111,NA,134,0
+2010,Montana,Speech or language impairments,3301,92,507,38,28,14,2606,16,3301,52
+2010,Montana,Visual impairments,57,NA,10,NA,0,0,44,NA,57,0
+2010,Montana,Emotional disturbance,937,40,130,NA,NA,NA,728,14,NA,NA
+2010,Montana,Orthopedic impairments,59,NA,7,0,0,0,51,0,NA,0
+2010,Montana,Other health impairments,1742,65,168,6,29,5,1452,17,1742,11
+2010,Montana,Specific learning disabilities,6751,242,1168,30,77,17,5176,41,6751,47
+2010,Montana,Deaf-blindness,NA,0,0,0,NA,0,NA,0,NA,0
+2010,Montana,Multiple disabilities,553,18,62,NA,5,NA,459,NA,553,NA
+2010,Montana,Autism,552,14,39,NA,10,NA,474,8,552,NA
+2010,Montana,Traumatic brain injury,NA,NA,8,NA,NA,0,NA,0,NA,0
+2010,Montana,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Montana,All disabilities,15105,511,2295,96,184,47,11861,111,15105,143
+2010,Nebraska,Mental retardation,3884,611,91,NA,429,NA,2626,95,3884,NA
+2010,Nebraska,Hearing impairments,580,91,NA,12,39,NA,412,17,580,12
+2010,Nebraska,Speech or language impairments,9509,1363,145,157,596,7,7017,224,9509,164
+2010,Nebraska,Visual impairments,195,17,NA,9,5,0,157,NA,195,9
+2010,Nebraska,Emotional disturbance,1930,155,78,NA,330,NA,1246,104,1930,NA
+2010,Nebraska,Orthopedic impairments,262,27,6,7,13,0,202,7,262,7
+2010,Nebraska,Other health impairments,5377,478,102,39,467,8,4076,207,5377,47
+2010,Nebraska,Specific learning disabilities,13783,2586,377,119,1284,11,8935,471,13783,130
+2010,Nebraska,Deaf-blindness,11,0,0,0,0,0,11,0,11,0
+2010,Nebraska,Multiple disabilities,396,49,13,6,31,0,287,10,396,6
+2010,Nebraska,Autism,1867,179,NA,45,97,NA,1472,50,1867,45
+2010,Nebraska,Traumatic brain injury,204,25,NA,NA,12,0,155,NA,204,0
+2010,Nebraska,Developmental delay,1251,193,45,NA,31,NA,923,42,1251,NA
+2010,Nebraska,All disabilities,39249,5774,897,454,3334,37,27519,1234,39249,491
+2010,Nevada,Mental retardation,1936,760,43,101,323,9,661,39,1936,110
+2010,Nevada,Hearing impairments,477,187,10,40,41,8,178,13,477,48
+2010,Nevada,Speech or language impairments,6324,1930,145,249,552,40,3186,222,6324,289
+2010,Nevada,Visual impairments,146,52,NA,9,17,0,61,NA,146,9
+2010,Nevada,Emotional disturbance,1950,307,37,18,424,NA,1092,66,NA,18
+2010,Nevada,Orthopedic impairments,295,95,NA,9,30,NA,154,NA,295,9
+2010,Nevada,Other health impairments,3421,685,66,49,497,14,2010,100,3421,63
+2010,Nevada,Specific learning disabilities,22423,8846,549,462,3789,135,8145,497,22423,597
+2010,Nevada,Deaf-blindness,7,0,NA,0,0,0,5,NA,NA,0
+2010,Nevada,Multiple disabilities,999,316,5,64,150,11,423,30,999,75
+2010,Nevada,Autism,3036,738,31,218,306,13,1630,100,3036,231
+2010,Nevada,Traumatic brain injury,187,75,5,6,31,NA,65,NA,187,6
+2010,Nevada,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Nevada,All disabilities,41201,13991,897,1225,6160,239,17610,1079,41201,1464
+2010,New Hampshire,Mental retardation,820,36,NA,9,31,NA,739,0,NA,9
+2010,New Hampshire,Hearing impairments,215,14,0,NA,NA,0,194,NA,215,0
+2010,New Hampshire,Speech or language impairments,3981,126,11,65,81,NA,3692,NA,3981,65
+2010,New Hampshire,Visual impairments,91,NA,0,NA,NA,0,86,0,91,0
+2010,New Hampshire,Emotional disturbance,2288,59,NA,6,61,0,2157,NA,2288,6
+2010,New Hampshire,Orthopedic impairments,88,NA,0,NA,0,NA,84,0,88,NA
+2010,New Hampshire,Other health impairments,4852,133,6,22,115,NA,4570,NA,4852,22
+2010,New Hampshire,Specific learning disabilities,11266,425,39,63,264,NA,10465,5,NA,63
+2010,New Hampshire,Deaf-blindness,5,0,0,0,0,0,NA,0,NA,0
+2010,New Hampshire,Multiple disabilities,370,13,0,NA,NA,0,346,0,370,0
+2010,New Hampshire,Autism,1513,28,NA,20,19,NA,1436,NA,1513,20
+2010,New Hampshire,Traumatic brain injury,54,NA,0,0,NA,0,NA,0,NA,0
+2010,New Hampshire,Developmental delay,1242,42,0,16,44,NA,1138,NA,1242,16
+2010,New Hampshire,All disabilities,26785,881,67,212,628,NA,24962,NA,26785,212
+2010,New Jersey,Mental retardation,5347,1632,21,224,1811,NA,1634,NA,5347,224
+2010,New Jersey,Hearing impairments,1491,365,5,104,206,6,797,8,1491,110
+2010,New Jersey,Speech or language impairments,45778,9088,66,2810,5993,102,27434,285,45778,2912
+2010,New Jersey,Visual impairments,383,76,NA,NA,NA,0,228,NA,NA,0
+2010,New Jersey,Emotional disturbance,9054,1543,16,148,3044,16,4234,53,9054,164
+2010,New Jersey,Orthopedic impairments,486,NA,NA,29,55,NA,330,NA,486,29
+2010,New Jersey,Other health impairments,34208,5227,41,793,5568,37,22372,170,34208,830
+2010,New Jersey,Specific learning disabilities,84769,18489,107,1856,16970,60,46906,381,84769,1916
+2010,New Jersey,Deaf-blindness,12,NA,0,NA,NA,0,6,0,NA,0
+2010,New Jersey,Multiple disabilities,20299,3882,29,628,5849,23,9775,113,20299,651
+2010,New Jersey,Autism,12257,1753,18,1081,1699,26,7613,67,12257,1107
+2010,New Jersey,Traumatic brain injury,845,169,NA,39,252,0,376,NA,845,39
+2010,New Jersey,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2010,New Jersey,All disabilities,214929,42294,307,7742,41495,276,121705,1110,214929,8018
+2010,New Mexico,Mental retardation,1859,1120,235,20,62,NA,404,NA,1859,20
+2010,New Mexico,Hearing impairments,527,306,65,8,18,0,125,5,527,8
+2010,New Mexico,Speech or language impairments,10012,6017,1024,83,198,6,2575,109,10012,89
+2010,New Mexico,Visual impairments,191,NA,26,NA,NA,0,NA,NA,191,0
+2010,New Mexico,Emotional disturbance,2140,1088,222,NA,86,0,704,32,NA,0
+2010,New Mexico,Orthopedic impairments,260,152,16,NA,6,0,77,NA,260,0
+2010,New Mexico,Other health impairments,3313,1701,245,NA,84,NA,1228,40,3313,NA
+2010,New Mexico,Specific learning disabilities,17939,11152,2268,NA,485,NA,3796,171,17939,NA
+2010,New Mexico,Deaf-blindness,5,NA,0,0,0,0,NA,0,NA,0
+2010,New Mexico,Multiple disabilities,865,472,127,10,10,NA,239,NA,865,10
+2010,New Mexico,Autism,1408,604,72,21,36,0,640,35,1408,21
+2010,New Mexico,Traumatic brain injury,190,108,27,NA,NA,0,49,NA,190,0
+2010,New Mexico,Developmental delay,2695,1422,511,21,56,0,662,23,2695,21
+2010,New Mexico,All disabilities,41404,24252,4838,256,1049,11,10549,449,41404,267
+2010,New York,Mental retardation,11960,3236,97,550,3738,8,4286,45,11960,558
+2010,New York,Hearing impairments,4223,1191,19,373,722,7,1896,15,4223,380
+2010,New York,Speech or language impairments,84018,29983,536,4078,18012,58,30958,393,84018,4136
+2010,New York,Visual impairments,1268,268,NA,67,235,NA,NA,NA,1268,67
+2010,New York,Emotional disturbance,31971,7500,236,437,12738,19,10835,206,31971,456
+2010,New York,Orthopedic impairments,1903,401,20,111,409,NA,959,NA,1903,111
+2010,New York,Other health impairments,56921,7588,290,1018,8816,28,38800,381,56921,1046
+2010,New York,Specific learning disabilities,157090,42599,1104,4393,37621,79,70711,583,157090,4472
+2010,New York,Deaf-blindness,9,NA,0,0,0,0,NA,0,9,0
+2010,New York,Multiple disabilities,18010,3070,97,630,3631,20,10497,65,18010,650
+2010,New York,Autism,21095,3493,133,997,3816,47,12497,112,21095,1044
+2010,New York,Traumatic brain injury,1151,NA,NA,49,222,NA,694,5,1151,49
+2010,New York,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2010,New York,All disabilities,389619,99506,2546,12703,89960,272,182820,1812,389619,12975
+2010,North Carolina,Mental retardation,19026,1487,631,166,9506,15,6842,379,19026,181
+2010,North Carolina,Hearing impairments,1964,306,NA,42,580,NA,945,56,1964,42
+2010,North Carolina,Speech or language impairments,23083,2164,592,337,5598,16,13674,702,23083,353
+2010,North Carolina,Visual impairments,618,65,NA,NA,194,0,325,18,618,0
+2010,North Carolina,Emotional disturbance,6688,231,73,13,3400,NA,2702,266,NA,13
+2010,North Carolina,Orthopedic impairments,879,76,11,14,187,0,571,20,879,14
+2010,North Carolina,Other health impairments,30541,1370,402,138,9515,15,18010,1091,30541,153
+2010,North Carolina,Specific learning disabilities,64680,8260,1271,513,21240,39,31484,1873,64680,552
+2010,North Carolina,Deaf-blindness,34,5,0,0,NA,0,23,NA,NA,0
+2010,North Carolina,Multiple disabilities,2188,205,32,NA,660,NA,1214,43,2188,NA
+2010,North Carolina,Autism,10717,701,62,236,2811,7,6553,347,10717,243
+2010,North Carolina,Traumatic brain injury,421,37,0,NA,NA,0,211,NA,421,0
+2010,North Carolina,Developmental delay,5835,786,70,85,2061,7,2629,197,5835,92
+2010,North Carolina,All disabilities,166674,15693,3181,1590,55909,108,85183,5010,166674,1698
+2010,North Dakota,Mental retardation,757,19,92,7,27,NA,605,NA,757,7
+2010,North Dakota,Hearing impairments,101,5,12,NA,NA,0,81,NA,101,0
+2010,North Dakota,Speech or language impairments,2518,83,325,23,65,12,1980,30,2518,35
+2010,North Dakota,Visual impairments,50,NA,NA,0,0,0,43,0,50,0
+2010,North Dakota,Emotional disturbance,836,22,109,NA,39,0,656,NA,836,0
+2010,North Dakota,Orthopedic impairments,86,NA,NA,0,0,0,82,0,86,0
+2010,North Dakota,Other health impairments,1609,43,118,NA,38,NA,1388,14,1609,NA
+2010,North Dakota,Specific learning disabilities,4142,150,459,15,92,NA,3388,32,NA,15
+2010,North Dakota,Deaf-blindness,5,0,0,0,0,0,5,0,5,0
+2010,North Dakota,Multiple disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2010,North Dakota,Autism,590,13,27,NA,14,0,528,NA,NA,0
+2010,North Dakota,Traumatic brain injury,55,NA,8,NA,NA,0,42,NA,NA,0
+2010,North Dakota,Developmental delay,707,22,137,NA,22,NA,510,7,707,NA
+2010,North Dakota,All disabilities,11456,362,1295,62,299,28,9308,102,11456,90
+2010,Northern Marianas,Mental retardation,68,NA,0,NA,0,47,0,NA,NA,47
+2010,Northern Marianas,Hearing impairments,19,0,0,NA,0,NA,0,NA,19,NA
+2010,Northern Marianas,Speech or language impairments,43,0,0,NA,0,NA,0,NA,43,NA
+2010,Northern Marianas,Visual impairments,6,0,0,NA,0,NA,0,NA,NA,NA
+2010,Northern Marianas,Emotional disturbance,9,0,0,NA,0,6,NA,NA,9,6
+2010,Northern Marianas,Orthopedic impairments,NA,0,0,NA,0,NA,0,NA,NA,NA
+2010,Northern Marianas,Other health impairments,NA,0,0,NA,0,NA,NA,NA,NA,NA
+2010,Northern Marianas,Specific learning disabilities,NA,0,0,NA,0,336,NA,82,NA,336
+2010,Northern Marianas,Deaf-blindness,NA,0,0,0,0,0,0,NA,NA,0
+2010,Northern Marianas,Multiple disabilities,27,0,0,NA,0,NA,NA,NA,NA,NA
+2010,Northern Marianas,Autism,63,0,0,22,0,NA,0,NA,63,22
+2010,Northern Marianas,Traumatic brain injury,NA,0,0,0,0,NA,0,0,NA,0
+2010,Northern Marianas,Developmental delay,46,NA,0,NA,0,18,NA,14,46,18
+2010,Northern Marianas,All disabilities,840,0,0,140,0,530,8,162,840,670
+2010,Ohio,Mental retardation,26416,722,NA,100,7629,NA,16914,996,26416,100
+2010,Ohio,Hearing impairments,2255,99,NA,34,348,NA,1685,82,2255,34
+2010,Ohio,Speech or language impairments,29346,904,46,321,3608,7,23233,1227,29346,328
+2010,Ohio,Visual impairments,969,NA,0,27,NA,0,767,NA,969,27
+2010,Ohio,Emotional disturbance,16483,374,32,36,5174,7,9943,917,16483,43
+2010,Ohio,Orthopedic impairments,1684,48,NA,NA,253,0,1292,63,1684,0
+2010,Ohio,Other health impairments,29947,820,NA,153,4645,NA,22940,1330,29947,153
+2010,Ohio,Specific learning disabilities,100061,3415,180,425,18649,19,73438,3935,100061,444
+2010,Ohio,Deaf-blindness,42,NA,NA,0,NA,0,32,NA,42,0
+2010,Ohio,Multiple disabilities,13398,381,17,108,2607,5,9830,450,13398,113
+2010,Ohio,Autism,15068,354,NA,219,1749,NA,12177,542,15068,219
+2010,Ohio,Traumatic brain injury,1331,33,NA,NA,251,NA,992,42,1331,NA
+2010,Ohio,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Ohio,All disabilities,237000,7182,417,1459,45033,50,173243,9616,237000,1509
+2010,Oklahoma,Mental retardation,5387,529,901,55,997,0,2716,189,5387,55
+2010,Oklahoma,Hearing impairments,965,107,133,21,101,0,574,29,965,21
+2010,Oklahoma,Speech or language impairments,9807,856,1852,145,816,9,5894,235,9807,154
+2010,Oklahoma,Visual impairments,442,NA,66,NA,26,0,298,15,442,0
+2010,Oklahoma,Emotional disturbance,4489,193,714,16,719,5,2707,135,4489,21
+2010,Oklahoma,Orthopedic impairments,429,49,NA,NA,46,0,265,NA,429,0
+2010,Oklahoma,Other health impairments,11347,571,1883,NA,1140,NA,7338,340,11347,NA
+2010,Oklahoma,Specific learning disabilities,40633,4439,7654,229,5509,28,21770,1004,40633,257
+2010,Oklahoma,Deaf-blindness,17,NA,NA,0,0,0,13,NA,NA,0
+2010,Oklahoma,Multiple disabilities,1514,117,254,NA,154,NA,934,40,1514,NA
+2010,Oklahoma,Autism,2898,170,389,NA,246,NA,1955,72,2898,NA
+2010,Oklahoma,Traumatic brain injury,271,27,60,NA,32,0,141,9,NA,0
+2010,Oklahoma,Developmental delay,10753,904,1729,119,933,14,6596,458,10753,133
+2010,Oklahoma,All disabilities,88952,7989,15691,750,10719,62,51201,2540,88952,812
+2010,Oregon,Mental retardation,3926,743,106,81,180,13,2682,121,3926,94
+2010,Oregon,Hearing impairments,827,206,18,52,40,12,482,17,827,64
+2010,Oregon,Speech or language impairments,16354,3582,377,580,515,93,10654,553,16354,673
+2010,Oregon,Visual impairments,312,65,NA,8,13,NA,207,8,312,8
+2010,Oregon,Emotional disturbance,4638,468,152,41,324,15,3418,220,4638,56
+2010,Oregon,Orthopedic impairments,718,123,NA,28,21,NA,511,17,718,28
+2010,Oregon,Other health impairments,9954,1216,230,130,503,35,7452,388,9954,165
+2010,Oregon,Specific learning disabilities,27293,6561,733,334,1025,NA,17739,801,NA,334
+2010,Oregon,Deaf-blindness,8,NA,0,NA,0,0,NA,0,NA,0
+2010,Oregon,Multiple disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Oregon,Autism,7357,812,126,275,164,22,5664,294,7357,297
+2010,Oregon,Traumatic brain injury,271,NA,7,NA,10,NA,NA,8,271,NA
+2010,Oregon,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Oregon,All disabilities,71658,13828,1770,1535,2795,299,49004,2427,71658,1834
+2010,Pennsylvania,Mental retardation,20334,1652,29,274,5117,5,13185,72,20334,279
+2010,Pennsylvania,Hearing impairments,2635,217,6,80,382,0,1942,8,2635,80
+2010,Pennsylvania,Speech or language impairments,39652,2043,78,790,4609,9,31923,200,39652,799
+2010,Pennsylvania,Visual impairments,1047,64,5,25,164,0,779,10,1047,25
+2010,Pennsylvania,Emotional disturbance,23778,1743,NA,110,6427,NA,15257,176,23778,110
+2010,Pennsylvania,Orthopedic impairments,786,75,0,14,178,NA,517,NA,786,14
+2010,Pennsylvania,Other health impairments,24081,1668,NA,221,3479,NA,18536,134,24081,221
+2010,Pennsylvania,Specific learning disabilities,130105,12376,207,1179,25516,16,90267,544,130105,1195
+2010,Pennsylvania,Deaf-blindness,63,NA,0,NA,11,NA,45,0,63,NA
+2010,Pennsylvania,Multiple disabilities,2821,243,12,61,465,NA,2032,NA,2821,61
+2010,Pennsylvania,Autism,17973,876,37,459,2297,9,14212,83,17973,468
+2010,Pennsylvania,Traumatic brain injury,671,34,NA,NA,100,0,529,0,671,0
+2010,Pennsylvania,Developmental delay,62,NA,0,NA,18,0,37,0,62,0
+2010,Pennsylvania,All disabilities,264008,20998,479,3225,48763,47,189261,1235,264008,3272
+2010,Puerto Rico,Mental retardation,9365,9341,10,NA,NA,NA,NA,NA,9365,NA
+2010,Puerto Rico,Hearing impairments,787,785,NA,0,NA,NA,0,NA,787,0
+2010,Puerto Rico,Speech or language impairments,24884,24845,17,NA,NA,NA,9,NA,24884,NA
+2010,Puerto Rico,Visual impairments,644,641,0,0,NA,NA,NA,NA,644,0
+2010,Puerto Rico,Emotional disturbance,1462,1459,0,NA,NA,NA,0,NA,1462,NA
+2010,Puerto Rico,Orthopedic impairments,443,NA,NA,0,0,NA,0,NA,443,0
+2010,Puerto Rico,Other health impairments,9250,9230,NA,9,NA,NA,8,NA,9250,9
+2010,Puerto Rico,Specific learning disabilities,62498,62369,34,40,21,NA,34,NA,62498,40
+2010,Puerto Rico,Deaf-blindness,44,NA,0,0,0,NA,0,NA,NA,0
+2010,Puerto Rico,Multiple disabilities,1204,1202,0,NA,NA,NA,0,NA,1204,NA
+2010,Puerto Rico,Autism,1976,1968,NA,NA,NA,NA,NA,NA,1976,NA
+2010,Puerto Rico,Traumatic brain injury,51,NA,0,0,0,NA,0,NA,NA,0
+2010,Puerto Rico,Developmental delay,0,NA,0,0,0,NA,0,NA,NA,0
+2010,Puerto Rico,All disabilities,112608,112377,68,65,NA,0,NA,0,112608,65
+2010,Rhode Island,Mental retardation,885,243,NA,18,103,NA,484,27,885,18
+2010,Rhode Island,Hearing impairments,148,40,NA,5,10,0,90,NA,148,5
+2010,Rhode Island,Speech or language impairments,3216,693,NA,71,247,NA,2095,84,3216,71
+2010,Rhode Island,Visual impairments,64,11,NA,5,NA,0,NA,NA,64,5
+2010,Rhode Island,Emotional disturbance,2239,435,46,16,352,5,1330,55,2239,21
+2010,Rhode Island,Orthopedic impairments,75,NA,NA,NA,7,0,56,0,75,0
+2010,Rhode Island,Other health impairments,3576,486,33,NA,256,NA,2703,73,3576,NA
+2010,Rhode Island,Specific learning disabilities,9111,2397,106,124,999,5,5273,207,9111,129
+2010,Rhode Island,Deaf-blindness,5,NA,0,0,NA,0,NA,0,NA,0
+2010,Rhode Island,Multiple disabilities,325,59,6,8,13,0,234,5,325,8
+2010,Rhode Island,Autism,1606,154,NA,33,88,NA,1287,31,1606,33
+2010,Rhode Island,Traumatic brain injury,64,14,NA,NA,NA,NA,42,0,NA,NA
+2010,Rhode Island,Developmental delay,1073,281,NA,17,93,NA,633,35,1073,17
+2010,Rhode Island,All disabilities,22387,4821,254,325,2176,20,14272,519,22387,345
+2010,South Carolina,Mental retardation,7922,228,NA,55,4991,NA,2539,86,7922,55
+2010,South Carolina,Hearing impairments,1041,65,NA,24,431,0,500,NA,1041,24
+2010,South Carolina,Speech or language impairments,16109,791,39,147,5424,16,9282,410,16109,163
+2010,South Carolina,Visual impairments,390,19,0,NA,125,0,231,NA,390,0
+2010,South Carolina,Emotional disturbance,3260,62,12,NA,1738,NA,1347,95,NA,NA
+2010,South Carolina,Orthopedic impairments,624,26,NA,NA,205,0,374,9,624,0
+2010,South Carolina,Other health impairments,9872,223,NA,31,3403,NA,5984,207,9872,31
+2010,South Carolina,Specific learning disabilities,42419,2186,168,133,19016,14,20117,785,42419,147
+2010,South Carolina,Deaf-blindness,NA,0,0,0,0,0,NA,0,NA,0
+2010,South Carolina,Multiple disabilities,600,37,NA,NA,168,NA,377,10,600,NA
+2010,South Carolina,Autism,3317,134,NA,50,1200,NA,1862,64,3317,50
+2010,South Carolina,Traumatic brain injury,NA,7,NA,0,75,0,NA,NA,NA,0
+2010,South Carolina,Developmental delay,3473,203,NA,26,1736,NA,1406,95,3473,26
+2010,South Carolina,All disabilities,89206,3981,284,492,38512,39,44111,1787,89206,531
+2010,South Dakota,Mental retardation,1371,61,257,16,63,NA,958,NA,1371,16
+2010,South Dakota,Hearing impairments,121,12,22,NA,NA,0,80,NA,121,0
+2010,South Dakota,Speech or language impairments,3420,118,506,NA,54,NA,2657,43,3420,NA
+2010,South Dakota,Visual impairments,NA,NA,7,0,NA,0,29,0,NA,0
+2010,South Dakota,Emotional disturbance,1099,31,175,NA,49,NA,830,10,NA,NA
+2010,South Dakota,Orthopedic impairments,68,NA,6,0,NA,0,56,NA,68,0
+2010,South Dakota,Other health impairments,1755,54,240,NA,75,NA,1348,24,1755,NA
+2010,South Dakota,Specific learning disabilities,6170,280,1275,NA,149,NA,4367,60,6170,NA
+2010,South Dakota,Deaf-blindness,NA,NA,0,0,0,0,0,0,NA,0
+2010,South Dakota,Multiple disabilities,545,21,95,8,21,NA,396,NA,545,8
+2010,South Dakota,Autism,639,21,61,NA,11,0,534,NA,639,0
+2010,South Dakota,Traumatic brain injury,59,NA,19,NA,0,0,36,NA,59,0
+2010,South Dakota,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2010,South Dakota,All disabilities,15288,606,2663,127,430,11,11291,160,15288,138
+2010,Tennessee,Mental retardation,7511,282,12,54,2952,7,4184,20,7511,61
+2010,Tennessee,Hearing impairments,1323,98,NA,28,377,NA,815,NA,1323,28
+2010,Tennessee,Speech or language impairments,25851,1216,64,287,5253,11,18866,154,25851,298
+2010,Tennessee,Visual impairments,669,30,0,NA,141,0,485,NA,669,0
+2010,Tennessee,Emotional disturbance,3378,61,NA,14,1162,0,2120,13,NA,14
+2010,Tennessee,Orthopedic impairments,710,29,NA,9,102,0,566,NA,710,9
+2010,Tennessee,Other health impairments,12593,246,NA,53,2653,NA,9524,81,12593,53
+2010,Tennessee,Specific learning disabilities,43426,1968,99,175,13051,NA,27945,180,NA,175
+2010,Tennessee,Deaf-blindness,9,0,0,0,NA,0,5,0,NA,0
+2010,Tennessee,Multiple disabilities,1999,76,NA,18,476,NA,1415,8,1999,18
+2010,Tennessee,Autism,5342,191,NA,84,950,NA,4077,25,5342,84
+2010,Tennessee,Traumatic brain injury,275,9,NA,NA,NA,0,199,NA,275,0
+2010,Tennessee,Developmental delay,4081,235,NA,58,1215,NA,2537,25,4081,58
+2010,Tennessee,All disabilities,107167,4441,246,793,28396,37,72738,516,107167,830
+2010,Texas,Mental retardation,31155,14974,134,588,7386,49,7699,325,31155,637
+2010,Texas,Hearing impairments,6257,3289,28,187,796,12,1870,75,6257,199
+2010,Texas,Speech or language impairments,61662,29119,284,1362,6905,67,22841,1084,61662,1429
+2010,Texas,Visual impairments,3044,1287,22,74,452,5,1156,48,3044,79
+2010,Texas,Emotional disturbance,27391,9130,166,154,5721,19,11647,554,27391,173
+2010,Texas,Orthopedic impairments,3625,1786,NA,90,455,NA,1218,55,3625,90
+2010,Texas,Other health impairments,51974,18984,269,505,8894,56,22295,971,51974,561
+2010,Texas,Specific learning disabilities,179420,95546,1041,1176,34114,155,45288,2100,179420,1331
+2010,Texas,Deaf-blindness,115,48,NA,NA,11,NA,50,NA,115,NA
+2010,Texas,Multiple disabilities,5125,2188,20,109,806,10,1929,63,5125,119
+2010,Texas,Autism,29478,10514,147,1376,3763,37,13030,611,29478,1413
+2010,Texas,Traumatic brain injury,1279,525,NA,NA,228,NA,485,NA,1279,NA
+2010,Texas,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Texas,All disabilities,400525,187390,2140,5635,69531,417,129508,5904,400525,6052
+2010,Utah,Mental retardation,3212,560,71,42,93,45,2377,24,3212,87
+2010,Utah,Hearing impairments,538,114,9,16,8,NA,380,NA,538,16
+2010,Utah,Speech or language impairments,13011,1725,188,191,169,153,10472,113,13011,344
+2010,Utah,Visual impairments,197,30,NA,7,NA,NA,151,NA,197,7
+2010,Utah,Emotional disturbance,2290,274,35,21,111,19,1807,23,2290,40
+2010,Utah,Orthopedic impairments,166,NA,NA,NA,NA,NA,138,NA,NA,NA
+2010,Utah,Other health impairments,4689,396,34,34,140,41,3996,48,4689,75
+2010,Utah,Specific learning disabilities,29740,6323,802,201,625,373,21191,225,29740,574
+2010,Utah,Deaf-blindness,28,NA,0,NA,NA,0,25,0,NA,0
+2010,Utah,Multiple disabilities,1615,244,31,26,38,NA,1257,NA,1615,26
+2010,Utah,Autism,3649,272,31,57,44,26,3194,25,3649,83
+2010,Utah,Traumatic brain injury,279,41,7,NA,NA,NA,216,NA,NA,NA
+2010,Utah,Developmental delay,1874,370,47,21,26,24,1374,12,1874,45
+2010,Utah,All disabilities,61288,10369,1257,622,1266,713,46578,483,61288,1335
+2010,Vermont,Mental retardation,823,NA,NA,5,28,NA,783,0,NA,5
+2010,Vermont,Hearing impairments,101,NA,0,0,NA,0,94,NA,NA,0
+2010,Vermont,Speech or language impairments,1399,NA,NA,13,34,0,1331,NA,1399,13
+2010,Vermont,Visual impairments,25,NA,0,0,NA,0,23,0,25,0
+2010,Vermont,Emotional disturbance,1871,15,9,NA,41,NA,1798,6,1871,NA
+2010,Vermont,Orthopedic impairments,49,NA,0,0,NA,0,47,0,NA,0
+2010,Vermont,Other health impairments,2009,19,NA,7,44,NA,1928,7,2009,7
+2010,Vermont,Specific learning disabilities,4048,NA,NA,12,57,NA,3930,9,NA,12
+2010,Vermont,Deaf-blindness,7,0,0,NA,NA,0,NA,0,7,0
+2010,Vermont,Multiple disabilities,171,5,0,NA,5,0,158,0,NA,0
+2010,Vermont,Autism,782,NA,NA,9,15,0,741,NA,782,9
+2010,Vermont,Traumatic brain injury,45,0,0,0,NA,0,NA,0,45,0
+2010,Vermont,Developmental delay,844,7,NA,7,11,0,812,NA,844,7
+2010,Vermont,All disabilities,12174,114,22,59,242,8,11693,36,12174,67
+2010,Virgin Islands,Mental retardation,207,NA,0,0,164,0,NA,0,207,0
+2010,Virgin Islands,Hearing impairments,13,NA,0,0,12,0,0,0,NA,0
+2010,Virgin Islands,Speech or language impairments,119,NA,0,0,NA,0,10,0,119,0
+2010,Virgin Islands,Visual impairments,12,NA,0,0,9,0,NA,0,NA,0
+2010,Virgin Islands,Emotional disturbance,53,NA,0,0,NA,0,NA,0,53,0
+2010,Virgin Islands,Orthopedic impairments,NA,0,0,0,NA,0,0,0,NA,0
+2010,Virgin Islands,Other health impairments,101,20,0,0,NA,0,NA,0,NA,0
+2010,Virgin Islands,Specific learning disabilities,NA,NA,0,NA,NA,NA,NA,0,NA,NA
+2010,Virgin Islands,Deaf-blindness,0,0,0,0,0,0,0,0,0,0
+2010,Virgin Islands,Multiple disabilities,36,NA,0,0,29,0,NA,0,36,0
+2010,Virgin Islands,Autism,NA,NA,0,0,47,0,NA,0,NA,0
+2010,Virgin Islands,Traumatic brain injury,NA,NA,0,NA,NA,0,0,0,NA,0
+2010,Virgin Islands,Developmental delay,39,NA,0,NA,31,0,NA,0,39,0
+2010,Virgin Islands,All disabilities,1263,NA,0,NA,956,NA,32,0,1263,NA
+2010,Virginia,Mental retardation,10197,939,30,355,4290,7,4358,218,10197,362
+2010,Virginia,Hearing impairments,1251,196,NA,82,291,NA,632,40,1251,82
+2010,Virginia,Speech or language impairments,21940,2487,82,859,5031,21,12572,888,21940,880
+2010,Virginia,Visual impairments,546,52,NA,33,127,0,321,NA,546,33
+2010,Virginia,Emotional disturbance,9563,749,37,119,3527,6,4770,355,9563,125
+2010,Virginia,Orthopedic impairments,786,87,NA,56,138,NA,478,24,786,56
+2010,Virginia,Other health impairments,28366,1860,133,387,8356,29,16547,1054,28366,416
+2010,Virginia,Specific learning disabilities,56913,8195,254,1378,18056,66,27177,1787,56913,1444
+2010,Virginia,Deaf-blindness,25,NA,0,NA,NA,0,13,NA,25,0
+2010,Virginia,Multiple disabilities,3136,235,7,92,919,6,1781,96,3136,98
+2010,Virginia,Autism,10722,938,43,681,2348,16,6256,440,10722,697
+2010,Virginia,Traumatic brain injury,374,NA,NA,NA,NA,NA,190,18,374,NA
+2010,Virginia,Developmental delay,1438,159,NA,87,441,NA,669,73,1438,87
+2010,Virginia,All disabilities,145257,15942,607,4143,43638,156,75764,5007,145257,4299
+2010,Washington,Mental retardation,4600,1020,208,184,408,38,2590,152,4600,222
+2010,Washington,Hearing impairments,1164,290,44,83,72,21,620,34,1164,104
+2010,Washington,Speech or language impairments,17146,3320,459,893,789,157,10746,782,17146,1050
+2010,Washington,Visual impairments,337,89,NA,NA,NA,NA,193,10,337,NA
+2010,Washington,Emotional disturbance,4693,537,178,84,603,62,2999,230,4693,146
+2010,Washington,Orthopedic impairments,491,76,11,27,28,6,331,12,491,33
+2010,Washington,Other health impairments,22356,2705,647,548,1632,364,15459,1001,22356,912
+2010,Washington,Specific learning disabilities,44772,11278,1699,1409,3555,NA,24499,1712,NA,1409
+2010,Washington,Deaf-blindness,24,NA,NA,0,NA,0,20,0,NA,0
+2010,Washington,Multiple disabilities,2619,380,78,110,178,29,1767,77,2619,139
+2010,Washington,Autism,7795,791,115,557,406,169,5438,319,7795,726
+2010,Washington,Traumatic brain injury,331,NA,19,NA,27,NA,183,16,331,NA
+2010,Washington,Developmental delay,7375,1696,249,289,520,87,4164,370,7375,376
+2010,Washington,All disabilities,113703,22256,3718,4211,8235,1559,69009,4715,113703,5770
+2010,West Virginia,Mental retardation,7076,54,NA,14,406,NA,6564,27,7076,14
+2010,West Virginia,Hearing impairments,404,NA,0,NA,25,0,373,0,404,0
+2010,West Virginia,Speech or language impairments,11401,122,NA,60,399,NA,10720,89,11401,60
+2010,West Virginia,Visual impairments,252,NA,NA,0,11,0,236,NA,252,0
+2010,West Virginia,Emotional disturbance,1581,13,NA,NA,141,0,1402,17,1581,0
+2010,West Virginia,Orthopedic impairments,133,NA,0,NA,7,0,122,0,133,0
+2010,West Virginia,Other health impairments,4973,32,12,9,272,0,4614,34,4973,9
+2010,West Virginia,Specific learning disabilities,12145,122,21,23,703,NA,11220,55,NA,23
+2010,West Virginia,Deaf-blindness,9,0,0,0,0,0,NA,0,NA,0
+2010,West Virginia,Multiple disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2010,West Virginia,Autism,1313,12,NA,10,61,0,1220,NA,1313,10
+2010,West Virginia,Traumatic brain injury,113,NA,0,0,18,0,NA,0,NA,0
+2010,West Virginia,Developmental delay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2010,West Virginia,All disabilities,39400,364,NA,124,2043,NA,36573,234,39400,124
+2010,Wisconsin,Mental retardation,9208,859,161,248,2010,NA,5838,NA,9208,248
+2010,Wisconsin,Hearing impairments,1489,166,20,101,131,0,1046,25,1489,101
+2010,Wisconsin,Speech or language impairments,21714,2264,404,725,1853,12,16115,341,21714,737
+2010,Wisconsin,Visual impairments,418,33,NA,15,26,0,338,NA,418,15
+2010,Wisconsin,Emotional disturbance,13079,730,544,NA,2460,NA,8905,362,13079,NA
+2010,Wisconsin,Orthopedic impairments,868,76,13,32,105,0,633,9,868,32
+2010,Wisconsin,Other health impairments,17539,1492,273,177,4877,7,10453,260,17539,184
+2010,Wisconsin,Specific learning disabilities,36333,3853,780,864,5245,18,25106,467,36333,882
+2010,Wisconsin,Deaf-blindness,NA,NA,0,0,0,0,NA,0,NA,0
+2010,Wisconsin,Multiple disabilities,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+2010,Wisconsin,Autism,7542,438,112,201,503,5,6197,86,7542,206
+2010,Wisconsin,Traumatic brain injury,393,39,NA,NA,78,0,246,13,393,0
+2010,Wisconsin,Developmental delay,NA,NA,NA,NA,6,0,NA,0,NA,0
+2010,Wisconsin,All disabilities,108643,9960,2318,2446,17294,50,74918,1657,108643,2496
+2010,Wyoming,Mental retardation,539,65,26,NA,NA,0,431,10,539,0
+2010,Wyoming,Hearing impairments,158,22,NA,NA,NA,0,126,5,158,0
+2010,Wyoming,Speech or language impairments,3239,439,119,21,33,5,2580,42,3239,26
+2010,Wyoming,Visual impairments,NA,5,NA,0,NA,0,43,0,NA,0
+2010,Wyoming,Emotional disturbance,753,77,30,NA,22,NA,617,5,753,NA
+2010,Wyoming,Orthopedic impairments,79,12,NA,NA,0,0,63,NA,79,0
+2010,Wyoming,Other health impairments,1813,169,62,NA,36,NA,1508,30,1813,NA
+2010,Wyoming,Specific learning disabilities,4285,620,201,NA,68,NA,3342,41,4285,NA
+2010,Wyoming,Deaf-blindness,NA,0,NA,0,0,0,0,0,NA,0
+2010,Wyoming,Multiple disabilities,163,17,9,NA,5,0,130,NA,163,0
+2010,Wyoming,Autism,555,37,12,NA,5,NA,487,8,555,NA
+2010,Wyoming,Traumatic brain injury,69,5,6,NA,0,0,56,NA,69,0
+2010,Wyoming,Developmental delay,243,28,10,0,NA,0,199,NA,243,0
+2010,Wyoming,All disabilities,11950,1496,484,49,181,12,9582,146,11950,61

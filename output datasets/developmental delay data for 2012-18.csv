@@ -62,24 +62,24 @@ year,state,disability,total_6to21
 2012,WYOMING,Developmental delay (valid only for children ages 3-9 when defined by state),234
 2013,ALABAMA,Developmental delay (valid only for children ages 3-9 when defined by state),2914
 2013,ALASKA,Developmental delay (valid only for children ages 3-9 when defined by state),1038
-2013,AMERICAN SAMOA,Developmental delay (valid only for children ages 3-9 when defined by state),*
+2013,AMERICAN SAMOA,Developmental delay (valid only for children ages 3-9 when defined by state),NA
 2013,ARIZONA,Developmental delay (valid only for children ages 3-9 when defined by state),4653
-2013,ARKANSAS,Developmental delay (valid only for children ages 3-9 when defined by state),-
-2013,BUREAU OF INDIAN EDUCATION,Developmental delay (valid only for children ages 3-9 when defined by state),-
-2013,CALIFORNIA,Developmental delay (valid only for children ages 3-9 when defined by state),-
+2013,ARKANSAS,Developmental delay (valid only for children ages 3-9 when defined by state),NA
+2013,BUREAU OF INDIAN EDUCATION,Developmental delay (valid only for children ages 3-9 when defined by state),NA
+2013,CALIFORNIA,Developmental delay (valid only for children ages 3-9 when defined by state),NA
 2013,COLORADO,Developmental delay (valid only for children ages 3-9 when defined by state),361
-2013,CONNECTICUT,Developmental delay (valid only for children ages 3-9 when defined by state),-
+2013,CONNECTICUT,Developmental delay (valid only for children ages 3-9 when defined by state),NA
 2013,DELAWARE,Developmental delay (valid only for children ages 3-9 when defined by state),870
 2013,DISTRICT OF COLUMBIA,Developmental delay (valid only for children ages 3-9 when defined by state),450
-2013,FEDERATED STATES OF MICRONESIA,Developmental delay (valid only for children ages 3-9 when defined by state),*
-2013,FLORIDA,Developmental delay (valid only for children ages 3-9 when defined by state),-
+2013,FEDERATED STATES OF MICRONESIA,Developmental delay (valid only for children ages 3-9 when defined by state),NA
+2013,FLORIDA,Developmental delay (valid only for children ages 3-9 when defined by state),NA
 2013,GEORGIA,Developmental delay (valid only for children ages 3-9 when defined by state),12638
-2013,GUAM,Developmental delay (valid only for children ages 3-9 when defined by state),-
+2013,GUAM,Developmental delay (valid only for children ages 3-9 when defined by state),NA
 2013,HAWAII,Developmental delay (valid only for children ages 3-9 when defined by state),1053
 2013,IDAHO,Developmental delay (valid only for children ages 3-9 when defined by state),1669
 2013,ILLINOIS,Developmental delay (valid only for children ages 3-9 when defined by state),15672
-2013,INDIANA,Developmental delay (valid only for children ages 3-9 when defined by state),-
-2013,IOWA,Developmental delay (valid only for children ages 3-9 when defined by state),-
+2013,INDIANA,Developmental delay (valid only for children ages 3-9 when defined by state),NA
+2013,IOWA,Developmental delay (valid only for children ages 3-9 when defined by state),NA
 2013,KANSAS,Developmental delay (valid only for children ages 3-9 when defined by state),4904
 2013,KENTUCKY,Developmental delay (valid only for children ages 3-9 when defined by state),6175
 2013,LOUISIANA,Developmental delay (valid only for children ages 3-9 when defined by state),6313
@@ -90,40 +90,40 @@ year,state,disability,total_6to21
 2013,MINNESOTA,Developmental delay (valid only for children ages 3-9 when defined by state),2548
 2013,MISSISSIPPI,Developmental delay (valid only for children ages 3-9 when defined by state),4827
 2013,MISSOURI,Developmental delay (valid only for children ages 3-9 when defined by state),757
-2013,MONTANA,Developmental delay (valid only for children ages 3-9 when defined by state),-
+2013,MONTANA,Developmental delay (valid only for children ages 3-9 when defined by state),NA
 2013,NEBRASKA,Developmental delay (valid only for children ages 3-9 when defined by state),1587
-2013,NEVADA,Developmental delay (valid only for children ages 3-9 when defined by state),-
+2013,NEVADA,Developmental delay (valid only for children ages 3-9 when defined by state),NA
 2013,NEW HAMPSHIRE,Developmental delay (valid only for children ages 3-9 when defined by state),1679
-2013,NEW JERSEY,Developmental delay (valid only for children ages 3-9 when defined by state),-
+2013,NEW JERSEY,Developmental delay (valid only for children ages 3-9 when defined by state),NA
 2013,NEW MEXICO,Developmental delay (valid only for children ages 3-9 when defined by state),2734
-2013,NEW YORK,Developmental delay (valid only for children ages 3-9 when defined by state),-
+2013,NEW YORK,Developmental delay (valid only for children ages 3-9 when defined by state),NA
 2013,NORTH CAROLINA,Developmental delay (valid only for children ages 3-9 when defined by state),6552
 2013,NORTH DAKOTA,Developmental delay (valid only for children ages 3-9 when defined by state),829
 2013,NORTHERN MARIANAS,Developmental delay (valid only for children ages 3-9 when defined by state),64
-2013,OHIO,Developmental delay (valid only for children ages 3-9 when defined by state),-
+2013,OHIO,Developmental delay (valid only for children ages 3-9 when defined by state),NA
 2013,OKLAHOMA,Developmental delay (valid only for children ages 3-9 when defined by state),15222
-2013,OREGON,Developmental delay (valid only for children ages 3-9 when defined by state),-
+2013,OREGON,Developmental delay (valid only for children ages 3-9 when defined by state),NA
 2013,PENNSYLVANIA,Developmental delay (valid only for children ages 3-9 when defined by state),86
-2013,PUERTO RICO,Developmental delay (valid only for children ages 3-9 when defined by state),-
-2013,REPUBLIC OF PALAU,Developmental delay (valid only for children ages 3-9 when defined by state),-
+2013,PUERTO RICO,Developmental delay (valid only for children ages 3-9 when defined by state),NA
+2013,REPUBLIC OF PALAU,Developmental delay (valid only for children ages 3-9 when defined by state),NA
 2013,REPUBLIC OF THE MARSHALL ISLANDS,Developmental delay (valid only for children ages 3-9 when defined by state),6
 2013,RHODE ISLAND,Developmental delay (valid only for children ages 3-9 when defined by state),1129
 2013,SOUTH CAROLINA,Developmental delay (valid only for children ages 3-9 when defined by state),4124
-2013,SOUTH DAKOTA,Developmental delay (valid only for children ages 3-9 when defined by state),-
+2013,SOUTH DAKOTA,Developmental delay (valid only for children ages 3-9 when defined by state),NA
 2013,TENNESSEE,Developmental delay (valid only for children ages 3-9 when defined by state),5080
-2013,TEXAS,Developmental delay (valid only for children ages 3-9 when defined by state),-
+2013,TEXAS,Developmental delay (valid only for children ages 3-9 when defined by state),NA
 2013,"US, OUTLYING AREAS, AND FREELY ASSOCIATED STATES",Developmental delay (valid only for children ages 3-9 when defined by state),133816
 2013,UTAH,Developmental delay (valid only for children ages 3-9 when defined by state),1811
 2013,VERMONT,Developmental delay (valid only for children ages 3-9 when defined by state),892
 2013,VIRGIN ISLANDS,Developmental delay (valid only for children ages 3-9 when defined by state),47
 2013,VIRGINIA,Developmental delay (valid only for children ages 3-9 when defined by state),2083
 2013,WASHINGTON,Developmental delay (valid only for children ages 3-9 when defined by state),7807
-2013,WEST VIRGINIA,Developmental delay (valid only for children ages 3-9 when defined by state),-
+2013,WEST VIRGINIA,Developmental delay (valid only for children ages 3-9 when defined by state),NA
 2013,WISCONSIN,Developmental delay (valid only for children ages 3-9 when defined by state),74
 2013,WYOMING,Developmental delay (valid only for children ages 3-9 when defined by state),254
 2014,Alabama,Developmental delay,3012
 2014,Alaska,Developmental delay,1130
-2014,American Samoa,Developmental delay,-
+2014,American Samoa,Developmental delay,NA
 2014,Arizona,Developmental delay,5129
 2014,Arkansas,Developmental delay,0
 2014,Bureau Of Indian Education,Developmental delay,356
@@ -181,27 +181,27 @@ year,state,disability,total_6to21
 2014,Washington,Developmental delay,8010
 2014,West Virginia,Developmental delay,0
 2014,Wisconsin,Developmental delay,103
-2014,Wyoming,Developmental delay,-
+2014,Wyoming,Developmental delay,NA
 2015,Alabama,Developmental delay,3080
 2015,Alaska,Developmental delay,1114
-2015,American Samoa,Developmental delay,-
+2015,American Samoa,Developmental delay,NA
 2015,Arizona,Developmental delay,5356
-2015,Arkansas,Developmental delay,-
+2015,Arkansas,Developmental delay,NA
 2015,Bureau Of Indian Education,Developmental delay,391
-2015,California,Developmental delay,-
+2015,California,Developmental delay,NA
 2015,Colorado,Developmental delay,2463
-2015,Connecticut,Developmental delay,-
+2015,Connecticut,Developmental delay,NA
 2015,Delaware,Developmental delay,1066
 2015,District Of Columbia,Developmental delay,493
 2015,Federated States Of Micronesia,Developmental delay,98
-2015,Florida,Developmental delay,-
+2015,Florida,Developmental delay,NA
 2015,Georgia,Developmental delay,14271
-2015,Guam,Developmental delay,-
+2015,Guam,Developmental delay,NA
 2015,Hawaii,Developmental delay,991
 2015,Idaho,Developmental delay,1816
 2015,Illinois,Developmental delay,18301
-2015,Indiana,Developmental delay,-
-2015,Iowa,Developmental delay,-
+2015,Indiana,Developmental delay,NA
+2015,Iowa,Developmental delay,NA
 2015,Kansas,Developmental delay,5902
 2015,Kentucky,Developmental delay,6654
 2015,Louisiana,Developmental delay,7222
@@ -212,57 +212,57 @@ year,state,disability,total_6to21
 2015,Minnesota,Developmental delay,2745
 2015,Mississippi,Developmental delay,5089
 2015,Missouri,Developmental delay,865
-2015,Montana,Developmental delay,-
+2015,Montana,Developmental delay,NA
 2015,Nebraska,Developmental delay,1548
-2015,Nevada,Developmental delay,-
+2015,Nevada,Developmental delay,NA
 2015,New Hampshire,Developmental delay,1860
-2015,New Jersey,Developmental delay,-
+2015,New Jersey,Developmental delay,NA
 2015,New Mexico,Developmental delay,3002
-2015,New York,Developmental delay,-
+2015,New York,Developmental delay,NA
 2015,North Carolina,Developmental delay,6742
 2015,North Dakota,Developmental delay,1039
 2015,Northern Marianas,Developmental delay,55
-2015,Ohio,Developmental delay,-
+2015,Ohio,Developmental delay,NA
 2015,Oklahoma,Developmental delay,15280
-2015,Oregon,Developmental delay,-
+2015,Oregon,Developmental delay,NA
 2015,Pennsylvania,Developmental delay,143
-2015,Puerto Rico,Developmental delay,-
-2015,Republic Of Palau,Developmental delay,-
+2015,Puerto Rico,Developmental delay,NA
+2015,Republic Of Palau,Developmental delay,NA
 2015,Republic Of The Marshall Islands,Developmental delay,29
 2015,Rhode Island,Developmental delay,1256
 2015,South Carolina,Developmental delay,4379
-2015,South Dakota,Developmental delay,-
+2015,South Dakota,Developmental delay,NA
 2015,Tennessee,Developmental delay,5681
-2015,Texas,Developmental delay,-
+2015,Texas,Developmental delay,NA
 2015,"US, Outlying Areas, And Freely Associated States",Developmental delay,149306
 2015,Utah,Developmental delay,2151
 2015,Vermont,Developmental delay,951
 2015,Virgin Islands,Developmental delay,64
 2015,Virginia,Developmental delay,2334
 2015,Washington,Developmental delay,8165
-2015,West Virginia,Developmental delay,-
+2015,West Virginia,Developmental delay,NA
 2015,Wisconsin,Developmental delay,449
 2015,Wyoming,Developmental delay,247
 2016,Alabama,Developmental delay,3238
 2016,Alaska,Developmental delay,1188
-2016,American Samoa,Developmental delay,-
+2016,American Samoa,Developmental delay,NA
 2016,Arizona,Developmental delay,5898
-2016,Arkansas,Developmental delay,-
+2016,Arkansas,Developmental delay,NA
 2016,Bureau of Indian Education,Developmental delay,409
-2016,California,Developmental delay,-
+2016,California,Developmental delay,NA
 2016,Colorado,Developmental delay,3336
-2016,Connecticut,Developmental delay,-
+2016,Connecticut,Developmental delay,NA
 2016,Delaware,Developmental delay,1081
 2016,District of Columbia,Developmental delay,434
 2016,Federated States of Micronesia,Developmental delay,94
-2016,Florida,Developmental delay,-
+2016,Florida,Developmental delay,NA
 2016,Georgia,Developmental delay,14520
-2016,Guam,Developmental delay,-
+2016,Guam,Developmental delay,NA
 2016,Hawaii,Developmental delay,971
 2016,Idaho,Developmental delay,1841
 2016,Illinois,Developmental delay,19138
-2016,Indiana,Developmental delay,-
-2016,Iowa,Developmental delay,-
+2016,Indiana,Developmental delay,NA
+2016,Iowa,Developmental delay,NA
 2016,Kansas,Developmental delay,6502
 2016,Kentucky,Developmental delay,6761
 2016,Louisiana,Developmental delay,7130
@@ -273,118 +273,118 @@ year,state,disability,total_6to21
 2016,Minnesota,Developmental delay,2918
 2016,Mississippi,Developmental delay,4692
 2016,Missouri,Developmental delay,842
-2016,Montana,Developmental delay,-
+2016,Montana,Developmental delay,NA
 2016,Nebraska,Developmental delay,1831
-2016,Nevada,Developmental delay,-
+2016,Nevada,Developmental delay,NA
 2016,New Hampshire,Developmental delay,1956
-2016,New Jersey,Developmental delay,-
+2016,New Jersey,Developmental delay,NA
 2016,New Mexico,Developmental delay,3092
-2016,New York,Developmental delay,-
+2016,New York,Developmental delay,NA
 2016,North Carolina,Developmental delay,6857
 2016,North Dakota,Developmental delay,1075
 2016,Northern Marianas,Developmental delay,69
-2016,Ohio,Developmental delay,-
+2016,Ohio,Developmental delay,NA
 2016,Oklahoma,Developmental delay,15420
-2016,Oregon,Developmental delay,-
+2016,Oregon,Developmental delay,NA
 2016,Pennsylvania,Developmental delay,85
-2016,Puerto Rico,Developmental delay,-
-2016,Republic of Palau,Developmental delay,-
+2016,Puerto Rico,Developmental delay,NA
+2016,Republic of Palau,Developmental delay,NA
 2016,Republic of the Marshall Islands,Developmental delay,27
 2016,Rhode Island,Developmental delay,1287
 2016,South Carolina,Developmental delay,4577
-2016,South Dakota,Developmental delay,-
+2016,South Dakota,Developmental delay,NA
 2016,Tennessee,Developmental delay,5996
-2016,Texas,Developmental delay,-
+2016,Texas,Developmental delay,NA
 2016,Utah,Developmental delay,2161
 2016,Vermont,Developmental delay,1041
 2016,Virgin Islands,Developmental delay,44
 2016,Virginia,Developmental delay,2423
 2016,Washington,Developmental delay,8196
-2016,West Virginia,Developmental delay,-
-2016,Wisconsin,Developmental delay,*
+2016,West Virginia,Developmental delay,NA
+2016,Wisconsin,Developmental delay,NA
 2016,Wyoming,Developmental delay,225
 2016,"US, Outlying Areas, and Freely Associated States",Developmental delay,154034
 2017,Alabama,Developmental delay,3316
 2017,Alaska,Developmental delay,1208
 2017,American Samoa,Developmental delay,1
 2017,Arizona,Developmental delay,6447
-2017,Arkansas,Developmental delay,-
+2017,Arkansas,Developmental delay,NA
 2017,Bureau of Indian Education,Developmental delay,405
-2017,California,Developmental delay,-
+2017,California,Developmental delay,NA
 2017,Colorado,Developmental delay,3898
-2017,Connecticut,Developmental delay,-
+2017,Connecticut,Developmental delay,NA
 2017,Delaware,Developmental delay,1238
 2017,District of Columbia,Developmental delay,485
 2017,Federated States of Micronesia,Developmental delay,96
-2017,Florida,Developmental delay,-
+2017,Florida,Developmental delay,NA
 2017,Georgia,Developmental delay,14797
-2017,Guam,Developmental delay,-
+2017,Guam,Developmental delay,NA
 2017,Hawaii,Developmental delay,1034
 2017,Idaho,Developmental delay,1998
 2017,Illinois,Developmental delay,20293
-2017,Indiana,Developmental delay,-
-2017,Iowa,Developmental delay,-
+2017,Indiana,Developmental delay,NA
+2017,Iowa,Developmental delay,NA
 2017,Kansas,Developmental delay,6888
 2017,Kentucky,Developmental delay,7027
 2017,Louisiana,Developmental delay,7241
-2017,Maine,Developmental delay,*
+2017,Maine,Developmental delay,NA
 2017,Maryland,Developmental delay,3274
 2017,Massachusetts,Developmental delay,12115
 2017,Michigan,Developmental delay,2138
 2017,Minnesota,Developmental delay,3104
 2017,Mississippi,Developmental delay,4409
 2017,Missouri,Developmental delay,1002
-2017,Montana,Developmental delay,-
+2017,Montana,Developmental delay,NA
 2017,Nebraska,Developmental delay,2036
-2017,Nevada,Developmental delay,-
+2017,Nevada,Developmental delay,NA
 2017,New Hampshire,Developmental delay,2186
-2017,New Jersey,Developmental delay,-
+2017,New Jersey,Developmental delay,NA
 2017,New Mexico,Developmental delay,3180
-2017,New York,Developmental delay,-
+2017,New York,Developmental delay,NA
 2017,North Carolina,Developmental delay,6835
 2017,North Dakota,Developmental delay,1133
 2017,Northern Marianas,Developmental delay,71
-2017,Ohio,Developmental delay,-
+2017,Ohio,Developmental delay,NA
 2017,Oklahoma,Developmental delay,15516
-2017,Oregon,Developmental delay,-
+2017,Oregon,Developmental delay,NA
 2017,Pennsylvania,Developmental delay,45
-2017,Puerto Rico,Developmental delay,-
-2017,Republic of Palau,Developmental delay,-
+2017,Puerto Rico,Developmental delay,NA
+2017,Republic of Palau,Developmental delay,NA
 2017,Republic of the Marshall Islands,Developmental delay,31
 2017,Rhode Island,Developmental delay,1349
 2017,South Carolina,Developmental delay,4780
 2017,South Dakota,Developmental delay,1
 2017,Tennessee,Developmental delay,6436
-2017,Texas,Developmental delay,-
+2017,Texas,Developmental delay,NA
 2017,Utah,Developmental delay,2259
-2017,Vermont,Developmental delay,*
+2017,Vermont,Developmental delay,NA
 2017,Virgin Islands,Developmental delay,44
 2017,Virginia,Developmental delay,2627
 2017,Washington,Developmental delay,8370
-2017,West Virginia,Developmental delay,-
-2017,Wisconsin,Developmental delay,*
+2017,West Virginia,Developmental delay,NA
+2017,Wisconsin,Developmental delay,NA
 2017,Wyoming,Developmental delay,218
 2017,"US, Outlying Areas, and Freely Associated States",Developmental delay,159531
 2018,Alabama,Developmental delay,3419
 2018,Alaska,Developmental delay,1251
 2018,American Samoa,Developmental delay,0
 2018,Arizona,Developmental delay,6928
-2018,Arkansas,Developmental delay,-
+2018,Arkansas,Developmental delay,NA
 2018,Bureau of Indian Education,Developmental delay,451
-2018,California,Developmental delay,-
+2018,California,Developmental delay,NA
 2018,Colorado,Developmental delay,4365
-2018,Connecticut,Developmental delay,-
+2018,Connecticut,Developmental delay,NA
 2018,Delaware,Developmental delay,1278
 2018,District of Columbia,Developmental delay,527
 2018,Federated States of Micronesia,Developmental delay,96
-2018,Florida,Developmental delay,-
+2018,Florida,Developmental delay,NA
 2018,Georgia,Developmental delay,15242
-2018,Guam,Developmental delay,-
+2018,Guam,Developmental delay,NA
 2018,Hawaii,Developmental delay,1092
 2018,Idaho,Developmental delay,1990
 2018,Illinois,Developmental delay,21152
 2018,Indiana,Developmental delay,892
-2018,Iowa,Developmental delay,-
+2018,Iowa,Developmental delay,NA
 2018,Kansas,Developmental delay,7308
 2018,Kentucky,Developmental delay,7192
 2018,Louisiana,Developmental delay,7571
@@ -395,34 +395,34 @@ year,state,disability,total_6to21
 2018,Minnesota,Developmental delay,3444
 2018,Mississippi,Developmental delay,4243
 2018,Missouri,Developmental delay,1022
-2018,Montana,Developmental delay,-
+2018,Montana,Developmental delay,NA
 2018,Nebraska,Developmental delay,2189
-2018,Nevada,Developmental delay,-
+2018,Nevada,Developmental delay,NA
 2018,New Hampshire,Developmental delay,2407
-2018,New Jersey,Developmental delay,-
+2018,New Jersey,Developmental delay,NA
 2018,New Mexico,Developmental delay,2557
-2018,New York,Developmental delay,-
+2018,New York,Developmental delay,NA
 2018,North Carolina,Developmental delay,6991
 2018,North Dakota,Developmental delay,1306
 2018,Northern Marianas,Developmental delay,77
-2018,Ohio,Developmental delay,-
+2018,Ohio,Developmental delay,NA
 2018,Oklahoma,Developmental delay,16229
-2018,Oregon,Developmental delay,-
+2018,Oregon,Developmental delay,NA
 2018,Pennsylvania,Developmental delay,76
-2018,Puerto Rico,Developmental delay,-
-2018,Republic of Palau,Developmental delay,-
+2018,Puerto Rico,Developmental delay,NA
+2018,Republic of Palau,Developmental delay,NA
 2018,Republic of the Marshall Islands,Developmental delay,28
 2018,Rhode Island,Developmental delay,1400
 2018,South Carolina,Developmental delay,4982
 2018,South Dakota,Developmental delay,1
 2018,Tennessee,Developmental delay,6810
-2018,Texas,Developmental delay,-
+2018,Texas,Developmental delay,NA
 2018,Utah,Developmental delay,2156
 2018,Vermont,Developmental delay,1020
 2018,Virgin Islands,Developmental delay,47
 2018,Virginia,Developmental delay,2825
 2018,Washington,Developmental delay,8431
-2018,West Virginia,Developmental delay,-
-2018,Wisconsin,Developmental delay,*
+2018,West Virginia,Developmental delay,NA
+2018,Wisconsin,Developmental delay,NA
 2018,Wyoming,Developmental delay,244
 2018,"US, Outlying Areas, and Freely Associated States",Developmental delay,167704

@@ -1,4 +1,4 @@
-year,state,disability,total_6to21,aian5,api5,black5,hisp5,white5,total_ethnicity5
+year,state,disability,total_6to21,aian,api,black,hisp,white,total_ethnicity
 2005,"50 states, D.C. (including BIE schools)",Mental retardation,533426,6709,10887,179564,70170,266096,533426
 2005,"50 states, D.C. (including BIE schools)",Hearing impairments,71484,930,3519,11669,15651,39715,71484
 2005,"50 states, D.C. (including BIE schools)",Speech or language impairments,1143195,15240,35071,177168,193188,722528,1143195
