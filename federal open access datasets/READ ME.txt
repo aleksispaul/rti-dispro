@@ -1,5 +1,0 @@
-Data Pull
-https://www2.ed.gov/programs/osepidea/618-data/state-level-data-files/index.html
-
-2020-07-26
-Checked annual reports to congress. They appear to be based on the CSV files and do not provide additional information specific to disability identification in 6-21 by race/ethnicity and disability category.
