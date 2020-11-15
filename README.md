@@ -1,0 +1,2 @@
+# rti-dispro project
+This is a repo for a collaborative analysis of the impact that RTI to SLD legislation has had on disproportionate placement of SOC in special education. With the exception of Wisconsin data requested from the Wisconsin Department of Public Instruction (DPI), data were pulled from the U.S. Department of Education section 618 reporting on the Dept of Ed. website in August, 2020.
