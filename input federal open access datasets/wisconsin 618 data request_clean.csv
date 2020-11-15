@@ -1,0 +1,37 @@
+year,state,disability,aian,api,black,hisp,white,total_ethnicity,tworace,el_yes,el_no
+2016,Wisconsin,Autism,164,357,790,"1,050","8,041",10751,349,NA,NA
+2016,Wisconsin,Deaf-Blind,0,0,1,1,3,5,0,NA,NA
+2016,Wisconsin,Significant Developmental Delay,59,62,407,418,"1,318",2371,107,NA,NA
+2016,Wisconsin,Emotional Behavioral Disability,322,88,"2,092",975,"7,654",11897,766,NA,NA
+2016,Wisconsin,Hearing Impairment,24,94,96,212,"1,010",1489,53,NA,NA
+2016,Wisconsin,Intellectual Disability,118,256,"1,644",891,"4,338",7434,187,NA,NA
+2016,Wisconsin,Other Health Impairment,322,266,"4,761","2,663","12,287",21070,771,NA,NA
+2016,Wisconsin,Orthopedic Impairment,18,32,92,75,511,747,19,NA,NA
+2016,Wisconsin,Specific Learning Disability,577,726,"3,645","4,121","17,618",27562,875,NA,NA
+2016,Wisconsin,Speech Language Impairment,294,723,"1,435","2,540","13,674",19374,708,NA,NA
+2016,Wisconsin,Traumatic Brain Injury,7,5,61,41,182,309,13,NA,NA
+2016,Wisconsin,Visual Impairment,4,20,40,56,347,483,16,NA,NA
+2017,Wisconsin,Autism,167,368,861,"1,166","8,303",11277,412,NA,NA
+2017,Wisconsin,Deaf-Blind,0,0,0,1,2,3,0,NA,NA
+2017,Wisconsin,Significant Developmental Delay,104,127,707,685,"2,369",4229,237,NA,NA
+2017,Wisconsin,Emotional Behavioral Disability,309,81,"2,175","1,041","7,597",12090,887,NA,NA
+2017,Wisconsin,Hearing Impairment,24,99,107,223,995,1506,58,NA,NA
+2017,Wisconsin,Intellectual Disability,104,266,"1,560",871,"4,100",7102,201,NA,NA
+2017,Wisconsin,Other Health Impairment,315,277,"4,721","2,809","12,663",21720,935,NA,NA
+2017,Wisconsin,Orthopedic Impairment,14,32,84,73,489,710,18,NA,NA
+2017,Wisconsin,Specific Learning Disability,549,718,"3,535","4,166","16,930",26835,937,NA,NA
+2017,Wisconsin,Speech Language Impairment,275,730,"1,346","2,543","13,472",19088,722,NA,NA
+2017,Wisconsin,Traumatic Brain Injury,10,10,59,41,171,305,14,NA,NA
+2017,Wisconsin,Visual Impairment,5,19,35,44,312,430,15,NA,NA
+2018,Wisconsin,Autism,185,420,931,"1,293","8,490",11802,483,NA,NA
+2018,Wisconsin,Deaf-Blind,0,0,0,1,5,6,0,NA,NA
+2018,Wisconsin,Significant Developmental Delay,127,188,890,912,"3,136",5575,322,NA,NA
+2018,Wisconsin,Emotional Behavioral Disability,281,86,"2,134","1,079","7,512",12048,956,NA,NA
+2018,Wisconsin,Hearing Impairment,22,97,111,221,"1,005",1509,53,NA,NA
+2018,Wisconsin,Intellectual Disability,96,261,"1,533",916,"3,838",6864,220,NA,NA
+2018,Wisconsin,Other Health Impairment,339,305,"4,760","3,012","12,980",22441,"1,045",NA,NA
+2018,Wisconsin,Orthopedic Impairment,16,26,83,71,472,683,15,NA,NA
+2018,Wisconsin,Specific Learning Disability,514,706,"3,386","4,338","16,386",26383,"1,053",NA,NA
+2018,Wisconsin,Speech Language Impairment,278,788,"1,300","2,576","13,202",18913,769,NA,NA
+2018,Wisconsin,Traumatic Brain Injury,11,8,57,44,165,302,17,NA,NA
+2018,Wisconsin,Visual Impairment,5,14,39,39,308,421,16,NA,NA
