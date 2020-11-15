@@ -1,4 +1,5 @@
 year,state,disability,aian,api,black,hisp,white,total_ethnicity,tworace,el_yes,el_no
+2016,Wisconsin,All Disabilities,1909,2629,15064,13043,66983,103492,3864,NA,NA
 2016,Wisconsin,Autism,164,357,790,"1,050","8,041",10751,349,NA,NA
 2016,Wisconsin,Deaf-Blind,0,0,1,1,3,5,0,NA,NA
 2016,Wisconsin,Significant Developmental Delay,59,62,407,418,"1,318",2371,107,NA,NA
@@ -11,6 +12,7 @@ year,state,disability,aian,api,black,hisp,white,total_ethnicity,tworace,el_yes,e
 2016,Wisconsin,Speech Language Impairment,294,723,"1,435","2,540","13,674",19374,708,NA,NA
 2016,Wisconsin,Traumatic Brain Injury,7,5,61,41,182,309,13,NA,NA
 2016,Wisconsin,Visual Impairment,4,20,40,56,347,483,16,NA,NA
+2017,Wisconsin,All Disabilities,1876,2727,15190,13663,67403,105295,4436,NA,NA
 2017,Wisconsin,Autism,167,368,861,"1,166","8,303",11277,412,NA,NA
 2017,Wisconsin,Deaf-Blind,0,0,0,1,2,3,0,NA,NA
 2017,Wisconsin,Significant Developmental Delay,104,127,707,685,"2,369",4229,237,NA,NA
@@ -23,6 +25,7 @@ year,state,disability,aian,api,black,hisp,white,total_ethnicity,tworace,el_yes,e
 2017,Wisconsin,Speech Language Impairment,275,730,"1,346","2,543","13,472",19088,722,NA,NA
 2017,Wisconsin,Traumatic Brain Injury,10,10,59,41,171,305,14,NA,NA
 2017,Wisconsin,Visual Impairment,5,19,35,44,312,430,15,NA,NA
+2018,Wisconsin,All Disabilities,1874,2899,15224,14502,67499,106947,4949,NA,NA
 2018,Wisconsin,Autism,185,420,931,"1,293","8,490",11802,483,NA,NA
 2018,Wisconsin,Deaf-Blind,0,0,0,1,5,6,0,NA,NA
 2018,Wisconsin,Significant Developmental Delay,127,188,890,912,"3,136",5575,322,NA,NA
