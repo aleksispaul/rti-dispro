@@ -121,6 +121,8 @@ data09c <- data09 %>%
    pop09 = sum(POPESTIMATE2009)
   )
 
-pop_data <- full_join(data09c, data18c, by = c("STATE", "race_eth"))
+pop_data <- full_join(data09c, data18c, by = c("STATE", "race_eth")) %>%
+  relocate(NAME, .after = STATE)
+
 
 
